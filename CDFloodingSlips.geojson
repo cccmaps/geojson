@@ -4,17 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Flooding",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -124,39 +127,6 @@
           [
             172.72655730000002,
             -43.49518
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6503557,
-            -43.5265687
-          ],
-          [
-            172.6505703,
-            -43.5259075
-          ],
-          [
-            172.6510638,
-            -43.5252773
           ]
         ]
       }
@@ -593,17 +563,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Flooding",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1708,62 +1681,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Flooding",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6368213,
-            -43.5611597
-          ],
-          [
-            172.6362848,
-            -43.5614474
-          ],
-          [
-            172.6355875,
-            -43.56152509999998
-          ],
-          [
-            172.6348901,
-            -43.5618517
-          ],
-          [
-            172.634064,
-            -43.5624114
-          ],
-          [
-            172.6339781,
-            -43.56258239999999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1787,43 +1718,6 @@
           [
             172.6022744,
             -43.5663373
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6367998,
-            -43.5617195
-          ],
-          [
-            172.6364565,
-            -43.5617972
-          ],
-          [
-            172.635802,
-            -43.5617195
-          ],
-          [
-            172.635169,
-            -43.5619838
           ]
         ]
       }
@@ -2127,80 +2021,6 @@
           [
             172.6476038,
             -43.5541467
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6504469,
-            -43.5593405
-          ],
-          [
-            172.6503611,
-            -43.5628235
-          ],
-          [
-            172.649653,
-            -43.56360089999998
-          ],
-          [
-            172.6485157,
-            -43.5640362
-          ],
-          [
-            172.6473141,
-            -43.5666172
-          ],
-          [
-            172.6462626,
-            -43.5682575
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6033687,
-            -43.5753544
-          ],
-          [
-            172.6093769,
-            -43.574717
           ]
         ]
       }
@@ -3413,67 +3233,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5432873,
-            -43.5517285
-          ],
-          [
-            172.5432444,
-            -43.5519695
-          ],
-          [
-            172.5439954,
-            -43.55253719999998
-          ],
-          [
-            172.54442450000002,
-            -43.5526927
-          ],
-          [
-            172.545948,
-            -43.5526149
-          ],
-          [
-            172.5466883,
-            -43.55268489999999
-          ],
-          [
-            172.5474608,
-            -43.552506
-          ],
-          [
-            172.5481904,
-            -43.5520939
-          ],
-          [
-            172.5492632,
-            -43.55151080000001
-          ],
-          [
-            172.5497246,
-            -43.5508109
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "closed",
         "descriptio": null,
         "timestamp": null,
@@ -4348,29 +4107,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.4698913,
-          -43.5533847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.6954115,
           -43.5329004
         ]
@@ -4626,6 +4362,33 @@
         "coordinates": [
           172.7256399,
           -43.6041084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "closed",
+        "descriptio": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.64370918273926,
+            -43.56273793627789
+          ],
+          [
+            172.64369845390317,
+            -43.56317329725898
+          ],
+          [
+            172.64315128326416,
+            -43.56323549142801
+          ]
         ]
       }
     }
