@@ -3012,60 +3012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.6901972,
-          -43.4790358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.7525237,
           -43.5703019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6796508,
-          -43.4772997
         ]
       }
     },
