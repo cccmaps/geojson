@@ -7,70 +7,6 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6869249,
-            -43.4761631
-          ],
-          [
-            172.6878583,
-            -43.476708
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.725302,
-            -43.4915452
-          ],
-          [
-            172.72655730000002,
-            -43.49518
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "Name": "Closed",
         "descriptio": "a",
         "timestamp": "null",
@@ -1372,38 +1308,6 @@
           [
             172.6938128,
             -43.536245
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.7417761,
-            -43.5383994
-          ],
-          [
-            172.7425861,
-            -43.5393365
           ]
         ]
       }
@@ -3064,146 +2968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6573563,
-            -43.5529182
-          ],
-          [
-            172.6579785,
-            -43.5532136
-          ],
-          [
-            172.6583862,
-            -43.5541622
-          ],
-          [
-            172.6587939,
-            -43.5549242
-          ],
-          [
-            172.659781,
-            -43.5557484
-          ],
-          [
-            172.6599741,
-            -43.5564015
-          ],
-          [
-            172.6593304,
-            -43.5569147
-          ],
-          [
-            172.6584721,
-            -43.5573967
-          ],
-          [
-            172.6569915,
-            -43.5587496
-          ],
-          [
-            172.6568627,
-            -43.5596048
-          ],
-          [
-            172.6572061,
-            -43.5604134
-          ],
-          [
-            172.6578927,
-            -43.5617817
-          ],
-          [
-            172.6584077,
-            -43.56210819999998
-          ],
-          [
-            172.6590085,
-            -43.5622171
-          ],
-          [
-            172.6596522,
-            -43.5626058
-          ],
-          [
-            172.660253,
-            -43.562839
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6505756,
-            -43.5536024
-          ],
-          [
-            172.6491594,
-            -43.5545044
-          ],
-          [
-            172.6484084,
-            -43.55532849999999
-          ],
-          [
-            172.64761450000003,
-            -43.55697689999999
-          ],
-          [
-            172.6474857,
-            -43.5579565
-          ],
-          [
-            172.6476789,
-            -43.5588429
-          ],
-          [
-            172.648108,
-            -43.5605222
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -3224,32 +2988,6 @@
         "coordinates": [
           172.6954115,
           -43.5329004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6797473,
-          -43.4683459
         ]
       }
     },
@@ -4112,7 +3850,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Caution"
+        "Name": "Restricted at high tide"
       },
       "geometry": {
         "type": "LineString",
