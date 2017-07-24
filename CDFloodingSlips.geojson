@@ -4420,28 +4420,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.61096477508545,
-            -43.57451489689321
-          ],
-          [
-            172.60332584381104,
-            -43.57529217301658
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.60210275650024,
             -43.5664306304785
           ],
