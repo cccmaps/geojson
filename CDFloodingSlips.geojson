@@ -247,7 +247,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Residents access only",
+        "Name": "Restricted at high tide",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -2451,17 +2451,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Restricted at high tide",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3430,7 +3433,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Closed"
+        "Name": "Restricted at high tide"
       },
       "geometry": {
         "type": "LineString",
