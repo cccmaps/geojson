@@ -300,50 +300,6 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6662612,
-            -43.5539912
-          ],
-          [
-            172.6662612,
-            -43.5541778
-          ],
-          [
-            172.6665187,
-            -43.5543488
-          ],
-          [
-            172.6665831,
-            -43.5545821
-          ],
-          [
-            172.6662397,
-            -43.5551264
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
         "descriptio": "null",
         "timestamp": "null",
         "begin": "null",
@@ -1039,35 +995,6 @@
           [
             172.9719472,
             -43.8305797
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6961732,
-            -43.5313915
-          ],
-          [
-            172.6938128,
-            -43.536245
           ]
         ]
       }
@@ -2457,32 +2384,6 @@
             172.6698983,
             -43.552856
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Name": "Restricted at high tide",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6954115,
-          -43.5329004
         ]
       }
     },
