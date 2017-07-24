@@ -107,7 +107,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Restricted at high tide",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -175,7 +175,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Restricted at high tide",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -3501,7 +3501,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Resident access only"
+        "Name": "Residents access only"
       },
       "geometry": {
         "type": "LineString",
