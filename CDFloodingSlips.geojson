@@ -1962,38 +1962,6 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.60386770000002,
-            -43.5585435
-          ],
-          [
-            172.6049942,
-            -43.5592977
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
         "descriptio": "null",
         "timestamp": "null",
         "begin": "null",
