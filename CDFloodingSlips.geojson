@@ -179,7 +179,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Restricted at high tide",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -247,91 +247,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Caution",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6576298,
-            -43.5525994
-          ],
-          [
-            172.65803220000004,
-            -43.5527782
-          ],
-          [
-            172.6582253,
-            -43.553027
-          ],
-          [
-            172.6583594,
-            -43.5533594
-          ],
-          [
-            172.6584882,
-            -43.5535869
-          ],
-          [
-            172.6586705,
-            -43.5538201
-          ],
-          [
-            172.6590514,
-            -43.5545432
-          ],
-          [
-            172.6592982,
-            -43.555002
-          ],
-          [
-            172.659899,
-            -43.5553285
-          ],
-          [
-            172.6601779,
-            -43.5557795
-          ],
-          [
-            172.6603711,
-            -43.5561994
-          ],
-          [
-            172.6602423,
-            -43.5565415
-          ],
-          [
-            172.6599097,
-            -43.55682139999998
-          ],
-          [
-            172.6594591,
-            -43.5572101
-          ],
-          [
-            172.6585579,
-            -43.5577232
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Caution",
+        "Name": "Resident access only",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -3023,7 +2939,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Name": "Caution",
+        "Name": "Restricted at high tide",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -4252,6 +4168,40 @@
           [
             172.78786182403564,
             -43.81087118938422
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.64752864837644,
+            -43.55803428222124
+          ],
+          [
+            172.6475715637207,
+            -43.55832972915169
+          ],
+          [
+            172.64772176742554,
+            -43.558648499215046
+          ],
+          [
+            172.64787197113037,
+            -43.559527051880046
+          ],
+          [
+            172.64817237854,
+            -43.56051443648855
           ]
         ]
       }
