@@ -7,7 +7,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Flooding",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -18,75 +18,6 @@
         "visibility": -1,
         "drawOrder": "null",
         "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6726556,
-            -43.52177659999999
-          ],
-          [
-            172.6743507,
-            -43.5215121
-          ],
-          [
-            172.6757026,
-            -43.5205941
-          ],
-          [
-            172.67634630000003,
-            -43.51854019999998
-          ],
-          [
-            172.6768184,
-            -43.5181045
-          ],
-          [
-            172.6787925,
-            -43.5179489
-          ],
-          [
-            172.681303,
-            -43.5178478
-          ],
-          [
-            172.6837921,
-            -43.5172721
-          ],
-          [
-            172.6846504,
-            -43.51714759999999
-          ],
-          [
-            172.6862838,
-            -43.5168752
-          ],
-          [
-            172.6864971,
-            -43.5169015
-          ],
-          [
-            172.6866621,
-            -43.5169608
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Severe Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
       },
       "geometry": {
         "type": "LineString",
@@ -105,17 +36,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -134,17 +68,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -203,110 +140,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6465523,
-            -43.564938
-          ],
-          [
-            172.6468956,
-            -43.5640984
-          ],
-          [
-            172.6473892,
-            -43.56315
-          ],
-          [
-            172.6474643,
-            -43.5627457
-          ],
-          [
-            172.64779690000003,
-            -43.56229479999999
-          ],
-          [
-            172.6478934,
-            -43.5617428
-          ],
-          [
-            172.6478827,
-            -43.5609576
-          ],
-          [
-            172.6476896,
-            -43.5598925
-          ],
-          [
-            172.6471961,
-            -43.558236399999984
-          ],
-          [
-            172.6471961,
-            -43.557941
-          ],
-          [
-            172.6473355,
-            -43.5568991
-          ],
-          [
-            172.6476789,
-            -43.5560283
-          ],
-          [
-            172.6481295,
-            -43.5549087
-          ],
-          [
-            172.6502538,
-            -43.5534313
-          ],
-          [
-            172.6512837,
-            -43.55290260000001
-          ],
-          [
-            172.6537085,
-            -43.5524672
-          ],
-          [
-            172.6552749,
-            -43.5522339
-          ],
-          [
-            172.6575494,
-            -43.5524983
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Severe Flooding",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -393,17 +240,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Restricted at high tide",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -461,115 +311,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6465523,
-            -43.564938
-          ],
-          [
-            172.6460266,
-            -43.566073
-          ],
-          [
-            172.6455116,
-            -43.5679387
-          ],
-          [
-            172.6449108,
-            -43.56940019999998
-          ],
-          [
-            172.6433659,
-            -43.5701775
-          ],
-          [
-            172.6422501,
-            -43.5703952
-          ],
-          [
-            172.6419711,
-            -43.5704107
-          ],
-          [
-            172.6408553,
-            -43.57027080000001
-          ],
-          [
-            172.6401258,
-            -43.5698666
-          ],
-          [
-            172.6388061,
-            -43.5681564
-          ],
-          [
-            172.6388812,
-            -43.5673013
-          ],
-          [
-            172.6393533,
-            -43.5660575
-          ],
-          [
-            172.6394176,
-            -43.56503129999999
-          ],
-          [
-            172.6397395,
-            -43.5644016
-          ],
-          [
-            172.6399648,
-            -43.5637486
-          ],
-          [
-            172.6405549,
-            -43.5632199
-          ],
-          [
-            172.6406837,
-            -43.562209299999985
-          ],
-          [
-            172.6398039,
-            -43.561517399999985
-          ],
-          [
-            172.639364,
-            -43.560708799999986
-          ],
-          [
-            172.6386237,
-            -43.5605533
-          ],
-          [
-            172.6370037,
-            -43.56102759999999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Flooding",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -650,17 +392,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -719,17 +464,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Residents access only",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -768,17 +516,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -797,17 +548,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -838,78 +592,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.67331,
-            -43.5499867
-          ],
-          [
-            172.6720655,
-            -43.5509587
-          ],
-          [
-            172.6715505,
-            -43.5513786
-          ],
-          [
-            172.67087460000002,
-            -43.551954
-          ],
-          [
-            172.6705205,
-            -43.5522106
-          ],
-          [
-            172.6701343,
-            -43.5523972
-          ],
-          [
-            172.6692975,
-            -43.5526616
-          ],
-          [
-            172.6688468,
-            -43.5525994
-          ],
-          [
-            172.6685035,
-            -43.5523972
-          ],
-          [
-            172.668128,
-            -43.5524127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -948,17 +644,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1029,17 +728,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1130,17 +832,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1331,17 +1036,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1376,17 +1084,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1421,17 +1132,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null",
+        "stroke-width": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1454,7 +1168,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
+        "Name": "",
         "descriptio": null,
         "timestamp": null,
         "begin": null,
@@ -1464,7 +1178,8 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null
+        "icon": null,
+        "stroke": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1507,187 +1222,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding and Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5624275,
-            -43.6001597
-          ],
-          [
-            172.5613976,
-            -43.605504899999985
-          ],
-          [
-            172.5589943,
-            -43.6268809
-          ],
-          [
-            172.5550461,
-            -43.6539627
-          ],
-          [
-            172.5507545,
-            -43.6614143
-          ],
-          [
-            172.5531578,
-            -43.6662574
-          ],
-          [
-            172.5540161,
-            -43.6682441
-          ],
-          [
-            172.5522995,
-            -43.6738316
-          ],
-          [
-            172.5605393,
-            -43.6877358
-          ],
-          [
-            172.5619126,
-            -43.6934456
-          ],
-          [
-            172.5701523,
-            -43.698658399999985
-          ],
-          [
-            172.5674057,
-            -43.7115642
-          ],
-          [
-            172.5759888,
-            -43.71305319999998
-          ],
-          [
-            172.57736210000002,
-            -43.71900870000001
-          ],
-          [
-            172.5938416,
-            -43.728437
-          ],
-          [
-            172.5983048,
-            -43.72149
-          ],
-          [
-            172.6168442,
-            -43.7324063
-          ],
-          [
-            172.6140976,
-            -43.743320699999984
-          ],
-          [
-            172.6202774,
-            -43.7529932
-          ],
-          [
-            172.6250839,
-            -43.7582008
-          ],
-          [
-            172.6353836,
-            -43.7589447
-          ],
-          [
-            172.64431,
-            -43.7708459
-          ],
-          [
-            172.64739990000004,
-            -43.77629979999998
-          ],
-          [
-            172.6566696,
-            -43.7738208
-          ],
-          [
-            172.6621628,
-            -43.7847277
-          ],
-          [
-            172.6669693,
-            -43.7896847
-          ],
-          [
-            172.666626,
-            -43.7948891
-          ],
-          [
-            172.6813889,
-            -43.792163
-          ],
-          [
-            172.6923752,
-            -43.796623799999985
-          ],
-          [
-            172.6940918,
-            -43.8070309
-          ],
-          [
-            172.7013016,
-            -43.8166931
-          ],
-          [
-            172.7170944,
-            -43.809013
-          ],
-          [
-            172.7294541,
-            -43.8075264
-          ],
-          [
-            172.7339173,
-            -43.8015798
-          ],
-          [
-            172.7459336,
-            -43.7968716
-          ],
-          [
-            172.7637863,
-            -43.7889411
-          ],
-          [
-            172.7792359,
-            -43.7852234
-          ],
-          [
-            172.7902222,
-            -43.773325
-          ],
-          [
-            172.7984619,
-            -43.7643997
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "Flooding",
+        "Name": "Residents access only",
         "descriptio": "a",
         "timestamp": "null",
         "begin": "null",
@@ -1728,17 +1266,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1809,7 +1350,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "Name": "Caution",
         "descriptio": "a",
         "timestamp": null,
         "begin": null,
@@ -1838,17 +1379,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -1867,123 +1411,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.679565,
-            -43.47698829999999
-          ],
-          [
-            172.6797366,
-            -43.4775255
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6168871,
-            -43.57352
-          ],
-          [
-            172.6177239,
-            -43.5725872
-          ],
-          [
-            172.6178956,
-            -43.5716544
-          ],
-          [
-            172.6183462,
-            -43.57041069999999
-          ],
-          [
-            172.6191831,
-            -43.5698199
-          ],
-          [
-            172.6211572,
-            -43.569167
-          ],
-          [
-            172.6227021,
-            -43.568685
-          ],
-          [
-            172.6235819,
-            -43.5686695
-          ],
-          [
-            172.6251054,
-            -43.5680476
-          ],
-          [
-            172.6261353,
-            -43.5674412
-          ],
-          [
-            172.6277661,
-            -43.5671925
-          ],
-          [
-            172.6286244,
-            -43.5669903
-          ],
-          [
-            172.6293111,
-            -43.5671925
-          ],
-          [
-            172.6297617,
-            -43.5669515
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2002,17 +1443,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2031,17 +1475,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding and Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2584,17 +2031,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2669,17 +2119,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2726,95 +2179,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.670939,
-            -43.5216366
-          ],
-          [
-            172.67186160000003,
-            -43.5218544
-          ],
-          [
-            172.6726556,
-            -43.52177659999999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6695442,
-            -43.554446
-          ],
-          [
-            172.6689649,
-            -43.55438
-          ],
-          [
-            172.668348,
-            -43.5542905
-          ],
-          [
-            172.667495,
-            -43.5541661
-          ],
-          [
-            172.6671356,
-            -43.5542167
-          ],
-          [
-            172.6668888,
-            -43.5540845
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2917,17 +2295,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -2966,54 +2347,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6823223,
-            -43.516851899999985
-          ],
-          [
-            172.6820755,
-            -43.5172332
-          ],
-          [
-            172.6814747,
-            -43.51747430000001
-          ],
-          [
-            172.6813352,
-            -43.5178011
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding and Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3072,17 +2419,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3113,17 +2463,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3154,17 +2507,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3207,17 +2563,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3236,17 +2595,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3293,17 +2655,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3334,17 +2699,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3399,17 +2767,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3444,17 +2815,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3473,17 +2847,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3506,17 +2883,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3559,50 +2939,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5977468,
-            -43.567643299999986
-          ],
-          [
-            172.5992489,
-            -43.5672002
-          ],
-          [
-            172.6003432,
-            -43.5669437
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3621,7 +2971,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "Name": "Closed",
         "descriptio": "a",
         "timestamp": null,
         "begin": null,
@@ -3674,62 +3024,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Residents access only",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.666288,
-            -43.5539173
-          ],
-          [
-            172.66642210000003,
-            -43.5534819
-          ],
-          [
-            172.6668942,
-            -43.553237
-          ],
-          [
-            172.6672643,
-            -43.5530037
-          ],
-          [
-            172.6676667,
-            -43.5526305
-          ],
-          [
-            172.6680905,
-            -43.5524127
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "closed",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3756,17 +3064,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3841,17 +3152,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "closed",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "LineString",
@@ -3890,222 +3204,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding and Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6468205,
-            -43.6311986
-          ],
-          [
-            172.64825820000001,
-            -43.6313695
-          ],
-          [
-            172.6492238,
-            -43.6308103
-          ],
-          [
-            172.6494598,
-            -43.6299872
-          ],
-          [
-            172.6498461,
-            -43.6291019
-          ],
-          [
-            172.6472282,
-            -43.6260577
-          ],
-          [
-            172.6475072,
-            -43.6246287
-          ],
-          [
-            172.648387,
-            -43.6238676
-          ],
-          [
-            172.6481938,
-            -43.6230909
-          ],
-          [
-            172.6490951,
-            -43.6223608
-          ],
-          [
-            172.649138,
-            -43.6208386
-          ],
-          [
-            172.6497173,
-            -43.6196425
-          ],
-          [
-            172.6519275,
-            -43.6198599
-          ],
-          [
-            172.6533008,
-            -43.6193939
-          ],
-          [
-            172.6552105,
-            -43.6166288
-          ],
-          [
-            172.6552749,
-            -43.6169861
-          ],
-          [
-            172.655704,
-            -43.6170172
-          ],
-          [
-            172.6561332,
-            -43.6177007
-          ],
-          [
-            172.6584506,
-            -43.6188192
-          ],
-          [
-            172.6592231,
-            -43.6187415
-          ],
-          [
-            172.6611543,
-            -43.6175453
-          ],
-          [
-            172.6617551,
-            -43.6165045
-          ],
-          [
-            172.6630855,
-            -43.6156967
-          ],
-          [
-            172.6637292,
-            -43.6149044
-          ],
-          [
-            172.6636863,
-            -43.61389459999999
-          ],
-          [
-            172.6642013,
-            -43.61355279999999
-          ],
-          [
-            172.6651454,
-            -43.613708199999984
-          ],
-          [
-            172.6657248,
-            -43.6134596
-          ],
-          [
-            172.667098,
-            -43.6109273
-          ],
-          [
-            172.6676345,
-            -43.6108807
-          ],
-          [
-            172.6680851,
-            -43.6120614
-          ],
-          [
-            172.6687288,
-            -43.6123877
-          ],
-          [
-            172.6700377,
-            -43.6120459
-          ],
-          [
-            172.6710248,
-            -43.61150210000001
-          ],
-          [
-            172.67201190000003,
-            -43.6116575
-          ],
-          [
-            172.6723766,
-            -43.6115176
-          ],
-          [
-            172.67272,
-            -43.610803
-          ],
-          [
-            172.6725912,
-            -43.6094513
-          ],
-          [
-            172.6731277,
-            -43.6083016
-          ],
-          [
-            172.6744366,
-            -43.6079442
-          ],
-          [
-            172.6756167,
-            -43.6070431
-          ],
-          [
-            172.6758099,
-            -43.6065148
-          ],
-          [
-            172.6768184,
-            -43.6060176
-          ],
-          [
-            172.6772904,
-            -43.60499209999998
-          ],
-          [
-            172.6781058,
-            -43.6042619
-          ],
-          [
-            172.6790285,
-            -43.6039511
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4118,17 +3230,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4141,17 +3256,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Severe Flooding",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4164,17 +3282,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4187,17 +3308,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Sink Hole",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4210,17 +3334,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Flooding",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
         "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4233,53 +3360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.9652095,
-          -43.8082155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.959094,
-          -43.81228019999998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Flooding and Slips",
+        "Name": "Caution",
         "descriptio": null,
         "timestamp": null,
         "begin": null,
@@ -4302,63 +3383,20 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Caution",
+        "descriptio": "null",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "altitudeMo": "null",
         "tessellate": -1,
         "extrude": 0,
         "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.9527855,
-          -43.8205637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Slips",
-        "descriptio": "a",
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6418021,
-          -43.574715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Slips",
-        "descriptio": null,
-        "timestamp": null,
-        "begin": null,
-        "end": null,
-        "altitudeMo": null,
-        "tessellate": -1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": null,
-        "icon": null
+        "drawOrder": "null",
+        "icon": "null"
       },
       "geometry": {
         "type": "Point",
@@ -4374,7 +3412,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "closed",
+        "Name": "Caution",
         "descriptio": ""
       },
       "geometry": {
@@ -4400,7 +3438,7 @@
       "properties": {
         "stroke": "",
         "stroke-width": "",
-        "Name": "closed"
+        "Name": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4716,7 +3754,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "",
-        "Name": "closed"
+        "Name": ""
       },
       "geometry": {
         "type": "LineString",
@@ -4737,7 +3775,7 @@
       "properties": {
         "stroke": "",
         "stroke-width": "",
-        "Name": "closed",
+        "Name": "",
         "stroke-opacity": ""
       },
       "geometry": {
@@ -4760,7 +3798,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "Name": "closed"
+        "Name": "Closed"
       },
       "geometry": {
         "type": "LineString",
@@ -5064,6 +4102,492 @@
           [
             172.63868808746338,
             -43.69083903789092
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.65113353729248,
+            -43.52449942179051
+          ],
+          [
+            172.65116572380066,
+            -43.52515287643567
+          ],
+          [
+            172.65068292617798,
+            -43.52583744037667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Restricted at high tide"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6461124420166,
+            -43.56602638867339
+          ],
+          [
+            172.6457691192627,
+            -43.567239105950335
+          ],
+          [
+            172.6454257965088,
+            -43.56870055330453
+          ],
+          [
+            172.64456748962402,
+            -43.56978884212936
+          ],
+          [
+            172.6433229446411,
+            -43.570286339042894
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.64199256896973,
+            -43.57044180598564
+          ],
+          [
+            172.64066219329834,
+            -43.57022415215343
+          ],
+          [
+            172.63909578323364,
+            -43.568451798812184
+          ],
+          [
+            172.63885974884033,
+            -43.56795428674551
+          ],
+          [
+            172.63913869857788,
+            -43.56678822673707
+          ],
+          [
+            172.63941764831543,
+            -43.56585536247768
+          ],
+          [
+            172.63952493667603,
+            -43.565000224215474
+          ],
+          [
+            172.6399326324463,
+            -43.56363197774626
+          ],
+          [
+            172.6406192779541,
+            -43.563212168622144
+          ],
+          [
+            172.64068365097046,
+            -43.562248151413506
+          ],
+          [
+            172.63991117477414,
+            -43.56154845184281
+          ],
+          [
+            172.6395034790039,
+            -43.56080209667713
+          ],
+          [
+            172.6387095451355,
+            -43.560568858791726
+          ],
+          [
+            172.63716459274292,
+            -43.56101978455553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.67016649246213,
+            -43.552358309963516
+          ],
+          [
+            172.66940474510193,
+            -43.5526149065484
+          ],
+          [
+            172.6689326763153,
+            -43.55263045782146
+          ],
+          [
+            172.66819238662717,
+            -43.552404963969295
+          ],
+          [
+            172.66755938529968,
+            -43.55264600909051
+          ],
+          [
+            172.66704440116882,
+            -43.5531747498505
+          ],
+          [
+            172.6666259765625,
+            -43.55336136312882
+          ],
+          [
+            172.6663899421692,
+            -43.553625730950586
+          ],
+          [
+            172.6662826538086,
+            -43.553882322139124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Restricted at high tide"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.67040252685547,
+            -43.552265001843594
+          ],
+          [
+            172.67175436019897,
+            -43.55112974148007
+          ],
+          [
+            172.67340660095215,
+            -43.549870043993536
+          ],
+          [
+            172.67450094223022,
+            -43.549045783240274
+          ],
+          [
+            172.6759171485901,
+            -43.54761496422347
+          ],
+          [
+            172.67675399780273,
+            -43.54702396384823
+          ],
+          [
+            172.67733335494995,
+            -43.54674401427958
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6368534564972,
+            -43.56172726472831
+          ],
+          [
+            172.63632774353025,
+            -43.561773911480735
+          ],
+          [
+            172.63580203056333,
+            -43.56172726472831
+          ],
+          [
+            172.6354157924652,
+            -43.561867204877224
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.636821269989,
+            -43.56117527541569
+          ],
+          [
+            172.63656377792358,
+            -43.56148625593214
+          ],
+          [
+            172.63514757156372,
+            -43.56159509873367
+          ],
+          [
+            172.63407468795776,
+            -43.56246583406705
+          ],
+          [
+            172.63261556625366,
+            -43.56391184887041
+          ],
+          [
+            172.63180017471313,
+            -43.56478255071955
+          ],
+          [
+            172.63180017471313,
+            -43.565435568847676
+          ],
+          [
+            172.63089895248413,
+            -43.5664306304785
+          ],
+          [
+            172.63001918792725,
+            -43.566850417174024
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.61096477508545,
+            -43.57451489689321
+          ],
+          [
+            172.60332584381104,
+            -43.57529217301658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.60210275650024,
+            -43.5664306304785
+          ],
+          [
+            172.59592294692993,
+            -43.56804757057103
+          ],
+          [
+            172.5908374786377,
+            -43.57009977818188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66100406646729,
+            -43.52163658467503
+          ],
+          [
+            172.67068147659302,
+            -43.52160546613393
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.67093896865845,
+            -43.52163658467503
+          ],
+          [
+            172.6728272438049,
+            -43.52179217713973
+          ],
+          [
+            172.67471551895142,
+            -43.52137207656412
+          ],
+          [
+            172.6757025718689,
+            -43.52059410481083
+          ],
+          [
+            172.6767110824585,
+            -43.518151208301724
+          ],
+          [
+            172.6811957359314,
+            -43.51785556443541
+          ],
+          [
+            172.68630266189575,
+            -43.51687526125086
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.64736771583554,
+            -43.63114426686184
+          ],
+          [
+            172.6468527317047,
+            -43.631105439358
+          ],
+          [
+            172.6465094089508,
+            -43.631664552993136
+          ],
+          [
+            172.64624118804932,
+            -43.63223919214242
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.79708862304688,
+            -43.81641437456478
+          ],
+          [
+            172.79627323150635,
+            -43.8156402176027
+          ],
+          [
+            172.79399871826172,
+            -43.81452541394521
+          ],
+          [
+            172.79125213623047,
+            -43.81483508371544
+          ],
+          [
+            172.7885913848877,
+            -43.81402993897272
+          ],
+          [
+            172.78794765472412,
+            -43.81276026559158
+          ],
+          [
+            172.78786182403564,
+            -43.81087118938422
           ]
         ]
       }
