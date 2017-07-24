@@ -2716,46 +2716,6 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "Name": "Residents access only",
-        "descriptio": "null",
-        "timestamp": "null",
-        "begin": "null",
-        "end": "null",
-        "altitudeMo": "null",
-        "tessellate": 1,
-        "extrude": 0,
-        "visibility": -1,
-        "drawOrder": "null",
-        "icon": "null"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5989914,
-            -43.5642695
-          ],
-          [
-            172.5998712,
-            -43.5656843
-          ],
-          [
-            172.6004934,
-            -43.5659176
-          ],
-          [
-            172.6015663,
-            -43.565591
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -4248,6 +4208,36 @@
           [
             172.721654176712,
             -43.50895444980066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.59971022605896,
+            -43.56528786298583
+          ],
+          [
+            172.60005354881287,
+            -43.56579317101338
+          ],
+          [
+            172.60051488876343,
+            -43.565847588548145
+          ],
+          [
+            172.6016628742218,
+            -43.565521082602174
           ]
         ]
       }
