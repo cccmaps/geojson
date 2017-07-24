@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.565371,
+          -43.54489
+        ]
+      },
+      "properties": {
+        "name": "A waste of time - Hangaruatia",
+        "site": "EcoDrop and EcoSort Materials Recovery Facility",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/a-waste-of-time/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.592751,
+          -43.538459
+        ]
+      },
+      "properties": {
+        "name": "A waste of time - Hangaruatia",
+        "site": "EcoShop SuperShed",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/a-waste-of-time/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.701381,
+          -43.524919
+        ]
+      },
+      "properties": {
+        "name": "All flushed out - Heketua, heke ki whea",
+        "site": "Christchurch Wastewater Treatment Plant",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/all-flushed-out/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707162,
+          -43.530185
+        ]
+      },
+      "properties": {
+        "name": "Casting magic with worms",
+        "site": "EcoDepot/EcoDrop Metro Place",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/casting-magic-with-worms/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627102,
+          -43.532538
+        ]
+      },
+      "properties": {
+        "name": "Casting magic with worms",
+        "site": "Curators House Christchurch Botanic Gardens",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/casting-magic-with-worms/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713745,
+          -43.431363
+        ]
+      },
+      "properties": {
+        "name": "Coastal management - Taku tai, takutai",
+        "site": "Spencer Park Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/coastal-management/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722092,
+          -43.478905
+        ]
+      },
+      "properties": {
+        "name": "Coastal management - Taku tai, takutai",
+        "site": "Waimairi Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/coastal-management/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.741508,
+          -43.530979
+        ]
+      },
+      "properties": {
+        "name": "Coastal management - Taku tai, takutai",
+        "site": "South New Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/coastal-management/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619985,
+          -43.53055
+        ]
+      },
+      "properties": {
+        "name": "Creative and native - He rerehua, he taketake",
+        "site": "Christchurch Botanic Gardens",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/creative-and-native/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70738,
+          -43.537895
+        ]
+      },
+      "properties": {
+        "name": "Fertilising for the future - Ka whakatÅ te wairÄkau mÅ ÄpÅpÅ",
+        "site": "EcoDepot/EcoDrop Metro Place",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/fertilising-for-the-future/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683816,
+          -43.467388
+        ]
+      },
+      "properties": {
+        "name": "Forest survivor - He uri a TÄne",
+        "site": "Bottle Lake Forest Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/forest-survivor/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704311,
+          -43.430085
+        ]
+      },
+      "properties": {
+        "name": "Forest survivor - He uri a TÄne",
+        "site": "Spencer Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/forest-survivor/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.603842,
+          -43.450053
+        ]
+      },
+      "properties": {
+        "name": "Freshwater frolicking - Te whawhewhawhe ki rÅ waimÄori",
+        "site": "The Groynes",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/freshwater-frolicking/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608992,
+          -43.464694
+        ]
+      },
+      "properties": {
+        "name": "Freshwater frolicking - Te whawhewhawhe ki rÅ waimÄori",
+        "site": "Styx Mill Conservation Reserve",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/freshwater-frolicking/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620524,
+          -43.528625
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers - NgÄ Kairangahau Paaka",
+        "site": "Christchurch Botanic Gardens",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579493,
+          -43.599192
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers - NgÄ Kairangahau Paaka",
+        "site": "Halswell Quarry Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.644314,
+          -43.591386
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers - NgÄ Kairangahau Paaka",
+        "site": "Victoria Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642909,
+          -43.589459
+        ]
+      },
+      "properties": {
+        "name": "Native nurturing - Manaaki Whenua",
+        "site": "Victoria Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/native-nurturing/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.776731,
+          -43.5833
+        ]
+      },
+      "properties": {
+        "name": "On the rocks",
+        "site": "Taylors Mistake Beach",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/ontherocks/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.761292,
+          -43.568182
+        ]
+      },
+      "properties": {
+        "name": "On the rocks",
+        "site": "Sumner Beach",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/ontherocks/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632061,
+          -43.529995
+        ]
+      },
+      "properties": {
+        "name": "Our City, ÅŒtautahi",
+        "site": "Christchurch City Council Civic Building (Te Hononga)",
+        "category": "Governance",
+        "url": "https://ccc.govt.nz/ourcity/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619527,
+          -43.530305
+        ]
+      },
+      "properties": {
+        "name": "Park detectives - Titeketiwhi Paaka",
+        "site": "Christchurch Botanic Gardens",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/park-detectives-titeketiwhi-paaka/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579751,
+          -43.600521
+        ]
+      },
+      "properties": {
+        "name": "Rocky road of discovery - Te ara werowero ki ÅŒ mÄramatanga",
+        "site": "Halswell Quarry Park",
+        "category": "Geology",
+        "url": "https://ccc.govt.nz/rocky-road-of-discovery/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713894,
+          -43.429645
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "Spencer Park Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722398,
+          -43.480052
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "Waimairi Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727095,
+          -43.493955
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "North Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.730262,
+          -43.502821
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "New Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73797,
+          -43.522128
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "South Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757269,
+          -43.566301
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes - Kia ora ai a tÄhuahua",
+        "site": "Sumner Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713513,
+          -43.429382
+        ]
+      },
+      "properties": {
+        "name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "site": "Spencer Park Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72278,
+          -43.481535
+        ]
+      },
+      "properties": {
+        "name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "site": "Waimairi Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.726612,
+          -43.492437
+        ]
+      },
+      "properties": {
+        "name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "site": "North New Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70629,
+          -43.539377
+        ]
+      },
+      "properties": {
+        "name": "Watch your waste - Taihoa koe i o para",
+        "site": "Metro Place Organic Processing Plant and EcoDrop",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/watch-your-waste/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.700316,
+          -43.523932
+        ]
+      },
+      "properties": {
+        "name": "Water for life - Te wai ora o TÄne",
+        "site": "Main water pumping station",
+        "category": "City Water and Waste",
+        "url": "https://ccc.govt.nz/water-for-life/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697936,
+          -43.48516
+        ]
+      },
+      "properties": {
+        "name": "Wetlands, waders and water boatmen",
+        "site": "Travis Wetland",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/wetlands-waders-and-water-boatmen/"
+      }
+    }
+  ]
+}
