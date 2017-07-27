@@ -652,25 +652,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.642818,
-          -43.52669
-        ]
-      },
-      "properties": {
-        "name": "Firefighters tribute",
-        "type": "Sculpture",
-        "short-description": "Steel from the New York World Centre site was gifted by the city of New York to the city of Christchurch to honour and acknowledge fire fighters world-wide.",
-        "primary-media": "",
-        "Artist": "Graham Bennett ",
-        "year": 2002,
-        "long-description": "The artwork was commissioned by the Christchurch City Council is sited in the Firefighters Reserve at the corner of Kilmore and Madras streets. The artwork was created in 2002 by Christchurch artist Graham Bennett. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.625907,
           -43.547267
         ]
