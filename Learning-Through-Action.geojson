@@ -57,8 +57,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.707162,
-          -43.530185
+          172.706351,
+          -43.5381
         ]
       },
       "properties": {
@@ -91,12 +91,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.713745,
-          -43.431363
+          172.712267,
+          -43.431989
         ]
       },
       "properties": {
-        "name": "Coastal Management",
+        "name": "Coastal management",
         "site": "Spencer Park Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
@@ -113,7 +113,7 @@
         ]
       },
       "properties": {
-        "name": "Coastal Management",
+        "name": "Coastal management",
         "site": "Waimairi Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
@@ -130,7 +130,7 @@
         ]
       },
       "properties": {
-        "name": "Coastal Management",
+        "name": "Coastal management",
         "site": "South New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
@@ -142,12 +142,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.619985,
-          -43.53055
+          172.62007,
+          -43.529597
         ]
       },
       "properties": {
-        "name": "Creative and Native",
+        "name": "Creative and native",
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/creative-and-native/",
@@ -159,8 +159,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.70738,
-          -43.537895
+          172.706081,
+          -43.538348
         ]
       },
       "properties": {
@@ -176,12 +176,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.683816,
-          -43.467388
+          172.682444,
+          -43.468194
         ]
       },
       "properties": {
-        "name": "Forest Survivor",
+        "name": "Forest survivor",
         "site": "Bottle Lake Forest Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/forest-survivor/",
@@ -193,12 +193,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.704311,
-          -43.430085
+          172.705366,
+          -43.430271
         ]
       },
       "properties": {
-        "name": "Forest Survivor",
+        "name": "Forest survivor",
         "site": "Spencer Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/forest-survivor/",
@@ -210,8 +210,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.603842,
-          -43.450053
+          172.603219,
+          -43.452929
         ]
       },
       "properties": {
@@ -227,8 +227,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.608992,
-          -43.464694
+          172.607816,
+          -43.465989
         ]
       },
       "properties": {
@@ -244,12 +244,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          172.60915,
+          -43.44836
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers",
+        "site": "The Groynes",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           172.620524,
           -43.528625
         ]
       },
       "properties": {
-        "name": "Junior Park Explorers",
+        "name": "Junior park explorers",
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
@@ -261,12 +278,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.579493,
-          -43.599192
+          172.706701,
+          -43.431999
         ]
       },
       "properties": {
-        "name": "Junior Park Explorers",
+        "name": "Junior park explorers",
+        "site": "Spencer Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.575396,
+          -43.599204
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers",
         "site": "Halswell Quarry Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
@@ -278,12 +312,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.644314,
-          -43.591386
+          172.960424,
+          -43.812971
         ]
       },
       "properties": {
-        "name": "Junior Park Explorers",
+        "name": "Junior park explorers",
+        "site": "Akaroa",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.698367,
+          -43.484697
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers",
+        "site": "Travis Wetlands",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64304,
+          -43.590406
+        ]
+      },
+      "properties": {
+        "name": "Junior park explorers",
         "site": "Victoria Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
@@ -295,12 +363,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.642909,
-          -43.589459
+          172.643668,
+          -43.589511
         ]
       },
       "properties": {
-        "name": "Native Nurturing",
+        "name": "Native nurturing",
         "site": "Victoria Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/native-nurturing/",
@@ -317,7 +385,7 @@
         ]
       },
       "properties": {
-        "name": "On the Rocks",
+        "name": "On the rocks",
         "site": "Taylors Mistake Beach",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/ontherocks/",
@@ -329,12 +397,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.761292,
-          -43.568182
+          172.76006,
+          -43.566022
         ]
       },
       "properties": {
-        "name": "On the Rocks",
+        "name": "On the rocks",
         "site": "Sumner Beach",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/ontherocks/",
@@ -346,12 +414,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.632061,
-          -43.529995
+          172.631656,
+          -43.531695
         ]
       },
       "properties": {
-        "name": "Our City",
+        "name": "Our city",
         "site": "Christchurch City Council Civic Building (Te Hononga)",
         "category": "Governance",
         "url": "https://ccc.govt.nz/ourcity/",
@@ -385,7 +453,7 @@
         ]
       },
       "properties": {
-        "name": "Rocky Road of Discovery",
+        "name": "Rocky road of discovery",
         "site": "Halswell Quarry Park",
         "category": "Geology",
         "url": "https://ccc.govt.nz/rocky-road-of-discovery/",
@@ -397,8 +465,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.713894,
-          -43.429645
+          172.713885,
+          -43.432668
         ]
       },
       "properties": {
@@ -448,6 +516,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          173.062382,
+          -43.694246
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes",
+        "site": "Okains Bay",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.096214,
+          -43.741437
+        ]
+      },
+      "properties": {
+        "name": "Saving the sand dunes",
+        "site": "Le Bons Bay",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           172.730262,
           -43.502821
         ]
@@ -482,8 +584,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.757269,
-          -43.566301
+          172.756892,
+          -43.56575
         ]
       },
       "properties": {
@@ -499,8 +601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.713513,
-          -43.429382
+          172.713795,
+          -43.431666
         ]
       },
       "properties": {
@@ -550,12 +652,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.70629,
-          -43.539377
+          173.062382,
+          -43.694246
         ]
       },
       "properties": {
-        "name": "Watch your Waste",
+        "name": "Searching the shoreline",
+        "site": "Okains Bay",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/",
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.096214,
+          -43.741437
+        ]
+      },
+      "properties": {
+        "name": "Searching the shoreline",
+        "site": "ay",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/",
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708141,
+          -43.537426
+        ]
+      },
+      "properties": {
+        "name": "Watch your waste",
         "site": "Metro Place Organic Processing Plant and EcoDrop",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/watch-your-waste/",
@@ -572,7 +708,7 @@
         ]
       },
       "properties": {
-        "name": "Water for Life",
+        "name": "Water for life",
         "site": "Main water pumping station",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/water-for-life/",
@@ -589,7 +725,7 @@
         ]
       },
       "properties": {
-        "name": "Wetlands, Waders and Water Boatmen",
+        "name": "Wetlands, waders and water boatmen",
         "site": "Travis Wetland",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/wetlands-waders-and-water-boatmen/",
