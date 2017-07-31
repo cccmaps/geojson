@@ -15,7 +15,8 @@
         "site": "EcoDrop and EcoSort Materials Recovery Facility",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/a-waste-of-time/",
-        "Full name": "A waste of time - Hangaruatia"
+        "Full name": "A waste of time - Hangaruatia",
+        "Cost": "Free"
       }
     },
     {
@@ -32,7 +33,8 @@
         "site": "EcoShop SuperShed",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/a-waste-of-time/",
-        "Full name": "A waste of time - Hangaruatia"
+        "Full name": "A waste of time - Hangaruatia",
+        "Cost": "Free"
       }
     },
     {
@@ -49,7 +51,8 @@
         "site": "Christchurch Wastewater Treatment Plant",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/all-flushed-out/",
-        "Full name": "All Flushed Out - Heketua, heke ki whea"
+        "Full name": "All Flushed Out - Heketua, heke ki whea",
+        "Cost": "Free"
       }
     },
     {
@@ -66,7 +69,8 @@
         "site": "EcoDepot/EcoDrop Metro Place",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/casting-magic-with-worms/",
-        "Full name": "Casting magic with worms"
+        "Full name": "Casting magic with worms",
+        "Cost": "Free"
       }
     },
     {
@@ -83,7 +87,8 @@
         "site": "Curators House Christchurch Botanic Gardens",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/casting-magic-with-worms/",
-        "Full name": "Casting magic with worms"
+        "Full name": "Casting magic with worms",
+        "Cost": "Free"
       }
     },
     {
@@ -100,7 +105,8 @@
         "site": "Spencer Park Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
-        "Full name": "Coastal Management - Taku tai, takutai"
+        "Full name": "Coastal Management - Taku tai, takutai",
+        "Cost": "Free"
       }
     },
     {
@@ -117,7 +123,8 @@
         "site": "Waimairi Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
-        "Full name": "Coastal Management - Taku tai, takutai"
+        "Full name": "Coastal Management - Taku tai, takutai",
+        "Cost": "Free"
       }
     },
     {
@@ -134,7 +141,8 @@
         "site": "South New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
-        "Full name": "Coastal Management - Taku tai, takutai"
+        "Full name": "Coastal Management - Taku tai, takutai",
+        "Cost": "Free"
       }
     },
     {
@@ -151,7 +159,8 @@
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/creative-and-native/",
-        "Full name": "Creative and Native - He rerehua, he taketake"
+        "Full name": "Creative and Native - He rerehua, he taketake",
+        "Cost": "Free"
       }
     },
     {
@@ -168,7 +177,8 @@
         "site": "EcoDepot/EcoDrop Metro Place",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/fertilising-for-the-future/",
-        "Full name": "Fertilising for the future - Ka whakatō te wairākau mō āpōpō"
+        "Full name": "Fertilising for the future - Ka whakatō te wairākau mō āpōpō",
+        "Cost": "Free"
       }
     },
     {
@@ -185,7 +195,8 @@
         "site": "Bottle Lake Forest Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/forest-survivor/",
-        "Full name": "Forest Survivor - He uri a Tāne"
+        "Full name": "Forest Survivor - He uri a Tāne",
+        "Cost": "Free"
       }
     },
     {
@@ -202,7 +213,8 @@
         "site": "Spencer Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/forest-survivor/",
-        "Full name": "Forest Survivor - He uri a Tāne"
+        "Full name": "Forest Survivor - He uri a Tāne",
+        "Cost": "Free"
       }
     },
     {
@@ -219,7 +231,8 @@
         "site": "The Groynes",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/freshwater-frolicking/",
-        "Full name": "Freshwater frolicking - Te whawhewhawhe ki rō waimāori"
+        "Full name": "Freshwater frolicking - Te whawhewhawhe ki rō waimāori",
+        "Cost": "Free"
       }
     },
     {
@@ -236,7 +249,8 @@
         "site": "Styx Mill Conservation Reserve",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/freshwater-frolicking/",
-        "Full name": "Freshwater frolicking - Te whawhewhawhe ki rō waimāori"
+        "Full name": "Freshwater frolicking - Te whawhewhawhe ki rō waimāori",
+        "Cost": "Free"
       }
     },
     {
@@ -253,7 +267,8 @@
         "site": "The Groynes",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -270,7 +285,8 @@
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -287,7 +303,8 @@
         "site": "Spencer Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -304,7 +321,8 @@
         "site": "Halswell Quarry Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -321,7 +339,8 @@
         "site": "Akaroa",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -338,7 +357,8 @@
         "site": "Travis Wetlands",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -355,7 +375,8 @@
         "site": "Victoria Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
-        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka"
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -372,7 +393,8 @@
         "site": "Victoria Park",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/native-nurturing/",
-        "Full name": "Native Nurturing - Manaaki Whenua"
+        "Full name": "Native Nurturing - Manaaki Whenua",
+        "Cost": "Free"
       }
     },
     {
@@ -389,7 +411,8 @@
         "site": "Taylors Mistake Beach",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/ontherocks/",
-        "Full name": "On the Rocks"
+        "Full name": "On the Rocks",
+        "Cost": "Free"
       }
     },
     {
@@ -406,7 +429,8 @@
         "site": "Sumner Beach",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/ontherocks/",
-        "Full name": "On the Rocks"
+        "Full name": "On the Rocks",
+        "Cost": "Free"
       }
     },
     {
@@ -423,7 +447,8 @@
         "site": "Christchurch City Council Civic Building (Te Hononga)",
         "category": "Governance",
         "url": "https://ccc.govt.nz/ourcity/",
-        "Full name": "Our City, Ōtautahi"
+        "Full name": "Our City, Ōtautahi",
+        "Cost": "Free"
       }
     },
     {
@@ -440,7 +465,8 @@
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka"
+        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "Cost": "Free"
       }
     },
     {
@@ -457,7 +483,8 @@
         "site": "Halswell Quarry Park",
         "category": "Geology",
         "url": "https://ccc.govt.nz/rocky-road-of-discovery/",
-        "Full name": "Rocky Road of Discovery - Te ara werowero ki Ō māramatanga"
+        "Full name": "Rocky Road of Discovery - Te ara werowero ki Ō māramatanga",
+        "Cost": "Free"
       }
     },
     {
@@ -474,7 +501,8 @@
         "site": "Spencer Park Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -491,7 +519,8 @@
         "site": "Waimairi Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -508,7 +537,8 @@
         "site": "North Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -525,7 +555,8 @@
         "site": "Okains Bay",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -542,7 +573,8 @@
         "site": "Le Bons Bay",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -559,7 +591,8 @@
         "site": "New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -576,7 +609,8 @@
         "site": "South Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -593,7 +627,8 @@
         "site": "Sumner Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/saving-the-sand-dunes/",
-        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua"
+        "Full name": "Saving the sand dunes - Kia ora ai a tāhuahua",
+        "Cost": "Free"
       }
     },
     {
@@ -610,7 +645,8 @@
         "site": "Spencer Park Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -627,7 +663,8 @@
         "site": "Waimairi Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -644,7 +681,8 @@
         "site": "North New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -661,7 +699,8 @@
         "site": "Okains Bay",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -678,7 +717,8 @@
         "site": "Sumner Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -695,7 +735,8 @@
         "site": "Le Bons Bay",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
-        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
       }
     },
     {
@@ -712,7 +753,8 @@
         "site": "Metro Place Organic Processing Plant and EcoDrop",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/watch-your-waste/",
-        "Full name": "Watch your Waste - Taihoa koe i o para"
+        "Full name": "Watch your Waste - Taihoa koe i o para",
+        "Cost": "Free"
       }
     },
     {
@@ -729,7 +771,8 @@
         "site": "Main water pumping station",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/water-for-life/",
-        "Full name": "Water for Life - Te wai ora o Tāne"
+        "Full name": "Water for Life - Te wai ora o Tāne",
+        "Cost": "Free"
       }
     },
     {
@@ -746,7 +789,8 @@
         "site": "Travis Wetland",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/wetlands-waders-and-water-boatmen/",
-        "Full name": "Wetlands, Waders and Water Boatmen"
+        "Full name": "Wetlands, Waders and Water Boatmen",
+        "Cost": "Free"
       }
     }
   ]
