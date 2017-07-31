@@ -419,7 +419,7 @@
         ]
       },
       "properties": {
-        "name": "Our city",
+        "name": "Our City",
         "site": "Christchurch City Council Civic Building (Te Hononga)",
         "category": "Governance",
         "url": "https://ccc.govt.nz/ourcity/",
@@ -436,7 +436,7 @@
         ]
       },
       "properties": {
-        "name": "Park Detectives",
+        "name": "Park detectives",
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/park-detectives-titeketiwhi-paaka/",
@@ -669,13 +669,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          172.756892,
+          -43.56575
+        ]
+      },
+      "properties": {
+        "name": "Searching the shoreline",
+        "site": "Sumner Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/",
+        "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           173.096214,
           -43.741437
         ]
       },
       "properties": {
         "name": "Searching the shoreline",
-        "site": "ay",
+        "site": "Le Bons Bay",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
         "Full name": "Searching the shoreline - Te ara rau o Tangaroa"
