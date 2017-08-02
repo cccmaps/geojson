@@ -11,9 +11,10 @@
         ]
       },
       "properties": {
-        "address": "Arran Crescent, Woolston",
         "SportCode": "Petanque",
-        "AreaName": "Arran Playground"
+        "Address": "Arran Crescent, Woolston",
+        "Parkname": "Arran Playground",
+        "ParkName": "Petanque"
       }
     },
     {
@@ -26,9 +27,10 @@
         ]
       },
       "properties": {
-        "address": "Armagh Street entrance to Hagley Park, CBD",
         "SportCode": "Petanque",
-        "AreaName": "Hagley Park North"
+        "Address": "Armagh Street entrance to Hagley Park, CBD",
+        "Parkname": "Hagley Park North",
+        "ParkName": "Petanque"
       }
     },
     {
@@ -41,9 +43,10 @@
         ]
       },
       "properties": {
-        "address": "Kennedys Bush Road, Halswell",
         "SportCode": "Petanque",
-        "AreaName": "Halswell Quarry Reserve"
+        "Address": "Kennedys Bush Road, Halswell",
+        "Parkname": "Halswell Quarry Reserve",
+        "ParkName": "Petanque"
       }
     },
     {
@@ -56,9 +59,10 @@
         ]
       },
       "properties": {
-        "address": "Lewisham Park, St Albans",
         "SportCode": "Petanque",
-        "AreaName": "Lewisham Reserve"
+        "Address": "Lewisham Park, St Albans",
+        "Parkname": "Lewisham Reserve",
+        "ParkName": "Petanque"
       }
     },
     {
@@ -71,9 +75,10 @@
         ]
       },
       "properties": {
-        "address": "Ridder Place/Clipstone Place, Halswell",
         "SportCode": "Petanque",
-        "AreaName": "Ridder Reserve"
+        "Address": "Ridder Place/Clipstone Place, Halswell",
+        "Parkname": "Ridder Reserve",
+        "ParkName": "Petanque"
       }
     },
     {
@@ -86,9 +91,10 @@
         ]
       },
       "properties": {
-        "address": "Barbadoes Street, Edgewar",
         "SportCode": "Petanque",
-        "AreaName": "St Albans Park"
+        "Address": "Barbadoes Street, Edgeware",
+        "Parkname": "St Albans Park",
+        "ParkName": "Petanque"
       }
     }
   ]
