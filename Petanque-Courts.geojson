@@ -14,7 +14,8 @@
         "SportCode": "Petanque",
         "Address": "Arran Crescent, Woolston",
         "Parkname": "Arran Playground",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     },
     {
@@ -30,7 +31,8 @@
         "SportCode": "Petanque",
         "Address": "Armagh Street entrance to Hagley Park, CBD",
         "Parkname": "Hagley Park North",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     },
     {
@@ -46,7 +48,8 @@
         "SportCode": "Petanque",
         "Address": "Kennedys Bush Road, Halswell",
         "Parkname": "Halswell Quarry Reserve",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     },
     {
@@ -62,7 +65,8 @@
         "SportCode": "Petanque",
         "Address": "Lewisham Park, St Albans",
         "Parkname": "Lewisham Reserve",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     },
     {
@@ -78,7 +82,8 @@
         "SportCode": "Petanque",
         "Address": "Ridder Place/Clipstone Place, Halswell",
         "Parkname": "Ridder Reserve",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     },
     {
@@ -94,7 +99,8 @@
         "SportCode": "Petanque",
         "Address": "Barbadoes Street, Edgeware",
         "Parkname": "St Albans Park",
-        "ParkName": "Petanque"
+        "ParkName": "Petanque",
+        "ServiceStatus": "In Service"
       }
     }
   ]
