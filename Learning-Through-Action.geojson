@@ -69,7 +69,7 @@
         "site": "EcoDepot/EcoDrop Metro Place",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/casting-magic-with-worms/",
-        "Full name": "Casting Magic with Worms",
+        "Full name": "Casting Magic with Worms - Noke, noke, neke, neke, nuku, nuku, nā!",
         "Cost": "Free"
       }
     },
@@ -87,7 +87,7 @@
         "site": "Curators House Christchurch Botanic Gardens",
         "category": "City Water and Waste",
         "url": "https://ccc.govt.nz/casting-magic-with-worms/",
-        "Full name": "Casting Magic with Worms",
+        "Full name": "Casting Magic with Worms - Noke, noke, neke, neke, nuku, nuku, nā!",
         "Cost": "Free"
       }
     },
@@ -114,13 +114,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.722092,
-          -43.478905
+          172.726633,
+          -43.494956
         ]
       },
       "properties": {
         "name": "Coastal Management",
-        "site": "Waimairi Beach",
+        "site": "North New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
         "Full name": "Coastal Management - Taku tai, takutai",
@@ -510,8 +510,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.722398,
-          -43.480052
+          172.724405,
+          -43.486746
         ]
       },
       "properties": {
@@ -528,8 +528,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.727095,
-          -43.493955
+          172.727573,
+          -43.496111
         ]
       },
       "properties": {
@@ -582,8 +582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.730262,
-          -43.502821
+          172.730467,
+          -43.505197
         ]
       },
       "properties": {
@@ -600,8 +600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.73797,
-          -43.522128
+          172.737857,
+          -43.522831
         ]
       },
       "properties": {
@@ -654,8 +654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.72278,
-          -43.481535
+          172.72399,
+          -43.485336
         ]
       },
       "properties": {
@@ -672,8 +672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.726612,
-          -43.492437
+          172.726706,
+          -43.493473
         ]
       },
       "properties": {
@@ -715,6 +715,42 @@
       "properties": {
         "name": "Searching the Shoreline",
         "site": "Sumner Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/",
+        "Full name": "Searching the Shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731368,
+          -43.507327
+        ]
+      },
+      "properties": {
+        "name": "Searching the Shoreline",
+        "site": "New Brighton Beach",
+        "category": "Beach and Shore Habitats",
+        "url": "https://ccc.govt.nz/searching-the-shoreline/",
+        "Full name": "Searching the Shoreline - Te ara rau o Tangaroa",
+        "Cost": "Free"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.737385,
+          -43.521529
+        ]
+      },
+      "properties": {
+        "name": "Searching the Shoreline",
+        "site": "South Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/searching-the-shoreline/",
         "Full name": "Searching the Shoreline - Te ara rau o Tangaroa",
