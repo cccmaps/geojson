@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.690668,
+          -43.503973
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Woolley Street, Avondale",
+        "Parkname": "Avondale Park",
+        "Type": "1 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.616822,
+          -43.528886
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Barrington Street, Spreydon",
+        "Parkname": "Barrington Park",
+        "Type": "Volley wall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.577293,
+          -43.576262
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Forgan Lane/Marsack Crescent, Halswell",
+        "Parkname": "Forgan Reserve",
+        "Type": "1 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.616541,
+          -43.52954
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Armagh Street entrance to Hagley Park, CBD",
+        "Parkname": "Hagley Park North",
+        "Type": "4 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.670388,
+          -43.560476
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Opawa Road, Hillsborough",
+        "Parkname": "Hillsborough Park",
+        "Type": "1 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.592171,
+          -43.514265
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Jeffreys Road, Fendalton",
+        "Parkname": "Jeffreys Reserve",
+        "Type": "1 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.615897,
+          -43.515941
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Rugby Street, Merivale",
+        "Parkname": "Merivale Reserve",
+        "Type": "1 full"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.715131,
+          -43.567601
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Major Hornbrook Road, Mount Pleasant",
+        "Parkname": "Mount Pleasant Old School Reserve",
+        "Type": "1 Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722643,
+          -43.503232
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Shaw Avenue, New Brighton",
+        "Parkname": "Rawhiti Domain",
+        "Type": "4 Full Courts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706575,
+          -43.430192
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Heyders Road, Bottle Lake",
+        "Parkname": "Spencerville Reserve",
+        "Type": "1 Full Court, 2 Half Courts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704284,
+          -43.430724
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Heyders Road, Bottle Lake",
+        "Parkname": "Spencer Park",
+        "Type": "1 Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.469726,
+          -43.550968
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Kirk Road, Templeton",
+        "Parkname": "Templeton Domain",
+        "Type": "1 Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.675972,
+          -43.475429
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Prestons Road, Parklands",
+        "Parkname": "Limes Reserve",
+        "Type": "1 Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.564202,
+          -43.529147
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Yaldhurst Road, Ilam",
+        "Parkname": "Upper Riccarton Domain",
+        "Type": "1 Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.674685,
+          -43.547942
+        ]
+      },
+      "properties": {
+        "SportCode": "Tennis",
+        "Address": "Richardson Terrace, Woolston",
+        "Parkname": "Woolston Park",
+        "Type": "1 Full Court"
+      }
+    }
+  ]
+}
