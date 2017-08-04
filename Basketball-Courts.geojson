@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.703432,
+          -43.517403
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Breezes Road, Aranui",
+        "Parkname": "Aranui Playground",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.578061,
+          -43.532155
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball ",
+        "Address": "Riccarton Road, Upper Riccarton",
+        "Parkname": "Auburn Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.678531,
+          -43.519154
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball ",
+        "Address": "Avonside Drive, Avonside",
+        "Parkname": "Avon Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.690507,
+          -43.504066
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball ",
+        "Address": "Woolley Street, Avondale",
+        "Parkname": "Avondale Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.545709,
+          -43.510063
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball ",
+        "Address": "Hawthornden Street, Avonhead",
+        "Parkname": "Avonhead Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.583694,
+          -43.4873
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball ",
+        "Address": "Leacroft Street, Bishopdale",
+        "Parkname": "Bishopdale Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.530087,
+          -43.552303
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Witham Street, Hornby",
+        "Parkname": "Branston Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.681615,
+          -43.528091
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Buckleys Road, Linwood",
+        "Parkname": "Bromley Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.670737,
+          -43.507322
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "New Brighton Road, Burwood",
+        "Parkname": "Burwood Park (South)",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.709839,
+          -43.510763
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Carisbrook Street, Aranui",
+        "Parkname": "Carisbrook Playground",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665685,
+          -43.493089
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Fairway Drive, Shirley",
+        "Parkname": "Fairway Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.577413,
+          -43.57599
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Forgan Lane/Marsack Crescent, Halswell",
+        "Parkname": "Forgan Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.675972,
+          -43.475429
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Prestons Road, Parklands",
+        "Parkname": "Limes Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.564202,
+          -43.529147
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Yaldhurst Road, Ilam",
+        "Parkname": "Upper Riccarton Domain",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.674581,
+          -43.547786
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Richardson Terrace, Woolston",
+        "Parkname": "Woolston Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604375,
+          -43.57544
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Cashmere Road/Penruddock Rise, Westmoreland",
+        "Parkname": "Francis Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59016,
+          -43.534465
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Peverel Street, Riccarton",
+        "Parkname": "Harrington Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.661304,
+          -43.53164
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Hereford Street, Linwood",
+        "Parkname": "Hereford Playground",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638578,
+          -43.571504
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Holliss Ave, Cashmere",
+        "Parkname": "Holliss Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.581074,
+          -43.506214
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Greers Road, Burnside",
+        "Parkname": "Jellie Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.673846,
+          -43.537119
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Linwood Ave, Linwood",
+        "Parkname": "Linwood Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60094,
+          -43.488016
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Morrison Ave, Northcote",
+        "Parkname": "Morrison Ave Bowling Club Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731496,
+          -43.507782
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Marine Parade, New Brighton",
+        "Parkname": "New Brighton Library and Beach Area",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.715131,
+          -43.567601
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Mount Pleasant Old School Reserve",
+        "Parkname": "Major Hornbrook Road, Mount Pleasant",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611298,
+          -43.483034
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Paddington Street, Northcote",
+        "Parkname": "Paddington Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.664604,
+          -43.497831
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Joy Street, Shirley",
+        "Parkname": "Pagoda Playground",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704334,
+          -43.482032
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Queenspark Drive, Parklands",
+        "Parkname": "Parklands Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.644655,
+          -43.510825
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Barbadoes Street, Edgeware",
+        "Parkname": "St Albans Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.562094,
+          -43.575153
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Checketts Avenue/Nottingham Avenue, Halswell",
+        "Parkname": "Scott Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628305,
+          -43.453186
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Main North Road, Belfast",
+        "Parkname": "Sheldon Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653933,
+          -43.508491
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Shirley Road, Shirley",
+        "Parkname": "Shirley Community Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.733701,
+          -43.530131
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Beatty Avenue, South Brighton",
+        "Parkname": "South Brighton Reserve",
+        "Type": "Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.556857,
+          -43.520677
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Staveley Street/Nortons Road, Avonhead",
+        "Parkname": "Staveley Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736941,
+          -43.523072
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Marine Parade, South Brighton",
+        "Parkname": "Te Karoro Karoro Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.688007,
+          -43.476117
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Titirangi Crescent, Parklands",
+        "Parkname": "Titirangi Reserve",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.700168,
+          -43.510997
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Hampshire Street, Aranui",
+        "Parkname": "Wainoni Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649065,
+          -43.552352
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Waltham Road, Christchurch",
+        "Parkname": "Waltham Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.535929,
+          -43.555912
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Oakley Crescent, Hornby",
+        "Parkname": "Warren Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.550486,
+          -43.517788
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Apsley Drive, Avonhead",
+        "Parkname": "Crosbie Park",
+        "Type": "Half Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.659822,
+          -43.561556
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Butler Street, Opawa",
+        "Parkname": "Hansen Park",
+        "Type": "Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70734,
+          -43.579308
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Port Hills Road, Heathcote Valley",
+        "Parkname": "Heathcote Domain",
+        "Type": "Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.592642,
+          -43.562531
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Mathers Road, Hoon Hay",
+        "Parkname": "Hoon Hay Park",
+        "Type": "Full Court"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653906,
+          -43.500691
+        ]
+      },
+      "properties": {
+        "SportCode": "Basketball",
+        "Address": "Acheson Avenue, Mairehau",
+        "Parkname": "MacFarlane Park",
+        "Type": "Full Court"
+      }
+    }
+  ]
+}
