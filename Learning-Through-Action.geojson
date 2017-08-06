@@ -96,24 +96,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.712267,
-          -43.431989
-        ]
-      },
-      "properties": {
-        "name": "Coastal Management",
-        "site": "Spencer Park Beach",
-        "category": "Beach and Shore Habitats",
-        "url": "https://ccc.govt.nz/coastal-management/",
-        "Full name": "Coastal Management - Taku tai, takutai",
-        "Cost": "Free"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.726633,
           -43.494956
         ]
@@ -132,13 +114,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.741508,
-          -43.530979
+          172.731815,
+          -43.508499
         ]
       },
       "properties": {
         "name": "Coastal Management",
-        "site": "South New Brighton Beach",
+        "site": "New Brighton Beach",
         "category": "Beach and Shore Habitats",
         "url": "https://ccc.govt.nz/coastal-management/",
         "Full name": "Coastal Management - Taku tai, takutai",
