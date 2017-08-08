@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.54915,
+          -43.515796
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Apsley Drive",
+        "Parkname": "Crosbie Park",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691883,
+          -43.538591
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Bromley Road",
+        "Parkname": "Bromley Old School Reserve",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.968816,
+          -43.800876
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Rue Jolie",
+        "Parkname": "Akaroa Recreation Ground",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605979,
+          -43.484832
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Northcote Road",
+        "Parkname": "Craighead Reserve",
+        "ParkName": "BMX track"
+      }
+    }
+  ]
+}
