@@ -1,0 +1,310 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.968205,
+          -43.801235
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Rue Jolie, Akaroa",
+        "Parkname": "Akaroa Boat Park",
+        "Elements": "Ramps, rails, fun-box",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.723811,
+          -43.601931
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Oxford Street, Lyttelton",
+        "Parkname": "Oxford Street Reserve",
+        "Elements": "Ramp",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.583266,
+          -43.488205
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Leacroft Street, Bishopdale",
+        "Parkname": "Bishopdale Park",
+        "Elements": "Ramps and rails",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.591913,
+          -43.562822
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Mathers Road, Hoon Hay",
+        "Parkname": "Hoon Hay Park",
+        "Elements": "Clover bowl",
+        "Style": "Transition/Vert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.58098,
+          -43.505914
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Greers Road, Burnside",
+        "Parkname": "Jellie Park",
+        "Elements": "Ramps and rails",
+        "Style": "Transition/Vert and Freestyle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.676154,
+          -43.536899
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Linwood Ave, Linwood",
+        "Parkname": "Linwood Park",
+        "Elements": "Ramps and rails",
+        "Style": "Transition/Vert and Freestyle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628394,
+          -43.453003
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Main North Road, Belfast",
+        "Parkname": "Sheldon Park",
+        "Elements": "Quarter pipe",
+        "Style": "Transition/Vert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.735065,
+          -43.53345
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Beatty Street, South Brighton",
+        "Parkname": "South New Brighton Park",
+        "Elements": "Series of fun boxes",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642908,
+          -43.510178
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Forfar Street, Edgeware",
+        "Parkname": "St Albans Park",
+        "Elements": "Ramps and rails",
+        "Style": "Transition/Vert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.469773,
+          -43.550925
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Kirk Road, Templeton",
+        "Parkname": "Templeton Domain",
+        "Elements": "Ramps, rails and bowl",
+        "Style": "Transition with street elements"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.726127,
+          -43.496753
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Marine Parade,  New Brighton",
+        "Parkname": "Thomson Park",
+        "Elements": "Ramps and rolling skate area",
+        "Style": "Transition with street elements"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.699374,
+          -43.512604
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Hampshire Street, Aranui",
+        "Parkname": "Wainoni Park",
+        "Elements": "Skate path with stairs, wedge and rails",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649565,
+          -43.552457
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Waltham Road",
+        "Parkname": "Waltham Park",
+        "Elements": "Bowls",
+        "Style": "Transition "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645395,
+          -43.540414
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Moorhouse Avenue and Washington Way, Sydenham",
+        "Parkname": "Washington Way Reserve",
+        "Elements": "Ramps, rails and beginner bowl area ",
+        "Style": "Transition and street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.522225,
+          -43.535339
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Wycola Avenue, Hei Hei",
+        "Parkname": "Wycola Park",
+        "Elements": "Mexican hat bowl",
+        "Style": "Transition "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.666425,
+          -43.467342
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Raranga Street, Marshland",
+        "Parkname": "Muka Park",
+        "Elements": "Skate path with wedge and rails",
+        "Style": "Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.689911,
+          -43.537431
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Raymond Road, Bromley",
+        "Parkname": "Cypress Garden Reserve",
+        "Elements": "Mini ramp",
+        "Style": "Transition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.709452,
+          -43.510831
+        ]
+      },
+      "properties": {
+        "SportCode": "Skatepark",
+        "Address": "Carisbrooke Street, Aranui",
+        "Parkname": "Carisbrooke Reserve",
+        "Elements": ""
+      }
+    }
+  ]
+}
