@@ -64,6 +64,70 @@
         "Parkname": "Craighead Reserve",
         "ParkName": "BMX track"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.671797,
+          -43.503861
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Burwood Park",
+        "Parkname": "Cresswell Avenue, Burwood",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.571026,
+          -43.495286
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Nepal Reserve",
+        "Parkname": "Westpark Drive, Burnside",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.571955,
+          -43.508598
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Westburn Reserve",
+        "Parkname": "Westburn Terrace, Burnside",
+        "ParkName": "BMX track"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706259,
+          -43.566943
+        ]
+      },
+      "properties": {
+        "SportCode": "BMX",
+        "Address": "Ferrymead Park",
+        "Parkname": "Ferrymead Park Drive, Ferrymead",
+        "ParkName": "BMX track"
+      }
     }
   ]
 }
