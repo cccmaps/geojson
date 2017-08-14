@@ -1,0 +1,272 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731595,
+          -43.50688
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "Summer weekends and public holidays",
+        "Name": "New Brighton",
+        "Address": "Marine Parade, New Brighton",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "New Brighton is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. Central New Brighton offers all amenities including the impressive 300m-long pier. Lifeguards patrol much of the area during summer weekends and public holiday"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.74943,
+          -43.559734
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Southshore Spit",
+        "Address": "Spit Reserve, Southshore",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Southshore Spit Reserve is a great example of a dynamic landscape feature and important wildlife habitat. Popular for birdwatching, visitors can enjoy a 40 minute loop walk around the spit starting at Rockinghorse Rd. Safe swimming is nearby at South Brighton."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757617,
+          -43.566341
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "Flagged sections between November and March",
+        "Name": "Sumner",
+        "Address": "Esplanade, Sumner",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Having an icecream at Sumner and a walk along the esplanade or a dip in the sea is a big part of being in Christchurch. Sumner Beach is east of Cave Rock and Scarborough Beach, generally more favoured by surfers, to the west. The nearby village offers a full range of amenties. Lifeguards patrol flagged sections of the bay from November to March."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.776623,
+          -43.583502
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "Summer weekends and public holidays",
+        "Name": "Taylors Mistake",
+        "Address": "Taylors Mistake Road, Taylors Mistake",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Tucked away over the hill from Sumner, Taylors Mistake is a great beach experience. Facilities include carparking, picnic areas, playground, toilets and changing rooms. It's the gateway to a popular walking track around Godley Head. Lifeguards patrol over summer weekends and busy weekdays during summer school holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.703112,
+          -43.609741
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Magazine Bay",
+        "Address": "Park Terrace, Lyttelton",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691472,
+          -43.60572
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Cass Bay",
+        "Address": "Harbour View Terrace, Cass Bay",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.699833,
+          -43.607711
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Corsair Bay",
+        "Address": "Park Terrace, Lyttelton",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Beautiful Corsair Bay in Lyttelton Harbour is a safe swimming beach, popular for kayaking and paddleboarding and for enjoying a stroll along the Coastal Path to neighbouring bays. Facilities include changing rooms, toilets, picnic tables, and a playground. Car parks open from 7am-9pm in summer and 7.30am-5.30pm in winter."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.654722,
+          -43.620202
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Sandy Bay",
+        "Address": "Sandy Beach Road, Governors Bay",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Sandy Bay is a lesser known harbourside gem. Perfect for a family day out, this is a safe swimming beach and great for sailing, kayaking, paddleboarding, fishing, coastal walking and cycling. Food is available at the café or historic pub nearby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.686795,
+          -43.631188
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Quail Island",
+        "Address": "Quail Island",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Ōtamahua/Quail Island lies in the inner harbour, reached via a short ferry ride from Lyttelton. It's easily explored in a few hours and there are plenty of safe swimming opportunities and sheltered picnic spots."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.737108,
+          -43.623357
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Diamond Harbour",
+        "Address": "Waipapa Ave, Diamond Harbour",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Park at the Diamond Harbour village centre or get the ferry across from Lyttelton and walk to this stony but nicely sheltered deep water swimming beach. Amenities include toilets at the beach, local cafes and plenty of walking options."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.752193,
+          -43.637625
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Purau Bay",
+        "Address": "Purau Ave, Purau Bay",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "The shallow, gentle waters at this broad bay are ideal for sailing, kayaking, paddle boarding and safe swimming. With easy access, parking, and a sunny picnic area on the grass, take the family for a great day out. Try the cafes in nearby Diamond Harbour."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.714091,
+          -43.635586
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Hays Bay",
+        "Address": "Marine Drive, Hays Bay",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.966256,
+          -43.806503
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Akaroa",
+        "Address": "Beach Road, Akaroa",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "The harbourside village of Akaroa on Banks Peninsula is a 90 minute drive from Christchurch. The township has its own safe swimming beach perfect for a quick dip on a warm day and building a few sandcastles. All the amenities you could need are conveniently on hand."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.06218,
+          -43.694489
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Okains Bay",
+        "Address": "Okains Bay Road",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Okains Bay is just a 25 minute drive from Akaroa. With a sheltered sandy beach and lagoon it's perfect for swimming, kayaking, paddle boarding and fishing - as well as a game of beach cricket with the kids. Come for the weekend and stay in the beachside camping ground. There's a store and museum nearby."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.768453,
+          -43.572723
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "",
+        "Name": "Scarborough Beach",
+        "Address": "Esplanade, Scarborough",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+      }
+    }
+  ]
+}
