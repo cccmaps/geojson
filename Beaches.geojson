@@ -16,7 +16,7 @@
         "Name": "New Brighton",
         "Address": "Marine Parade, New Brighton",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
-        "Description": "New Brighton is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. Central New Brighton offers all amenities including the impressive 300m-long pier. Lifeguards patrol much of the area during summer weekends and public holiday"
+        "Description": "New Brighton is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. Central New Brighton offers all amenities including the impressive 300m-long pier."
       }
     },
     {
@@ -30,7 +30,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Southshore Spit",
         "Address": "Spit Reserve, Southshore",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -52,7 +52,7 @@
         "Name": "Sumner",
         "Address": "Esplanade, Sumner",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
-        "Description": "Having an icecream at Sumner and a walk along the esplanade or a dip in the sea is a big part of being in Christchurch. Sumner Beach is east of Cave Rock and Scarborough Beach, generally more favoured by surfers, to the west. The nearby village offers a full range of amenties. Lifeguards patrol flagged sections of the bay from November to March."
+        "Description": "Having an icecream at Sumner and a walk along the esplanade or a dip in the sea is a big part of being in Christchurch. Sumner Beach is east of Cave Rock and Scarborough Beach, generally more favoured by surfers, to the west. The nearby village offers a full range of amenities."
       }
     },
     {
@@ -70,7 +70,7 @@
         "Name": "Taylors Mistake",
         "Address": "Taylors Mistake Road, Taylors Mistake",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
-        "Description": "Tucked away over the hill from Sumner, Taylors Mistake is a great beach experience. Facilities include carparking, picnic areas, playground, toilets and changing rooms. It's the gateway to a popular walking track around Godley Head. Lifeguards patrol over summer weekends and busy weekdays during summer school holidays."
+        "Description": "Tucked away over the hill from Sumner, Taylors Mistake is a great beach experience. Facilities include carparking, picnic areas, playground, toilets and changing rooms. "
       }
     },
     {
@@ -84,11 +84,11 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Magazine Bay",
         "Address": "Park Terrace, Lyttelton",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
-        "Description": ""
+        "Description": "Enjoy the sheltered sandy beach of Magazine Bay before exploring the Torpedo Boat Museum housed in a historic powder magazine. The neighbouring bays of Corsair and Cass are accessible via the scenic Coastal Path."
       }
     },
     {
@@ -102,10 +102,11 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Cass Bay",
         "Address": "Harbour View Terrace, Cass Bay",
-        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "A popular swimming beach, Cass Bay has three different coves linked by a gentle walking track and a playground complete with flying fox."
       }
     },
     {
@@ -119,7 +120,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Corsair Bay",
         "Address": "Park Terrace, Lyttelton",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -137,7 +138,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Sandy Bay",
         "Address": "Sandy Beach Road, Governors Bay",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -155,7 +156,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Quail Island",
         "Address": "Quail Island",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -173,7 +174,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Diamond Harbour",
         "Address": "Waipapa Ave, Diamond Harbour",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -191,7 +192,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Purau Bay",
         "Address": "Purau Ave, Purau Bay",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -209,10 +210,11 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Hays Bay",
         "Address": "Marine Drive, Hays Bay",
-        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Safe and peaceful swimming beach near Charteris Bay Yacht Club."
       }
     },
     {
@@ -226,7 +228,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Akaroa",
         "Address": "Beach Road, Akaroa",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -244,7 +246,7 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "n/a",
         "Name": "Okains Bay",
         "Address": "Okains Bay Road",
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
@@ -262,10 +264,29 @@
       },
       "properties": {
         "SportCode": "Beach",
-        "Lifeguard patrol": "",
+        "Lifeguard patrol": "No lifeguards or flags but the Surf Life Saving Club patrols over summer",
         "Name": "Scarborough Beach",
         "Address": "Esplanade, Scarborough",
-        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/"
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "Scarborough Beach is popular for surfing with conditions more favourable at the northern end of the beach. Swimming is safest at the southern end, take care because there's no lifeguard patrol but the north end of the beach is home to the Surf Life Saving Club which runs patrols over summer months. Scarborough has a great playground and paddling pool for children as well as a cafe for ice cream and coffee breaks. Be sure to check out the historic Clock Tower while you're there. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.724428,
+          -43.485821
+        ]
+      },
+      "properties": {
+        "SportCode": "Beach",
+        "Lifeguard patrol": "Over summer, lifeguards are on patrol in weekends and during the school holiday weeks",
+        "Name": "Waimairi Beach",
+        "Address": "Marine Parade, New Brighton",
+        "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
+        "Description": "A popular recreational beach, Waimairi is good for swimming and kite surfing. Neighbouring Broad Park offers a playground and grassy picnic areas for when the golden sandy beach gets too hot. "
       }
     }
   ]
