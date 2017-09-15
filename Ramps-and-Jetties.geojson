@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.965591,
+          -43.804717
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Daly's Ramp",
+        "Address": "Rue Balguerie, Akaroa",
+        "Fees": "See fee table",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.966916,
+          -43.801625
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Akaroa Recreation Ground Ramp",
+        "Address": "Rue Brittan, Akaroa",
+        "Fees": "See fee table",
+        "Use": "Tidal - use Daly's Ramp at low tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.942168,
+          -43.757944
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Duvauchelle Ramp",
+        "Address": "Seafield Road, Duvauchelle",
+        "Fees": "See fee table",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.703246,
+          -43.610542
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Naval Point Ramp",
+        "Address": "Marina Accessway, Lyttelton",
+        "Fees": "See fee table",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.904113,
+          -43.823283
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Wainui Ramp",
+        "Address": "Off Wainui Main Road, Wainui",
+        "Fees": "See fee table",
+        "Access": "Two single access concrete boat ramps",
+        "Parking": "Limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.915573,
+          -43.766128
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Barrys Bay Ramp",
+        "Address": "Off Wainui Main Road, Barrys Bay",
+        "Fees": "None",
+        "Access": "Single access concrete boat ramp",
+        "Parking": "Limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.709113,
+          -43.645422
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Bay View Ramp",
+        "Address": "Bay View, Off Marine Drive, Charteris Bay",
+        "Fees": "None",
+        "Access": "Dual access concrete ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.991971,
+          -43.672815
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Little Akaloa Ramp",
+        "Address": "Off Decanter Bay Road, Little Akaloa",
+        "Fees": "None",
+        "Use": "Tidal",
+        "Access": "Single access concrete boat ramp",
+        "Parking": "Limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.901046,
+          -43.679956
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Pigeon Bay Ramp",
+        "Address": "Off Wharf Road, Pigeon Bay",
+        "Fees": "None",
+        "Use": "Tidal",
+        "Access": "Single access and dual access concrete boat ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.747274,
+          -43.636421
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Purau Bay Ramp",
+        "Address": "Purau Ave, Purau",
+        "Fees": "None",
+        "Use": "Tidal",
+        "Access": "Dual access concrete boat ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73444,
+          -43.555915
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Celia Street/Redcliffs  Ramp",
+        "Address": "Beachville Road, Redcliffs",
+        "Fees": "None",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.710024,
+          -43.557065
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Ferry Road Ramp",
+        "Address": "Where Ferry Road becomes Main Road, Ferrymead",
+        "Fees": "None",
+        "Use": "All tide",
+        "Access": "Single access concrete boat ramp",
+        "Parking": "Limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653061,
+          -43.624624
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Jetty Road",
+        "Address": "Governors Bay",
+        "Fees": "None",
+        "Use": "Closed for earthquake damage",
+        "Parking": "Limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.744546,
+          -43.566041
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Moncks Bay Ramp",
+        "Address": "Off Main Road, Moncks Bay",
+        "Fees": "None",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736725,
+          -43.623179
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Diamond Harbour",
+        "Address": "Off Waipapa Avenue, Diamond Harbour",
+        "Fees": "None",
+        "Access": "Dual access concrete ramp, and ferry wharf",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.656958,
+          -43.619516
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Sandy Beach Boat Ramp",
+        "Address": "Sandy Beach Road, Governors Bay",
+        "Fees": "None",
+        "Use": "Tidal",
+        "Access": "Dual access concrete boat ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.690373,
+          -43.606112
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Cass Bay Boat Ramp",
+        "Address": "Bay View Place, Governors Bay",
+        "Fees": "None",
+        "Use": "Tidal",
+        "Access": "Single access concrete boat ramp",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.699888,
+          -43.607679
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Corsair Bay Boat Ramp",
+        "Address": "Charlotte Jane Quay, Governors Bay",
+        "Fees": "None",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.771573,
+          -43.57153
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Sumner Boat Ramp",
+        "Address": "Off Heberden Avenue, Scarborough",
+        "Fees": "None",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73637,
+          -43.62325
+        ]
+      },
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Hays Bay Ramp",
+        "Address": "Off Marine Drive, off Waipapa Avenue, Hays Bay",
+        "Fees": "None",
+        "Access": "Beach launching access",
+        "Parking": "Ample"
+      }
+    }
+  ]
+}
