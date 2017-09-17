@@ -82,8 +82,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.904113,
-          -43.823283
+          172.903623,
+          -43.818059
         ]
       },
       "properties": {
@@ -92,7 +92,8 @@
         "Address": "Off Wainui Main Road, Wainui",
         "Fees": "See fee table",
         "Access": "Two single access concrete boat ramps",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Use": "To be advised"
       }
     },
     {
@@ -110,7 +111,8 @@
         "Address": "Off Wainui Main Road, Barrys Bay",
         "Fees": "None",
         "Access": "Single access concrete boat ramp",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Use": "To be advised"
       }
     },
     {
@@ -128,7 +130,8 @@
         "Address": "Bay View, Off Marine Drive, Charteris Bay",
         "Fees": "None",
         "Access": "Dual access concrete ramp",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Use": "To be advised"
       }
     },
     {
@@ -218,11 +221,11 @@
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Ferry Road Ramp",
-        "Address": "Where Ferry Road becomes Main Road, Ferrymead",
+        "Name": "Ferry Road Ramps",
+        "Address": "Scott Park, Ferrymead",
         "Fees": "None",
         "Use": "All tide",
-        "Access": "Single access concrete boat ramp",
+        "Access": "Multiple single access concrete boat ramps",
         "Parking": "Limited"
       }
     },
@@ -241,7 +244,8 @@
         "Address": "Governors Bay",
         "Fees": "None",
         "Use": "Closed for earthquake damage",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Access": "Wooden jetty"
       }
     },
     {
@@ -274,11 +278,12 @@
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Diamond Harbour",
+        "Name": "Diamond Harbour Wharf",
         "Address": "Off Waipapa Avenue, Diamond Harbour",
         "Fees": "None",
         "Access": "Dual access concrete ramp, and ferry wharf",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Use": "All tide"
       }
     },
     {
@@ -311,7 +316,7 @@
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Cass Bay Boat Ramp",
+        "Name": "Cass Bay Dinghy Ramp",
         "Address": "Bay View Place, Governors Bay",
         "Fees": "None",
         "Use": "Tidal",
@@ -349,7 +354,7 @@
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Sumner Boat Ramp",
+        "Name": "Sumner Life Boat Ramp",
         "Address": "Off Heberden Avenue, Scarborough",
         "Fees": "None",
         "Use": "All tide",
@@ -362,16 +367,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.73637,
-          -43.62325
+          172.7042,
+          -43.610523
         ]
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Hays Bay Ramp",
-        "Address": "Off Marine Drive, off Waipapa Avenue, Hays Bay",
-        "Fees": "None",
-        "Access": "Beach launching access",
+        "Name": "Lyttelton Public Ramp",
+        "Address": "Marina Accessway, Lyttelton",
+        "Fees": "See fee table",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
         "Parking": "Ample"
       }
     }
