@@ -1066,54 +1066,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.622563272784,
-            -43.5338578699228,
-            0
-          ],
-          [
-            172.621783698323,
-            -43.5336137066879,
-            0
-          ],
-          [
-            172.621783636631,
-            -43.5336136883951,
-            0
-          ],
-          [
-            172.621774415252,
-            -43.5336109470657,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "4492",
-        "styleUrl": "#Style1",
-        "styleHash": "-79a7c6ed",
-        "stroke": "#ff0000",
-        "stroke-opacity": 1,
-        "stroke-width": 3,
-        "ParkingZoneID": "4492",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": "120",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm Sat-Sun 9am-6pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.622411379233,
             -43.5339731230191,
             0
@@ -4746,7 +4698,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -4794,7 +4746,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -4837,7 +4789,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -4875,7 +4827,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -5032,7 +4984,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -5070,7 +5022,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -5113,7 +5065,7 @@
         "Revenue": "Metered",
         "RestrictedByTimeOfDay": "Not restricted",
         "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
+        "ParkingHourlyRate": "$2.00",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm"
       }
     },
@@ -8127,6 +8079,158 @@
         "ParkingDailyRate": "Not applicable",
         "ParkingHourlyRate": "$3.10",
         "MeterHoursOfOperation": "Mon-Sun 9am-6pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.622362229748,
+            -43.533794903808,
+            0
+          ],
+          [
+            172.621783636631,
+            -43.5336136883951,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "19832",
+        "styleUrl": "#Style1",
+        "styleHash": "-79a7c6ed",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "ParkingZoneID": "19832",
+        "Configuration": "Parallel",
+        "RestrictedByUse": "No restriction",
+        "RestrictedByUseCode": "None",
+        "RestrictedByDurationCode": "P120",
+        "RestrictedByDurationDescription": "120 minutes maximum",
+        "RestrictedByDuration": "120",
+        "Revenue": "Metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "$3.10",
+        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm Sat-Sun 9am-6pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.640120353783,
+            -43.5287040025307,
+            0
+          ],
+          [
+            172.640505426785,
+            -43.5287041445006,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "19865",
+        "styleUrl": "#Style1",
+        "styleHash": "-79a7c6ed",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "ParkingZoneID": "19865",
+        "Configuration": "Parallel",
+        "RestrictedByUse": "No restriction",
+        "RestrictedByUseCode": "None",
+        "RestrictedByDurationCode": "P120",
+        "RestrictedByDurationDescription": "120 minutes maximum",
+        "RestrictedByDuration": "120",
+        "Revenue": "Metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "$3.10",
+        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm Sat-Sun 9am-6pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.641049240738,
+            -43.5287026449121,
+            0
+          ],
+          [
+            172.641281462209,
+            -43.528702304337,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "19866",
+        "styleUrl": "#Style1",
+        "styleHash": "-79a7c6ed",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "ParkingZoneID": "19866",
+        "Configuration": "Parallel",
+        "RestrictedByUse": "No restriction",
+        "RestrictedByUseCode": "None",
+        "RestrictedByDurationCode": "P120",
+        "RestrictedByDurationDescription": "120 minutes maximum",
+        "RestrictedByDuration": "120",
+        "Revenue": "Metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "$3.10",
+        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm Sat-Sun 9am-6pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.64196866845,
+            -43.5287066945955,
+            0
+          ],
+          [
+            172.642421949338,
+            -43.5287080155768,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "19867",
+        "styleUrl": "#Style1",
+        "styleHash": "-79a7c6ed",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 3,
+        "ParkingZoneID": "19867",
+        "Configuration": "Parallel",
+        "RestrictedByUse": "No restriction",
+        "RestrictedByUseCode": "None",
+        "RestrictedByDurationCode": "P120",
+        "RestrictedByDurationDescription": "120 minutes maximum",
+        "RestrictedByDuration": "120",
+        "Revenue": "Metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "$3.10",
+        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm Sat-Sun 9am-6pm"
       }
     },
     {
@@ -11938,120 +12042,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.636883338854,
-            -43.5297941487817,
-            0
-          ],
-          [
-            172.637174415728,
-            -43.5297937232872,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "15521",
-        "styleUrl": "#Style2",
-        "styleHash": "-24ace9d6",
-        "stroke": "#00dcdc",
-        "stroke-opacity": 1,
-        "stroke-width": 2.66666666666667,
-        "ParkingZoneID": "15521",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P60",
-        "RestrictedByDurationDescription": "60 minutes maximum",
-        "RestrictedByDuration": "60",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "",
-        "ParkingHourlyRate": "",
-        "MeterHoursOfOperation": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.637264633879,
-            -43.529793893114,
-            0
-          ],
-          [
-            172.637485884786,
-            -43.5297946661567,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "15527",
-        "styleUrl": "#Style2",
-        "styleHash": "-24ace9d6",
-        "stroke": "#00dcdc",
-        "stroke-opacity": 1,
-        "stroke-width": 2.66666666666667,
-        "ParkingZoneID": "15527",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P60",
-        "RestrictedByDurationDescription": "60 minutes maximum",
-        "RestrictedByDuration": "60",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri-Sun 9am-8.30pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.637565862486,
-            -43.5297949447873,
-            0
-          ],
-          [
-            172.637661122678,
-            -43.5297952771163,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "15528",
-        "styleUrl": "#Style2",
-        "styleHash": "-24ace9d6",
-        "stroke": "#00dcdc",
-        "stroke-opacity": 1,
-        "stroke-width": 2.66666666666667,
-        "ParkingZoneID": "15528",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P60",
-        "RestrictedByDurationDescription": "60 minutes maximum",
-        "RestrictedByDuration": "60",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri-Sun 9am-8.30pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.631847757668,
             -43.5252299931632,
             0
@@ -15647,6 +15637,44 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63902079276,
+            -43.5330669405666,
+            0
+          ],
+          [
+            172.638527970134,
+            -43.5330665581315,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "19868",
+        "styleUrl": "#Style2",
+        "styleHash": "-24ace9d6",
+        "stroke": "#00dcdc",
+        "stroke-opacity": 1,
+        "stroke-width": 2.66666666666667,
+        "ParkingZoneID": "19868",
+        "Configuration": "Parallel",
+        "RestrictedByUse": "No restriction",
+        "RestrictedByUseCode": "None",
+        "RestrictedByDurationCode": "P60",
+        "RestrictedByDurationDescription": "60 minutes maximum",
+        "RestrictedByDuration": "60",
+        "Revenue": "Metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "$3.10",
+        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri-Sun 9am-8.30pm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "Point",
         "coordinates": [
           172.616699131918,
@@ -15835,6 +15863,34 @@
         "RestrictedByDuration": "",
         "Revenue": "Not metered",
         "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "",
+        "ParkingHourlyRate": "",
+        "MeterHoursOfOperation": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628648040838,
+          -43.5346870555741,
+          0
+        ]
+      },
+      "properties": {
+        "name": "19828",
+        "styleUrl": "#Style3",
+        "styleHash": "71f95c73",
+        "ParkingZoneID": "19828",
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Disabled parking",
+        "RestrictedByUseCode": "DP",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": "",
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
         "ParkingDailyRate": "",
         "ParkingHourlyRate": "",
         "MeterHoursOfOperation": ""
@@ -18395,278 +18451,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.638184116135,
-            -43.5277176360463,
-            0
-          ],
-          [
-            172.638086370272,
-            -43.5276216787888,
-            0
-          ],
-          [
-            172.638041734385,
-            -43.5275784335526,
-            0
-          ],
-          [
-            172.638013818999,
-            -43.5275523496493,
-            0
-          ],
-          [
-            172.637456421512,
-            -43.5270493885598,
-            0
-          ],
-          [
-            172.637447190663,
-            -43.5270410591168,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "9155",
-        "styleUrl": "#Style5",
-        "styleHash": "bba2f8f",
-        "stroke": "#00ff00",
-        "stroke-opacity": 1,
-        "stroke-width": 3,
-        "ParkingZoneID": "9155",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "None",
-        "RestrictedByDurationDescription": "Unrestricted",
-        "RestrictedByDuration": "",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "$2.00",
-        "ParkingHourlyRate": "$2.00",
-        "MeterHoursOfOperation": "Mon-Sun 9am-6pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.638198412628,
-            -43.5275627549485,
-            0
-          ],
-          [
-            172.638196812316,
-            -43.5275619829451,
-            0
-          ],
-          [
-            172.638170597972,
-            -43.5275493369286,
-            0
-          ],
-          [
-            172.638168297872,
-            -43.5275481329049,
-            0
-          ],
-          [
-            172.63816613073,
-            -43.5275468047006,
-            0
-          ],
-          [
-            172.638165547002,
-            -43.5275463875568,
-            0
-          ],
-          [
-            172.63816410918,
-            -43.527545360059,
-            0
-          ],
-          [
-            172.638162245008,
-            -43.5275438074013,
-            0
-          ],
-          [
-            172.637865065708,
-            -43.527276328628,
-            0
-          ],
-          [
-            172.637864119888,
-            -43.5272754773302,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "9161",
-        "styleUrl": "#Style5",
-        "styleHash": "bba2f8f",
-        "stroke": "#00ff00",
-        "stroke-opacity": 1,
-        "stroke-width": 3,
-        "ParkingZoneID": "9161",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "None",
-        "RestrictedByDurationDescription": "Unrestricted",
-        "RestrictedByDuration": "",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "$2.00",
-        "ParkingHourlyRate": "$2.00",
-        "MeterHoursOfOperation": "Mon-Sun 9am-6pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63762898988,
-            -43.5270674570778,
-            0
-          ],
-          [
-            172.637564103282,
-            -43.5270054454111,
-            0
-          ],
-          [
-            172.637564102202,
-            -43.5270054443468,
-            0
-          ],
-          [
-            172.637564100998,
-            -43.5270054433551,
-            0
-          ],
-          [
-            172.637519208603,
-            -43.526965031525,
-            0
-          ],
-          [
-            172.637518674274,
-            -43.5269645505247,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "9165",
-        "styleUrl": "#Style5",
-        "styleHash": "bba2f8f",
-        "stroke": "#00ff00",
-        "stroke-opacity": 1,
-        "stroke-width": 3,
-        "ParkingZoneID": "9165",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "None",
-        "RestrictedByDurationDescription": "Unrestricted",
-        "RestrictedByDuration": "",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "$2.00",
-        "ParkingHourlyRate": "$2.00",
-        "MeterHoursOfOperation": "Mon-Sun 9am-6pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.637464867972,
-            -43.5269161143592,
-            0
-          ],
-          [
-            172.637462290931,
-            -43.5269151826152,
-            0
-          ],
-          [
-            172.637421200311,
-            -43.5269003260548,
-            0
-          ],
-          [
-            172.637250662031,
-            -43.5268386666798,
-            0
-          ],
-          [
-            172.637065631788,
-            -43.5268255501135,
-            0
-          ],
-          [
-            172.637052914178,
-            -43.5268249958077,
-            0
-          ],
-          [
-            172.637036405797,
-            -43.5268242762764,
-            0
-          ],
-          [
-            172.636880190859,
-            -43.5268256489563,
-            0
-          ],
-          [
-            172.636773286443,
-            -43.5268265882163,
-            0
-          ],
-          [
-            172.636770956457,
-            -43.5268266086864,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "name": "9168",
-        "styleUrl": "#Style5",
-        "styleHash": "bba2f8f",
-        "stroke": "#00ff00",
-        "stroke-opacity": 1,
-        "stroke-width": 3,
-        "ParkingZoneID": "9168",
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "None",
-        "RestrictedByDurationDescription": "Unrestricted",
-        "RestrictedByDuration": "",
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "$2.00",
-        "ParkingHourlyRate": "$2.00",
-        "MeterHoursOfOperation": "Mon-Sun 9am-6pm"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.632784299348,
             -43.5277437921856,
             0
@@ -20527,6 +20311,36 @@
         "ParkingHourlyRate": "",
         "MeterHoursOfOperation": "",
         "ObservationDate": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645218325937,
+          -43.5363202658901,
+          0
+        ]
+      },
+      "properties": {
+        "name": "19834",
+        "styleUrl": "#Style4",
+        "styleHash": "3106eeda",
+        "ParkingZoneID": "19834",
+        "drvParkingSpaces": "",
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "P5",
+        "RestrictedByDurationDescription": "5 minutes maximum",
+        "RestrictedByDuration": "5",
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "",
+        "ParkingHourlyRate": "",
+        "MeterHoursOfOperation": "",
+        "ObservationDate": "2017-08-31T09:06:02"
       }
     },
     {
