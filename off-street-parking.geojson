@@ -56,7 +56,7 @@
         "monthly": "N/A",
         "metered": "N/A",
         "p180": null,
-        "PleaseNote": "Please note: Gates close: Nov-Feb 9pm. March 8.30pm. April-Sept (Daylight savings) 6.30pm. Sept-Oct (Dalight savings) 8.30pm",
+        "PleaseNote": "Gates close: Nov-Feb 9pm. March 8.30pm. April-Sept (Daylight savings) 6.30pm. Sept-Oct (Dalight savings) 8.30pm",
         "Access": "Armagh St",
         "HoursOfOperation": "24 hours"
       }
@@ -236,7 +236,7 @@
         "monthly": null,
         "metered": null,
         "p180": null,
-        "PleaseNote": "Please note: Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
+        "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
         "Access": null,
         "HoursOfOperation": "24 hours"
       }
@@ -266,7 +266,7 @@
         "monthly": "Yes",
         "metered": "Yes",
         "p180": "N/A",
-        "PleaseNote": "Please note: Text park not available",
+        "PleaseNote": "Text park not available",
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St."
       }
@@ -412,7 +412,7 @@
         "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
         "alldayrate": "N/A",
         "timelimit": "N/A",
-        "PleaseNote": "Please note: If locked in please contact Armourguard 03 941-7304               ",
+        "PleaseNote": "If locked in please contact Armourguard 03 941-7304               ",
         "metered": "Yes",
         "p180": "N/A",
         "HoursOfOperation": "7am-Midnight Mon-Sun",
@@ -453,6 +453,13 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631294,
+          -43.532281
+        ]
+      },
       "properties": {
         "name": "West End car park building",
         "description": "West End Car park building",
@@ -472,17 +479,17 @@
         "p180": "",
         "PleaseNote": "",
         "HoursOfOperation": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.631294,
-          -43.532281
-        ]
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637731,
+          -43.534106
+        ]
+      },
       "properties": {
         "type": "Other Off-street Carpark",
         "address": "71 Lichfield Street",
@@ -502,17 +509,17 @@
         "p180": "",
         "PleaseNote": "",
         "HoursOfOperation": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.637731,
-          -43.534106
-        ]
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635111,
+          -43.534111
+        ]
+      },
       "properties": {
         "name": "Innovation car park building",
         "description": "Innovation Car park building",
@@ -532,23 +539,23 @@
         "marker-symbol": "",
         "nightrate": "",
         "monthly": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.635111,
-          -43.534111
-        ]
       }
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64242,
+          -43.534448
+        ]
+      },
       "properties": {
         "name": "Lichfield Street car park building",
-        "description": "xxxxxxxxx",
+        "description": "Lichfield Street car park building",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "type": "Other Off-street Carpark",
+        "type": "CCC Off-Street Carpark",
         "spaces": "tbc",
         "address": "33 Lichfield Street",
         "hourlyrate": "tbc",
@@ -562,13 +569,36 @@
         "marker-symbol": "",
         "nightrate": "",
         "monthly": ""
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.64242,
           -43.534448
         ]
+      },
+      "properties": {
+        "name": "Lichfield Street car park building",
+        "description": "Lichfield Street car park building",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "type": "Mobility Off-Street",
+        "spaces": "tbc",
+        "address": "33 Lichfield Street",
+        "hourlyrate": "tbc",
+        "alldayrate": "tbc",
+        "timelimit": "tbc",
+        "Access": "Lichfield Street",
+        "PleaseNote": "",
+        "metered": "",
+        "p180": "",
+        "HoursOfOperation": "",
+        "marker-symbol": "",
+        "nightrate": "",
+        "monthly": ""
       }
     }
   ]
