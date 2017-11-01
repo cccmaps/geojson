@@ -28,7 +28,9 @@
         "p180": null,
         "PleaseNote": null,
         "Access": null,
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -58,7 +60,8 @@
         "p180": null,
         "PleaseNote": "Gates close: Nov-Feb 9pm. March 8.30pm. April-Sept (Daylight savings) 6.30pm. Sept-Oct (Dalight savings) 8.30pm",
         "Access": "Armagh St",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council"
       }
     },
     {
@@ -88,7 +91,9 @@
         "p180": null,
         "PleaseNote": null,
         "Access": null,
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -118,7 +123,9 @@
         "p180": null,
         "PleaseNote": null,
         "Access": null,
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -148,7 +155,8 @@
         "p180": null,
         "Access": null,
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council"
       }
     },
     {
@@ -178,7 +186,8 @@
         "p180": null,
         "Access": null,
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council"
       }
     },
     {
@@ -208,7 +217,9 @@
         "p180": "N/A",
         "Access": "Durham St North or Chester St West",
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -238,7 +249,8 @@
         "p180": null,
         "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
         "Access": null,
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council"
       }
     },
     {
@@ -268,7 +280,9 @@
         "p180": "N/A",
         "PleaseNote": "Text park not available",
         "HoursOfOperation": "24 hours",
-        "Access": "Rolleston Ave or Worcester St."
+        "Access": "Rolleston Ave or Worcester St.",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -298,7 +312,9 @@
         "p180": "Yes",
         "Access": "Gloucester St, Manchester St or Worcester St.",
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -328,7 +344,9 @@
         "p180": "N/A",
         "Access": "Bernard St or Clarence St South.",
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": ""
       }
     },
     {
@@ -358,7 +376,9 @@
         "p180": "N/A",
         "Access": "Worcester St",
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -388,7 +408,9 @@
         "p180": null,
         "Access": null,
         "PleaseNote": "",
-        "HoursOfOperation": "24 hours"
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -418,7 +440,9 @@
         "HoursOfOperation": "7am-Midnight Mon-Sun",
         "nightrate": "N/A",
         "monthly": "N/A",
-        "Access": "Gloucester St"
+        "Access": "Gloucester St",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -448,7 +472,9 @@
         "metered": "",
         "p180": "",
         "PleaseNote": "",
-        "HoursOfOperation": ""
+        "HoursOfOperation": "",
+        "Provider": "Wilson Parking",
+        "Promotion": ""
       }
     },
     {
@@ -478,7 +504,9 @@
         "metered": "",
         "p180": "",
         "PleaseNote": "",
-        "HoursOfOperation": ""
+        "HoursOfOperation": "",
+        "Provider": "Wilson Parking",
+        "Promotion": ""
       }
     },
     {
@@ -508,7 +536,9 @@
         "metered": "",
         "p180": "",
         "PleaseNote": "",
-        "HoursOfOperation": ""
+        "HoursOfOperation": "",
+        "Provider": "Wilson Parking",
+        "Promotion": ""
       }
     },
     {
@@ -538,7 +568,9 @@
         "HoursOfOperation": "",
         "marker-symbol": "",
         "nightrate": "",
-        "monthly": ""
+        "monthly": "",
+        "Provider": "Innovation Carpark",
+        "Promotion": ""
       }
     },
     {
@@ -568,7 +600,9 @@
         "HoursOfOperation": "",
         "marker-symbol": "",
         "nightrate": "",
-        "monthly": ""
+        "monthly": "",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     },
     {
@@ -598,7 +632,9 @@
         "HoursOfOperation": "",
         "marker-symbol": "",
         "nightrate": "",
-        "monthly": ""
+        "monthly": "",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
       }
     }
   ]
