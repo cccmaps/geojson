@@ -620,7 +620,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "type": "Mobility Off-Street",
-        "spaces": "tbc",
+        "spaces": 24,
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 (6am-6pm) Mon-Sun",
         "alldayrate": "$$10 (max 24hr period)",
