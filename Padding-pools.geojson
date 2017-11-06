@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.629707,
+          -43.514001
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Abberley Crescent, St Albans",
+        "Parkname": "Abberley Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "Not only is there a paddling pool in this lovely park but there's multiple playgrounds, a stunning rose garden and lots of trees to find relief from the hot summer sun under."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660472,
+          -43.520503
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Vogel Street, Eveleyn Couzins Ave, River Road, Richmond",
+        "Parkname": "Avebury Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "This paddling pool sits in the grounds of an English style park and gardens. A playground, large shelter trees and seating are nearby - perfect for hot summer days.",
+        "URL": "assets/Images/Parks-gardens/Playgrounds/pool-8resize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619479,
+          -43.528717
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Riccarton Avenue, Rolleston Avenue",
+        "Parkname": "Botanic Gardens",
+        "Type": "",
+        "URL": "assets/Images/Parks-gardens/Playgrounds/Young-person-on-swing-in-playground.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.730792,
+          -43.505799
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Marine Parade, New Brighton ",
+        "Parkname": "New Brighton Foreshore ",
+        "Open": "Closed",
+        "Type": "The popular whale pool is getting a much needed makeover and will be open again in the not too distant future."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.770281,
+          -43.573074
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Condell Avenue, Papanui",
+        "Parkname": "Edgar MacIntosh Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "This paddling pool is part of a larger sports park that offers a playground and lots of space to run around."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.770281,
+          -43.573074
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "The Esplanade, Sumner",
+        "Parkname": "Scarborough Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "Right next to the beach, an ice cream shop and a large playground, this paddling pool has been entertaining generations of Christchurch children and has recently been upgraded.",
+        "URL": "assets/Images/Parks-gardens/Playgrounds/5.-Scarborough-Poolresize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70656,
+          -43.429783
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Heyders Road, Spencerville",
+        "Parkname": "Spencer Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "A large paddling pool for summer splashing offers a great way to cool down after a play on the adventure playground and run around in the large fields - take a picnic tea and lots of friends."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.671528,
+          -43.524351
+        ]
+      },
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Address": "Woodham Road, Linwood",
+        "Parkname": "Woodham Park",
+        "Open": "Open from 18 November to 31 March",
+        "Type": "A sheltered paddling pool and large play area sit inside this English style park that is covered by a large collection of mature trees, hedges and herbaceous plants."
+      }
+    }
+  ]
+}
