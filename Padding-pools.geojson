@@ -49,8 +49,9 @@
         "SportCode": "Paddling Pools",
         "Address": "Riccarton Avenue, Rolleston Avenue",
         "Parkname": "Botanic Gardens",
-        "Type": "",
-        "URL": "assets/Images/Parks-gardens/Playgrounds/Young-person-on-swing-in-playground.jpg"
+        "Type": "A popular spot for paddling, playing and picnics, this pool is set in the heart of the picturesque Botanic Gardens and has been a Christchurch summer staple for many years.\",",
+        "URL": "assets/Images/Parks-gardens/Playgrounds/Young-person-on-swing-in-playground.jpg",
+        "Open": "Open from 18 Nov to 31 March"
       }
     },
     {
