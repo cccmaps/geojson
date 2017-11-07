@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620668,
+          -43.529098
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "Kiosk Lake",
+        "Artname": "Diminish and Ascend",
+        "Type": "Master metal sculptor David McCracken created the illusion of an infinite staircase rising from the lake and ascending toward the clouds with 'Diminish and Ascend'. The sizeable artwork is a 13 metre long receding perspective staircase made from aluminium. Previously on display in Sydney and Waiheke Island, the sculpture will remain in the Gardens until late 2017.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxODdd/Diminish-and-Ascend-Sculpture-2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621155,
+          -43.530421
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Central Rose Garden",
+        "Artname": "Stevenson Sundial",
+        "Type": "This sundial serves as both an orientation table for some of the world's major cities and a sundial for New Zealand Standard Time. Built with a conical shaped pedestal clad with Halswell bluestone, the dial plate is made from polished ebony granite and the dial of brass. The darker colouring and natural materials were felt to be more harmonious than previous materials used for garden ornamentation. During the 1950s there were multiple issues with the ornamental mirror pool in the centre of the Rosary and it was decided that a sundial would be a more suitable feature. Christchurch resident Thomas Stevenson donated eighty pounds towards the creation of a sundial and it was constructed in 1954. A brass plate is attached to the base of the sundial bearing the inscription: Erected to the memory of the late Thomas Stevenson of Papanui, Christchurch, September 23rd 1954.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwzMTld/CBG-Artwork-Stevenson-Sundial-2a.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.625064,
+          -43.531172
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "East end of Archery Lawn",
+        "Artname": "Regret Fountain",
+        "Type": "This spidery sculpture, created by local Canterbury sculptor Sam Mahon, is over six metres high and constructed from steel rods of varying thickness and includes a working pump. Regret was designed to reflect the messy reality of human life nd was an instant crowd pleaser when it was first installed for the 1997-98 ‘Sculpture in the Gardens’ event. The sculpture can only move with audience participation, and artist Sam Mahon wanted the sculpture to stay in the Gardens because it made a lot of people happy. Regret Fountain is on a long term loan to the Botanic Gardens from Robin Judkin's collection.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Regret-3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623972,
+          -43.530676
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Centre of the Herbaceous Border",
+        "Artname": "Hunter Sundial",
+        "Type": "The sundial was gifted to the Botanic Gardens in 1913 by John Hunter who carved the pedestal himself. Originally placed in the newly made Rosary, the sundial stayed until 1934 when it disappeared for some time, resurfacing in its current position in 1971 to replace the damaged Rolleston sundial. The sundial is an Oamaru stone cairn (a man-made stack of stones) with a slate dial and a brass shadow marker. There are four brass inscribed plaques around the outside edge of the dial that bear an inscription from the King James Bible reading: The desert : Shall Rejoice : And Blossom : As The Rose.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxOThd/CBG-Artwork-Hunter-Sundial-2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62256,
+          -43.529788
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "Visitor Centre exhibition",
+        "Artname": "Scott Statues",
+        "Type": "Marble statues of the female form standing at approximately 1.4 metres tall, c. 1880. All three figures are posed in draped garments and thematically linked by animals positioned on the bases.  Christchurch resident and businessman George Scott originally purchased a number of statues to line the drive of his Opawa home. Four of these were donated to the Gardens in 1924 when Scott's family moved to a new home. Originally they were placed in the newly constructed Cuningham House but were subject to vandalism, one of them being almost completely destroyed. Today, one of the statues is on display in the Visitor Centre and the remaining in storage.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Scott-Statue-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62256,
+          -43.529788
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Visitor Centre exhibition",
+        "Artname": "Lady Rhodes Cranes",
+        "Type": "A two metre tall bronze crane crafted during the Meiji period (1868 to 1912) in Japan. This crane is one of a pair purchased in 1891 by Lady Jessie Rhodes while she honeymooned with her husband Sir Heaton Rhodes, a prominent Christchurch lawyer and politician. The cranes were gifted to the Gardens in 1968 by the Rhodes' niece Miss C O'Rorke and displayed in Cuningham House until the 1980s when it became vital to their preservation that they were removed. Today, one of the cranes is on display in the Visitor Centre and the other is in storage.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwyMTZd/Cranes.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627006,
+          -43.53205
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "Armstrong Lawn",
+        "Artname": "Moorhouse Statue",
+        "Type": "The bronze statue on stone plinth of William Sefton Moorhouse, was the region’s longest serving Canterbury Provincial Superintendent, serving from 1858−62 and 1866−68. More on the Moorhouse Statue (link: https://cccgovtnz.cwp.govt.nz/culture-and-community/heritage/heritage-in-the-city/statues/moorhouse-statue/).",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Culture-Community/Heritage/Statue-10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62697,
+          -43.531454
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Armstrong Lawn",
+        "Artname": "Peacock Fountain",
+        "Type": "Highly ornate cast iron fountain set in large circular pool. A rare example of this type of Edwardian design, the fountain was recommissioned by Mayor Vicki Buck in 1996. More about the Peacock Fountain (link: https://cccgovtnz.cwp.govt.nz/culture-and-community/heritage/heritage-in-the-city/fountains/peacock-fountain/).",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzgwMCw1NzJd/Peacock-Fountain-May2012-0752resize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62602,
+          -43.53081
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "Near Armstrong Lawn at the rear of Canterbury Museum",
+        "Artname": "Robert McDougall Art Gallery",
+        "Type": "Named after its donor, local businessman Robert Ewing McDougall, the gallery first opened its doors in 1932 and was Christchurch's first public art gallery. Initially, the gallery was home to a small collection of 160 paintings and sculptures but this collection steadily grew. With the development of a new Christchurch Art Gallery on Montreal Street in 2003, the Robert McDougall Art Gallery was closed but used periodically for Canterbury Museum exhibitions until it sustained damage in the 2010 earthquakes. It is currently undergoing repairs. The Robert McDougall Art Gallery is a Category 1 listed building.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxOThd/The-Robert-McDougall-Art-Gallery1resize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.625024,
+          -43.532046
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Along the Daffodil Woodland riverbank in Hagley Park",
+        "Artname": "Taking Flight",
+        "Type": "A bronze drinking fountain designed by New Zealand sculptor Phil Price to represent a moment in time. The form of this abstract sculpture mirrors the form of the ducks as they take flight, or come to land along the river that flows through Christchurch. The fountain was gifted to the city of Christchurch by the Canterbury Branch of the Institute of Foundrymen in 1993.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Taking-Flight.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619277,
+          -43.530089
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Address": "West of the Central Rose Garden and adjacent to the Water Garden",
+        "Artname": "Te Puna Ora Spring",
+        "Type": "Te Puna Ora translates from Maori as The Spring Of Life. In this artwork, a small spring is surrounded by several stone carvings made by sculptors Riki Manuel and Douglas Woods. Commissioned and constructed in 1992, Manuel and Woods bring diverse cultures together through a shared respect for water and its significance as life bringer and place of pilgrimage in both Māori and European history. Manuel’s sculpture, Kaitiaki Kiwa, (to the right of the spring) embodies the shape of a Māori Water Spirit, which you can see in the curves of the natural shape of the rock. Woods’ sculpture (left of the spring) utilises the triskele, an ancient symbol first appearing in 3000BCE, to represent Celtic and Māori heritage, celebrating the circle and unity of life in both cultures. Te Puna Ora was blessed by Tip Manihea, a highly respected Kaumātua (Māori elder) from the Tūhoe iwi (tribe).",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwzMjFd/CBG-Artwork-Te-Puna-Ora-Celtic-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623972,
+          -43.531876
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Daffodil Woodland, Hagley Park",
+        "Artname": "Seasonal Sculptures: Daffodil",
+        "Type": "Raymond Herber’s oversized steel sculptures are representative of the changing seasons. The daffodils are at their most beautiful in the spring while the roses are most colourful in the summer. Ferns are green and alive in the winter when nothing else is, and the oak leaves turn gorgeous colours during autumn. The  daffodil, rose, and fern are made from galvanised steel and painted in bright colours to represent the seasons they flourish in. The oak leaves however, are made from ungalvanised steel so they react to nature and rust over time.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE1MCwxNTJd/CBG-Artwork-Daffodil-Spring-copy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621632,
+          -43.530411
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Entrance to the Rose Garden",
+        "Artname": "Seasonal Sculptures: Rose",
+        "Type": "Raymond Herber’s oversized steel sculptures are representative of the changing seasons. The daffodils are at their most beautiful in the spring while the roses are most colourful in the summer. Ferns are green and alive in the winter when nothing else is, and the oak leaves turn gorgeous colours during autumn. The  daffodil, rose, and fern are made from galvanised steel and painted in bright colours to represent the seasons they flourish in. The oak leaves however, are made from ungalvanised steel so they react to nature and rust over time.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE1MCwxMjld/CBG-Artwork-Rose-Summercopy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619978,
+          -43.531124
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Entrance to the New Zealand Garden",
+        "Artname": "Seasonal Sculptures: Fern",
+        "Type": "Raymond Herber’s oversized steel sculptures are representative of the changing seasons. The daffodils are at their most beautiful in the spring while the roses are most colourful in the summer. Ferns are green and alive in the winter when nothing else is, and the oak leaves turn gorgeous colours during autumn. The  daffodil, rose, and fern are made from galvanised steel and painted in bright colours to represent the seasons they flourish in. The oak leaves however, are made from ungalvanised steel so they react to nature and rust over time.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE1MCwxMzBd/CBG-Artwork-Fern-Winter-2copy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620585,
+          -43.529701
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Behind Cuningham House",
+        "Artname": "Seasonal Sculptures: Oak Leaves",
+        "Type": "Raymond Herber’s oversized steel sculptures are representative of the changing seasons. The daffodils are at their most beautiful in the spring while the roses are most colourful in the summer. Ferns are green and alive in the winter when nothing else is, and the oak leaves turn gorgeous colours during autumn. The  daffodil, rose, and fern are made from galvanised steel and painted in bright colours to represent the seasons they flourish in. The oak leaves however, are made from ungalvanised steel so they react to nature and rust over time.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE1MCw5OV0/CBG-Artwork-Oak-Leaves-1copy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623261,
+          -43.53191
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Along the Daffodil Woodland riverbank in Hagley Park",
+        "Artname": "Wrestlers",
+        "Type": "Llew Summers created two powerful yet graceful nude figures performing a wrestling move to represent New Zealand’s strong and passionate sporting culture. When 'Wrestlers' was first installed in 1990 it caused a bit of a stir due to the nudity of the figures in a public place but this quickly died down and the sculpture has become an integral piece of art in the Gardens. Cast in red Terrazzo, a mixture of coloured cement and marble chips, the piece was purchased by the Christchurch City Council in 1990.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-The-Wrestlers-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620453,
+          -43.530426
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Intersection of the Water and Rose Gardens",
+        "Artname": "Cabbage Tree",
+        "Type": "A true to scale steel sculpture of a cabbage tree with wire wrapped around the trunk to create a spiral ridge. Sculptor Ian Lamont has been creating these cabbage trees these since 1993, placing a focus on them for their significance to Māori culture in their use as a food source, medicine and fibre. Most of the cabbage trees Ian creates have their own names and stories and he purposefully gives them a human shape, enjoying the thought of them ‘throwing’ their branches or arms into the air, happily greeting the morning sun.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzI1MCwyODVd/CBG-Artwork-Cabbage-Tree-3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621274,
+          -43.529611
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Townend House, the flowering conservatory",
+        "Artname": "Putti",
+        "Type": "A statuette skilfully carved from a single block of marble depicting six cherubs, or putti, playing musical instruments and drinking. While the history of the statuette remains somewhat a mystery, it is one of the few surviving gifts made by members of the public to the Gardens and illustrates the changing trends in public garden ornamentation.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Townend-Putti-2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.618809,
+          -43.5301
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Azalea Magnolia Garden",
+        "Artname": "An Inside Outlook",
+        "Type": "Towering over the magnolia and azalea trees, this monumental stone sculpture was created by local Christchurch sculptor Stuart Griffiths. The sculpture offers a window through which you can frame your own scene of the beautiful gardens beyond.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE1NiwyMzRd/InsideOutlook.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622246,
+          -43.53125
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "At the top of the steps leading down to the Woodland Bridge adjacent to the Cherry Mound and Peace Bell.",
+        "Artname": "Jamieson Tazze",
+        "Type": "A matching pair of Oamaru stone tazze (Italianate shallow ornamental bowls) on pedestals. The pair were donated by James Jamieson, who owned a successful construction building with his brother William. The tazze were originally gifted for the newly formed Rosary in August 1916 and sat with the Hunter Sundial and a number of other similarly styled decorative elements until being relocated to their current location in 1935.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Tazze-1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619769,
+          -43.527369
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Kate Sheppard Memorial Walk in Hagley Park",
+        "Artname": "Pilgrims Well",
+        "Type": "A stone memorial marking the site of the first well used by the early settlers. A black granite stone inset into the well has an inscription that reads: This memorial encloses the spring which the pioneer settlers used. Erected on the 80th anniversary of their landing. December 16, 1930.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxODVd/P35-Pilgrims-Well-Lloyd-Park-12101cropresize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619265,
+          -43.528531
+        ]
+      },
+      "properties": {
+        "ArtCode": "Art in the Garden",
+        "Address": "Nestled in the corner of a garden plot at the east entrance to the Children’s Playground",
+        "Artname": "Brass Gnome",
+        "Type": "The Botanic Garden's very own garden gnome, affectionately dubbed 'Henry', was created by Bing Dawe for the very first Gnome Convention held in 1995. Solid brass and set on a stone base, he has a sash around his shoulders that bears the inscription: Guarding naturally over mother earth. ",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE5MywyNTBd/CBG-Artwork-Brass-Gnome-1.jpg"
+      }
+    }
+  ]
+}
