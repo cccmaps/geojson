@@ -450,6 +450,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          172.631484,
+          -43.530034
+        ]
+      },
+      "properties": {
+        "name": "Art Gallery car park building",
+        "description": "Art Gallery Car park building",
+        "marker-symbol": "null",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "type": "Mobility Off-Street",
+        "address": "49 Montreal St, Cnr Montreal & Gloucester St's",
+        "spaces": 5,
+        "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
+        "alldayrate": "",
+        "timelimit": "",
+        "PleaseNote": "         ",
+        "metered": "",
+        "p180": "",
+        "HoursOfOperation": "7am-Midnight Mon-Sun",
+        "nightrate": "",
+        "monthly": "",
+        "Access": "Gloucester St",
+        "Provider": "Christchurch City Council",
+        "Promotion": "hr free"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           172.638426,
           -43.532227
         ]
