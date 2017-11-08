@@ -248,7 +248,7 @@
         "metered": null,
         "p180": null,
         "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
-        "Access": null,
+        "Access": "Armagh St",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council"
       }
@@ -622,7 +622,7 @@
         "type": "CCC Off-Street Carpark",
         "spaces": 805,
         "address": "33 Lichfield Street",
-        "hourlyrate": "$2.80 (6am-6pm Mon-Sun)",
+        "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
         "alldayrate": "$10 (max 24hr period)",
         "timelimit": "N/A",
         "Access": "Lichfield Street",
@@ -631,7 +631,7 @@
         "p180": "N/A",
         "HoursOfOperation": "24 hours",
         "marker-symbol": "",
-        "nightrate": "$2.50 (6pm-10am Mon-Sun)",
+        "nightrate": "$2.50 per hour or part thereof. Max $5 (6pm-10am Mon-Sun)",
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free"
@@ -654,7 +654,7 @@
         "type": "Mobility Off-Street",
         "spaces": 24,
         "address": "33 Lichfield Street",
-        "hourlyrate": "$2.80 (6am-6pm Mon-Sun)",
+        "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
         "alldayrate": "$10 (max 24hr period)",
         "timelimit": "",
         "Access": "Lichfield Street",
@@ -663,7 +663,7 @@
         "p180": "",
         "HoursOfOperation": "24 hours",
         "marker-symbol": "",
-        "nightrate": "$2.50 (6pm-10am Mon-Sun)",
+        "nightrate": "$2.50 per hour or part thereof. Max $5 (6pm-10am Mon-Sun)",
         "monthly": "",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free"
