@@ -48,7 +48,7 @@
         "ArtCode": "Art in the Gardens",
         "Address": "East end of Archery Lawn",
         "Artname": "Regret Fountain",
-        "Type": "This spidery sculpture, created by local Canterbury sculptor Sam Mahon, is over six metres high and constructed from steel rods of varying thickness and includes a working pump. Regret was designed to reflect the messy reality of human life nd was an instant crowd pleaser when it was first installed for the 1997-98 ‘Sculpture in the Gardens’ event. The sculpture can only move with audience participation, and artist Sam Mahon wanted the sculpture to stay in the Gardens because it made a lot of people happy. Regret Fountain is on a long term loan to the Botanic Gardens from Robin Judkin's collection.",
+        "Type": "This spidery sculpture, created by local Canterbury sculptor Sam Mahon, is over six metres high and constructed from steel rods of varying thickness and includes a working pump. 'Regret' was designed to reflect the \"messy reality of human life\" and was an instant crowd pleaser when it was first installed for the 1997-98 ‘Sculpture in the Gardens’ event. The sculpture can only move with audience participation, and artist Sam Mahon wanted the sculpture to stay in the Gardens because it made a lot of people happy. Regret Fountain is on a long term loan to the Botanic Gardens from the Robin Judkins collection.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Regret-3.jpg"
       }
     },
@@ -150,7 +150,7 @@
         "ArtCode": "Art in the Gardens",
         "Address": "Near Armstrong Lawn at the rear of Canterbury Museum",
         "Artname": "Robert McDougall Art Gallery",
-        "Type": "Named after its donor, local businessman Robert Ewing McDougall, the gallery first opened its doors in 1932 and was Christchurch's first public art gallery. Initially, the gallery was home to a small collection of 160 paintings and sculptures but this collection steadily grew. With the development of a new Christchurch Art Gallery on Montreal Street in 2003, the Robert McDougall Art Gallery was closed but used periodically for Canterbury Museum exhibitions until it sustained damage in the 2010 earthquakes. It is currently undergoing repairs. The Robert McDougall Art Gallery is a Category 1 listed building.",
+        "Type": "Named after its donor, local businessman Robert Ewing McDougall, the gallery first opened its doors in 1932 and was Christchurch's first public art gallery. Initially, the gallery was home to a small collection of 160 paintings and sculptures but this collection steadily grew. With the development of a new Christchurch Art Gallery on Montreal Street in 2003, the Robert McDougall Art Gallery was closed but used periodically for Canterbury Museum exhibitions until it sustained damage in the 2010 earthquakes. It is currently undergoing repairs. The Robert McDougall Art Gallery is a Category 1 listed building.  The sculptures outside the doors make up Paul Dibble’s E Noho Ra De Chirico which means ‘Goodbye De Chirico’ in Māori. The artwork is a nod to Georgio de Chirico, an Italian modernist who would paint classical scenes but with unexpected elements thus giving them a mysterious and ethereal quality. In Dibble’s work the torso is taken from a de Chirico work and the leaf is an abstract addition, suggestive of the fall of modernism.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxOThd/The-Robert-McDougall-Art-Gallery1resize.jpg"
       }
     },
@@ -184,7 +184,7 @@
         "ArtCode": "Art in the Gardens",
         "Address": "West of the Central Rose Garden and adjacent to the Water Garden",
         "Artname": "Te Puna Ora Spring",
-        "Type": "Te Puna Ora translates from Maori as The Spring Of Life. In this artwork, a small spring is surrounded by several stone carvings made by sculptors Riki Manuel and Douglas Woods. Commissioned and constructed in 1992, Manuel and Woods bring diverse cultures together through a shared respect for water and its significance as life bringer and place of pilgrimage in both Māori and European history. Manuel’s sculpture, Kaitiaki Kiwa, (to the right of the spring) embodies the shape of a Māori Water Spirit, which you can see in the curves of the natural shape of the rock. Woods’ sculpture (left of the spring) utilises the triskele, an ancient symbol first appearing in 3000BCE, to represent Celtic and Māori heritage, celebrating the circle and unity of life in both cultures. Te Puna Ora was blessed by Tip Manihea, a highly respected Kaumātua (Māori elder) from the Tūhoe iwi (tribe).",
+        "Type": "Te Puna Ora translates from Māori as \"The Spring Of Life\". In this artwork, a small spring is surrounded by several stone carvings created by sculptors Riki Manuel and Douglas Woods. Commissioned and constructed in 1992, Manuel and Woods bring diverse cultures together through a shared respect for water and its significance as life bringer and place of pilgrimage in both Māori and European history. Manuel’s sculpture, Kaitiaki Kiwa, (to the right of the spring) embodies the shape of a Māori Water Spirit, which you can see in the curves of the natural shape of the rock. Woods’ sculpture (left of the spring and pictured below) utilises the triskele, an ancient symbol first appearing in 3000BCE, to represent Celtic and Māori heritage, celebrating the circle and unity of life in both cultures. Te Puna Ora was blessed by Tip Manihea, a highly respected kaumātua (Māori elder) from the Tūhoe iwi (tribe).",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwzMjFd/CBG-Artwork-Te-Puna-Ora-Celtic-1.jpg"
       }
     },
@@ -285,8 +285,8 @@
       "properties": {
         "ArtCode": "Art in the Garden",
         "Address": "Intersection of the Water and Rose Gardens",
-        "Artname": "Cabbage Tree",
-        "Type": "A true to scale steel sculpture of a cabbage tree with wire wrapped around the trunk to create a spiral ridge. Sculptor Ian Lamont has been creating these cabbage trees these since 1993, placing a focus on them for their significance to Māori culture in their use as a food source, medicine and fibre. Most of the cabbage trees Ian creates have their own names and stories and he purposefully gives them a human shape, enjoying the thought of them ‘throwing’ their branches or arms into the air, happily greeting the morning sun.",
+        "Artname": "Cabbage Tree/tī kōuka",
+        "Type": "A true to scale steel sculpture of a cabbage tree with wire wrapped around the trunk to create a spiral ridge. Sculptor Ian Lamont has been creating these tī kōuka since 1993, placing a focus on them for their significance to Māori culture in their use as a food source, medicine and fibre. Most of the tī kōuka Ian creates have their own names and stories and he purposefully gives them a human shape, enjoying the thought of them ‘throwing’ their branches or arms into the air, happily greeting the morning sun.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzI1MCwyODVd/CBG-Artwork-Cabbage-Tree-3.jpg"
       }
     },
@@ -337,7 +337,7 @@
         "ArtCode": "Art in the Garden",
         "Address": "At the top of the steps leading down to the Woodland Bridge adjacent to the Cherry Mound and Peace Bell.",
         "Artname": "Jamieson Tazze",
-        "Type": "A matching pair of Oamaru stone tazze (Italianate shallow ornamental bowls) on pedestals. The pair were donated by James Jamieson, who owned a successful construction building with his brother William. The tazze were originally gifted for the newly formed Rosary in August 1916 and sat with the Hunter Sundial and a number of other similarly styled decorative elements until being relocated to their current location in 1935.",
+        "Type": "A matching pair of Oamaru stone tazze (Italianate shallow ornamental bowls) on pedestals. The pair were donated by James Jamieson, who owned a successful construction building with his brother William. The tazze were originally gifted for the newly formed Rosary in August 1916 and sat with the Hunter Sundial and a number of other similarly styled decorative elements until being relocated to their current location in 1935. It is unclear if the if they were moved from their original concrete base under the plinth.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Tazze-1.jpg"
       }
     },
