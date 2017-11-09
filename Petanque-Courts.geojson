@@ -23,13 +23,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62355,
-          -43.528886
+          172.617447,
+          -43.528616
         ]
       },
       "properties": {
         "SportCode": "Petanque",
-        "Address": "Armagh Street entrance to Hagley Park, CBD",
+        "Address": "Riccarton Avenue entrance to Hagley Park, CBD",
         "Parkname": "Hagley Park North",
         "ParkName": "Pétanque",
         "ServiceStatus": "In Service"
