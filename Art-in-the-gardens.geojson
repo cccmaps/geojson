@@ -74,8 +74,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62256,
-          -43.529788
+          172.622576,
+          -43.530216
         ]
       },
       "properties": {
@@ -116,7 +116,7 @@
         "ArtCode": "Art in the Gardens",
         "Address": "Armstrong Lawn",
         "Artname": "Moorhouse Statue",
-        "Type": "The bronze statue on stone plinth of William Sefton Moorhouse, was the region’s longest serving Canterbury Provincial Superintendent, serving from 1858−62 and 1866−68. More on the Moorhouse Statue (link: https://cccgovtnz.cwp.govt.nz/culture-and-community/heritage/heritage-in-the-city/statues/moorhouse-statue/).",
+        "Type": "The bronze statue on stone plinth of William Sefton Moorhouse, was the region’s longest serving Canterbury Provincial Superintendent, serving from 1858−62 and 1866−68.",
         "Photo": "/assets/Images/Culture-Community/Heritage/Statue-10.jpg"
       }
     },
@@ -133,7 +133,7 @@
         "ArtCode": "Art in the Garden",
         "Address": "Armstrong Lawn",
         "Artname": "Peacock Fountain",
-        "Type": "Highly ornate cast iron fountain set in large circular pool. A rare example of this type of Edwardian design, the fountain was recommissioned by Mayor Vicki Buck in 1996. More about the Peacock Fountain (link: https://cccgovtnz.cwp.govt.nz/culture-and-community/heritage/heritage-in-the-city/fountains/peacock-fountain/).",
+        "Type": "Highly ornate cast iron fountain set in large circular pool. A rare example of this type of Edwardian design, the fountain was recommissioned by Mayor Vicki Buck in 1996.",
         "Photo": "/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzgwMCw1NzJd/Peacock-Fountain-May2012-0752resize.jpg"
       }
     },
@@ -286,7 +286,7 @@
         "ArtCode": "Art in the Garden",
         "Address": "Intersection of the Water and Rose Gardens",
         "Artname": "Cabbage Tree/tī kōuka",
-        "Type": "A true to scale steel sculpture of a cabbage tree with wire wrapped around the trunk to create a spiral ridge. Sculptor Ian Lamont has been creating these tī kōuka since 1993, placing a focus on them for their significance to Māori culture in their use as a food source, medicine and fibre. Most of the tī kōuka Ian creates have their own names and stories and he purposefully gives them a human shape, enjoying the thought of them ‘throwing’ their branches or arms into the air, happily greeting the morning sun.",
+        "Type": "A true to scale steel sculpture of a tī kōuka with wire wrapped around the trunk to create a spiral ridge. Sculptor Ian Lamont has been creating these tī kōuka since 1993, placing a focus on them for their significance to Māori culture in their use as a food source, medicine and fibre. Most of the tī kōuka Ian creates have their own names and stories and he purposefully gives them a human shape, enjoying the thought of them ‘throwing’ their branches or arms into the air, happily greeting the morning sun.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzI1MCwyODVd/CBG-Artwork-Cabbage-Tree-3.jpg"
       }
     },
@@ -337,7 +337,7 @@
         "ArtCode": "Art in the Garden",
         "Address": "At the top of the steps leading down to the Woodland Bridge adjacent to the Cherry Mound and Peace Bell.",
         "Artname": "Jamieson Tazze",
-        "Type": "A matching pair of Oamaru stone tazze (Italianate shallow ornamental bowls) on pedestals. The pair were donated by James Jamieson, who owned a successful construction building with his brother William. The tazze were originally gifted for the newly formed Rosary in August 1916 and sat with the Hunter Sundial and a number of other similarly styled decorative elements until being relocated to their current location in 1935. It is unclear if the if they were moved from their original concrete base under the plinth.",
+        "Type": "A matching pair of Oamaru stone tazze (Italianate shallow ornamental bowls) on pedestals. The pair were donated by James Jamieson, who owned a successful construction building with his brother William. The tazze were originally gifted for the newly formed Rosary in August 1916 and sat with the Hunter Sundial and a number of other similarly styled decorative elements until being relocated to their current location in 1935. It is unclear if they were moved from their original concrete bases.",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNjFd/CBG-Artwork-Tazze-1.jpg"
       }
     },
@@ -371,7 +371,7 @@
         "ArtCode": "Art in the Garden",
         "Address": "Nestled in the corner of a garden plot at the east entrance to the Children’s Playground",
         "Artname": "Brass Gnome",
-        "Type": "The Botanic Garden's very own garden gnome, affectionately dubbed 'Henry', was created by Bing Dawe for the very first Gnome Convention held in 1995. Solid brass and set on a stone base, he has a sash around his shoulders that bears the inscription: Guarding naturally over mother earth. ",
+        "Type": "The Botanic Gardens’ very own garden gnome, affectionately dubbed 'Henry', was created by Bing Dawe for the very first Gnome Convention held in 1995. Solid brass and set on a stone base, he has a sash around his shoulders that bears the inscription: \"Guarding naturally over mother earth\".",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE5MywyNTBd/CBG-Artwork-Brass-Gnome-1.jpg"
       }
     }
