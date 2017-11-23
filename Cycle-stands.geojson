@@ -30,7 +30,8 @@
         "occupancy": 0,
         "capacity": 20,
         "utilisatio": "0%",
-        "photos": "6a7a1e1f-361d-496c-b38a-ab02e3bd8d7f"
+        "photos": "6a7a1e1f-361d-496c-b38a-ab02e3bd8d7f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +64,8 @@
         "occupancy": 2,
         "capacity": 8,
         "utilisatio": "25%",
-        "photos": "b607ffe2-31e7-4eb5-b83b-9a58e0c5df3e,6fea682d-3b20-41db-9ef9-ee3abbb4b42a"
+        "photos": "b607ffe2-31e7-4eb5-b83b-9a58e0c5df3e,6fea682d-3b20-41db-9ef9-ee3abbb4b42a",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +98,8 @@
         "occupancy": 1,
         "capacity": 2,
         "utilisatio": "50%",
-        "photos": "0d2d028c-6eaf-4e9a-bc9b-d0143e6a54f8"
+        "photos": "0d2d028c-6eaf-4e9a-bc9b-d0143e6a54f8",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +132,8 @@
         "occupancy": 0,
         "capacity": 16,
         "utilisatio": "0%",
-        "photos": "a451e130-9e7a-49bc-912d-718aae4f260e,c26a0c94-7f1b-442d-8384-5af978d7a998"
+        "photos": "a451e130-9e7a-49bc-912d-718aae4f260e,c26a0c94-7f1b-442d-8384-5af978d7a998",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -162,7 +166,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "528ba27f-a470-4616-a746-191069f0e971,da16d9a9-e240-4557-8e23-2431f99bc9a3"
+        "photos": "528ba27f-a470-4616-a746-191069f0e971,da16d9a9-e240-4557-8e23-2431f99bc9a3",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +200,8 @@
         "occupancy": 4,
         "capacity": 6,
         "utilisatio": "67%",
-        "photos": "df977188-434c-4474-834e-4ad77db82ff6,4f59c50c-b723-48b8-ba49-028859c33281"
+        "photos": "df977188-434c-4474-834e-4ad77db82ff6,4f59c50c-b723-48b8-ba49-028859c33281",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -228,7 +234,8 @@
         "occupancy": 6,
         "capacity": 9,
         "utilisatio": "67%",
-        "photos": "f0311e18-9519-4663-865b-1bbf7ee32af9"
+        "photos": "f0311e18-9519-4663-865b-1bbf7ee32af9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +268,8 @@
         "occupancy": 1,
         "capacity": 6,
         "utilisatio": "17%",
-        "photos": "71392a15-b618-4f2d-b481-5aa8409c093c,5823ce55-0dec-499d-97ed-2fb05cf4cb21"
+        "photos": "71392a15-b618-4f2d-b481-5aa8409c093c,5823ce55-0dec-499d-97ed-2fb05cf4cb21",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -294,7 +302,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "f043bd8b-11a9-4feb-a851-8b26d9b33099,94814fce-c1e4-409c-9372-afec74f49694"
+        "photos": "f043bd8b-11a9-4feb-a851-8b26d9b33099,94814fce-c1e4-409c-9372-afec74f49694",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +336,8 @@
         "occupancy": 2,
         "capacity": 6,
         "utilisatio": "33%",
-        "photos": "89300812-16fe-4be2-8b47-1db31dae3152"
+        "photos": "89300812-16fe-4be2-8b47-1db31dae3152",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -360,7 +370,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "6118580b-f606-4dda-9dd9-1af27e692abd"
+        "photos": "6118580b-f606-4dda-9dd9-1af27e692abd",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -393,7 +404,8 @@
         "occupancy": 1,
         "capacity": 12,
         "utilisatio": "8%",
-        "photos": "d67ab2e4-536d-426c-ac52-0829e28db09d"
+        "photos": "d67ab2e4-536d-426c-ac52-0829e28db09d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +438,8 @@
         "occupancy": 3,
         "capacity": 6,
         "utilisatio": "50%",
-        "photos": "43c51a14-251c-4cf7-bd0b-6723bb687d86"
+        "photos": "43c51a14-251c-4cf7-bd0b-6723bb687d86",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +472,8 @@
         "occupancy": 5,
         "capacity": 6,
         "utilisatio": "83%",
-        "photos": "b5b69f49-0942-481f-9b29-3753aefa96ac"
+        "photos": "b5b69f49-0942-481f-9b29-3753aefa96ac",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -492,7 +506,8 @@
         "occupancy": 4,
         "capacity": 6,
         "utilisatio": "67%",
-        "photos": "b6aff5d9-4bca-4f54-947f-9af2179594a6"
+        "photos": "b6aff5d9-4bca-4f54-947f-9af2179594a6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -525,7 +540,8 @@
         "occupancy": 0,
         "capacity": 5,
         "utilisatio": "0%",
-        "photos": "d2af1f0e-3e17-42c7-be00-4c7996c57088"
+        "photos": "d2af1f0e-3e17-42c7-be00-4c7996c57088",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -558,7 +574,8 @@
         "occupancy": 0,
         "capacity": 20,
         "utilisatio": "0%",
-        "photos": "292c541d-a38b-4ea8-aca3-16d8b8aeb684"
+        "photos": "292c541d-a38b-4ea8-aca3-16d8b8aeb684",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +608,8 @@
         "occupancy": 2,
         "capacity": 14,
         "utilisatio": "14%",
-        "photos": "53030e14-2880-4400-944a-0e1719dc54c0"
+        "photos": "53030e14-2880-4400-944a-0e1719dc54c0",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -624,7 +642,8 @@
         "occupancy": 2,
         "capacity": 14,
         "utilisatio": "14%",
-        "photos": "d538c267-20ab-45d2-9506-eb6240baefc7,54c1afc3-a728-48b9-a332-79098183b8d2"
+        "photos": "d538c267-20ab-45d2-9506-eb6240baefc7,54c1afc3-a728-48b9-a332-79098183b8d2",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +676,8 @@
         "occupancy": 3,
         "capacity": 14,
         "utilisatio": "21%",
-        "photos": "fce0d004-94ad-48e2-9537-b9329859d5fe,ba17ea46-a919-456b-a677-30629cbf7068"
+        "photos": "fce0d004-94ad-48e2-9537-b9329859d5fe,ba17ea46-a919-456b-a677-30629cbf7068",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -690,7 +710,8 @@
         "occupancy": 2,
         "capacity": 14,
         "utilisatio": "14%",
-        "photos": "1893cbf8-cf3c-438c-8dfe-e817d3151689,726b5880-4b6d-470f-823f-3709a5bb4975"
+        "photos": "1893cbf8-cf3c-438c-8dfe-e817d3151689,726b5880-4b6d-470f-823f-3709a5bb4975",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -723,7 +744,8 @@
         "occupancy": 8,
         "capacity": 10,
         "utilisatio": "80%",
-        "photos": "90d1d9eb-926e-4651-a950-3c5f9caa38ba,c046c6dc-8ad9-4cf1-91e6-acbf6d683896,bb381f8e-d886-442c-a766-2645927bcda6"
+        "photos": "90d1d9eb-926e-4651-a950-3c5f9caa38ba,c046c6dc-8ad9-4cf1-91e6-acbf6d683896,bb381f8e-d886-442c-a766-2645927bcda6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +778,8 @@
         "occupancy": 1,
         "capacity": 19,
         "utilisatio": "5%",
-        "photos": "47854aed-50f0-4c21-b308-f4d0eae0d70b,353356b9-f2bb-4690-8ba3-d5aec2e328fd"
+        "photos": "47854aed-50f0-4c21-b308-f4d0eae0d70b,353356b9-f2bb-4690-8ba3-d5aec2e328fd",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +812,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "837c4469-e7a4-445f-94db-d00a4b2a2832"
+        "photos": "837c4469-e7a4-445f-94db-d00a4b2a2832",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -822,7 +846,8 @@
         "occupancy": 1,
         "capacity": 4,
         "utilisatio": "25%",
-        "photos": "21ddd4ab-5545-4fe2-b904-c88b8c229818"
+        "photos": "21ddd4ab-5545-4fe2-b904-c88b8c229818",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +880,8 @@
         "occupancy": 0,
         "capacity": 5,
         "utilisatio": "0%",
-        "photos": "59fe6b80-eff4-4b59-a905-1c534a685027"
+        "photos": "59fe6b80-eff4-4b59-a905-1c534a685027",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -888,7 +914,8 @@
         "occupancy": 2,
         "capacity": 2,
         "utilisatio": "100%",
-        "photos": "595b046f-d0d6-45f7-b8e1-709f6f6d00ce"
+        "photos": "595b046f-d0d6-45f7-b8e1-709f6f6d00ce",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +948,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "2b843747-5569-4c1c-b7e3-5244ad305643"
+        "photos": "2b843747-5569-4c1c-b7e3-5244ad305643",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -954,7 +982,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "1d78a966-663c-434f-b5a0-cd71af842f1e"
+        "photos": "1d78a966-663c-434f-b5a0-cd71af842f1e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -987,7 +1016,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "26b60b6b-e699-4cab-8a1e-3c8c922266aa"
+        "photos": "26b60b6b-e699-4cab-8a1e-3c8c922266aa",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1020,7 +1050,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "cc951d0a-ee17-429d-90ac-4616d167c60b"
+        "photos": "cc951d0a-ee17-429d-90ac-4616d167c60b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1053,7 +1084,8 @@
         "occupancy": 1,
         "capacity": 6,
         "utilisatio": "17%",
-        "photos": "e1f1ba61-d1e7-4b0c-a1b2-4fa9ef564f2c"
+        "photos": "e1f1ba61-d1e7-4b0c-a1b2-4fa9ef564f2c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1118,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "be75ff7f-572a-42d7-9258-46424d123204"
+        "photos": "be75ff7f-572a-42d7-9258-46424d123204",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1119,7 +1152,8 @@
         "occupancy": 12,
         "capacity": 24,
         "utilisatio": "50%",
-        "photos": "9b0d34d2-2b1c-4fab-93dc-79817e638d53,9f3f7253-3830-4da6-8b2c-599fa9d28b5c"
+        "photos": "9b0d34d2-2b1c-4fab-93dc-79817e638d53,9f3f7253-3830-4da6-8b2c-599fa9d28b5c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1152,7 +1186,8 @@
         "occupancy": 2,
         "capacity": 6,
         "utilisatio": "33%",
-        "photos": "3b96c860-877f-430c-890d-3ffa19f6ba0d"
+        "photos": "3b96c860-877f-430c-890d-3ffa19f6ba0d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1185,7 +1220,8 @@
         "occupancy": 0,
         "capacity": 0,
         "utilisatio": "NaN%",
-        "photos": "973008ff-b440-4afe-95c7-9262c51df45c"
+        "photos": "973008ff-b440-4afe-95c7-9262c51df45c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1218,7 +1254,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "f9bf6b25-f997-44ee-b43f-51db677f3b63"
+        "photos": "f9bf6b25-f997-44ee-b43f-51db677f3b63",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1288,8 @@
         "occupancy": 1,
         "capacity": 9,
         "utilisatio": "11%",
-        "photos": "a4e934d3-0d2a-4222-8096-629d56317667,3e0e1ff0-1515-4ebc-a2ac-7f09b26fa6ea"
+        "photos": "a4e934d3-0d2a-4222-8096-629d56317667,3e0e1ff0-1515-4ebc-a2ac-7f09b26fa6ea",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1284,7 +1322,8 @@
         "occupancy": 0,
         "capacity": 12,
         "utilisatio": "0%",
-        "photos": "7949386c-f6be-4158-a771-e2a9c569b1b8"
+        "photos": "7949386c-f6be-4158-a771-e2a9c569b1b8",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1356,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "ea55e8e3-4b51-4660-9fb8-237b92305493"
+        "photos": "ea55e8e3-4b51-4660-9fb8-237b92305493",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1350,7 +1390,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "be5343a7-7e59-42bb-ba1f-fc40b55e914d"
+        "photos": "be5343a7-7e59-42bb-ba1f-fc40b55e914d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1383,7 +1424,8 @@
         "occupancy": 3,
         "capacity": 6,
         "utilisatio": "50%",
-        "photos": "d810d909-a843-4f65-b10c-ae617bcaf121"
+        "photos": "d810d909-a843-4f65-b10c-ae617bcaf121",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1458,8 @@
         "occupancy": 2,
         "capacity": 8,
         "utilisatio": "25%",
-        "photos": "6f238f98-1b8e-4116-99ac-35a3d96bc29e"
+        "photos": "6f238f98-1b8e-4116-99ac-35a3d96bc29e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1449,7 +1492,8 @@
         "occupancy": 0,
         "capacity": 7,
         "utilisatio": "0%",
-        "photos": "1d1179d3-fc34-4a83-a977-0a91f2f733bd"
+        "photos": "1d1179d3-fc34-4a83-a977-0a91f2f733bd",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1482,7 +1526,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "0903e81c-8974-4a07-96b8-56a4c85ec0c3,7c774fc6-1cbc-4e92-93a1-320712a47105"
+        "photos": "0903e81c-8974-4a07-96b8-56a4c85ec0c3,7c774fc6-1cbc-4e92-93a1-320712a47105",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1515,7 +1560,8 @@
         "occupancy": 3,
         "capacity": 6,
         "utilisatio": "50%",
-        "photos": "f1c05ab6-394c-4529-95ae-6e854a9a465e"
+        "photos": "f1c05ab6-394c-4529-95ae-6e854a9a465e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1548,7 +1594,8 @@
         "occupancy": 4,
         "capacity": 6,
         "utilisatio": "67%",
-        "photos": "aca7f774-38e3-404f-9779-9c79cba7c2a0"
+        "photos": "aca7f774-38e3-404f-9779-9c79cba7c2a0",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1628,8 @@
         "occupancy": 0,
         "capacity": 12,
         "utilisatio": "0%",
-        "photos": "27aef0cd-8780-4e42-9745-ba894eaa3062"
+        "photos": "27aef0cd-8780-4e42-9745-ba894eaa3062",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1614,7 +1662,8 @@
         "occupancy": 0,
         "capacity": 5,
         "utilisatio": "0%",
-        "photos": "87564fa8-2350-4858-8475-d51ae2747bd1"
+        "photos": "87564fa8-2350-4858-8475-d51ae2747bd1",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1696,8 @@
         "occupancy": 3,
         "capacity": 12,
         "utilisatio": "25%",
-        "photos": "d3f0b716-2102-4a92-91a2-f760e9a858dd"
+        "photos": "d3f0b716-2102-4a92-91a2-f760e9a858dd",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1680,7 +1730,8 @@
         "occupancy": 5,
         "capacity": 15,
         "utilisatio": "33%",
-        "photos": "5f2ae9a1-d910-4b0c-856f-1d3cec70efc7,d34cf59e-9549-4105-aa58-46239990c19c"
+        "photos": "5f2ae9a1-d910-4b0c-856f-1d3cec70efc7,d34cf59e-9549-4105-aa58-46239990c19c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1713,7 +1764,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "871987c0-2e33-4393-907d-fdfbd076f4cd"
+        "photos": "871987c0-2e33-4393-907d-fdfbd076f4cd",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1798,8 @@
         "occupancy": 0,
         "capacity": 24,
         "utilisatio": "0%",
-        "photos": "fdd294ec-fdcb-42cf-8f66-fb999a3a37d2"
+        "photos": "fdd294ec-fdcb-42cf-8f66-fb999a3a37d2",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1779,7 +1832,8 @@
         "occupancy": 5,
         "capacity": 16,
         "utilisatio": "31%",
-        "photos": "a4bc42a3-6352-445a-ad7d-f93af7c4765b"
+        "photos": "a4bc42a3-6352-445a-ad7d-f93af7c4765b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1812,7 +1866,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "e425f0be-9f6d-4df9-9492-69c73b39185f,333c6f62-6148-41e2-bf05-750b73088417"
+        "photos": "e425f0be-9f6d-4df9-9492-69c73b39185f,333c6f62-6148-41e2-bf05-750b73088417",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1845,7 +1900,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "888e1879-7a0a-4c17-8120-3f90913841f6,cdbc32f1-80a4-4c20-a47f-34455ab2d9a7"
+        "photos": "888e1879-7a0a-4c17-8120-3f90913841f6,cdbc32f1-80a4-4c20-a47f-34455ab2d9a7",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1878,7 +1934,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "b3cdc245-ca7a-4b60-ae00-653e36123ad3,8e569c43-15e4-4f1d-878d-5a18bd6d7fb4"
+        "photos": "b3cdc245-ca7a-4b60-ae00-653e36123ad3,8e569c43-15e4-4f1d-878d-5a18bd6d7fb4",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +1968,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "f1c7b759-0a2c-4fca-bf3c-ac8064dc7b3a,bb9e598b-b650-4354-952e-f18b03a28114"
+        "photos": "f1c7b759-0a2c-4fca-bf3c-ac8064dc7b3a,bb9e598b-b650-4354-952e-f18b03a28114",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +2002,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "fe13627e-d30f-45a2-b45a-946f17295dee"
+        "photos": "fe13627e-d30f-45a2-b45a-946f17295dee",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -1977,7 +2036,8 @@
         "occupancy": 0,
         "capacity": 20,
         "utilisatio": "0%",
-        "photos": "6c5c9c6f-49f0-4351-8f3e-34a42e0c1531"
+        "photos": "6c5c9c6f-49f0-4351-8f3e-34a42e0c1531",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2010,7 +2070,8 @@
         "occupancy": 0,
         "capacity": 11,
         "utilisatio": "0%",
-        "photos": "2565496c-268d-4da7-a4d0-114d58462554"
+        "photos": "2565496c-268d-4da7-a4d0-114d58462554",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2104,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "dd2a96f1-5b1d-4dc9-b421-af4b8ad8f4c9,56b1f2aa-5405-4526-9672-1ada21ab74b4"
+        "photos": "dd2a96f1-5b1d-4dc9-b421-af4b8ad8f4c9,56b1f2aa-5405-4526-9672-1ada21ab74b4",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2076,7 +2138,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "b7006a5a-1263-4e96-ae00-8843fb39f429"
+        "photos": "b7006a5a-1263-4e96-ae00-8843fb39f429",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2109,7 +2172,8 @@
         "occupancy": 1,
         "capacity": 5,
         "utilisatio": "20%",
-        "photos": "ed975187-2edd-4fa0-9d38-c621262c7601"
+        "photos": "ed975187-2edd-4fa0-9d38-c621262c7601",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2142,7 +2206,8 @@
         "occupancy": 1,
         "capacity": 3,
         "utilisatio": "33%",
-        "photos": "118153ff-52ee-4cbd-9716-c38c04af7458"
+        "photos": "118153ff-52ee-4cbd-9716-c38c04af7458",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2175,7 +2240,8 @@
         "occupancy": 3,
         "capacity": 8,
         "utilisatio": "38%",
-        "photos": "96ce2614-822f-432d-bb70-ccba0c66d41e,22cc556e-e68d-4de8-aff4-425e58260572"
+        "photos": "96ce2614-822f-432d-bb70-ccba0c66d41e,22cc556e-e68d-4de8-aff4-425e58260572",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2208,7 +2274,8 @@
         "occupancy": 5,
         "capacity": 8,
         "utilisatio": "63%",
-        "photos": "ce01e92b-5645-446e-b4d8-eadd2a58b6b6"
+        "photos": "ce01e92b-5645-446e-b4d8-eadd2a58b6b6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2241,7 +2308,8 @@
         "occupancy": 0,
         "capacity": 5,
         "utilisatio": "0%",
-        "photos": "23397f11-ba47-450c-ba00-49c347424e1d"
+        "photos": "23397f11-ba47-450c-ba00-49c347424e1d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2274,7 +2342,8 @@
         "occupancy": 0,
         "capacity": 7,
         "utilisatio": "0%",
-        "photos": "2d731bd5-69d0-420a-8197-c4b7f4cb7683"
+        "photos": "2d731bd5-69d0-420a-8197-c4b7f4cb7683",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2307,7 +2376,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "b5ca17d4-0383-4b9e-88bb-e0d078d41856"
+        "photos": "b5ca17d4-0383-4b9e-88bb-e0d078d41856",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2340,7 +2410,8 @@
         "occupancy": 1,
         "capacity": 5,
         "utilisatio": "20%",
-        "photos": "a4a5ea66-d513-403a-8e94-3a7cbe922d1c"
+        "photos": "a4a5ea66-d513-403a-8e94-3a7cbe922d1c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2373,7 +2444,8 @@
         "occupancy": 1,
         "capacity": 10,
         "utilisatio": "10%",
-        "photos": "39855e36-46b7-4543-9065-6b1f08f9aa10,a8c57ab7-91c8-4b76-8fd7-649f4fe4ac9e"
+        "photos": "39855e36-46b7-4543-9065-6b1f08f9aa10,a8c57ab7-91c8-4b76-8fd7-649f4fe4ac9e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2406,7 +2478,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "439768c7-b5b3-44b7-b815-d269c22bc435"
+        "photos": "439768c7-b5b3-44b7-b815-d269c22bc435",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +2512,8 @@
         "occupancy": 0,
         "capacity": 3,
         "utilisatio": "0%",
-        "photos": "bf4c970a-3881-4cfc-9727-ea339becbc05"
+        "photos": "bf4c970a-3881-4cfc-9727-ea339becbc05",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2472,7 +2546,8 @@
         "occupancy": 2,
         "capacity": 8,
         "utilisatio": "25%",
-        "photos": "f050b8a1-9cef-44da-8243-c4c20e3d6eaf"
+        "photos": "f050b8a1-9cef-44da-8243-c4c20e3d6eaf",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2505,7 +2580,8 @@
         "occupancy": 1,
         "capacity": 6,
         "utilisatio": "17%",
-        "photos": "e1a1902c-7e84-424e-8431-c419f08dee74"
+        "photos": "e1a1902c-7e84-424e-8431-c419f08dee74",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2538,7 +2614,8 @@
         "occupancy": 0,
         "capacity": 12,
         "utilisatio": "0%",
-        "photos": "047fc90b-70d2-4ef8-951a-6ed0f66b8d4d,b602254e-b1e6-4d4d-98c5-782099410283,ee35724b-669f-46cb-bc8c-e42960c3ed0e"
+        "photos": "047fc90b-70d2-4ef8-951a-6ed0f66b8d4d,b602254e-b1e6-4d4d-98c5-782099410283,ee35724b-669f-46cb-bc8c-e42960c3ed0e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2571,7 +2648,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "efa08f3c-44bd-46ff-b165-08f43e08fcf7,edf4c04d-eebd-4947-9f45-f2885ddd900c"
+        "photos": "efa08f3c-44bd-46ff-b165-08f43e08fcf7,edf4c04d-eebd-4947-9f45-f2885ddd900c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2604,7 +2682,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "f0806c08-ba8d-43cf-8346-f9f9fc9ce90a"
+        "photos": "f0806c08-ba8d-43cf-8346-f9f9fc9ce90a",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2716,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "43a93392-12bd-4b0c-bf92-8985238a74a7"
+        "photos": "43a93392-12bd-4b0c-bf92-8985238a74a7",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2670,7 +2750,8 @@
         "occupancy": 2,
         "capacity": 3,
         "utilisatio": "67%",
-        "photos": "62e1a91f-e472-44c1-8022-12bb12da9031"
+        "photos": "62e1a91f-e472-44c1-8022-12bb12da9031",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2703,7 +2784,8 @@
         "occupancy": 4,
         "capacity": 14,
         "utilisatio": "29%",
-        "photos": "d2634c1c-3b38-4082-8773-9cc0db5369a3"
+        "photos": "d2634c1c-3b38-4082-8773-9cc0db5369a3",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2818,8 @@
         "occupancy": 4,
         "capacity": 7,
         "utilisatio": "57%",
-        "photos": "aaa3d577-26dc-4d0b-a25c-d3dd895f4407"
+        "photos": "aaa3d577-26dc-4d0b-a25c-d3dd895f4407",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2769,7 +2852,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "23faccd7-99b7-4d59-beba-cd5307eff800"
+        "photos": "23faccd7-99b7-4d59-beba-cd5307eff800",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2802,7 +2886,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "1789b2f1-e198-474e-97b2-b158137731fe"
+        "photos": "1789b2f1-e198-474e-97b2-b158137731fe",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2835,7 +2920,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "5ff36118-c215-40fa-8e81-03ebb915dc2a"
+        "photos": "5ff36118-c215-40fa-8e81-03ebb915dc2a",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2868,7 +2954,8 @@
         "occupancy": 0,
         "capacity": 16,
         "utilisatio": "0%",
-        "photos": "abf5ae29-e07c-42e7-814a-5e4d51bf533f"
+        "photos": "abf5ae29-e07c-42e7-814a-5e4d51bf533f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2901,7 +2988,8 @@
         "occupancy": 0,
         "capacity": 5,
         "utilisatio": "0%",
-        "photos": "60a8e513-dee8-4bc0-9e72-229b091e6126"
+        "photos": "60a8e513-dee8-4bc0-9e72-229b091e6126",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2934,7 +3022,8 @@
         "occupancy": 1,
         "capacity": 5,
         "utilisatio": "20%",
-        "photos": "9163a05c-4d70-4ba1-82d5-0b27a35963b9"
+        "photos": "9163a05c-4d70-4ba1-82d5-0b27a35963b9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -2967,7 +3056,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "611d5ab2-23e8-4ba8-a187-bdbd93889f8b"
+        "photos": "611d5ab2-23e8-4ba8-a187-bdbd93889f8b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3000,7 +3090,8 @@
         "occupancy": 2,
         "capacity": 12,
         "utilisatio": "17%",
-        "photos": "132006f9-3432-4dca-813d-5a4f5c058b3a"
+        "photos": "132006f9-3432-4dca-813d-5a4f5c058b3a",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3033,7 +3124,8 @@
         "occupancy": 1,
         "capacity": 10,
         "utilisatio": "10%",
-        "photos": "aee598fe-3ee1-4995-9ddb-c1f0b3568e1f"
+        "photos": "aee598fe-3ee1-4995-9ddb-c1f0b3568e1f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3066,7 +3158,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "49e00acf-1efd-49bc-b1af-c85462a5e944"
+        "photos": "49e00acf-1efd-49bc-b1af-c85462a5e944",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3099,7 +3192,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "052deb35-f2b1-4784-929b-7061625f3c94"
+        "photos": "052deb35-f2b1-4784-929b-7061625f3c94",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3132,7 +3226,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "e0f8e722-3ae4-44d5-b8cb-e19820ef6482"
+        "photos": "e0f8e722-3ae4-44d5-b8cb-e19820ef6482",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3165,7 +3260,8 @@
         "occupancy": 3,
         "capacity": 10,
         "utilisatio": "30%",
-        "photos": "ec22896a-cd71-47b3-b9ab-5b61f0dffaaf"
+        "photos": "ec22896a-cd71-47b3-b9ab-5b61f0dffaaf",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3198,7 +3294,8 @@
         "occupancy": 1,
         "capacity": 10,
         "utilisatio": "10%",
-        "photos": "78fd2ed2-4d8e-4b41-bcce-ac1b3d37889b"
+        "photos": "78fd2ed2-4d8e-4b41-bcce-ac1b3d37889b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3231,7 +3328,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "9bf31440-aa2c-4e91-ac01-ffc542feab91"
+        "photos": "9bf31440-aa2c-4e91-ac01-ffc542feab91",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3264,7 +3362,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "0a143904-39ee-499c-bc09-a6d05a715e19"
+        "photos": "0a143904-39ee-499c-bc09-a6d05a715e19",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3297,7 +3396,8 @@
         "occupancy": 1,
         "capacity": 1,
         "utilisatio": "100%",
-        "photos": "8f8d0065-37d6-4fd8-8005-e04b601f1fe9"
+        "photos": "8f8d0065-37d6-4fd8-8005-e04b601f1fe9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3330,7 +3430,8 @@
         "occupancy": 3,
         "capacity": 6,
         "utilisatio": "50%",
-        "photos": "2963637e-b414-4c3f-a62b-1310b0f58e95"
+        "photos": "2963637e-b414-4c3f-a62b-1310b0f58e95",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3363,7 +3464,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "b98e454a-a892-4eb2-875e-423caca644d2"
+        "photos": "b98e454a-a892-4eb2-875e-423caca644d2",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3396,7 +3498,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "23aae1f7-551d-4ea8-a03e-4abe1219e20e"
+        "photos": "23aae1f7-551d-4ea8-a03e-4abe1219e20e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3429,7 +3532,8 @@
         "occupancy": 1,
         "capacity": 38,
         "utilisatio": "3%",
-        "photos": "ef16cfec-49ef-4c6d-a911-a77430f2ecd0"
+        "photos": "ef16cfec-49ef-4c6d-a911-a77430f2ecd0",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3462,7 +3566,8 @@
         "occupancy": 6,
         "capacity": 8,
         "utilisatio": "75%",
-        "photos": "d537c88f-0349-47ac-adb7-329d5099cbe5"
+        "photos": "d537c88f-0349-47ac-adb7-329d5099cbe5",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3495,7 +3600,8 @@
         "occupancy": 8,
         "capacity": 48,
         "utilisatio": "17%",
-        "photos": "c813a07b-5645-4bb3-be6f-e01b75a71d9b,ab711571-cdf0-4ba4-a9e1-f686fa62ca82,05cd4850-a848-40db-a914-7d1c30336485"
+        "photos": "c813a07b-5645-4bb3-be6f-e01b75a71d9b,ab711571-cdf0-4ba4-a9e1-f686fa62ca82,05cd4850-a848-40db-a914-7d1c30336485",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3528,7 +3634,8 @@
         "occupancy": 2,
         "capacity": 10,
         "utilisatio": "20%",
-        "photos": "25a7dbba-c201-4542-9429-bda1405d6be9"
+        "photos": "25a7dbba-c201-4542-9429-bda1405d6be9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3561,7 +3668,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "d22e1357-7de4-496e-8b16-aa5c4bdd244d"
+        "photos": "d22e1357-7de4-496e-8b16-aa5c4bdd244d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3594,7 +3702,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "d3e65553-084b-4e42-a52f-db15f565abd3"
+        "photos": "d3e65553-084b-4e42-a52f-db15f565abd3",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3627,7 +3736,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "abc783f7-10da-4188-8379-99d3a22b5372"
+        "photos": "abc783f7-10da-4188-8379-99d3a22b5372",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3660,7 +3770,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "4694761b-f11b-48ff-84b3-1620ee6bd64f"
+        "photos": "4694761b-f11b-48ff-84b3-1620ee6bd64f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3693,7 +3804,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "3a968a3c-9de3-492c-a9c8-c53e39da22a9"
+        "photos": "3a968a3c-9de3-492c-a9c8-c53e39da22a9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3726,7 +3838,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "b1f62491-f8e4-4138-bfb1-ad81be931c0b"
+        "photos": "b1f62491-f8e4-4138-bfb1-ad81be931c0b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3759,7 +3872,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "58ba416f-a655-4b8e-a2f8-99b1a06715e1"
+        "photos": "58ba416f-a655-4b8e-a2f8-99b1a06715e1",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3792,7 +3906,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "339f3183-18b1-4633-b463-2bd7435c43e3"
+        "photos": "339f3183-18b1-4633-b463-2bd7435c43e3",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3825,7 +3940,8 @@
         "occupancy": 0,
         "capacity": 9,
         "utilisatio": "0%",
-        "photos": "ee38242f-0d9c-431c-97ce-2c9783442310"
+        "photos": "ee38242f-0d9c-431c-97ce-2c9783442310",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3858,7 +3974,8 @@
         "occupancy": 6,
         "capacity": 12,
         "utilisatio": "50%",
-        "photos": "b5162703-0835-47ac-8443-2353751a47b0"
+        "photos": "b5162703-0835-47ac-8443-2353751a47b0",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3891,7 +4008,8 @@
         "occupancy": 3,
         "capacity": 13,
         "utilisatio": "23%",
-        "photos": "80f2927f-90cd-4c8b-856d-4b5e36cb9a2e"
+        "photos": "80f2927f-90cd-4c8b-856d-4b5e36cb9a2e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3924,7 +4042,8 @@
         "occupancy": 1,
         "capacity": 6,
         "utilisatio": "17%",
-        "photos": "64eaa85f-e614-424f-b083-e58200e4cc8f"
+        "photos": "64eaa85f-e614-424f-b083-e58200e4cc8f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3957,7 +4076,8 @@
         "occupancy": 2,
         "capacity": 6,
         "utilisatio": "33%",
-        "photos": "9aa9888b-d9a9-47d4-85ff-c92114989dcb"
+        "photos": "9aa9888b-d9a9-47d4-85ff-c92114989dcb",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -3990,7 +4110,8 @@
         "occupancy": 3,
         "capacity": 7,
         "utilisatio": "43%",
-        "photos": "48517c27-6327-4f59-8311-23c57d3cba0f"
+        "photos": "48517c27-6327-4f59-8311-23c57d3cba0f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4023,7 +4144,8 @@
         "occupancy": 2,
         "capacity": 5,
         "utilisatio": "40%",
-        "photos": "365aeb6e-cd03-46c0-a3b7-502bde490a0e"
+        "photos": "365aeb6e-cd03-46c0-a3b7-502bde490a0e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4056,7 +4178,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "036bf56f-9e3a-43ab-bca2-259f5e0aebb6"
+        "photos": "036bf56f-9e3a-43ab-bca2-259f5e0aebb6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4089,7 +4212,8 @@
         "occupancy": 1,
         "capacity": 10,
         "utilisatio": "10%",
-        "photos": "dddb3d9c-a7dd-4a35-bb8c-41673db12a8b"
+        "photos": "dddb3d9c-a7dd-4a35-bb8c-41673db12a8b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4122,7 +4246,8 @@
         "occupancy": 0,
         "capacity": 2,
         "utilisatio": "0%",
-        "photos": "456812bc-d526-4b45-a47f-52f34a45e8a9"
+        "photos": "456812bc-d526-4b45-a47f-52f34a45e8a9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4155,7 +4280,8 @@
         "occupancy": 2,
         "capacity": 2,
         "utilisatio": "100%",
-        "photos": "e2d66117-9bb2-45a3-bbe5-0f0b7e0de971"
+        "photos": "e2d66117-9bb2-45a3-bbe5-0f0b7e0de971",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4188,7 +4314,8 @@
         "occupancy": 2,
         "capacity": 6,
         "utilisatio": "33%",
-        "photos": "b679a230-9d19-435e-b0de-da961c90e072"
+        "photos": "b679a230-9d19-435e-b0de-da961c90e072",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4221,7 +4348,8 @@
         "occupancy": 3,
         "capacity": 10,
         "utilisatio": "30%",
-        "photos": "48be6b4a-ce42-41d0-808b-bfa28b6d391e"
+        "photos": "48be6b4a-ce42-41d0-808b-bfa28b6d391e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4254,7 +4382,8 @@
         "occupancy": 1,
         "capacity": 10,
         "utilisatio": "10%",
-        "photos": "53f12ccf-bee2-4722-a8d0-71c6f7cc8146"
+        "photos": "53f12ccf-bee2-4722-a8d0-71c6f7cc8146",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4287,7 +4416,8 @@
         "occupancy": 1,
         "capacity": 16,
         "utilisatio": "6%",
-        "photos": "1173f813-ac2e-4ce7-ac84-fdf059ea87c5"
+        "photos": "1173f813-ac2e-4ce7-ac84-fdf059ea87c5",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4320,7 +4450,8 @@
         "occupancy": 7,
         "capacity": 9,
         "utilisatio": "78%",
-        "photos": "64da7ed1-1ef5-417f-a5b3-8326cee43f64"
+        "photos": "64da7ed1-1ef5-417f-a5b3-8326cee43f64",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4353,7 +4484,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "ac291737-bc90-4472-92a9-540f99d614c7"
+        "photos": "ac291737-bc90-4472-92a9-540f99d614c7",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4386,7 +4518,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "55b9f2cb-093f-4d79-ab61-b0dc32ba2df0"
+        "photos": "55b9f2cb-093f-4d79-ab61-b0dc32ba2df0",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4419,7 +4552,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "fcfe2590-ac2a-4d96-a58d-bf470764ae6c"
+        "photos": "fcfe2590-ac2a-4d96-a58d-bf470764ae6c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4452,7 +4586,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "897aa1df-d427-4025-a1cb-747f90e683af"
+        "photos": "897aa1df-d427-4025-a1cb-747f90e683af",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4485,7 +4620,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "597a7883-ee96-4392-98d2-df551f2f3c87"
+        "photos": "597a7883-ee96-4392-98d2-df551f2f3c87",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4518,7 +4654,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "f8a1a53f-8037-4f5e-8def-94d46b1e1bd8"
+        "photos": "f8a1a53f-8037-4f5e-8def-94d46b1e1bd8",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4551,7 +4688,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "d1d5499e-b796-42d5-a398-c451c4349390"
+        "photos": "d1d5499e-b796-42d5-a398-c451c4349390",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4584,7 +4722,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "d5fa1172-b42d-45f3-bff2-c31a696370af"
+        "photos": "d5fa1172-b42d-45f3-bff2-c31a696370af",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4617,7 +4756,8 @@
         "occupancy": 2,
         "capacity": 2,
         "utilisatio": "100%",
-        "photos": "1b6f736a-ae03-4b5f-bf7f-57600a46314e"
+        "photos": "1b6f736a-ae03-4b5f-bf7f-57600a46314e",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4650,7 +4790,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "751571dd-ef97-42be-b690-b0da4ff54da8"
+        "photos": "751571dd-ef97-42be-b690-b0da4ff54da8",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4683,7 +4824,8 @@
         "occupancy": 6,
         "capacity": 9,
         "utilisatio": "67%",
-        "photos": "eebaaea9-9818-47a2-a225-c3f569a4f5e5"
+        "photos": "eebaaea9-9818-47a2-a225-c3f569a4f5e5",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4716,7 +4858,8 @@
         "occupancy": 0,
         "capacity": 0,
         "utilisatio": "NaN%",
-        "photos": "a631ae82-e423-4fdc-b270-23553d6b29ab"
+        "photos": "a631ae82-e423-4fdc-b270-23553d6b29ab",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4749,7 +4892,8 @@
         "occupancy": 5,
         "capacity": 10,
         "utilisatio": "50%",
-        "photos": "a6af7392-418b-4d57-b57b-ea9554188d96"
+        "photos": "a6af7392-418b-4d57-b57b-ea9554188d96",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4782,7 +4926,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "cf8b6af5-fdea-47a6-bbbb-4bd8f921c658"
+        "photos": "cf8b6af5-fdea-47a6-bbbb-4bd8f921c658",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4815,7 +4960,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "e8eaf638-f0b9-411c-9f21-da9bd7a9ea6b"
+        "photos": "e8eaf638-f0b9-411c-9f21-da9bd7a9ea6b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4848,7 +4994,8 @@
         "occupancy": 2,
         "capacity": 10,
         "utilisatio": "20%",
-        "photos": "d380e40d-c34c-4b0e-bb60-92d7d639f709"
+        "photos": "d380e40d-c34c-4b0e-bb60-92d7d639f709",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4881,7 +5028,8 @@
         "occupancy": 2,
         "capacity": 6,
         "utilisatio": "33%",
-        "photos": "e0b84a24-bfbb-4fe1-82ae-45d7a72ce0dc"
+        "photos": "e0b84a24-bfbb-4fe1-82ae-45d7a72ce0dc",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4914,7 +5062,8 @@
         "occupancy": 1,
         "capacity": 6,
         "utilisatio": "17%",
-        "photos": "d113afdb-48f9-486e-adb2-86f74e50b1ad"
+        "photos": "d113afdb-48f9-486e-adb2-86f74e50b1ad",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4947,7 +5096,8 @@
         "occupancy": 6,
         "capacity": 8,
         "utilisatio": "75%",
-        "photos": "fa7b9861-a6fc-41b7-925a-26444497dc71"
+        "photos": "fa7b9861-a6fc-41b7-925a-26444497dc71",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -4980,7 +5130,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "8a849410-ed21-401d-9d9e-6d020169319d"
+        "photos": "8a849410-ed21-401d-9d9e-6d020169319d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5013,7 +5164,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "675b973c-3cff-4208-8351-b7a6233998fb"
+        "photos": "675b973c-3cff-4208-8351-b7a6233998fb",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5046,7 +5198,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "583ceb60-c005-4c45-b5b3-5a0dfcc7092d"
+        "photos": "583ceb60-c005-4c45-b5b3-5a0dfcc7092d",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5079,7 +5232,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "1c6f7004-68ff-4768-903b-1bd76b82c78f"
+        "photos": "1c6f7004-68ff-4768-903b-1bd76b82c78f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5112,7 +5266,8 @@
         "occupancy": 7,
         "capacity": 9,
         "utilisatio": "78%",
-        "photos": "07f99816-a405-40c9-9375-8caea88c6542"
+        "photos": "07f99816-a405-40c9-9375-8caea88c6542",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5145,7 +5300,8 @@
         "occupancy": 4,
         "capacity": 8,
         "utilisatio": "50%",
-        "photos": "7b0cdaba-bcee-4cba-bd74-c3461104d11f"
+        "photos": "7b0cdaba-bcee-4cba-bd74-c3461104d11f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5178,7 +5334,8 @@
         "occupancy": 2,
         "capacity": 32,
         "utilisatio": "6%",
-        "photos": "67d9db5b-f688-45ad-8cc1-cd3638913486"
+        "photos": "67d9db5b-f688-45ad-8cc1-cd3638913486",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5211,7 +5368,8 @@
         "occupancy": 1,
         "capacity": 8,
         "utilisatio": "13%",
-        "photos": "9c179923-2a63-4120-824b-c2690bfc2e37"
+        "photos": "9c179923-2a63-4120-824b-c2690bfc2e37",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5244,7 +5402,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "51bc9284-5d7a-42f7-9eb1-fe6c0d995761"
+        "photos": "51bc9284-5d7a-42f7-9eb1-fe6c0d995761",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5277,7 +5436,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "05c774ae-0466-4604-a14d-924e788577b9"
+        "photos": "05c774ae-0466-4604-a14d-924e788577b9",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5310,7 +5470,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "9dc554ca-e6dc-4dc7-b4bf-a0c4a93c5f77"
+        "photos": "9dc554ca-e6dc-4dc7-b4bf-a0c4a93c5f77",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5343,7 +5504,8 @@
         "occupancy": 4,
         "capacity": 9,
         "utilisatio": "44%",
-        "photos": "934aead5-4f70-4c9a-ad09-0ec4766b2b95"
+        "photos": "934aead5-4f70-4c9a-ad09-0ec4766b2b95",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5376,7 +5538,8 @@
         "occupancy": 1,
         "capacity": 11,
         "utilisatio": "9%",
-        "photos": "eb07c9a8-ffab-41b7-bc9e-6e9875e1e513"
+        "photos": "eb07c9a8-ffab-41b7-bc9e-6e9875e1e513",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5409,7 +5572,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "527061d5-509f-459a-bce9-10c6bf504b0f"
+        "photos": "527061d5-509f-459a-bce9-10c6bf504b0f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5442,7 +5606,8 @@
         "occupancy": 2,
         "capacity": 10,
         "utilisatio": "20%",
-        "photos": "ad9657c0-3671-4587-882b-b3fedf2509aa"
+        "photos": "ad9657c0-3671-4587-882b-b3fedf2509aa",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5475,7 +5640,8 @@
         "occupancy": 1,
         "capacity": 18,
         "utilisatio": "6%",
-        "photos": "5ba9a307-1b56-4545-a337-2943a9e7d618"
+        "photos": "5ba9a307-1b56-4545-a337-2943a9e7d618",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5508,7 +5674,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "02b64ee5-513c-4371-97bd-3e869e3fb0a6"
+        "photos": "02b64ee5-513c-4371-97bd-3e869e3fb0a6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5541,7 +5708,8 @@
         "occupancy": 1,
         "capacity": 13,
         "utilisatio": "8%",
-        "photos": "8fd4412b-0ae1-4850-ad65-427ed3dbc0fc"
+        "photos": "8fd4412b-0ae1-4850-ad65-427ed3dbc0fc",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5574,7 +5742,8 @@
         "occupancy": 5,
         "capacity": 8,
         "utilisatio": "63%",
-        "photos": "dae914e0-1c2d-4024-99a0-55ce63803a07"
+        "photos": "dae914e0-1c2d-4024-99a0-55ce63803a07",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5607,7 +5776,8 @@
         "occupancy": 2,
         "capacity": 16,
         "utilisatio": "13%",
-        "photos": "6d8d5d69-79e0-4193-a315-e92240f5521a"
+        "photos": "6d8d5d69-79e0-4193-a315-e92240f5521a",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5640,7 +5810,8 @@
         "occupancy": 0,
         "capacity": 10,
         "utilisatio": "0%",
-        "photos": "7a1d7896-c47f-4504-adee-158932d5fb63"
+        "photos": "7a1d7896-c47f-4504-adee-158932d5fb63",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5673,7 +5844,8 @@
         "occupancy": 0,
         "capacity": 8,
         "utilisatio": "0%",
-        "photos": "ee69d04b-a97a-4236-82e5-bc9a186ad25b"
+        "photos": "ee69d04b-a97a-4236-82e5-bc9a186ad25b",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5706,7 +5878,8 @@
         "occupancy": 0,
         "capacity": 12,
         "utilisatio": "0%",
-        "photos": "b9908962-b830-4c0a-9b6a-a45eb7ea4cdb"
+        "photos": "b9908962-b830-4c0a-9b6a-a45eb7ea4cdb",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5739,7 +5912,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "5ca45f1d-6308-4c56-8e67-4d52eb765973"
+        "photos": "5ca45f1d-6308-4c56-8e67-4d52eb765973",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5772,7 +5946,8 @@
         "occupancy": 0,
         "capacity": 0,
         "utilisatio": "NaN%",
-        "photos": "977eef90-b682-486b-916b-d24c4853f418"
+        "photos": "977eef90-b682-486b-916b-d24c4853f418",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5805,7 +5980,8 @@
         "occupancy": 0,
         "capacity": 4,
         "utilisatio": "0%",
-        "photos": "c2b3796e-3006-49de-9f6b-83cd00171ff4"
+        "photos": "c2b3796e-3006-49de-9f6b-83cd00171ff4",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5838,7 +6014,8 @@
         "occupancy": 1,
         "capacity": 14,
         "utilisatio": "7%",
-        "photos": "16c27007-581a-4f50-98e6-1f65a50878d6"
+        "photos": "16c27007-581a-4f50-98e6-1f65a50878d6",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5871,7 +6048,8 @@
         "occupancy": 2,
         "capacity": 20,
         "utilisatio": "10%",
-        "photos": "3626020c-ae01-4b4b-8dc1-821a2df06b6c"
+        "photos": "3626020c-ae01-4b4b-8dc1-821a2df06b6c",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5904,7 +6082,8 @@
         "occupancy": 2,
         "capacity": 4,
         "utilisatio": "50%",
-        "photos": "5b9570f7-2c7b-4991-8913-a5e7fa77fefe"
+        "photos": "5b9570f7-2c7b-4991-8913-a5e7fa77fefe",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5937,7 +6116,8 @@
         "occupancy": 3,
         "capacity": 6,
         "utilisatio": "50%",
-        "photos": "5b90e7b5-3bcc-4b94-8618-29ba32e9ab35"
+        "photos": "5b90e7b5-3bcc-4b94-8618-29ba32e9ab35",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -5970,7 +6150,8 @@
         "occupancy": 0,
         "capacity": 6,
         "utilisatio": "0%",
-        "photos": "26615eba-c05f-4169-a174-49293c5599fb"
+        "photos": "26615eba-c05f-4169-a174-49293c5599fb",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6003,7 +6184,8 @@
         "occupancy": 0,
         "capacity": 7,
         "utilisatio": "0%",
-        "photos": "308e0684-69e0-4a25-bf2c-0cdcb6a0286f"
+        "photos": "308e0684-69e0-4a25-bf2c-0cdcb6a0286f",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6036,7 +6218,8 @@
         "occupancy": 12,
         "capacity": 20,
         "utilisatio": "60%",
-        "photos": "2ba55717-c70c-466d-94ab-c3e4e40c3a87,053abe03-0a49-43e9-972d-e6b030b1adfa,89e75a27-60d0-4795-b8de-155017529ef4"
+        "photos": "2ba55717-c70c-466d-94ab-c3e4e40c3a87,053abe03-0a49-43e9-972d-e6b030b1adfa,89e75a27-60d0-4795-b8de-155017529ef4",
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6069,7 +6252,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6102,7 +6286,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6135,7 +6320,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6168,7 +6354,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6201,7 +6388,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6234,7 +6422,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6267,7 +6456,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6300,7 +6490,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6333,7 +6524,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6366,7 +6558,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6399,7 +6592,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6432,7 +6626,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6465,7 +6660,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6498,7 +6694,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6531,7 +6728,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6564,7 +6762,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6597,7 +6796,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6630,7 +6830,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6663,7 +6864,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6696,7 +6898,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6729,7 +6932,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6762,7 +6966,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6795,7 +7000,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6828,7 +7034,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6861,7 +7068,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6894,7 +7102,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6927,7 +7136,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6960,7 +7170,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -6993,7 +7204,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7026,7 +7238,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7059,7 +7272,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7092,7 +7306,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7125,7 +7340,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7158,7 +7374,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7191,7 +7408,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7224,7 +7442,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7257,7 +7476,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
@@ -7290,7 +7510,8 @@
         "occupancy": null,
         "capacity": null,
         "utilisatio": null,
-        "photos": null
+        "photos": null,
+        "Cycle-stand": "Cycle stand"
       },
       "geometry": {
         "type": "Point",
