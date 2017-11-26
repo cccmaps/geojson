@@ -1,0 +1,362 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622601,
+          -43.529648
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Visitor Centre and Ilex Café",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "September to May: 9am to 5pm, June to August: 9am to 4pm, closed Christmas Day.",
+        "Description": "The award winning Visitor Centre houses a gift shop, exhibition space, function room and café. Here, you will find information about the Botanic Gardens and other Christchurch attractions through the friendly Visitor Centre team and the many maps and brochures available. ",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzg1MCwzNzdd/Visitor-Centre-Credit-Pam-Carmichael-855.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620094,
+          -43.528859
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Duck Duck Café",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Open from late spring until the end of summer, weekdays: 10.00am to 3.00pm, weekends: 10.00am to 5.00pm",
+        "Description": "A summer kiosk set near the playground and paddling pool, Duck Duck is the perfect place to grab an ice cream or cold drink.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE2MSwyMDVd/DuckDuckCafesign.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619206,
+          -43.528519
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Playground",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "November to February: 7.00am to 9.00pm, March: 7.00am to 8.30pm, April to September: 7.00am to 6.30pm, October: 7.00am to 8.30pm",
+        "Description": "Delighting children for years with its swings, slides and monkey bars, this playground now also features a wheelchair swing.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzgwMCw1MzJd/Botanic-Gardens-childrens-playground-girl-on-a-swing-099008.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619536,
+          -43.528694
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Paddling Pool",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "November 18 to March 31",
+        "Description": "Situated right next to the playground and ice cream shop, it's the perfect spot for a summer splash.",
+        "Photo": "https://cccgovtnz.cwp.govt.nz/assets/Images/The-Council/Newsline/_resampled/ResizedImageWzMyNSwyMDJd/kidatpool-T2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620945,
+          -43.528263
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Armagh Street car park",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "November to February: 7.00am to 9.00pm, March: 7.00am to 8.30pm, April to September: 7.00am to 6.30pm, October: 7.00am to 8.30pm",
+        "Description": "Off Rolleston Avenue, this car park enters the Gardens from the Armagh Street footbridge, near the playground.",
+        "Photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.617251,
+          -43.530046
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Riccarton Ave car park",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "November to February: 7.00am to 9.00pm, March: 7.00am to 8.30pm, April to September: 7.00am to 6.30pm, October: 7.00am to 8.30pm",
+        "Description": "Off Riccarton Avenue, this car park borders the Hagley Park tennis courts and enters the Gardens from the West Bridge.",
+        "Photo": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.618538,
+          -43.530329
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Water Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Situated against a backdrop of mature trees that provide shelter against wind, the Water Garden showcases a variety of species and cultivars with something to suit every home garden.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Water-Garden-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621118,
+          -43.529843
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Cuningham House",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 10.15am to 4pm",
+        "Description": "Visit Cuningham House, a traditional Winter Garden, for tropical plants from around the globe including Peperomia, Anthurium and even Banana trees. Two staircases lead to the upper floor where you can gaze over the extensive tropical plant collection from the large peripheral gallery.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Botanic-Gardens-Cuningham-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620958,
+          -43.529631
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Garrick and Gilpin Houses",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 10.15am to 4pm",
+        "Description": "Visit Gilpin House for carnivorous plants, bromelians and orchids. The connecting Garrick House fhouses a vast collection of cacti and succulents as well as  painted diorama of a desert scene that spans from South Africa to South America by Gordon Gee.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Botanic-Gardens-Gilpin.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620729,
+          -43.529712
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Foweraker House",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 10.15am to 4pm",
+        "Description": "Foweraker House with an enchanting collection of alpine plants that frequently change throughout the year.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Botanic-Gardens-Foweraker-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621137,
+          -43.529453
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Fern House",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 10.15am to 4pm",
+        "Description": "On the perimeter is Fern House which offers a peaceful oasis of native ferns including the iconic Silver Fern. A gentle stream meanders through the Fernery creating a perfect environment for moisture loving ferns such as Asplenium.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Botanic-Gardens-Fernery-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620061,
+          -43.530593
+        ]
+      },
+      "properties": {
+        "SeasonalName": "New Zealand Icon Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Established early in the 1900s, this garden has evolved into a fine collection of New Zealand species and is reminiscent of a temperate rainforest. ",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzg1NSwzNzZd/New-Zealand-natives-JBoag-855.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621142,
+          -43.530459
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Central Rose Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Formal in design, the Central Rose Garden sits in a sunny sheltered site and contains cultivars and hybrids of modern garden roses including bush, climbing, miniature and standard.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Central-Rose-Garden-blooms-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621424,
+          -43.530602
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Dahlia Border",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Many coloured dahlias add an extra attraction to the south-east fringe of the gorgeous Rose Garden, most of the collection comes from New Zealand breeders.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/Whats-On/Bloom/Botanic-Gardens-Dahlia-Border-flowers-5361resizelandscape.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623807,
+          -43.530689
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Herbaceous Border",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Developed in the early 1920s the Herbaceous Border is believed to be the longest of its kind displayed in a public garden in the Southern Hemisphere. Many colours, scents and textures layer together in contrasting shapes and heights, all showcasing perennials best suited for a Canterbury garden throughout the seasons. ",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxNTRd/Botanic-Gardens-Herb-garden-2-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624348,
+          -43.531509
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Temperate Asian Collection",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "This long border collection features trees and shrubs from countries such as China, Japan, Korea and Taiwan - all selected from areas with a temperate climate like Canterbury to ensure they survive. Camelia and rhododendron offer stunning flowers during the spring months.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzMwMCwxODVd/Botanic-Gardens-Asian-Border-modified-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626756,
+          -43.531851
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Armstrong Lawn",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Stunning formal bedding displays throughout spring and summer have been a staple here since the late 19th century. Annuals, biennials, shrubs and herbaceous perennials are used to provide colour, texture, form and scent.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/Armstrong-Lawn-bedding-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626718,
+          -43.532606
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Vegetable and Herb Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "This garden demonstrates many techniques to best utilise a small garden space including raised beds, seasonal crop rotation, companion plants and fruit trees trained in creative directions.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/Botanic-Gardens-vegetable-and-herb-garden-1002919resize.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623061,
+          -43.53307
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Heritage Rose Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "This hidden gem contains an extensive collection of modern, old garden and wild roses along with a vast selection of herbaceous perennials that all culminate in a beautiful display over November and December.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Heritage-Rose-Garden-300.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619044,
+          -43.532004
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Cockayne Memorial Garden",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 7am to 9pm",
+        "Description": "Named in memory of botanist Dr Leonard Cockaye in honour of his contributions to New Zealand botany, horticulture, ecology and conservation, this garden has been home to hebe, alpine plants and leptospermum beds since 1938.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzYwMCwyODJd/20151125-125236-1500.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621324,
+          -43.529646
+        ]
+      },
+      "properties": {
+        "SeasonalName": "Townend House",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Status": "Daily, 10.15am to 4pm",
+        "Description": "Townend House is a flowering conservatory and is full of colourful conservatory flowers all year round such as Cyclamen, Begonias and Primula.",
+        "Photo": "https://ccc.govt.nz/assets/Images/Parks-gardens/Townend-House-begonias-300.jpg"
+      }
+    }
+  ]
+}
