@@ -1149,7 +1149,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1174,7 +1175,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1199,7 +1201,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1224,7 +1227,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1249,7 +1253,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1274,7 +1279,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1299,7 +1305,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1324,7 +1331,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1349,7 +1357,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1374,7 +1383,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1399,7 +1409,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1424,7 +1435,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1449,7 +1461,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1474,7 +1487,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1499,7 +1513,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1524,7 +1539,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1549,7 +1565,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1574,7 +1591,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1599,7 +1617,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1624,7 +1643,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1649,7 +1669,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1674,7 +1695,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1699,7 +1721,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1724,7 +1747,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1749,7 +1773,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1774,7 +1799,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1799,7 +1825,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1824,7 +1851,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1849,7 +1877,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1874,7 +1903,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1899,7 +1929,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1924,7 +1955,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1949,7 +1981,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1974,7 +2007,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -1999,7 +2033,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2024,7 +2059,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2049,7 +2085,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2074,7 +2111,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2099,7 +2137,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2124,7 +2163,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2149,7 +2189,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2174,7 +2215,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2199,7 +2241,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2224,7 +2267,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2249,7 +2293,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2274,7 +2319,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2299,7 +2345,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2324,7 +2371,8 @@
         "RoadName": "Beachville Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2899,7 +2947,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2924,7 +2973,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -2949,7 +2999,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 0,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -3199,7 +3250,8 @@
         "RoadName": "Main Road",
         "SharedPath_1": 1,
         "CycleWayName": "Christchurch Coastal Pathway",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4299,7 +4351,8 @@
         "RoadName": "Worcester Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4324,7 +4377,8 @@
         "RoadName": "Worcester Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4349,7 +4403,8 @@
         "RoadName": "Worcester Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4374,7 +4429,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4449,7 +4505,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -4474,7 +4531,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5774,7 +5832,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5799,7 +5858,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5824,7 +5884,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5849,7 +5910,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5874,7 +5936,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5899,7 +5962,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5924,7 +5988,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5949,7 +6014,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5974,7 +6040,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -5999,7 +6066,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6024,7 +6092,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6049,7 +6118,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6074,7 +6144,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6099,7 +6170,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6124,7 +6196,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6149,7 +6222,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6174,7 +6248,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6199,7 +6274,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6224,7 +6300,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6249,7 +6326,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6274,7 +6352,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6299,7 +6378,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6324,7 +6404,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6349,7 +6430,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6374,7 +6456,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6399,7 +6482,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6424,7 +6508,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6449,7 +6534,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6474,7 +6560,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6499,7 +6586,8 @@
         "RoadName": "Matai Street East",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6524,7 +6612,8 @@
         "RoadName": "Fendalton Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6549,7 +6638,8 @@
         "RoadName": "Fendalton Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6574,7 +6664,8 @@
         "RoadName": "Fendalton Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6599,7 +6690,8 @@
         "RoadName": "Fendalton Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6624,7 +6716,8 @@
         "RoadName": "Glandovey Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6649,7 +6742,8 @@
         "RoadName": "Glandovey Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6674,7 +6768,8 @@
         "RoadName": "Wairakei Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6699,7 +6794,8 @@
         "RoadName": "Wairakei Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6724,7 +6820,8 @@
         "RoadName": "Blighs Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6749,7 +6846,8 @@
         "RoadName": "Blighs Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6774,7 +6872,8 @@
         "RoadName": "Harewood Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6799,7 +6898,8 @@
         "RoadName": "Harewood Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6824,7 +6924,8 @@
         "RoadName": "Harewood Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6849,7 +6950,8 @@
         "RoadName": "Langdons Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6874,7 +6976,8 @@
         "RoadName": "Langdons Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6899,7 +7002,8 @@
         "RoadName": "Sawyers Arms Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6924,7 +7028,8 @@
         "RoadName": "Phoenix Lane",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6949,7 +7054,8 @@
         "RoadName": "Phoenix Lane",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6974,7 +7080,8 @@
         "RoadName": "Phoenix Lane",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -6999,7 +7106,8 @@
         "RoadName": "Northcote Road",
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7024,7 +7132,8 @@
         "RoadName": "Clyde Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7049,7 +7158,8 @@
         "RoadName": "Clyde Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7074,7 +7184,8 @@
         "RoadName": "Clyde Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7099,7 +7210,8 @@
         "RoadName": "Hinau Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7124,7 +7236,8 @@
         "RoadName": "Hinau Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7149,7 +7262,8 @@
         "RoadName": "Hinau Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7174,7 +7288,8 @@
         "RoadName": "Hinau Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7199,7 +7314,8 @@
         "RoadName": "Miro Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7224,7 +7340,8 @@
         "RoadName": "Totara Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7249,7 +7366,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7274,7 +7392,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7299,7 +7418,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7324,7 +7444,8 @@
         "RoadName": "University Drive",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7349,7 +7470,8 @@
         "RoadName": "Totara Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7374,7 +7496,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7399,7 +7522,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7424,7 +7548,8 @@
         "RoadName": "Ngahere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7449,7 +7574,8 @@
         "RoadName": "Kahu Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7474,7 +7600,8 @@
         "RoadName": "Kahu Road",
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7499,7 +7626,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7524,7 +7652,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7549,7 +7678,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7574,7 +7704,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7599,7 +7730,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7624,7 +7756,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7649,7 +7782,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7674,7 +7808,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7699,7 +7834,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7724,7 +7860,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7749,7 +7886,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7774,7 +7912,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7799,7 +7938,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7824,7 +7964,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7849,7 +7990,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7874,7 +8016,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7899,7 +8042,8 @@
         "RoadName": "Matai Street West",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7924,7 +8068,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7949,7 +8094,8 @@
         "RoadName": "Sawyers Arms Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7974,7 +8120,8 @@
         "RoadName": "Sawyers Arms Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -7999,7 +8146,8 @@
         "RoadName": "Main North Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8024,7 +8172,8 @@
         "RoadName": "Sawyers Arms Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8049,7 +8198,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8074,7 +8224,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8099,7 +8250,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8124,7 +8276,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8149,7 +8302,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8174,7 +8328,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8199,7 +8354,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8224,7 +8380,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8249,7 +8406,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8274,7 +8432,8 @@
         "RoadName": "Grassmere Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8299,7 +8458,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8324,7 +8484,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8349,7 +8510,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8374,7 +8536,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8399,7 +8562,8 @@
         "RoadName": "Edgeware Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8424,7 +8588,8 @@
         "RoadName": "St Albans Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8449,7 +8614,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8474,7 +8640,8 @@
         "RoadName": "St Albans Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8499,7 +8666,8 @@
         "RoadName": "St Albans Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8524,7 +8692,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8549,7 +8718,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8574,7 +8744,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8599,7 +8770,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8624,7 +8796,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8649,7 +8822,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8674,7 +8848,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8699,7 +8874,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8724,7 +8900,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8749,7 +8926,8 @@
         "RoadName": "Trafalgar Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8774,7 +8952,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8799,7 +8978,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8824,7 +9004,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8849,7 +9030,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8874,7 +9056,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8899,7 +9082,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8924,7 +9108,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8949,7 +9134,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8974,7 +9160,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -8999,7 +9186,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -9024,7 +9212,8 @@
         "RoadName": "Rutland Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -9049,7 +9238,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10699,7 +10889,8 @@
         "RoadName": "Wrights Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10724,7 +10915,8 @@
         "RoadName": "Hillmorton Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10799,7 +10991,8 @@
         "RoadName": "Lincoln Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10899,7 +11092,8 @@
         "RoadName": "Barrington Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10949,7 +11143,8 @@
         "RoadName": "Simeon Street",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10974,7 +11169,8 @@
         "RoadName": "Simeon Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -10999,7 +11195,8 @@
         "RoadName": "Collins Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11024,7 +11221,8 @@
         "RoadName": "Collins Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11053,7 +11251,8 @@
         "RoadName": "Collins Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11082,7 +11281,8 @@
         "RoadName": "Collins Street",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11115,7 +11315,8 @@
         "RoadName": "Church Square",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11140,7 +11341,8 @@
         "RoadName": "Church Square",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11165,7 +11367,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11190,7 +11393,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11215,7 +11419,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11240,7 +11445,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11265,7 +11471,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11290,7 +11497,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11315,7 +11523,8 @@
         "RoadName": "Grove Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -11340,7 +11549,8 @@
         "RoadName": "Christchurch Southern Motorway",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12365,7 +12575,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12390,7 +12601,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12415,7 +12627,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12440,7 +12653,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12465,7 +12679,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12490,7 +12705,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12515,7 +12731,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12540,7 +12757,8 @@
         "RoadName": "Tennyson Street",
         "SharedPath_1": 0,
         "CycleWayName": "Tennyson Street",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12665,7 +12883,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12690,7 +12909,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12715,7 +12935,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12740,7 +12961,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12765,7 +12987,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12790,7 +13013,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12815,7 +13039,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12840,7 +13065,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12865,7 +13091,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12890,7 +13117,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12915,7 +13143,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -12940,7 +13169,8 @@
         "RoadName": "Ilam Road",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13115,7 +13345,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13140,7 +13371,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13165,7 +13397,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13190,7 +13423,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13215,7 +13449,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13240,7 +13475,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13265,7 +13501,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13290,7 +13527,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13315,7 +13553,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13340,7 +13579,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13365,7 +13605,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -13390,7 +13631,8 @@
         "RoadName": "St Asaph Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -16882,7 +17124,8 @@
         "RoadName": "England Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -16923,7 +17166,8 @@
         "RoadName": "England Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -16948,7 +17192,8 @@
         "RoadName": "Cashel Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -16989,7 +17234,8 @@
         "RoadName": "Buccleugh Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -17046,7 +17292,8 @@
         "RoadName": "Olliviers Road",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -17095,7 +17342,8 @@
         "RoadName": "Wellington Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -17140,7 +17388,8 @@
         "RoadName": "Clive Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -17189,7 +17438,8 @@
         "RoadName": "Marlborough Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -17238,7 +17488,8 @@
         "RoadName": "Marlborough Street",
         "SharedPath_1": 0,
         "CycleWayName": "Rapanui",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -19831,7 +20082,8 @@
         "RoadName": "Sawyers Arms Road",
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22470,7 +22722,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22495,7 +22748,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22520,7 +22774,8 @@
         "RoadName": "Colombo Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22545,7 +22800,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22570,7 +22826,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -22595,7 +22852,8 @@
         "RoadName": "Tuam Street",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24245,7 +24503,8 @@
         "RoadName": "Aidanfield Drive",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24430,7 +24689,8 @@
         "RoadName": "Christchurch Southern Motorway",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24615,7 +24875,8 @@
         "RoadName": "Awatea Road",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24800,7 +25061,8 @@
         "RoadName": "Brian Keogh Lane",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24833,7 +25095,8 @@
         "RoadName": "Wigram Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24858,7 +25121,8 @@
         "RoadName": "Wigram Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24903,7 +25167,8 @@
         "RoadName": "Wigram Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24944,7 +25209,8 @@
         "RoadName": "Wigram Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -24985,7 +25251,8 @@
         "RoadName": "Curletts Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -25018,7 +25285,8 @@
         "RoadName": "Annex Road",
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -26110,7 +26378,8 @@
         "RoadName": "Curletts Road",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -30953,7 +31222,8 @@
         "RoadName": "Wigram Road",
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -32450,7 +32720,8 @@
         "RoadName": "University Drive",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -32651,7 +32922,8 @@
         "RoadName": "University Drive",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -33030,7 +33302,8 @@
         "RoadName": "Dovedale Avenue",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -33055,7 +33328,8 @@
         "RoadName": "Dovedale Avenue",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -33092,7 +33366,8 @@
         "RoadName": "Dovedale Avenue",
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -33153,7 +33428,8 @@
         "RoadName": "Waimairi Road",
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34354,7 +34630,8 @@
         "RoadName": "Halswell Road",
         "SharedPath_1": 0,
         "CycleWayName": "City Centre",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34754,7 +35031,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34779,7 +35057,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34804,7 +35083,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34829,7 +35109,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34854,7 +35135,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34879,7 +35161,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34904,7 +35187,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34929,7 +35213,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34954,7 +35239,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -34979,7 +35265,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35004,7 +35291,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35029,7 +35317,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35054,7 +35343,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35079,7 +35369,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35104,7 +35395,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35129,7 +35421,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35154,7 +35447,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35179,7 +35473,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35204,7 +35499,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35229,7 +35525,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35254,7 +35551,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35279,7 +35577,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35304,7 +35603,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35329,7 +35629,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35354,7 +35655,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35379,7 +35681,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35408,7 +35711,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35433,7 +35737,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35458,7 +35763,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35483,7 +35789,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35508,7 +35815,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35533,7 +35841,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35558,7 +35867,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35583,7 +35893,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35608,7 +35919,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35633,7 +35945,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35658,7 +35971,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35762,7 +36076,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35787,7 +36102,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35812,7 +36128,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35895,7 +36212,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35920,7 +36238,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -35945,7 +36264,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36074,7 +36394,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36103,7 +36424,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36128,7 +36450,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36153,7 +36476,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36178,7 +36502,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36203,7 +36528,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36228,7 +36554,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36253,7 +36580,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36278,7 +36606,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36328,7 +36657,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36353,7 +36683,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36378,7 +36709,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36403,7 +36735,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36428,7 +36761,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36453,7 +36787,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36478,7 +36813,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36503,7 +36839,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36528,7 +36865,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36553,7 +36891,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36578,7 +36917,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36603,7 +36943,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36628,7 +36969,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36653,7 +36995,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36678,7 +37021,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36703,7 +37047,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36728,7 +37073,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36753,7 +37099,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36778,7 +37125,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36803,7 +37151,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36828,7 +37177,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36853,7 +37203,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36878,7 +37229,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36903,7 +37255,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36928,7 +37281,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36953,7 +37307,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -36978,7 +37333,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37003,7 +37359,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37028,7 +37385,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37053,7 +37411,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37078,7 +37437,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37103,7 +37463,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37128,7 +37489,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37153,7 +37515,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37178,7 +37541,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37203,7 +37567,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37228,7 +37593,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37253,7 +37619,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37278,7 +37645,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37303,7 +37671,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37328,7 +37697,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37353,7 +37723,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37378,7 +37749,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37403,7 +37775,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37428,7 +37801,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37453,7 +37827,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37478,7 +37853,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37503,7 +37879,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37528,7 +37905,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37553,7 +37931,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37578,7 +37957,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37603,7 +37983,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37628,7 +38009,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37653,7 +38035,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37678,7 +38061,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37703,7 +38087,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37728,7 +38113,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37753,7 +38139,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37778,7 +38165,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37803,7 +38191,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37828,7 +38217,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37853,7 +38243,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37878,7 +38269,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37903,7 +38295,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37928,7 +38321,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37953,7 +38347,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -37978,7 +38373,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38003,7 +38399,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38028,7 +38425,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38053,7 +38451,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38078,7 +38477,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38103,7 +38503,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38128,7 +38529,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38153,7 +38555,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38178,7 +38581,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38203,7 +38607,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38228,7 +38633,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38253,7 +38659,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38278,7 +38685,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38303,7 +38711,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38328,7 +38737,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38353,7 +38763,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38378,7 +38789,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38403,7 +38815,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38428,7 +38841,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38453,7 +38867,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38478,7 +38893,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38503,7 +38919,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38528,7 +38945,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38553,7 +38971,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38578,7 +38997,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38603,7 +39023,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38628,7 +39049,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38653,7 +39075,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38678,7 +39101,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38703,7 +39127,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38728,7 +39153,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38753,7 +39179,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38778,7 +39205,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38803,7 +39231,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38828,7 +39257,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38853,7 +39283,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Northern Line",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38878,7 +39309,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38903,7 +39335,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38928,7 +39361,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38953,7 +39387,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -38978,7 +39413,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39003,7 +39439,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39028,7 +39465,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Uni-Cycle",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39053,7 +39491,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39078,7 +39517,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Papanui Parallel",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39328,7 +39768,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39353,7 +39794,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39428,7 +39870,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39453,7 +39896,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39503,7 +39947,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39553,7 +39998,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39603,7 +40049,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39653,7 +40100,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39678,7 +40126,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39703,7 +40152,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39728,7 +40178,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39753,7 +40204,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39778,7 +40230,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39803,7 +40256,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39828,7 +40282,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39853,7 +40308,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39878,7 +40334,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39903,7 +40360,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39928,7 +40386,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -39953,7 +40412,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -40623,7 +41083,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -40648,7 +41109,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
@@ -40677,7 +41139,8 @@
         "RoadName": null,
         "SharedPath_1": 0,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Cycle Lane"
+        "TypeOfPath": "Cycle Lane",
+        "MajorCycleway": 1
       }
     },
     {
@@ -41104,7 +41567,8 @@
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Little River Link",
-        "TypeOfPath": "Shared Path"
+        "TypeOfPath": "Shared Path",
+        "MajorCycleway": 1
       }
     },
     {
