@@ -1257,7 +1257,7 @@
         "utilisatio": "NaN%",
         "photos": "973008ff-b440-4afe-95c7-9262c51df45c",
         "cyclestand": "Cycle stand",
-        "Active": 1
+        "Active": ""
       },
       "geometry": {
         "type": "Point",
@@ -5002,7 +5002,7 @@
         "utilisatio": "NaN%",
         "photos": "a631ae82-e423-4fdc-b270-23553d6b29ab",
         "cyclestand": "Cycle stand",
-        "Active": 1
+        "Active": ""
       },
       "geometry": {
         "type": "Point",
@@ -6122,7 +6122,7 @@
         "utilisatio": "NaN%",
         "photos": "977eef90-b682-486b-916b-d24c4853f418",
         "cyclestand": "Cycle stand",
-        "Active": 1
+        "Active": ""
       },
       "geometry": {
         "type": "Point",
