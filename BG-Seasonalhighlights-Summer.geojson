@@ -357,6 +357,57 @@
         "Description": "Townend House is a flowering conservatory and is full of colourful conservatory flowers all year round such as Cyclamen, Begonias and Primula.",
         "Photo": "/assets/Images/Parks-gardens/Townend-House-begonias-300.jpg"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SeasonalName": "World Peace Bell",
+        "Description": "With less than 25 in the world, this peace bell was installed in 2006 in commemoration of Christchurch's status as a peace city. Gifted by The World Peace Bell Association in Tokyo, the bell is made of coins and medals from around the world and symbolises the world being one.",
+        "Status": "November to February: 7.00am to 9.00pm.",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/Botanic-Gardens-Peace-Bell-0817471resize.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621659,
+          -43.53138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SeasonalName": "Peacock Fountain",
+        "Description": "Set in the picturesque Armstrong Lawn, the Peacock Fountain was purchased from the famous Coalbrookdale Foundry in Shropshire, England and erected in 1911. Dismantled in 1949, public support called for its restoration and it was recommissioned in 1996. This iconic fountain has long been a contentious piece in the art world, its colours and form often criticised, but it is nonetheless seen by many Cantabrians as an integral part of the Botanic Gardens.",
+        "Status": "November to February: 7.00am to 9.00pm.",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Photo": "/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzgwMCw1NzJd/Peacock-Fountain-May2012-0752resize.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626906,
+          -43.531484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SeasonalName": "Bandsmen Memorial Rotunda",
+        "Description": "Erected in 1926 to commemorate bandsmen who died in the First World War, the Rotunda acts as a venue for a wide range of musical acts. During spring, thousands of daffodils flower around it creating a particularly pleasant and peaceful atmosphere. ",
+        "Status": "November to February: 7.00am to 9.00pm.",
+        "SeasonalCode": "Seasonal Highlights Summer",
+        "Photo": "/assets/Images/Rebuild/parks-squares/_resampled/ResizedImageWzQwMCwyMjld/Bandsman-Rotunda.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621931,
+          -43.532642
+        ]
+      }
     }
   ]
 }
