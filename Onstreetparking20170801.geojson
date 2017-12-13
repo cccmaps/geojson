@@ -480,6 +480,68 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          172.62750004417973,
+          -43.53073701546834,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 1476,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20120501",
+        "Geometry_XLO": 1569900.4552327453,
+        "Geometry_YLO": 5180163.567862156,
+        "Geometry_XHI": 1569901.0672154818,
+        "Geometry_YHI": 5180191.687903317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6274968792801,
+          -43.53030098048128,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 1477,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "P30",
+        "RestrictedByDurationDescription": "30 minutes maximum",
+        "RestrictedByDuration": 30,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20120501",
+        "Geometry_XLO": 1569900.1588412877,
+        "Geometry_YLO": 5180199.276247248,
+        "Geometry_XHI": 1569900.418453622,
+        "Geometry_YHI": 5180252.828240303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           172.62750040367152,
           -43.5327314410095,
           0
@@ -6493,6 +6555,37 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6310149983881,
+          -43.52994585747314,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 5712,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "P30",
+        "RestrictedByDurationDescription": "30 minutes maximum",
+        "RestrictedByDuration": 30,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20120928",
+        "Geometry_XLO": 1570170.2769326866,
+        "Geometry_YLO": 5180266.31717945,
+        "Geometry_XHI": 1570198.5065228126,
+        "Geometry_YHI": 5180267.200218951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -9133,6 +9226,37 @@
         "Geometry_YLO": 5181086.237280375,
         "Geometry_XHI": 1570216.8531855226,
         "Geometry_YHI": 5181086.2833473915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63673478747987,
+          -43.53807660449851,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 7431,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20120904",
+        "Geometry_XLO": 1570650.2715923174,
+        "Geometry_YLO": 5179351.966608729,
+        "Geometry_XHI": 1570650.7675350057,
+        "Geometry_YHI": 5179379.636642554
       }
     },
     {
@@ -18386,6 +18510,37 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64255959368222,
+          -43.527429013909185,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 18681,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "P30",
+        "RestrictedByDurationDescription": "30 minutes maximum",
+        "RestrictedByDuration": 30,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": null,
+        "Geometry_XLO": 1571115.9403030444,
+        "Geometry_YLO": 5180533.991223008,
+        "Geometry_XHI": 1571116.1504736105,
+        "Geometry_YHI": 5180566.706918974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -20051,6 +20206,130 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62749890992208,
+          -43.5315811321835,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19871,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171005",
+        "Geometry_XLO": 1569901.0076079182,
+        "Geometry_YLO": 5180072.864884278,
+        "Geometry_XHI": 1569901.171107507,
+        "Geometry_YHI": 5180094.896923398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6274994568528,
+          -43.53184771387589,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19872,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "P30",
+        "RestrictedByDurationDescription": "30 minutes maximum",
+        "RestrictedByDuration": 30,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171005",
+        "Geometry_XLO": 1569901.171106216,
+        "Geometry_YLO": 5180035.684840959,
+        "Geometry_XHI": 1569901.361144121,
+        "Geometry_YHI": 5180072.8648842685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64211390536866,
+          -43.53160507437358,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19874,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171005",
+        "Geometry_XLO": 1571081.8607451671,
+        "Geometry_YLO": 5180062.059890133,
+        "Geometry_XHI": 1571082.190323649,
+        "Geometry_YHI": 5180110.752604968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64400283892135,
+          -43.53305034992022,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19875,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171005",
+        "Geometry_XLO": 1571217.4090661993,
+        "Geometry_YLO": 5179926.43589464,
+        "Geometry_XHI": 1571253.275917828,
+        "Geometry_YHI": 5179926.665331474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
@@ -20198,6 +20477,130 @@
         "Geometry_YLO": 5179995.729726814,
         "Geometry_XHI": 1570328.0788330708,
         "Geometry_YHI": 5180015.26478642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63163481553823,
+          -43.53307588486819,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19896,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "P30",
+        "RestrictedByDurationDescription": "30 minutes maximum",
+        "RestrictedByDuration": 30,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171011",
+        "Geometry_XLO": 1570216.0188316,
+        "Geometry_YLO": 5179919.256242883,
+        "Geometry_XHI": 1570256.0112164626,
+        "Geometry_YHI": 5179919.471035091
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63371607860293,
+          -43.538555901989334,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19898,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171011",
+        "Geometry_XLO": 1570406.7906476834,
+        "Geometry_YLO": 5179295.554327828,
+        "Geometry_XHI": 1570406.9326327702,
+        "Geometry_YHI": 5179327.449206089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62660138860855,
+          -43.53980204205327,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19899,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171011",
+        "Geometry_XLO": 1569805.6656340724,
+        "Geometry_YLO": 5179170.362532871,
+        "Geometry_XHI": 1569859.6665933419,
+        "Geometry_YHI": 5179170.73918148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64125445458043,
+          -43.52991168783291,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19901,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": "Not applicable",
+        "ParkingHourlyRate": "Not applicable",
+        "MeterHoursOfOperation": "Not applicable",
+        "ObservationDate": "20171013",
+        "Geometry_XLO": 1570999.388908727,
+        "Geometry_YLO": 5180274.093540773,
+        "Geometry_XHI": 1571024.149022152,
+        "Geometry_YHI": 5180274.2515104385
       }
     },
     {
