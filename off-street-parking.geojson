@@ -303,7 +303,7 @@
         "type": "CCC Off-Street Carpark",
         "address": "204 Manchester St (Cnr Manchester & Gloucester St).",
         "spaces": 70,
-        "hourlyrate": "$1 (9am-6pm, Mon-Sun)",
+        "hourlyrate": "$1 (9am-5pm, Mon-Sun)",
         "alldayrate": "N/A",
         "timelimit": "Some P180 areas",
         "nightrate": "N/A",
