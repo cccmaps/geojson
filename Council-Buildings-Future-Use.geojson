@@ -24,14 +24,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.621155,
-          -43.530421
+          172.645815,
+          -43.522996
         ]
       },
       "properties": {
-        "Address": "",
-        "Description": "",
-        "Commerical": ""
+        "Address": "384 Barbadoes Street, Christchurch Central",
+        "Description": "The Sexton’s House for the Church of England Cemetery at the Barbadoes Street Cemetery fronts Cambridge Terrace and was built in the 1920s to replace the earlier 1871 cottage built on the same site.",
+        "Commerical": "No",
+        "BuildingName": "Barbadoes Cemeteries (Sexton House)",
+        "Cummunity": "Yes",
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/barbadoes.jpg"
       }
     },
     {
@@ -39,14 +42,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.625064,
-          -43.531172
+          172.625391,
+          -43.454831
         ]
       },
       "properties": {
-        "Address": "",
-        "Description": "",
-        "Cummunity": ""
+        "Address": "665 Main North Road, Belfast",
+        "Description": "The Former School Master’s House at 665 Main North Road, Belfast, was built in 1877 and is good example of a 19th century colonial schoolmaster’s house.",
+        "Cummunity": "Yes",
+        "BuildingName": "Belfast School Master's House",
+        "Commerical": "No",
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw0NzVd/Belfast.png"
       }
     },
     {
@@ -54,33 +60,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.623972,
-          -43.530676
+          172.599532,
+          -43.554728
         ]
       },
-      "properties": {}
+      "properties": {
+        "Cummunity": "Yes",
+        "Commerical": "No",
+        "Address": "71 Domain Terrace, Spreydon",
+        "BuildingName": "Coronation Hall",
+        "Description": "Coronation Hall, 71 Domain Terrace, Spreydon, is a typical early 20th century community hall, of a form erected in large numbers across the country in the first four decades of that century.",
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/coronation.jpg"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.622576,
-          -43.530216
+          172.624818,
+          -43.454925
         ]
       },
-      "properties": {}
+      "properties": {
+        "Cummunity": "Yes",
+        "Commerical": "No",
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2MThd/Kapuatohe.png",
+        "BuildingName": "Kapuatohe Cottage",
+        "Description": "Kapuatohe Cottage, 663 Main North Road, Belfast, remains as a tangible link with the early settlement of Belfast, and the Kapuatohe Hamlet subdivision in particular.",
+        "Address": "663 Main North Road, Belfast"
+      }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62256,
-          -43.529788
+          172.649024,
+          -43.523172
         ]
       },
-      "properties": {}
+      "properties": {
+        "Cummunity": "Yes",
+        "Commerical": "No",
+        "BuildingName": "Bangor Street No.3 Pump House",
+        "Description": "The pump house on Oxford Terrace, Central Christchurch, is the first in a series of ornamental pavilion-style pump houses built by the Christchurch Drainage Board designed to fit aesthetically with its environment.",
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2MTdd/Bangorstreeet.png",
+        "Address": "Oxford Terrace, Central Christchurch"
+      }
     },
     {
       "type": "Feature",
