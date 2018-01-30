@@ -16,7 +16,8 @@
         "Description": "The building at 40 Rue Jolie, Banks Peninsula, is a single storey weatherboard cottage. It has a steeply pitched roof covered with short run corrugated iron and on the east elevation (fronting Rue Jolie) is a covered veranda with four veranda posts.",
         "Cummunity": "Yes",
         "Commerical": "No",
-        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/40rue2.jpg"
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/40rue2.jpg",
+        "CommunityBoard": "Banks Peninsula  "
       }
     },
     {
@@ -34,7 +35,8 @@
         "Commerical": "No",
         "BuildingName": "Barbadoes Cemeteries (Sexton House)",
         "Cummunity": "Yes",
-        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/barbadoes.jpg"
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/barbadoes.jpg",
+        "CommunityBoard": "Linwood-Central-Heathcote"
       }
     },
     {
@@ -52,7 +54,8 @@
         "Cummunity": "Yes",
         "BuildingName": "Belfast School Master's House",
         "Commerical": "No",
-        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw0NzVd/Belfast.png"
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw0NzVd/Belfast.png",
+        "CommunityBoard": "Fendalton-Waimairi-Harewood "
       }
     },
     {
@@ -70,7 +73,8 @@
         "Address": "71 Domain Terrace, Spreydon",
         "BuildingName": "Coronation Hall",
         "Description": "Coronation Hall, 71 Domain Terrace, Spreydon, is a typical early 20th century community hall, of a form erected in large numbers across the country in the first four decades of that century.",
-        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/coronation.jpg"
+        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2NDFd/coronation.jpg",
+        "CommunityBoard": "Spreydon-Cashmere "
       }
     },
     {
@@ -88,7 +92,8 @@
         "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2MThd/Kapuatohe.png",
         "BuildingName": "Kapuatohe Cottage",
         "Description": "Kapuatohe Cottage, 663 Main North Road, Belfast, remains as a tangible link with the early settlement of Belfast, and the Kapuatohe Hamlet subdivision in particular.",
-        "Address": "663 Main North Road, Belfast"
+        "Address": "663 Main North Road, Belfast",
+        "CommunityBoard": "Fendalton-Waimairi-Harewood"
       }
     },
     {
@@ -106,7 +111,8 @@
         "BuildingName": "Bangor Street No.3 Pump House",
         "Description": "The pump house on Oxford Terrace, Central Christchurch, is the first in a series of ornamental pavilion-style pump houses built by the Christchurch Drainage Board designed to fit aesthetically with its environment.",
         "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2MTdd/Bangorstreeet.png",
-        "Address": "Oxford Terrace, Central Christchurch"
+        "Address": "Oxford Terrace, Central Christchurch",
+        "CommunityBoard": "Linwood-Central-Heathcote "
       }
     },
     {
@@ -118,7 +124,13 @@
           -43.53205
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Former Lyttelton Borough Council Stables",
+        "CommunityBoard": "Banks Peninsula  ",
+        "Address": "4 Donald Street, Lyttelton",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -129,7 +141,13 @@
           -43.531454
         ]
       },
-      "properties": {}
+      "properties": {
+        "CommunityBoard": "Banks Peninsula  ",
+        "BuildingName": "Kukupa Hostel ",
+        "Address": "380 Pettigrews Road, Pigeon Bay  ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -140,7 +158,13 @@
           -43.53081
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Little River Library ",
+        "Address": "4313 Christchurch-Akaroa Road, Little River  ",
+        "CommunityBoard": "Banks Peninsula  ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -151,7 +175,13 @@
           -43.532046
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Former Governors Bay Master’s School ",
+        "Address": "112 Main Road, Governors Bay",
+        "CommunityBoard": "Banks Peninsula  ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -162,7 +192,13 @@
           -43.530089
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Mona Vale Bath House",
+        "Address": "40 Mona Vale Avenue, Riccarton",
+        "CommunityBoard": "Fendalton-Waimairi-Harewood ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -173,7 +209,14 @@
           -43.531876
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Chokebore Lodge ",
+        "Address": "148 Racecourse Road, Sockburn ",
+        "Description": "",
+        "CommunityBoard": "Halswell-Hornby-Riccarton ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -184,7 +227,13 @@
           -43.530411
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Penfolds Cob Cottage ",
+        "Address": "2 Main Road, Ferrymead  ",
+        "CommunityBoard": "Linwood-Central-Heathcote ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -195,7 +244,13 @@
           -43.531124
         ]
       },
-      "properties": {}
+      "properties": {
+        "BuildingName": "Second World War Bunkers/Cracroft Caverns ",
+        "Address": "64H Hackthorne Road, Cashmere",
+        "CommunityBoard": "Spreydon-Cashmere ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
+      }
     },
     {
       "type": "Feature",
@@ -206,94 +261,12 @@
           -43.529701
         ]
       },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.623261,
-          -43.53191
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.620453,
-          -43.530426
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.621274,
-          -43.529611
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.618809,
-          -43.5301
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.622246,
-          -43.53125
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.619769,
-          -43.527369
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.619265,
-          -43.528531
-        ]
-      },
-      "properties": {}
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.620248,
-          -43.528872
-        ]
+      "properties": {
+        "BuildingName": "Sign of the Takahe",
+        "Address": "200 Hackthorne Road, Cashmere",
+        "CommunityBoard": "Spreydon-Cashmere ",
+        "Cummunity": "Yes",
+        "Commerical": "No"
       }
     }
   ]
