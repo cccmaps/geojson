@@ -120,8 +120,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.627006,
-          -43.53205
+          172.723213,
+          -43.60365
         ]
       },
       "properties": {
@@ -129,7 +129,8 @@
         "CommunityBoard": "Banks Peninsula  ",
         "Address": "4 Donald Street, Lyttelton",
         "Cummunity": "Yes",
-        "Commerical": "No"
+        "Commerical": "No",
+        "Description": ""
       }
     },
     {
@@ -137,8 +138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62697,
-          -43.531454
+          172.900251,
+          -43.717957
         ]
       },
       "properties": {
@@ -154,8 +155,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62602,
-          -43.53081
+          172.797353,
+          -43.764971
         ]
       },
       "properties": {
@@ -171,8 +172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.625024,
-          -43.532046
+          172.648755,
+          -43.62739
         ]
       },
       "properties": {
@@ -188,8 +189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.619277,
-          -43.530089
+          172.60946,
+          -43.523031
         ]
       },
       "properties": {
@@ -205,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.623972,
-          -43.531876
+          172.55157,
+          -43.530999
         ]
       },
       "properties": {
@@ -223,8 +224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.621632,
-          -43.530411
+          172.710896,
+          -43.558006
         ]
       },
       "properties": {
@@ -240,8 +241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.619978,
-          -43.531124
+          172.624841,
+          -43.575729
         ]
       },
       "properties": {
@@ -257,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.620585,
-          -43.529701
+          172.63647,
+          -43.581369
         ]
       },
       "properties": {
