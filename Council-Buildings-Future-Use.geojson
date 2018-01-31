@@ -30,7 +30,7 @@
         ]
       },
       "properties": {
-        "Address": "384 Barbadoes Street, Christchurch Central",
+        "Address": "384 Barbadoes Street, Christchurch",
         "Description": "The Sexton’s House for the Church of England Cemetery at the Barbadoes Street Cemetery fronts Cambridge Terrace and was built in the 1920s to replace the earlier 1871 cottage built on the same site.",
         "Commerical": "No",
         "BuildingName": "Barbadoes Cemeteries (Sexton House)",
@@ -111,7 +111,7 @@
         "BuildingName": "Bangor Street No.3 Pump House",
         "Description": "The pump house on Oxford Terrace, Central Christchurch, is the first in a series of ornamental pavilion-style pump houses built by the Christchurch Drainage Board designed to fit aesthetically with its environment.",
         "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw2MTdd/Bangorstreeet.png",
-        "Address": "Oxford Terrace, Central Christchurch",
+        "Address": "Oxford Terrace, Christchurch",
         "CommunityBoard": "Linwood-Central-Heathcote "
       }
     },
@@ -125,7 +125,7 @@
         ]
       },
       "properties": {
-        "BuildingName": "Former Lyttelton Borough Council Stables",
+        "BuildingName": "Lyttelton Borough Council Stables",
         "CommunityBoard": "Banks Peninsula  ",
         "Address": "4 Donald Street, Lyttelton",
         "Cummunity": "Yes",
@@ -144,8 +144,8 @@
       },
       "properties": {
         "CommunityBoard": "Banks Peninsula  ",
-        "BuildingName": "Kukupa Hostel ",
-        "Address": "380 Pettigrews Road, Pigeon Bay  ",
+        "BuildingName": "Kukupa Side School",
+        "Address": "380 Pettigrews Road, Pigeon Bay",
         "Cummunity": "Yes",
         "Commerical": "No"
       }
@@ -161,7 +161,7 @@
       },
       "properties": {
         "BuildingName": "Little River Library ",
-        "Address": "4313 Christchurch-Akaroa Road, Little River  ",
+        "Address": "4313 Christchurch-Akaroa Road, Little River",
         "CommunityBoard": "Banks Peninsula  ",
         "Cummunity": "Yes",
         "Commerical": "No"
@@ -177,7 +177,7 @@
         ]
       },
       "properties": {
-        "BuildingName": "Former Governors Bay Master’s School ",
+        "BuildingName": "Governors Bay School Master’s House",
         "Address": "112 Main Road, Governors Bay",
         "CommunityBoard": "Banks Peninsula  ",
         "Cummunity": "Yes",
@@ -212,7 +212,7 @@
       },
       "properties": {
         "BuildingName": "Chokebore Lodge ",
-        "Address": "148 Racecourse Road, Sockburn ",
+        "Address": "148 Racecourse Road, Sockburn",
         "Description": "",
         "CommunityBoard": "Halswell-Hornby-Riccarton ",
         "Cummunity": "Yes",
@@ -229,8 +229,8 @@
         ]
       },
       "properties": {
-        "BuildingName": "Penfolds Cob Cottage ",
-        "Address": "2 Main Road, Ferrymead  ",
+        "BuildingName": "Penfolds Cob Cottage",
+        "Address": "2 Main Road, Ferrymead",
         "CommunityBoard": "Linwood-Central-Heathcote ",
         "Cummunity": "Yes",
         "Commerical": "No"
@@ -246,7 +246,7 @@
         ]
       },
       "properties": {
-        "BuildingName": "Second World War Bunkers/Cracroft Caverns ",
+        "BuildingName": "Second World War Bunkers/Cracroft Caverns",
         "Address": "64H Hackthorne Road, Cashmere",
         "CommunityBoard": "Spreydon-Cashmere ",
         "Cummunity": "Yes",
