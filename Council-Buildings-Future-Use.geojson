@@ -51,9 +51,9 @@
       "properties": {
         "Address": "665 Main North Road, Belfast",
         "Description": "",
-        "Cummunity": "Yes",
-        "BuildingName": "Former Belfast School Master's House",
         "Commerical": "No",
+        "BuildingName": "Belfast School Masters House",
+        "Cummunity": "Yes",
         "Photo": "",
         "CommunityBoard": "Fendalton-Waimairi-Harewood"
       }
