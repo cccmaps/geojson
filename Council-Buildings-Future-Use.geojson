@@ -50,12 +50,12 @@
       },
       "properties": {
         "Address": "665 Main North Road, Belfast",
-        "Description": "The Former School Master’s House at 665 Main North Road, Belfast, was built in 1877 and is good example of a 19th century colonial schoolmaster’s house.",
+        "Description": "",
         "Cummunity": "Yes",
-        "BuildingName": "Belfast School Master's House",
+        "BuildingName": "Former Belfast School Master's House",
         "Commerical": "No",
-        "Photo": "/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzg1NSw0NzVd/Belfast.png",
-        "CommunityBoard": "Fendalton-Waimairi-Harewood "
+        "Photo": "",
+        "CommunityBoard": "Fendalton-Waimairi-Harewood"
       }
     },
     {
