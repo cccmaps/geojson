@@ -252,7 +252,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Track ": "Huntsbury Track, Farm Track and Gorge Track",
+        "Track ": "Huntsbury Track and Farm Track and Gorge Track",
         "Area": "Mount Vernon and Bowenvale Recreation Reserve",
         "Address": "Huntsbury Ave"
       }
@@ -300,7 +300,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Track ": "Canterbury Wetland Walk, Cashmere Hill Loop and Cashmere Road Track",
+        "Track ": "Canterbury Wetland Walk and Cashmere Hill Loop and Cashmere Road Track",
         "Area": "Halswell Quarry",
         "Address": "Glovers Road"
       }
@@ -412,7 +412,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Track ": "Hagley River Walk, South Hagley Park Walk",
+        "Track ": "Hagley River Walk and South Hagley Park Walk",
         "Area": "South Hagley Park",
         "Address": "Riccarton Ave"
       }
@@ -444,7 +444,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Track ": "North Hagley Park and Gardens Loop, North Hagley Park Walk and Little Hagley Park Walk",
+        "Track ": "North Hagley Park and Gardens Loop and North Hagley Park Walk and Little Hagley Park Walk",
         "Area": "North Hagley Park",
         "Address": "Harper Ave"
       }
@@ -460,7 +460,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Track ": "Botanic Gardens River Walk, Taste of the Gardens, North Hagley Park and Gardens Loop",
+        "Track ": "Botanic Gardens River Walk and Taste of the Gardens and North Hagley Park and Gardens Loop",
         "Area": "North Hagley Park",
         "Address": "Park Terrace"
       }
