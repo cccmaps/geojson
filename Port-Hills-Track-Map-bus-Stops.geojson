@@ -28,7 +28,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Area": "Sumner ",
+        "Area": "Sumner",
         "Address": "Nayland Street",
         "Tracks": "Flowers Track"
       }
@@ -44,7 +44,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Area": "Sumner ",
+        "Area": "Sumner",
         "Address": "Marriner Street",
         "Tracks": "Esplanade"
       }
@@ -108,7 +108,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Area": "Charlesworth Reserve ",
+        "Area": "Charlesworth Reserve",
         "Address": "Charlesworth Street",
         "Tracks": "Wetland Edge Walk"
       }
@@ -316,7 +316,7 @@
       },
       "properties": {
         "Bus stop": "Bus stop",
-        "Area": "the city ",
+        "Area": "the city",
         "Address": "Colombo Street",
         "Tracks": "Ernle Clark Reserve Walk"
       }
