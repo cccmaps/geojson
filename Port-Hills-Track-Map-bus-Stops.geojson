@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Sumner",
         "Address": "Wakefield Ave",
-        "Tracks": "Scarborough Bluffs Track"
+        "Tracks": "Scarborough Bluffs Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -27,10 +27,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Sumner",
         "Address": "Nayland Street",
-        "Tracks": "Flowers Track"
+        "Tracks": "Flowers Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -43,10 +43,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Sumner",
         "Address": "Marriner Street",
-        "Tracks": "Esplanade"
+        "Tracks": "Esplanade",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -59,10 +59,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Port Hills",
         "Address": "Main Road",
-        "Tracks": "Eastenders Track"
+        "Tracks": "Eastenders Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -75,10 +75,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "South New Brighton",
         "Address": "Rocking Horse Road",
-        "Tracks": "Southshore Spit and the Southern Pegasus Walkway"
+        "Tracks": "Southshore Spit and the Southern Pegasus Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -91,10 +91,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Ferrymead",
         "Address": "Main Road",
-        "Tracks": "Heathcote Towpath"
+        "Tracks": "Heathcote Towpath",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -107,10 +107,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Charlesworth Reserve",
         "Address": "Charlesworth Street",
-        "Tracks": "Wetland Edge Walk"
+        "Tracks": "Wetland Edge Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -123,10 +123,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Port Hills",
         "Address": "Bridle Path Road",
-        "Tracks": "Bridle Path"
+        "Tracks": "Bridle Path",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -139,10 +139,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Port Hills",
         "Address": "Dublin Street",
-        "Tracks": "Bridle Path"
+        "Tracks": "Bridle Path",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -155,10 +155,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Port Hills",
         "Address": "Brittan Terrace",
-        "Tracks": "Stan Helms Track and Bridle Path"
+        "Tracks": "Stan Helms Track and Bridle Path",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -171,10 +171,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Port Hills",
         "Address": "Winchester Street",
-        "Tracks": "Urumau Reserve Track"
+        "Tracks": "Urumau Reserve Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -187,10 +187,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Lyttelton",
         "Address": "Park Terrace",
-        "Tracks": "Lyttelton Coastal Path"
+        "Tracks": "Lyttelton Coastal Path",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -203,10 +203,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Lyttelton",
         "Address": "Governors Bay Road",
-        "Tracks": "Lyttelton Coastal Path"
+        "Tracks": "Lyttelton Coastal Path",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -219,10 +219,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Diamond Harbour",
         "Address": "Lyttelton Jetty",
-        "Tracks": "Coastal Cliffs Walkway"
+        "Tracks": "Coastal Cliffs Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -235,10 +235,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Victoria Park",
         "Address": "Hackthorne Road",
-        "Tracks": "Harry Ell Track and Latters Spur Track"
+        "Tracks": "Harry Ell Track and Latters Spur Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -251,10 +251,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Mount Vernon and Bowenvale Recreation Reserve",
         "Address": "Huntsbury Ave",
-        "Tracks": "Huntsbury Track and Farm Track and Gorge Track"
+        "Tracks": "Huntsbury Track and Farm Track and Gorge Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -267,10 +267,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Mount Vernon",
         "Address": "Centaurus Road",
-        "Tracks": "Valley Track and Dry Ridge Track"
+        "Tracks": "Valley Track and Dry Ridge Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -283,10 +283,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Beckenham and Bowenvale Recreation Reserve",
         "Address": "Bowenvale Ave",
-        "Tracks": "Beckenham Ponds Walk and Bowenvale Valley Track"
+        "Tracks": "Beckenham Ponds Walk and Bowenvale Valley Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -299,10 +299,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Halswell Quarry",
         "Address": "Glovers Road",
-        "Tracks": "Canterbury Wetland Walk and Cashmere Hill Loop and Cashmere Road Track"
+        "Tracks": "Canterbury Wetland Walk and Cashmere Hill Loop and Cashmere Road Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -315,10 +315,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the city",
         "Address": "Colombo Street",
-        "Tracks": "Ernle Clark Reserve Walk"
+        "Tracks": "Ernle Clark Reserve Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -331,10 +331,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the city",
         "Address": "Centaurus Road",
-        "Tracks": "Aynsley Terrace Walk"
+        "Tracks": "Aynsley Terrace Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -347,10 +347,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Canterbury Agricultural Park",
         "Address": "Halswell Road",
-        "Tracks": "Nga Puna Wai Loop Walk"
+        "Tracks": "Nga Puna Wai Loop Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -363,10 +363,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Canterbury Agricultural Park",
         "Address": "Halswell Road",
-        "Tracks": "Nga Puna Wai Walk"
+        "Tracks": "Nga Puna Wai Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -379,10 +379,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the city",
         "Address": "Kahu Road",
-        "Tracks": "Riccarton Bush"
+        "Tracks": "Riccarton Bush",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -395,10 +395,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the Botanic Gardens",
         "Address": "Rolleston Ave",
-        "Tracks": "Botanic Gardens River Walk and Taste of the Gardens"
+        "Tracks": "Botanic Gardens River Walk and Taste of the Gardens",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -411,10 +411,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "South Hagley Park",
         "Address": "Riccarton Ave",
-        "Tracks": "Hagley River Walk and South Hagley Park Walk"
+        "Tracks": "Hagley River Walk and South Hagley Park Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -427,10 +427,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "South Hagley Park",
         "Address": "Hagley Ave",
-        "Tracks": "South Hagley Park Walk"
+        "Tracks": "South Hagley Park Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -443,10 +443,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "North Hagley Park",
         "Address": "Harper Ave",
-        "Tracks": "North Hagley Park and Gardens Loop and North Hagley Park Walk and Little Hagley Park Walk"
+        "Tracks": "North Hagley Park and Gardens Loop and North Hagley Park Walk and Little Hagley Park Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -459,10 +459,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "North Hagley Park",
         "Address": "Park Terrace",
-        "Tracks": "Botanic Gardens River Walk and Taste of the Gardens and North Hagley Park and Gardens Loop"
+        "Tracks": "Botanic Gardens River Walk and Taste of the Gardens and North Hagley Park and Gardens Loop",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -475,10 +475,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "the city",
         "Address": "Carlton Mill Road",
-        "Tracks": "Millbrook Reserve Walk"
+        "Tracks": "Millbrook Reserve Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -491,10 +491,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Styx Mill Conservation Reserve",
         "Address": "Main North Road",
-        "Tracks": "Panako Walkway and Hussey View Walkway"
+        "Tracks": "Panako Walkway and Hussey View Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -507,10 +507,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Styx Mill Conservation Reserve",
         "Address": "Hussey Road",
-        "Tracks": "Panako Walkway and Hussey View Walkway"
+        "Tracks": "Panako Walkway and Hussey View Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -523,10 +523,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Horseshoe Lake",
         "Address": "Lake Terrace Road",
-        "Tracks": "Horseshoe Lake Perimeter Walk"
+        "Tracks": "Horseshoe Lake Perimeter Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -539,10 +539,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Travis Wetland",
         "Address": "Mairehau Road",
-        "Tracks": "Travis Wetland Walk"
+        "Tracks": "Travis Wetland Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -555,10 +555,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Travis Wetland",
         "Address": "Travis Road",
-        "Tracks": "Travis Wetland Walk"
+        "Tracks": "Travis Wetland Walk",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -571,10 +571,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "New Brighton",
         "Address": "Marine Parade",
-        "Tracks": "Southern Pegasus Bay Walkway"
+        "Tracks": "Southern Pegasus Bay Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -587,10 +587,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "North New Brighton",
         "Address": "Marine Parade",
-        "Tracks": "Southern Pegasus Bay Walkway"
+        "Tracks": "Southern Pegasus Bay Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -603,10 +603,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "South New Brighton",
         "Address": "Estuary Road",
-        "Tracks": "Southern Pegasus Bay Walkway"
+        "Tracks": "Southern Pegasus Bay Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -619,10 +619,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Waimairi Beach",
         "Address": "Aston Drive",
-        "Tracks": "Southern Pegasus Bay Walkway"
+        "Tracks": "Southern Pegasus Bay Walkway",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -635,10 +635,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Bottle Lake",
         "Address": "Waitikiri Drive",
-        "Tracks": "Blue Track"
+        "Tracks": "Blue Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -651,10 +651,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "The Groynes",
         "Address": "Main North Road",
-        "Tracks": "Otukaikino Track"
+        "Tracks": "Otukaikino Track",
+        "Busstop": "Bus stop"
       }
     },
     {
@@ -667,10 +667,10 @@
         ]
       },
       "properties": {
-        "Bus stop": "Bus stop",
         "Area": "Spencer Park",
         "Address": "Heyders Road",
-        "Tracks": "Brooklands Lagoon Track and Waimakariri Track"
+        "Tracks": "Brooklands Lagoon Track and Waimakariri Track",
+        "Busstop": "Bus stop"
       }
     }
   ]
