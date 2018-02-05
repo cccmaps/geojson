@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.756608,
+          -43.5818
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.76678,
+          -43.574015
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757662,
+          -43.567318
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.741748,
+          -43.565005
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.750306,
+          -43.556431
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.710138,
+          -43.55818
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696685,
+          -43.553204
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706791,
+          -43.583852
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.717863,
+          -43.602749
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.711726,
+          -43.602687
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.723056,
+          -43.601491
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70106,
+          -43.608704
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.690436,
+          -43.60206
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722163,
+          -43.605085
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635493,
+          -43.581231
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65449,
+          -43.571783
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660243,
+          -43.563485
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643483,
+          -43.570362
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.568704,
+          -43.593125
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636794,
+          -43.561861
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.662908,
+          -43.562812
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.581762,
+          -43.561417
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593526,
+          -43.55451
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.600082,
+          -43.526266
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627671,
+          -43.530179
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620469,
+          -43.533207
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622185,
+          -43.537306
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.613827,
+          -43.524004
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626605,
+          -43.521818
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623741,
+          -43.520978
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.618277,
+          -43.46647
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608869,
+          -43.458987
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.676439,
+          -43.494739
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69258,
+          -43.479694
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697966,
+          -43.493052
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.730302,
+          -43.505496
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.726375,
+          -43.494849
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732903,
+          -43.523579
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720911,
+          -43.485915
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.678945,
+          -43.474675
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63663,
+          -43.438422
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.694739,
+          -43.432705
+        ]
+      },
+      "properties": {
+        "BusStops": "Bus stop"
+      }
+    }
+  ]
+}
