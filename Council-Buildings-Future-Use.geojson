@@ -172,23 +172,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.648755,
-          -43.62739
-        ]
-      },
-      "properties": {
-        "BuildingName": "Governors Bay School Master’s House",
-        "Address": "112 Main Road, Governors Bay",
-        "CommunityBoard": "Banks Peninsula  ",
-        "Commerical": "No",
-        "Community": "Yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.60946,
           -43.523031
         ]
@@ -215,23 +198,6 @@
         "Address": "148 Racecourse Road, Sockburn",
         "Description": "",
         "CommunityBoard": "Halswell-Hornby-Riccarton ",
-        "Commerical": "No",
-        "Community": "Yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.710896,
-          -43.558006
-        ]
-      },
-      "properties": {
-        "BuildingName": "Penfolds Cob Cottage",
-        "Address": "2 Main Road, Ferrymead",
-        "CommunityBoard": "Linwood-Central-Heathcote ",
         "Commerical": "No",
         "Community": "Yes"
       }
@@ -268,6 +234,76 @@
         "CommunityBoard": "Spreydon-Cashmere ",
         "Commerical": "No",
         "Community": "Yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingName": "The Old Municipal Chambers",
+        "Address": "Corner of Worcester Boulevard and Oxford Terrace",
+        "Description": "",
+        "Commerical": "Yes",
+        "Community": "No",
+        "CommunityBoard": "Linwood-Central-Heathcote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63368844985962,
+          -43.53083141041679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingName": "The Robert McDougal Art Gallery",
+        "Address": "9 Rolleston Avenue",
+        "Commerical": "Yes",
+        "Community": "No",
+        "CommunityBoard": "Linwood-Central-Heathcote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6261192560196,
+          -43.53075751512016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "230 Cambridge Terrace",
+        "Description": "",
+        "Commerical": "Yes",
+        "Community": "No",
+        "CommunityBoard": "Linwood-Central-Heathcote",
+        "BuildingName": "Thomas Edmunds Band Rotunda "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63894021511078,
+          -43.527871638518135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BuildingName": "Thomas Edmunds Pavilion",
+        "Address": "230 Cambridge Terrace",
+        "Commerical": "Yes",
+        "CommunityBoard": "Linwood-Central-Heathcote",
+        "Community": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63911992311478,
+          -43.527873583225414
+        ]
       }
     }
   ]
