@@ -279,7 +279,7 @@
         "Commerical": "Yes",
         "Community": "No",
         "CommunityBoard": "Linwood-Central-Heathcote",
-        "BuildingName": "Thomas Edmunds Band Rotunda "
+        "BuildingName": "Thomas Edmonds Band Rotunda "
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "BuildingName": "Thomas Edmunds Pavilion",
+        "BuildingName": "Thomas Edmonds Pavilion",
         "Address": "230 Cambridge Terrace",
         "Commerical": "Yes",
         "CommunityBoard": "Linwood-Central-Heathcote",
