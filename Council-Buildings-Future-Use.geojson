@@ -239,7 +239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "BuildingName": "The Old Municipal Chambers",
+        "BuildingName": "Old Municipal Chambers",
         "Address": "Corner of Worcester Boulevard and Oxford Terrace",
         "Description": "",
         "Commerical": "Yes",
@@ -257,7 +257,7 @@
     {
       "type": "Feature",
       "properties": {
-        "BuildingName": "The Robert McDougal Art Gallery",
+        "BuildingName": "Robert McDougal Art Gallery",
         "Address": "9 Rolleston Avenue",
         "Commerical": "Yes",
         "Community": "No",
