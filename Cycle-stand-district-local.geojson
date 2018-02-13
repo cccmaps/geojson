@@ -10,8 +10,6 @@
         "system_created_at": "2017-11-22 21:39:41 UTC",
         "system_updated_at": "2017-11-24 03:34:42 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53378896,
         "longitude": 172.628013,
@@ -29,7 +27,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "b9908962-b830-4c0a-9b6a-a45eb7ea4cdb",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b9908962-b830-4c0a-9b6a-a45eb7ea4cdb"
       },
       "geometry": {
@@ -49,8 +46,6 @@
         "system_created_at": "2017-11-22 21:39:41 UTC",
         "system_updated_at": "2017-11-22 21:39:41 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53101924,
         "longitude": 172.6274084,
@@ -68,7 +63,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -88,8 +82,6 @@
         "system_created_at": "2017-11-22 21:39:41 UTC",
         "system_updated_at": "2017-11-28 00:33:21 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52893533,
         "longitude": 172.6276834,
@@ -107,7 +99,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "d5fa1172-b42d-45f3-bff2-c31a696370af",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d5fa1172-b42d-45f3-bff2-c31a696370af"
       },
       "geometry": {
@@ -127,8 +118,6 @@
         "system_created_at": "2017-11-22 21:39:41 UTC",
         "system_updated_at": "2017-11-22 21:39:41 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5304885,
         "longitude": 172.6274172,
@@ -146,7 +135,6 @@
         "capacity": "10",
         "utilisation": "10%",
         "photos": "78fd2ed2-4d8e-4b41-bcce-ac1b3d37889b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=78fd2ed2-4d8e-4b41-bcce-ac1b3d37889b"
       },
       "geometry": {
@@ -166,8 +154,6 @@
         "system_created_at": "2017-11-22 21:39:41 UTC",
         "system_updated_at": "2017-11-24 03:34:34 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5308652,
         "longitude": 172.6292248,
@@ -185,7 +171,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "26615eba-c05f-4169-a174-49293c5599fb",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=26615eba-c05f-4169-a174-49293c5599fb"
       },
       "geometry": {
@@ -205,8 +190,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-12-17 22:13:00 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5309894099,
         "longitude": 172.630043663,
@@ -224,7 +207,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "9e8d1ddc-bf04-4525-9190-32a366afac26",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9e8d1ddc-bf04-4525-9190-32a366afac26"
       },
       "geometry": {
@@ -244,8 +226,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-11-22 21:39:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52563238,
         "longitude": 172.6325524,
@@ -263,7 +243,6 @@
         "capacity": "10",
         "utilisation": "10%",
         "photos": "39855e36-46b7-4543-9065-6b1f08f9aa10,a8c57ab7-91c8-4b76-8fd7-649f4fe4ac9e",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=39855e36-46b7-4543-9065-6b1f08f9aa10%2Ca8c57ab7-91c8-4b76-8fd7-649f4fe4ac9e"
       },
       "geometry": {
@@ -283,8 +262,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-11-22 21:39:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52751271,
         "longitude": 172.6365061,
@@ -302,7 +279,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -322,8 +298,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-11-22 21:39:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52869468,
         "longitude": 172.6350677,
@@ -341,7 +315,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -361,8 +334,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-11-22 21:39:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53063903,
         "longitude": 172.6397527,
@@ -380,7 +351,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -400,8 +370,6 @@
         "system_created_at": "2017-11-22 21:39:42 UTC",
         "system_updated_at": "2017-11-22 21:39:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53101583,
         "longitude": 172.6418674,
@@ -419,7 +387,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -439,8 +406,6 @@
         "system_created_at": "2017-11-22 21:39:43 UTC",
         "system_updated_at": "2017-11-24 03:34:37 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52977361,
         "longitude": 172.6386289,
@@ -458,7 +423,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "ef0ead68-29a6-4054-ae9f-7b5706c7d867",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ef0ead68-29a6-4054-ae9f-7b5706c7d867"
       },
       "geometry": {
@@ -478,8 +442,6 @@
         "system_created_at": "2017-11-22 21:39:43 UTC",
         "system_updated_at": "2017-11-27 02:41:17 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53070451,
         "longitude": 172.6378883,
@@ -497,7 +459,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "e1d39d9e-1fa1-4917-afca-c2f59414a308",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e1d39d9e-1fa1-4917-afca-c2f59414a308"
       },
       "geometry": {
@@ -517,8 +478,6 @@
         "system_created_at": "2017-11-22 21:39:43 UTC",
         "system_updated_at": "2017-11-22 21:39:43 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53624115,
         "longitude": 172.6367546,
@@ -536,7 +495,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -556,8 +514,6 @@
         "system_created_at": "2017-11-22 21:39:43 UTC",
         "system_updated_at": "2017-11-22 21:39:43 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53520854,
         "longitude": 172.6408426,
@@ -575,7 +531,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "e1a1902c-7e84-424e-8431-c419f08dee74",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e1a1902c-7e84-424e-8431-c419f08dee74"
       },
       "geometry": {
@@ -595,8 +550,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53445934,
         "longitude": 172.6397425,
@@ -614,7 +567,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -634,8 +586,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53378764,
         "longitude": 172.6389375,
@@ -653,7 +603,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "e0f8e722-3ae4-44d5-b8cb-e19820ef6482",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e0f8e722-3ae4-44d5-b8cb-e19820ef6482"
       },
       "geometry": {
@@ -673,8 +622,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53319185,
         "longitude": 172.6417853,
@@ -692,7 +639,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -712,8 +658,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5330427,
         "longitude": 172.6417862,
@@ -731,7 +675,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -751,8 +694,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53318473,
         "longitude": 172.6425205,
@@ -770,7 +711,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -790,8 +730,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-30 23:58:06 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.542036924444,
         "longitude": 172.6365641132,
@@ -809,7 +747,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "3717df18-96e2-4f28-827d-24a29368e07e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3717df18-96e2-4f28-827d-24a29368e07e"
       },
       "geometry": {
@@ -829,8 +766,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-30 23:58:05 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5441692,
         "longitude": 172.6367665,
@@ -848,7 +783,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "232e8e91-52f9-43e9-a981-1da34aae9264",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=232e8e91-52f9-43e9-a981-1da34aae9264"
       },
       "geometry": {
@@ -868,8 +802,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53321382,
         "longitude": 172.6304487,
@@ -887,7 +819,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "527061d5-509f-459a-bce9-10c6bf504b0f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=527061d5-509f-459a-bce9-10c6bf504b0f"
       },
       "geometry": {
@@ -907,8 +838,6 @@
         "system_created_at": "2017-11-22 21:39:44 UTC",
         "system_updated_at": "2017-11-22 21:39:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53087822,
         "longitude": 172.6322802,
@@ -926,7 +855,6 @@
         "capacity": "2",
         "utilisation": "50%",
         "photos": "0d2d028c-6eaf-4e9a-bc9b-d0143e6a54f8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=0d2d028c-6eaf-4e9a-bc9b-d0143e6a54f8"
       },
       "geometry": {
@@ -946,8 +874,6 @@
         "system_created_at": "2017-11-22 21:39:45 UTC",
         "system_updated_at": "2017-11-22 21:39:45 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53305406,
         "longitude": 172.6369261,
@@ -965,7 +891,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -985,8 +910,6 @@
         "system_created_at": "2017-11-22 21:39:45 UTC",
         "system_updated_at": "2017-11-22 21:39:45 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53393429,
         "longitude": 172.6367414,
@@ -1004,7 +927,6 @@
         "capacity": null,
         "utilisation": null,
         "photos": null,
-        "photos_caption": null,
         "photos_url": null
       },
       "geometry": {
@@ -1024,8 +946,6 @@
         "system_created_at": "2017-11-22 21:39:45 UTC",
         "system_updated_at": "2017-11-22 21:39:45 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53352918,
         "longitude": 172.6365369,
@@ -1043,7 +963,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "4694761b-f11b-48ff-84b3-1620ee6bd64f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=4694761b-f11b-48ff-84b3-1620ee6bd64f"
       },
       "geometry": {
@@ -1063,8 +982,6 @@
         "system_created_at": "2017-11-22 21:39:45 UTC",
         "system_updated_at": "2017-12-17 20:01:23 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5345238722582,
         "longitude": 172.636725716293,
@@ -1082,7 +999,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "abc783f7-10da-4188-8379-99d3a22b5372",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=abc783f7-10da-4188-8379-99d3a22b5372"
       },
       "geometry": {
@@ -1102,8 +1018,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5319545,
         "longitude": 172.6313521,
@@ -1121,7 +1035,6 @@
         "capacity": "20",
         "utilisation": "60%",
         "photos": "2ba55717-c70c-466d-94ab-c3e4e40c3a87,053abe03-0a49-43e9-972d-e6b030b1adfa,89e75a27-60d0-4795-b8de-155017529ef4",
-        "photos_caption": ",,",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2ba55717-c70c-466d-94ab-c3e4e40c3a87%2C053abe03-0a49-43e9-972d-e6b030b1adfa%2C89e75a27-60d0-4795-b8de-155017529ef4"
       },
       "geometry": {
@@ -1141,8 +1054,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53255557,
         "longitude": 172.6319856,
@@ -1160,7 +1071,6 @@
         "capacity": "13",
         "utilisation": "8%",
         "photos": "8fd4412b-0ae1-4850-ad65-427ed3dbc0fc",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8fd4412b-0ae1-4850-ad65-427ed3dbc0fc"
       },
       "geometry": {
@@ -1180,8 +1090,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53238156,
         "longitude": 172.6321962,
@@ -1199,7 +1107,6 @@
         "capacity": "8",
         "utilisation": "63%",
         "photos": "dae914e0-1c2d-4024-99a0-55ce63803a07",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=dae914e0-1c2d-4024-99a0-55ce63803a07"
       },
       "geometry": {
@@ -1219,8 +1126,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53298338,
         "longitude": 172.632051,
@@ -1238,7 +1143,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "02b64ee5-513c-4371-97bd-3e869e3fb0a6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=02b64ee5-513c-4371-97bd-3e869e3fb0a6"
       },
       "geometry": {
@@ -1258,8 +1162,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53318254,
         "longitude": 172.631723,
@@ -1277,7 +1179,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "ad9657c0-3671-4587-882b-b3fedf2509aa",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ad9657c0-3671-4587-882b-b3fedf2509aa"
       },
       "geometry": {
@@ -1297,8 +1198,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-22 21:39:46 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53146177,
         "longitude": 172.6301433,
@@ -1316,7 +1215,6 @@
         "capacity": "11",
         "utilisation": "9%",
         "photos": "eb07c9a8-ffab-41b7-bc9e-6e9875e1e513",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=eb07c9a8-ffab-41b7-bc9e-6e9875e1e513"
       },
       "geometry": {
@@ -1336,8 +1234,6 @@
         "system_created_at": "2017-11-22 21:39:46 UTC",
         "system_updated_at": "2017-11-24 03:34:34 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53100517,
         "longitude": 172.6284306,
@@ -1355,7 +1251,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "997eb64f-b7f2-4847-8a8b-81b3c49a4b3f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=997eb64f-b7f2-4847-8a8b-81b3c49a4b3f"
       },
       "geometry": {
@@ -1375,8 +1270,6 @@
         "system_created_at": "2017-11-22 21:39:47 UTC",
         "system_updated_at": "2017-11-22 21:39:47 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53123739,
         "longitude": 172.6274511,
@@ -1394,7 +1287,6 @@
         "capacity": "20",
         "utilisation": "10%",
         "photos": "3626020c-ae01-4b4b-8dc1-821a2df06b6c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3626020c-ae01-4b4b-8dc1-821a2df06b6c"
       },
       "geometry": {
@@ -1414,8 +1306,6 @@
         "system_created_at": "2017-11-22 21:39:47 UTC",
         "system_updated_at": "2017-11-24 03:34:32 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53130009,
         "longitude": 172.6274547,
@@ -1433,7 +1323,6 @@
         "capacity": "14",
         "utilisation": "7%",
         "photos": "16c27007-581a-4f50-98e6-1f65a50878d6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=16c27007-581a-4f50-98e6-1f65a50878d6"
       },
       "geometry": {
@@ -1453,8 +1342,6 @@
         "system_created_at": "2017-11-22 21:39:47 UTC",
         "system_updated_at": "2017-11-22 21:39:47 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53203656,
         "longitude": 172.6274576,
@@ -1472,7 +1359,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "c2b3796e-3006-49de-9f6b-83cd00171ff4",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c2b3796e-3006-49de-9f6b-83cd00171ff4"
       },
       "geometry": {
@@ -1492,8 +1378,6 @@
         "system_created_at": "2017-11-22 21:39:47 UTC",
         "system_updated_at": "2017-11-22 21:39:47 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53259052,
         "longitude": 172.6274894,
@@ -1511,7 +1395,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "5ca45f1d-6308-4c56-8e67-4d52eb765973",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=5ca45f1d-6308-4c56-8e67-4d52eb765973"
       },
       "geometry": {
@@ -1531,8 +1414,6 @@
         "system_created_at": "2017-11-22 21:39:47 UTC",
         "system_updated_at": "2017-11-24 03:34:35 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5341045895363,
         "longitude": 172.631243951619,
@@ -1550,7 +1431,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "9bf31440-aa2c-4e91-ac01-ffc542feab91",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9bf31440-aa2c-4e91-ac01-ffc542feab91"
       },
       "geometry": {
@@ -1570,8 +1450,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-22 21:39:48 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53317793,
         "longitude": 172.63208,
@@ -1589,7 +1467,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "7a1d7896-c47f-4504-adee-158932d5fb63",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=7a1d7896-c47f-4504-adee-158932d5fb63"
       },
       "geometry": {
@@ -1609,8 +1486,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-22 21:39:48 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53217415,
         "longitude": 172.6282656,
@@ -1628,7 +1503,6 @@
         "capacity": "16",
         "utilisation": "13%",
         "photos": "6d8d5d69-79e0-4193-a315-e92240f5521a",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=6d8d5d69-79e0-4193-a315-e92240f5521a"
       },
       "geometry": {
@@ -1648,8 +1522,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-28 00:33:22 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5310679233727,
         "longitude": 172.631819285452,
@@ -1667,7 +1539,6 @@
         "capacity": "9",
         "utilisation": "44%",
         "photos": "934aead5-4f70-4c9a-ad09-0ec4766b2b95",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=934aead5-4f70-4c9a-ad09-0ec4766b2b95"
       },
       "geometry": {
@@ -1687,8 +1558,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-22 21:39:48 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53098074,
         "longitude": 172.6321817,
@@ -1706,7 +1575,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "9dc554ca-e6dc-4dc7-b4bf-a0c4a93c5f77",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9dc554ca-e6dc-4dc7-b4bf-a0c4a93c5f77"
       },
       "geometry": {
@@ -1726,8 +1594,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-22 21:39:48 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53107763,
         "longitude": 172.6327817,
@@ -1745,7 +1611,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "51bc9284-5d7a-42f7-9eb1-fe6c0d995761",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=51bc9284-5d7a-42f7-9eb1-fe6c0d995761"
       },
       "geometry": {
@@ -1765,8 +1630,6 @@
         "system_created_at": "2017-11-22 21:39:48 UTC",
         "system_updated_at": "2017-11-28 00:33:22 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5308484257683,
         "longitude": 172.631093747914,
@@ -1784,7 +1647,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "b607ffe2-31e7-4eb5-b83b-9a58e0c5df3e,6fea682d-3b20-41db-9ef9-ee3abbb4b42a",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b607ffe2-31e7-4eb5-b83b-9a58e0c5df3e%2C6fea682d-3b20-41db-9ef9-ee3abbb4b42a"
       },
       "geometry": {
@@ -1804,8 +1666,6 @@
         "system_created_at": "2017-11-22 21:39:49 UTC",
         "system_updated_at": "2017-11-22 21:39:49 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53008312,
         "longitude": 172.6311015,
@@ -1823,7 +1683,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "05c774ae-0466-4604-a14d-924e788577b9",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=05c774ae-0466-4604-a14d-924e788577b9"
       },
       "geometry": {
@@ -1843,8 +1702,6 @@
         "system_created_at": "2017-11-22 21:39:49 UTC",
         "system_updated_at": "2017-11-22 21:39:49 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53001887,
         "longitude": 172.6313691,
@@ -1862,7 +1719,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "9c179923-2a63-4120-824b-c2690bfc2e37",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9c179923-2a63-4120-824b-c2690bfc2e37"
       },
       "geometry": {
@@ -1882,8 +1738,6 @@
         "system_created_at": "2017-11-22 21:39:49 UTC",
         "system_updated_at": "2017-11-24 03:34:37 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5291230446877,
         "longitude": 172.63348326087,
@@ -1901,7 +1755,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "dd2a96f1-5b1d-4dc9-b421-af4b8ad8f4c9,56b1f2aa-5405-4526-9672-1ada21ab74b4",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=dd2a96f1-5b1d-4dc9-b421-af4b8ad8f4c9%2C56b1f2aa-5405-4526-9672-1ada21ab74b4"
       },
       "geometry": {
@@ -1921,8 +1774,6 @@
         "system_created_at": "2017-11-22 21:39:49 UTC",
         "system_updated_at": "2017-11-22 21:39:49 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52869566,
         "longitude": 172.6369103,
@@ -1940,7 +1791,6 @@
         "capacity": "16",
         "utilisation": "0%",
         "photos": "a451e130-9e7a-49bc-912d-718aae4f260e,c26a0c94-7f1b-442d-8384-5af978d7a998",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a451e130-9e7a-49bc-912d-718aae4f260e%2Cc26a0c94-7f1b-442d-8384-5af978d7a998"
       },
       "geometry": {
@@ -1960,8 +1810,6 @@
         "system_created_at": "2017-11-22 21:39:49 UTC",
         "system_updated_at": "2017-11-22 21:39:49 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52888798,
         "longitude": 172.6385274,
@@ -1979,7 +1827,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "528ba27f-a470-4616-a746-191069f0e971,da16d9a9-e240-4557-8e23-2431f99bc9a3",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=528ba27f-a470-4616-a746-191069f0e971%2Cda16d9a9-e240-4557-8e23-2431f99bc9a3"
       },
       "geometry": {
@@ -1999,8 +1846,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-12-17 20:11:26 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52869671,
         "longitude": 172.6403878,
@@ -2018,7 +1863,6 @@
         "capacity": "20",
         "utilisation": "0%",
         "photos": "888e1879-7a0a-4c17-8120-3f90913841f6,cdbc32f1-80a4-4c20-a47f-34455ab2d9a7",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=888e1879-7a0a-4c17-8120-3f90913841f6%2Ccdbc32f1-80a4-4c20-a47f-34455ab2d9a7"
       },
       "geometry": {
@@ -2038,8 +1882,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-11-22 21:39:50 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52782338,
         "longitude": 172.6422619,
@@ -2057,7 +1899,6 @@
         "capacity": "20",
         "utilisation": "0%",
         "photos": "6a7a1e1f-361d-496c-b38a-ab02e3bd8d7f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=6a7a1e1f-361d-496c-b38a-ab02e3bd8d7f"
       },
       "geometry": {
@@ -2077,8 +1918,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-11-27 02:41:17 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5297905479278,
         "longitude": 172.638692110777,
@@ -2096,7 +1935,6 @@
         "capacity": "8",
         "utilisation": "50%",
         "photos": "7b0cdaba-bcee-4cba-bd74-c3461104d11f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=7b0cdaba-bcee-4cba-bd74-c3461104d11f"
       },
       "geometry": {
@@ -2116,8 +1954,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-11-24 03:34:37 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5297489811172,
         "longitude": 172.637107931077,
@@ -2135,7 +1971,6 @@
         "capacity": "9",
         "utilisation": "78%",
         "photos": "07f99816-a405-40c9-9375-8caea88c6542",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=07f99816-a405-40c9-9375-8caea88c6542"
       },
       "geometry": {
@@ -2155,8 +1990,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-11-27 02:41:18 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5303017444308,
         "longitude": 172.636822275817,
@@ -2174,7 +2007,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "1c6f7004-68ff-4768-903b-1bd76b82c78f,3be97be2-c66c-4ea7-9d24-638b2830b1f3",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=1c6f7004-68ff-4768-903b-1bd76b82c78f%2C3be97be2-c66c-4ea7-9d24-638b2830b1f3"
       },
       "geometry": {
@@ -2194,8 +2026,6 @@
         "system_created_at": "2017-11-22 21:39:50 UTC",
         "system_updated_at": "2017-11-28 00:33:27 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53102269,
         "longitude": 172.6351024,
@@ -2213,7 +2043,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "71392a15-b618-4f2d-b481-5aa8409c093c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=71392a15-b618-4f2d-b481-5aa8409c093c"
       },
       "geometry": {
@@ -2233,8 +2062,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-22 21:39:51 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5313866,
         "longitude": 172.6327525,
@@ -2252,7 +2079,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "583ceb60-c005-4c45-b5b3-5a0dfcc7092d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=583ceb60-c005-4c45-b5b3-5a0dfcc7092d"
       },
       "geometry": {
@@ -2272,8 +2098,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-22 21:39:51 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.532126,
         "longitude": 172.6322397,
@@ -2291,7 +2115,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "675b973c-3cff-4208-8351-b7a6233998fb",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=675b973c-3cff-4208-8351-b7a6233998fb"
       },
       "geometry": {
@@ -2311,8 +2134,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-27 02:41:19 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53207713,
         "longitude": 172.6339264,
@@ -2330,7 +2151,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "8a849410-ed21-401d-9d9e-6d020169319d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8a849410-ed21-401d-9d9e-6d020169319d"
       },
       "geometry": {
@@ -2350,8 +2170,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-24 03:34:35 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53210739,
         "longitude": 172.635487,
@@ -2369,7 +2187,6 @@
         "capacity": "8",
         "utilisation": "75%",
         "photos": "fa7b9861-a6fc-41b7-925a-26444497dc71",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fa7b9861-a6fc-41b7-925a-26444497dc71"
       },
       "geometry": {
@@ -2389,8 +2206,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-27 02:41:21 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5322351607797,
         "longitude": 172.636691853404,
@@ -2408,7 +2223,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "d113afdb-48f9-486e-adb2-86f74e50b1ad",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d113afdb-48f9-486e-adb2-86f74e50b1ad"
       },
       "geometry": {
@@ -2428,8 +2242,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-22 21:39:51 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53219636,
         "longitude": 172.6365525,
@@ -2447,7 +2259,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "e0b84a24-bfbb-4fe1-82ae-45d7a72ce0dc",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e0b84a24-bfbb-4fe1-82ae-45d7a72ce0dc"
       },
       "geometry": {
@@ -2467,8 +2278,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-22 21:39:51 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53227222,
         "longitude": 172.6369159,
@@ -2486,7 +2295,6 @@
         "capacity": "12",
         "utilisation": "17%",
         "photos": "132006f9-3432-4dca-813d-5a4f5c058b3a",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=132006f9-3432-4dca-813d-5a4f5c058b3a"
       },
       "geometry": {
@@ -2506,8 +2314,6 @@
         "system_created_at": "2017-11-22 21:39:51 UTC",
         "system_updated_at": "2017-11-27 02:41:19 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53278075,
         "longitude": 172.6376166,
@@ -2525,7 +2331,6 @@
         "capacity": "10",
         "utilisation": "10%",
         "photos": "aee598fe-3ee1-4995-9ddb-c1f0b3568e1f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=aee598fe-3ee1-4995-9ddb-c1f0b3568e1f"
       },
       "geometry": {
@@ -2545,8 +2350,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-24 03:34:42 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53254484,
         "longitude": 172.6365488,
@@ -2564,7 +2367,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "d380e40d-c34c-4b0e-bb60-92d7d639f709",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d380e40d-c34c-4b0e-bb60-92d7d639f709"
       },
       "geometry": {
@@ -2584,8 +2386,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-24 03:34:41 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5326748,
         "longitude": 172.6365732,
@@ -2603,7 +2403,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "cf8b6af5-fdea-47a6-bbbb-4bd8f921c658",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=cf8b6af5-fdea-47a6-bbbb-4bd8f921c658"
       },
       "geometry": {
@@ -2623,8 +2422,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-24 03:34:40 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5330684018189,
         "longitude": 172.636344842613,
@@ -2642,7 +2439,6 @@
         "capacity": "10",
         "utilisation": "50%",
         "photos": "a6af7392-418b-4d57-b57b-ea9554188d96",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a6af7392-418b-4d57-b57b-ea9554188d96"
       },
       "geometry": {
@@ -2662,8 +2458,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-24 03:34:41 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5330868749437,
         "longitude": 172.636270076036,
@@ -2681,7 +2475,6 @@
         "capacity": "0",
         "utilisation": "NaN%",
         "photos": "a631ae82-e423-4fdc-b270-23553d6b29ab",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a631ae82-e423-4fdc-b270-23553d6b29ab"
       },
       "geometry": {
@@ -2701,8 +2494,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-12-17 21:26:09 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.533152,
         "longitude": 172.634025,
@@ -2720,7 +2511,6 @@
         "capacity": "9",
         "utilisation": "67%",
         "photos": "eebaaea9-9818-47a2-a225-c3f569a4f5e5",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=eebaaea9-9818-47a2-a225-c3f569a4f5e5"
       },
       "geometry": {
@@ -2740,8 +2530,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-22 21:39:52 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53297739,
         "longitude": 172.6338817,
@@ -2759,7 +2547,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "751571dd-ef97-42be-b690-b0da4ff54da8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=751571dd-ef97-42be-b690-b0da4ff54da8"
       },
       "geometry": {
@@ -2779,8 +2566,6 @@
         "system_created_at": "2017-11-22 21:39:52 UTC",
         "system_updated_at": "2017-11-24 03:34:43 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53263708,
         "longitude": 172.6330667,
@@ -2798,7 +2583,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "f043bd8b-11a9-4feb-a851-8b26d9b33099,94814fce-c1e4-409c-9372-afec74f49694",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f043bd8b-11a9-4feb-a851-8b26d9b33099%2C94814fce-c1e4-409c-9372-afec74f49694"
       },
       "geometry": {
@@ -2818,8 +2602,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-11-24 03:34:40 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53327239,
         "longitude": 172.6383195,
@@ -2837,7 +2619,6 @@
         "capacity": "8",
         "utilisation": "38%",
         "photos": "d1d5499e-b796-42d5-a398-c451c4349390,48ae71cd-03de-4503-9c90-737503c358aa",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d1d5499e-b796-42d5-a398-c451c4349390%2C48ae71cd-03de-4503-9c90-737503c358aa"
       },
       "geometry": {
@@ -2857,8 +2638,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-11-22 21:39:53 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53415995,
         "longitude": 172.6388268,
@@ -2876,7 +2655,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "f8a1a53f-8037-4f5e-8def-94d46b1e1bd8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f8a1a53f-8037-4f5e-8def-94d46b1e1bd8"
       },
       "geometry": {
@@ -2896,8 +2674,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-11-27 02:41:20 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53426095,
         "longitude": 172.6393591,
@@ -2915,7 +2691,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "597a7883-ee96-4392-98d2-df551f2f3c87",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=597a7883-ee96-4392-98d2-df551f2f3c87"
       },
       "geometry": {
@@ -2935,8 +2710,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-12-17 21:25:10 UTC",
         "version": 4,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.534844,
         "longitude": 172.639556,
@@ -2954,7 +2727,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "897aa1df-d427-4025-a1cb-747f90e683af",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=897aa1df-d427-4025-a1cb-747f90e683af"
       },
       "geometry": {
@@ -2974,8 +2746,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-12-17 20:15:13 UTC",
         "version": 4,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535173,
         "longitude": 172.639559,
@@ -2993,7 +2763,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "fcfe2590-ac2a-4d96-a58d-bf470764ae6c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fcfe2590-ac2a-4d96-a58d-bf470764ae6c"
       },
       "geometry": {
@@ -3013,8 +2782,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-12-17 21:23:12 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53597,
         "longitude": 172.639571,
@@ -3032,7 +2799,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "55b9f2cb-093f-4d79-ab61-b0dc32ba2df0",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=55b9f2cb-093f-4d79-ab61-b0dc32ba2df0"
       },
       "geometry": {
@@ -3052,8 +2818,6 @@
         "system_created_at": "2017-11-22 21:39:53 UTC",
         "system_updated_at": "2017-12-17 21:20:52 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.536251,
         "longitude": 172.640035,
@@ -3071,7 +2835,6 @@
         "capacity": "44",
         "utilisation": "16%",
         "photos": "64da7ed1-1ef5-417f-a5b3-8326cee43f64",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=64da7ed1-1ef5-417f-a5b3-8326cee43f64"
       },
       "geometry": {
@@ -3091,8 +2854,6 @@
         "system_created_at": "2017-11-22 21:39:54 UTC",
         "system_updated_at": "2017-12-17 20:18:09 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535513,
         "longitude": 172.639849,
@@ -3110,7 +2871,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "b679a230-9d19-435e-b0de-da961c90e072",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b679a230-9d19-435e-b0de-da961c90e072"
       },
       "geometry": {
@@ -3130,8 +2890,6 @@
         "system_created_at": "2017-11-22 21:39:54 UTC",
         "system_updated_at": "2017-12-17 21:10:30 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5373,
         "longitude": 172.639554,
@@ -3149,7 +2907,6 @@
         "capacity": "4",
         "utilisation": "50%",
         "photos": "e2d66117-9bb2-45a3-bbe5-0f0b7e0de971",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e2d66117-9bb2-45a3-bbe5-0f0b7e0de971"
       },
       "geometry": {
@@ -3169,8 +2926,6 @@
         "system_created_at": "2017-11-22 21:39:54 UTC",
         "system_updated_at": "2017-12-17 21:08:15 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.537474,
         "longitude": 172.640736,
@@ -3188,7 +2943,6 @@
         "capacity": "20",
         "utilisation": "0%",
         "photos": "036bf56f-9e3a-43ab-bca2-259f5e0aebb6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=036bf56f-9e3a-43ab-bca2-259f5e0aebb6"
       },
       "geometry": {
@@ -3208,8 +2962,6 @@
         "system_created_at": "2017-11-22 21:39:54 UTC",
         "system_updated_at": "2017-11-22 21:39:54 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53804848,
         "longitude": 172.640108,
@@ -3227,7 +2979,6 @@
         "capacity": "7",
         "utilisation": "43%",
         "photos": "48517c27-6327-4f59-8311-23c57d3cba0f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=48517c27-6327-4f59-8311-23c57d3cba0f"
       },
       "geometry": {
@@ -3247,8 +2998,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-22 21:39:55 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53808909,
         "longitude": 172.6419473,
@@ -3266,7 +3015,6 @@
         "capacity": "3",
         "utilisation": "67%",
         "photos": "62e1a91f-e472-44c1-8022-12bb12da9031",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=62e1a91f-e472-44c1-8022-12bb12da9031"
       },
       "geometry": {
@@ -3286,8 +3034,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-12-17 21:06:40 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.537735,
         "longitude": 172.640759,
@@ -3305,7 +3051,6 @@
         "capacity": "12",
         "utilisation": "8%",
         "photos": "64eaa85f-e614-424f-b083-e58200e4cc8f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=64eaa85f-e614-424f-b083-e58200e4cc8f"
       },
       "geometry": {
@@ -3325,8 +3070,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-30 23:58:04 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5390269064291,
         "longitude": 172.641994915903,
@@ -3344,7 +3087,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "8573b805-889c-4b37-bc6e-12f145100c20",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8573b805-889c-4b37-bc6e-12f145100c20"
       },
       "geometry": {
@@ -3364,8 +3106,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-30 23:58:03 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5391209641716,
         "longitude": 172.642461620271,
@@ -3383,7 +3123,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "32560e84-c201-4682-bc95-d43cdc98b231",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=32560e84-c201-4682-bc95-d43cdc98b231"
       },
       "geometry": {
@@ -3403,8 +3142,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-22 21:39:55 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.54012698,
         "longitude": 172.6405033,
@@ -3422,7 +3159,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "76f6e423-6a5a-4fef-b972-90a8a0f6cc25",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=76f6e423-6a5a-4fef-b972-90a8a0f6cc25"
       },
       "geometry": {
@@ -3442,8 +3178,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-29 22:11:17 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5392055431016,
         "longitude": 172.637929692864,
@@ -3461,7 +3195,6 @@
         "capacity": "13",
         "utilisation": "8%",
         "photos": "450a5f66-3148-46e5-946c-d21b79184e08",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=450a5f66-3148-46e5-946c-d21b79184e08"
       },
       "geometry": {
@@ -3481,8 +3214,6 @@
         "system_created_at": "2017-11-22 21:39:55 UTC",
         "system_updated_at": "2017-11-29 22:11:18 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5393868527069,
         "longitude": 172.637547813356,
@@ -3500,7 +3231,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "ead00581-a4a4-4f55-9d2b-056b2f28af5a",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ead00581-a4a4-4f55-9d2b-056b2f28af5a"
       },
       "geometry": {
@@ -3520,8 +3250,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-12-17 21:05:13 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53945,
         "longitude": 172.636145,
@@ -3539,7 +3267,6 @@
         "capacity": "14",
         "utilisation": "0%",
         "photos": "5bc6d397-c2dc-4df8-91ba-74ed5670f4c8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=5bc6d397-c2dc-4df8-91ba-74ed5670f4c8"
       },
       "geometry": {
@@ -3559,8 +3286,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-11-22 21:39:56 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53801667,
         "longitude": 172.635839,
@@ -3578,7 +3303,6 @@
         "capacity": "13",
         "utilisation": "23%",
         "photos": "80f2927f-90cd-4c8b-856d-4b5e36cb9a2e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=80f2927f-90cd-4c8b-856d-4b5e36cb9a2e"
       },
       "geometry": {
@@ -3598,8 +3322,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-12-17 21:04:32 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.538034,
         "longitude": 172.635118,
@@ -3617,7 +3339,6 @@
         "capacity": "12",
         "utilisation": "50%",
         "photos": "b5162703-0835-47ac-8443-2353751a47b0",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b5162703-0835-47ac-8443-2353751a47b0"
       },
       "geometry": {
@@ -3637,8 +3358,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-11-22 21:39:56 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5368282,
         "longitude": 172.6363841,
@@ -3656,7 +3375,6 @@
         "capacity": "9",
         "utilisation": "0%",
         "photos": "ee38242f-0d9c-431c-97ce-2c9783442310",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ee38242f-0d9c-431c-97ce-2c9783442310"
       },
       "geometry": {
@@ -3676,8 +3394,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-11-22 21:39:56 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5364581,
         "longitude": 172.6367726,
@@ -3695,7 +3411,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "339f3183-18b1-4633-b463-2bd7435c43e3",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=339f3183-18b1-4633-b463-2bd7435c43e3"
       },
       "geometry": {
@@ -3715,8 +3430,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-12-17 21:03:54 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.536442,
         "longitude": 172.636403,
@@ -3734,7 +3447,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "052deb35-f2b1-4784-929b-7061625f3c94",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=052deb35-f2b1-4784-929b-7061625f3c94"
       },
       "geometry": {
@@ -3754,8 +3466,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-12-17 21:03:08 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535786,
         "longitude": 172.636425,
@@ -3773,7 +3483,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "49e00acf-1efd-49bc-b1af-c85462a5e944",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=49e00acf-1efd-49bc-b1af-c85462a5e944"
       },
       "geometry": {
@@ -3793,8 +3502,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-11-22 21:39:56 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5359181,
         "longitude": 172.6353803,
@@ -3812,7 +3519,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "58ba416f-a655-4b8e-a2f8-99b1a06715e1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=58ba416f-a655-4b8e-a2f8-99b1a06715e1"
       },
       "geometry": {
@@ -3832,8 +3538,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-12-17 21:02:28 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535924,
         "longitude": 172.635134,
@@ -3851,7 +3555,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "b1f62491-f8e4-4138-bfb1-ad81be931c0b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b1f62491-f8e4-4138-bfb1-ad81be931c0b"
       },
       "geometry": {
@@ -3871,8 +3574,6 @@
         "system_created_at": "2017-11-22 21:39:56 UTC",
         "system_updated_at": "2017-11-22 21:39:56 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53588591,
         "longitude": 172.6348149,
@@ -3890,7 +3591,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "3a968a3c-9de3-492c-a9c8-c53e39da22a9",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3a968a3c-9de3-492c-a9c8-c53e39da22a9"
       },
       "geometry": {
@@ -3910,8 +3610,6 @@
         "system_created_at": "2017-11-22 21:39:57 UTC",
         "system_updated_at": "2017-12-17 20:01:23 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5348945400627,
         "longitude": 172.636732421815,
@@ -3929,7 +3627,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "d3e65553-084b-4e42-a52f-db15f565abd3",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d3e65553-084b-4e42-a52f-db15f565abd3"
       },
       "geometry": {
@@ -3949,8 +3646,6 @@
         "system_created_at": "2017-11-22 21:39:57 UTC",
         "system_updated_at": "2017-12-17 21:01:38 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535354,
         "longitude": 172.636929,
@@ -3968,7 +3663,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "d22e1357-7de4-496e-8b16-aa5c4bdd244d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d22e1357-7de4-496e-8b16-aa5c4bdd244d"
       },
       "geometry": {
@@ -3988,8 +3682,6 @@
         "system_created_at": "2017-11-22 21:39:57 UTC",
         "system_updated_at": "2017-12-17 21:00:59 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535578,
         "longitude": 172.638173,
@@ -4007,7 +3699,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "25a7dbba-c201-4542-9429-bda1405d6be9",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=25a7dbba-c201-4542-9429-bda1405d6be9"
       },
       "geometry": {
@@ -4027,8 +3718,6 @@
         "system_created_at": "2017-11-22 21:39:57 UTC",
         "system_updated_at": "2017-12-17 21:00:11 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53538073,
         "longitude": 172.6384062,
@@ -4046,7 +3735,6 @@
         "capacity": "18",
         "utilisation": "0%",
         "photos": "047fc90b-70d2-4ef8-951a-6ed0f66b8d4d,b602254e-b1e6-4d4d-98c5-782099410283,ee35724b-669f-46cb-bc8c-e42960c3ed0e",
-        "photos_caption": ",,",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=047fc90b-70d2-4ef8-951a-6ed0f66b8d4d%2Cb602254e-b1e6-4d4d-98c5-782099410283%2Cee35724b-669f-46cb-bc8c-e42960c3ed0e"
       },
       "geometry": {
@@ -4066,8 +3754,6 @@
         "system_created_at": "2017-11-22 21:39:57 UTC",
         "system_updated_at": "2017-12-17 20:58:53 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5348194344,
         "longitude": 172.636801489,
@@ -4085,7 +3771,6 @@
         "capacity": "8",
         "utilisation": "75%",
         "photos": "d537c88f-0349-47ac-adb7-329d5099cbe5",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d537c88f-0349-47ac-adb7-329d5099cbe5"
       },
       "geometry": {
@@ -4105,8 +3790,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:58:15 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535153,
         "longitude": 172.63681,
@@ -4124,7 +3807,6 @@
         "capacity": "86",
         "utilisation": "1%",
         "photos": "ef16cfec-49ef-4c6d-a911-a77430f2ecd0",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ef16cfec-49ef-4c6d-a911-a77430f2ecd0"
       },
       "geometry": {
@@ -4144,8 +3826,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:56:50 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535358,
         "longitude": 172.635457,
@@ -4163,7 +3843,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "23aae1f7-551d-4ea8-a03e-4abe1219e20e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=23aae1f7-551d-4ea8-a03e-4abe1219e20e"
       },
       "geometry": {
@@ -4183,8 +3862,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:01:25 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5353592691994,
         "longitude": 172.634943723679,
@@ -4202,7 +3879,6 @@
         "capacity": "6",
         "utilisation": "50%",
         "photos": "2963637e-b414-4c3f-a62b-1310b0f58e95",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2963637e-b414-4c3f-a62b-1310b0f58e95"
       },
       "geometry": {
@@ -4222,8 +3898,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:50:47 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.534267,
         "longitude": 172.637248,
@@ -4241,7 +3915,6 @@
         "capacity": "10",
         "utilisation": "30%",
         "photos": "ec22896a-cd71-47b3-b9ab-5b61f0dffaaf",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ec22896a-cd71-47b3-b9ab-5b61f0dffaaf"
       },
       "geometry": {
@@ -4261,8 +3934,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:50:02 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535354,
         "longitude": 172.637605,
@@ -4280,7 +3951,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "0a143904-39ee-499c-bc09-a6d05a715e19",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=0a143904-39ee-499c-bc09-a6d05a715e19"
       },
       "geometry": {
@@ -4300,8 +3970,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-12-17 20:01:22 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5263430792084,
         "longitude": 172.645535431802,
@@ -4319,7 +3987,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "611d5ab2-23e8-4ba8-a187-bdbd93889f8b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=611d5ab2-23e8-4ba8-a187-bdbd93889f8b"
       },
       "geometry": {
@@ -4339,8 +4006,6 @@
         "system_created_at": "2017-11-22 21:39:58 UTC",
         "system_updated_at": "2017-11-22 21:39:58 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.525697,
         "longitude": 172.6314962,
@@ -4358,7 +4023,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "9163a05c-4d70-4ba1-82d5-0b27a35963b9",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9163a05c-4d70-4ba1-82d5-0b27a35963b9"
       },
       "geometry": {
@@ -4378,8 +4042,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52532702,
         "longitude": 172.635995,
@@ -4397,7 +4059,6 @@
         "capacity": "15",
         "utilisation": "33%",
         "photos": "5f2ae9a1-d910-4b0c-856f-1d3cec70efc7,d34cf59e-9549-4105-aa58-46239990c19c",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=5f2ae9a1-d910-4b0c-856f-1d3cec70efc7%2Cd34cf59e-9549-4105-aa58-46239990c19c"
       },
       "geometry": {
@@ -4417,8 +4078,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52412601,
         "longitude": 172.6302665,
@@ -4436,7 +4095,6 @@
         "capacity": "9",
         "utilisation": "67%",
         "photos": "44dd2751-b85b-4c80-a1fa-6a8db0c44754",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=44dd2751-b85b-4c80-a1fa-6a8db0c44754"
       },
       "geometry": {
@@ -4456,8 +4114,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-24 03:34:43 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5267254657603,
         "longitude": 172.633900344372,
@@ -4475,7 +4131,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "60a8e513-dee8-4bc0-9e72-229b091e6126",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=60a8e513-dee8-4bc0-9e72-229b091e6126"
       },
       "geometry": {
@@ -4495,8 +4150,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-24 03:34:43 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5267701948617,
         "longitude": 172.63397410512,
@@ -4514,7 +4167,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "ed975187-2edd-4fa0-9d38-c621262c7601",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ed975187-2edd-4fa0-9d38-c621262c7601"
       },
       "geometry": {
@@ -4534,8 +4186,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53148378,
         "longitude": 172.6397464,
@@ -4553,7 +4203,6 @@
         "capacity": "16",
         "utilisation": "0%",
         "photos": "abf5ae29-e07c-42e7-814a-5e4d51bf533f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=abf5ae29-e07c-42e7-814a-5e4d51bf533f"
       },
       "geometry": {
@@ -4573,8 +4222,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53118253,
         "longitude": 172.639753,
@@ -4592,7 +4239,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "5ff36118-c215-40fa-8e81-03ebb915dc2a",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=5ff36118-c215-40fa-8e81-03ebb915dc2a"
       },
       "geometry": {
@@ -4612,8 +4258,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53083393,
         "longitude": 172.6397437,
@@ -4631,7 +4275,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "1789b2f1-e198-474e-97b2-b158137731fe",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=1789b2f1-e198-474e-97b2-b158137731fe"
       },
       "geometry": {
@@ -4651,8 +4294,6 @@
         "system_created_at": "2017-11-22 21:39:59 UTC",
         "system_updated_at": "2017-11-22 21:39:59 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53016958,
         "longitude": 172.639813,
@@ -4670,7 +4311,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "23faccd7-99b7-4d59-beba-cd5307eff800",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=23faccd7-99b7-4d59-beba-cd5307eff800"
       },
       "geometry": {
@@ -4690,8 +4330,6 @@
         "system_created_at": "2017-11-22 21:40:00 UTC",
         "system_updated_at": "2017-11-22 21:40:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52896602,
         "longitude": 172.6397971,
@@ -4709,7 +4347,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "27aef0cd-8780-4e42-9745-ba894eaa3062",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=27aef0cd-8780-4e42-9745-ba894eaa3062"
       },
       "geometry": {
@@ -4729,8 +4366,6 @@
         "system_created_at": "2017-11-22 21:40:00 UTC",
         "system_updated_at": "2017-11-22 21:40:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52830033,
         "longitude": 172.6394901,
@@ -4748,7 +4383,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "f1c7b759-0a2c-4fca-bf3c-ac8064dc7b3a,bb9e598b-b650-4354-952e-f18b03a28114",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f1c7b759-0a2c-4fca-bf3c-ac8064dc7b3a%2Cbb9e598b-b650-4354-952e-f18b03a28114"
       },
       "geometry": {
@@ -4768,8 +4402,6 @@
         "system_created_at": "2017-11-22 21:40:00 UTC",
         "system_updated_at": "2017-11-22 21:40:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53853065,
         "longitude": 172.6428743,
@@ -4787,7 +4419,6 @@
         "capacity": "19",
         "utilisation": "5%",
         "photos": "47854aed-50f0-4c21-b308-f4d0eae0d70b,353356b9-f2bb-4690-8ba3-d5aec2e328fd",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=47854aed-50f0-4c21-b308-f4d0eae0d70b%2C353356b9-f2bb-4690-8ba3-d5aec2e328fd"
       },
       "geometry": {
@@ -4807,8 +4438,6 @@
         "system_created_at": "2017-11-22 21:40:00 UTC",
         "system_updated_at": "2017-11-22 21:40:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5383175,
         "longitude": 172.6433785,
@@ -4826,7 +4455,6 @@
         "capacity": "10",
         "utilisation": "80%",
         "photos": "90d1d9eb-926e-4651-a950-3c5f9caa38ba,c046c6dc-8ad9-4cf1-91e6-acbf6d683896,bb381f8e-d886-442c-a766-2645927bcda6",
-        "photos_caption": ",,",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=90d1d9eb-926e-4651-a950-3c5f9caa38ba%2Cc046c6dc-8ad9-4cf1-91e6-acbf6d683896%2Cbb381f8e-d886-442c-a766-2645927bcda6"
       },
       "geometry": {
@@ -4846,8 +4474,6 @@
         "system_created_at": "2017-11-22 21:40:00 UTC",
         "system_updated_at": "2017-12-17 20:47:40 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53800087,
         "longitude": 172.6432367,
@@ -4865,7 +4491,6 @@
         "capacity": "70",
         "utilisation": "4%",
         "photos": "fce0d004-94ad-48e2-9537-b9329859d5fe,ba17ea46-a919-456b-a677-30629cbf7068",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fce0d004-94ad-48e2-9537-b9329859d5fe%2Cba17ea46-a919-456b-a677-30629cbf7068"
       },
       "geometry": {
@@ -4885,8 +4510,6 @@
         "system_created_at": "2017-11-22 21:40:01 UTC",
         "system_updated_at": "2017-11-22 21:40:01 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53357322,
         "longitude": 172.6425567,
@@ -4904,7 +4527,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "43a93392-12bd-4b0c-bf92-8985238a74a7",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=43a93392-12bd-4b0c-bf92-8985238a74a7"
       },
       "geometry": {
@@ -4924,8 +4546,6 @@
         "system_created_at": "2017-11-22 21:40:01 UTC",
         "system_updated_at": "2017-11-22 21:40:01 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5350403,
         "longitude": 172.6406633,
@@ -4943,7 +4563,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "f050b8a1-9cef-44da-8243-c4c20e3d6eaf",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f050b8a1-9cef-44da-8243-c4c20e3d6eaf"
       },
       "geometry": {
@@ -4963,8 +4582,6 @@
         "system_created_at": "2017-11-22 21:40:01 UTC",
         "system_updated_at": "2017-11-22 21:40:01 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52558333,
         "longitude": 172.6289988,
@@ -4982,7 +4599,6 @@
         "capacity": "3",
         "utilisation": "0%",
         "photos": "bf4c970a-3881-4cfc-9727-ea339becbc05",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=bf4c970a-3881-4cfc-9727-ea339becbc05"
       },
       "geometry": {
@@ -5002,8 +4618,6 @@
         "system_created_at": "2017-11-22 21:40:01 UTC",
         "system_updated_at": "2017-12-17 20:45:51 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52418951,
         "longitude": 172.6299707,
@@ -5021,7 +4635,6 @@
         "capacity": "9",
         "utilisation": "33%",
         "photos": "d10def2f-f302-4b3b-89ca-73e94637eb12",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d10def2f-f302-4b3b-89ca-73e94637eb12"
       },
       "geometry": {
@@ -5041,8 +4654,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52360847,
         "longitude": 172.6294259,
@@ -5060,7 +4671,6 @@
         "capacity": "31",
         "utilisation": "16%",
         "photos": "3734d602-1896-4910-8728-3865de81d538,2140f86b-6d08-45c7-bc53-83074bf84df0,5d1de2ee-e7fd-4a28-b520-0d6e7cca4225",
-        "photos_caption": ",,",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3734d602-1896-4910-8728-3865de81d538%2C2140f86b-6d08-45c7-bc53-83074bf84df0%2C5d1de2ee-e7fd-4a28-b520-0d6e7cca4225"
       },
       "geometry": {
@@ -5080,8 +4690,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52169304,
         "longitude": 172.6294505,
@@ -5099,7 +4707,6 @@
         "capacity": "9",
         "utilisation": "67%",
         "photos": "c68d5467-dcc6-4ae7-b4fe-24f58fbac378",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c68d5467-dcc6-4ae7-b4fe-24f58fbac378"
       },
       "geometry": {
@@ -5119,8 +4726,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5233146,
         "longitude": 172.6296884,
@@ -5138,7 +4743,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "eebb295a-b9df-4362-90e0-693f15908a6c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=eebb295a-b9df-4362-90e0-693f15908a6c"
       },
       "geometry": {
@@ -5158,8 +4762,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52472788,
         "longitude": 172.6314604,
@@ -5177,7 +4779,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "439768c7-b5b3-44b7-b815-d269c22bc435",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=439768c7-b5b3-44b7-b815-d269c22bc435"
       },
       "geometry": {
@@ -5197,8 +4798,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-12-17 20:45:04 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.524568,
         "longitude": 172.631499,
@@ -5216,7 +4815,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "b7006a5a-1263-4e96-ae00-8843fb39f429",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b7006a5a-1263-4e96-ae00-8843fb39f429"
       },
       "geometry": {
@@ -5236,8 +4834,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5253351,
         "longitude": 172.6314649,
@@ -5255,7 +4851,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "a4a5ea66-d513-403a-8e94-3a7cbe922d1c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a4a5ea66-d513-403a-8e94-3a7cbe922d1c"
       },
       "geometry": {
@@ -5275,8 +4870,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52491044,
         "longitude": 172.6304359,
@@ -5294,7 +4887,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "b5ca17d4-0383-4b9e-88bb-e0d078d41856",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b5ca17d4-0383-4b9e-88bb-e0d078d41856"
       },
       "geometry": {
@@ -5314,8 +4906,6 @@
         "system_created_at": "2017-11-22 21:40:02 UTC",
         "system_updated_at": "2017-11-22 21:40:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52691493,
         "longitude": 172.6337933,
@@ -5333,7 +4923,6 @@
         "capacity": "7",
         "utilisation": "0%",
         "photos": "2d731bd5-69d0-420a-8197-c4b7f4cb7683",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2d731bd5-69d0-420a-8197-c4b7f4cb7683"
       },
       "geometry": {
@@ -5353,8 +4942,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-24 03:34:44 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52671611,
         "longitude": 172.6341278,
@@ -5372,7 +4959,6 @@
         "capacity": "8",
         "utilisation": "63%",
         "photos": "ce01e92b-5645-446e-b4d8-eadd2a58b6b6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ce01e92b-5645-446e-b4d8-eadd2a58b6b6"
       },
       "geometry": {
@@ -5392,8 +4978,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52723894,
         "longitude": 172.6336811,
@@ -5411,7 +4995,6 @@
         "capacity": "8",
         "utilisation": "38%",
         "photos": "96ce2614-822f-432d-bb70-ccba0c66d41e,22cc556e-e68d-4de8-aff4-425e58260572",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=96ce2614-822f-432d-bb70-ccba0c66d41e%2C22cc556e-e68d-4de8-aff4-425e58260572"
       },
       "geometry": {
@@ -5431,8 +5014,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52810386,
         "longitude": 172.6336739,
@@ -5450,7 +5031,6 @@
         "capacity": "3",
         "utilisation": "33%",
         "photos": "118153ff-52ee-4cbd-9716-c38c04af7458",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=118153ff-52ee-4cbd-9716-c38c04af7458"
       },
       "geometry": {
@@ -5470,8 +5050,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52476044,
         "longitude": 172.6364502,
@@ -5489,7 +5067,6 @@
         "capacity": "11",
         "utilisation": "0%",
         "photos": "2565496c-268d-4da7-a4d0-114d58462554",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2565496c-268d-4da7-a4d0-114d58462554"
       },
       "geometry": {
@@ -5509,8 +5086,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52764071,
         "longitude": 172.64197,
@@ -5528,7 +5103,6 @@
         "capacity": "20",
         "utilisation": "0%",
         "photos": "6c5c9c6f-49f0-4351-8f3e-34a42e0c1531",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=6c5c9c6f-49f0-4351-8f3e-34a42e0c1531"
       },
       "geometry": {
@@ -5548,8 +5122,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52605415,
         "longitude": 172.6378737,
@@ -5567,7 +5139,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "fe13627e-d30f-45a2-b45a-946f17295dee",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fe13627e-d30f-45a2-b45a-946f17295dee"
       },
       "geometry": {
@@ -5587,8 +5158,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52679418,
         "longitude": 172.6384381,
@@ -5606,7 +5175,6 @@
         "capacity": "16",
         "utilisation": "31%",
         "photos": "a4bc42a3-6352-445a-ad7d-f93af7c4765b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a4bc42a3-6352-445a-ad7d-f93af7c4765b"
       },
       "geometry": {
@@ -5626,8 +5194,6 @@
         "system_created_at": "2017-11-22 21:40:03 UTC",
         "system_updated_at": "2017-11-22 21:40:03 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52705235,
         "longitude": 172.6379457,
@@ -5645,7 +5211,6 @@
         "capacity": "24",
         "utilisation": "0%",
         "photos": "fdd294ec-fdcb-42cf-8f66-fb999a3a37d2",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fdd294ec-fdcb-42cf-8f66-fb999a3a37d2"
       },
       "geometry": {
@@ -5665,8 +5230,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52607393,
         "longitude": 172.6363117,
@@ -5684,7 +5247,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "871987c0-2e33-4393-907d-fdfbd076f4cd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=871987c0-2e33-4393-907d-fdfbd076f4cd"
       },
       "geometry": {
@@ -5704,8 +5266,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52541167,
         "longitude": 172.6345841,
@@ -5723,7 +5283,6 @@
         "capacity": "12",
         "utilisation": "25%",
         "photos": "d3f0b716-2102-4a92-91a2-f760e9a858dd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d3f0b716-2102-4a92-91a2-f760e9a858dd"
       },
       "geometry": {
@@ -5743,8 +5302,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.52555882,
         "longitude": 172.635051,
@@ -5762,7 +5319,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "87564fa8-2350-4858-8475-d51ae2747bd1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=87564fa8-2350-4858-8475-d51ae2747bd1"
       },
       "geometry": {
@@ -5782,8 +5338,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53488255,
         "longitude": 172.6413757,
@@ -5801,7 +5355,6 @@
         "capacity": "6",
         "utilisation": "67%",
         "photos": "aca7f774-38e3-404f-9779-9c79cba7c2a0",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=aca7f774-38e3-404f-9779-9c79cba7c2a0"
       },
       "geometry": {
@@ -5821,8 +5374,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53492966,
         "longitude": 172.6415551,
@@ -5840,7 +5391,6 @@
         "capacity": "6",
         "utilisation": "50%",
         "photos": "f1c05ab6-394c-4529-95ae-6e854a9a465e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f1c05ab6-394c-4529-95ae-6e854a9a465e"
       },
       "geometry": {
@@ -5860,8 +5410,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53479375,
         "longitude": 172.6405867,
@@ -5879,7 +5427,6 @@
         "capacity": "7",
         "utilisation": "0%",
         "photos": "1d1179d3-fc34-4a83-a977-0a91f2f733bd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=1d1179d3-fc34-4a83-a977-0a91f2f733bd"
       },
       "geometry": {
@@ -5899,8 +5446,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53495652,
         "longitude": 172.641284,
@@ -5918,7 +5463,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "6f238f98-1b8e-4116-99ac-35a3d96bc29e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=6f238f98-1b8e-4116-99ac-35a3d96bc29e"
       },
       "geometry": {
@@ -5938,8 +5482,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53527638,
         "longitude": 172.6412866,
@@ -5957,7 +5499,6 @@
         "capacity": "6",
         "utilisation": "50%",
         "photos": "d810d909-a843-4f65-b10c-ae617bcaf121",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d810d909-a843-4f65-b10c-ae617bcaf121"
       },
       "geometry": {
@@ -5977,8 +5518,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-12-17 20:43:51 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535346,
         "longitude": 172.639821,
@@ -5996,7 +5535,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "be5343a7-7e59-42bb-ba1f-fc40b55e914d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=be5343a7-7e59-42bb-ba1f-fc40b55e914d"
       },
       "geometry": {
@@ -6016,8 +5554,6 @@
         "system_created_at": "2017-11-22 21:40:04 UTC",
         "system_updated_at": "2017-11-22 21:40:04 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53522294,
         "longitude": 172.641491,
@@ -6035,7 +5571,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "ea55e8e3-4b51-4660-9fb8-237b92305493",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ea55e8e3-4b51-4660-9fb8-237b92305493"
       },
       "geometry": {
@@ -6055,8 +5590,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:43:08 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5360214,
         "longitude": 172.6425161,
@@ -6074,7 +5607,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "7949386c-f6be-4158-a771-e2a9c569b1b8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=7949386c-f6be-4158-a771-e2a9c569b1b8"
       },
       "geometry": {
@@ -6094,8 +5626,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:01:17 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.536179099054,
         "longitude": 172.642231956124,
@@ -6113,7 +5643,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "f9bf6b25-f997-44ee-b43f-51db677f3b63",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f9bf6b25-f997-44ee-b43f-51db677f3b63"
       },
       "geometry": {
@@ -6133,8 +5662,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:01:17 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5361628143715,
         "longitude": 172.642212510109,
@@ -6152,7 +5679,6 @@
         "capacity": "0",
         "utilisation": "NaN%",
         "photos": "973008ff-b440-4afe-95c7-9262c51df45c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=973008ff-b440-4afe-95c7-9262c51df45c"
       },
       "geometry": {
@@ -6172,8 +5698,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:01:18 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5363003833425,
         "longitude": 172.642206475139,
@@ -6191,7 +5715,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "3b96c860-877f-430c-890d-3ffa19f6ba0d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3b96c860-877f-430c-890d-3ffa19f6ba0d"
       },
       "geometry": {
@@ -6211,8 +5734,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:01:18 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53584174,
         "longitude": 172.6412913,
@@ -6230,7 +5751,6 @@
         "capacity": "24",
         "utilisation": "50%",
         "photos": "9b0d34d2-2b1c-4fab-93dc-79817e638d53,9f3f7253-3830-4da6-8b2c-599fa9d28b5c",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9b0d34d2-2b1c-4fab-93dc-79817e638d53%2C9f3f7253-3830-4da6-8b2c-599fa9d28b5c"
       },
       "geometry": {
@@ -6250,8 +5770,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:42:02 UTC",
         "version": 3,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.536449,
         "longitude": 172.639059,
@@ -6269,7 +5787,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "be75ff7f-572a-42d7-9258-46424d123204",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=be75ff7f-572a-42d7-9258-46424d123204"
       },
       "geometry": {
@@ -6289,8 +5806,6 @@
         "system_created_at": "2017-11-22 21:40:05 UTC",
         "system_updated_at": "2017-12-17 20:01:21 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53643911,
         "longitude": 172.6380734,
@@ -6308,7 +5823,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "e1f1ba61-d1e7-4b0c-a1b2-4fa9ef564f2c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e1f1ba61-d1e7-4b0c-a1b2-4fa9ef564f2c"
       },
       "geometry": {
@@ -6328,8 +5842,6 @@
         "system_created_at": "2017-11-22 21:40:06 UTC",
         "system_updated_at": "2017-11-22 21:40:06 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53638786,
         "longitude": 172.6353365,
@@ -6347,7 +5859,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "cc951d0a-ee17-429d-90ac-4616d167c60b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=cc951d0a-ee17-429d-90ac-4616d167c60b"
       },
       "geometry": {
@@ -6367,8 +5878,6 @@
         "system_created_at": "2017-11-22 21:40:06 UTC",
         "system_updated_at": "2017-11-22 21:40:06 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5364744,
         "longitude": 172.6290695,
@@ -6386,7 +5895,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "26b60b6b-e699-4cab-8a1e-3c8c922266aa",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=26b60b6b-e699-4cab-8a1e-3c8c922266aa"
       },
       "geometry": {
@@ -6406,8 +5914,6 @@
         "system_created_at": "2017-11-22 21:40:06 UTC",
         "system_updated_at": "2017-12-17 20:40:48 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5366,
         "longitude": 172.629002,
@@ -6425,7 +5931,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "2b843747-5569-4c1c-b7e3-5244ad305643",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2b843747-5569-4c1c-b7e3-5244ad305643"
       },
       "geometry": {
@@ -6445,8 +5950,6 @@
         "system_created_at": "2017-11-22 21:40:06 UTC",
         "system_updated_at": "2017-12-17 20:01:22 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.538291209412,
         "longitude": 172.627913318574,
@@ -6464,7 +5967,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "59fe6b80-eff4-4b59-a905-1c534a685027",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=59fe6b80-eff4-4b59-a905-1c534a685027"
       },
       "geometry": {
@@ -6484,8 +5986,6 @@
         "system_created_at": "2017-11-22 21:40:06 UTC",
         "system_updated_at": "2017-12-17 20:39:48 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.537518,
         "longitude": 172.630991,
@@ -6503,7 +6003,6 @@
         "capacity": "4",
         "utilisation": "25%",
         "photos": "21ddd4ab-5545-4fe2-b904-c88b8c229818",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=21ddd4ab-5545-4fe2-b904-c88b8c229818"
       },
       "geometry": {
@@ -6523,8 +6022,6 @@
         "system_created_at": "2017-11-22 21:40:07 UTC",
         "system_updated_at": "2017-12-17 20:37:54 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.537198,
         "longitude": 172.637223,
@@ -6542,7 +6039,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "d2af1f0e-3e17-42c7-be00-4c7996c57088",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d2af1f0e-3e17-42c7-be00-4c7996c57088"
       },
       "geometry": {
@@ -6562,8 +6058,6 @@
         "system_created_at": "2017-11-22 21:40:07 UTC",
         "system_updated_at": "2017-11-27 02:41:22 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.53425475,
         "longitude": 172.6358609,
@@ -6581,7 +6075,6 @@
         "capacity": "6",
         "utilisation": "67%",
         "photos": "b6aff5d9-4bca-4f54-947f-9af2179594a6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b6aff5d9-4bca-4f54-947f-9af2179594a6"
       },
       "geometry": {
@@ -6601,8 +6094,6 @@
         "system_created_at": "2017-11-22 21:40:07 UTC",
         "system_updated_at": "2017-12-17 20:36:27 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.534269,
         "longitude": 172.634926,
@@ -6620,7 +6111,6 @@
         "capacity": "12",
         "utilisation": "8%",
         "photos": "d67ab2e4-536d-426c-ac52-0829e28db09d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d67ab2e4-536d-426c-ac52-0829e28db09d"
       },
       "geometry": {
@@ -6640,8 +6130,6 @@
         "system_created_at": "2017-11-22 21:40:07 UTC",
         "system_updated_at": "2017-12-17 20:35:44 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.534149,
         "longitude": 172.634614,
@@ -6659,7 +6147,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "6118580b-f606-4dda-9dd9-1af27e692abd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=6118580b-f606-4dda-9dd9-1af27e692abd"
       },
       "geometry": {
@@ -6679,8 +6166,6 @@
         "system_created_at": "2017-11-22 21:40:08 UTC",
         "system_updated_at": "2017-12-17 20:34:58 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.535009,
         "longitude": 172.631234,
@@ -6698,7 +6183,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "89300812-16fe-4be2-8b47-1db31dae3152",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=89300812-16fe-4be2-8b47-1db31dae3152"
       },
       "geometry": {
@@ -6718,8 +6202,6 @@
         "system_created_at": "2017-11-23 01:46:24 UTC",
         "system_updated_at": "2017-11-23 01:46:24 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.531556503212,
         "longitude": 172.600750587881,
@@ -6737,7 +6219,6 @@
         "capacity": "4",
         "utilisation": "50%",
         "photos": "8b8ba767-805d-435e-8105-6534525e980d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8b8ba767-805d-435e-8105-6534525e980d"
       },
       "geometry": {
@@ -6757,8 +6238,6 @@
         "system_created_at": "2017-11-23 01:58:45 UTC",
         "system_updated_at": "2017-11-23 01:58:45 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5307917889368,
         "longitude": 172.596284709871,
@@ -6776,7 +6255,6 @@
         "capacity": "14",
         "utilisation": "0%",
         "photos": "87b8b1e4-c9e2-4f3a-aa65-cba3af5e7387",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=87b8b1e4-c9e2-4f3a-aa65-cba3af5e7387"
       },
       "geometry": {
@@ -6796,8 +6274,6 @@
         "system_created_at": "2017-11-23 01:58:45 UTC",
         "system_updated_at": "2017-11-23 01:58:45 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5307212733138,
         "longitude": 172.597120301959,
@@ -6815,7 +6291,6 @@
         "capacity": "19",
         "utilisation": "37%",
         "photos": "70737cfc-99a4-4569-b7e0-f813105e43ad",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=70737cfc-99a4-4569-b7e0-f813105e43ad"
       },
       "geometry": {
@@ -6835,8 +6310,6 @@
         "system_created_at": "2017-11-24 03:34:25 UTC",
         "system_updated_at": "2017-11-24 03:34:25 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5301059158924,
         "longitude": 172.597318533969,
@@ -6854,7 +6327,6 @@
         "capacity": "6",
         "utilisation": "50%",
         "photos": "fef9f82d-3497-40db-a3a8-455db33894bc",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fef9f82d-3497-40db-a3a8-455db33894bc"
       },
       "geometry": {
@@ -6874,8 +6346,6 @@
         "system_created_at": "2017-11-24 03:34:26 UTC",
         "system_updated_at": "2017-11-24 03:34:26 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5295754211426,
         "longitude": 172.599711567163,
@@ -6893,7 +6363,6 @@
         "capacity": "9",
         "utilisation": "11%",
         "photos": "08d73668-c43a-48da-a3e4-86acaa7c0fb5",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=08d73668-c43a-48da-a3e4-86acaa7c0fb5"
       },
       "geometry": {
@@ -6913,8 +6382,6 @@
         "system_created_at": "2017-11-24 03:34:26 UTC",
         "system_updated_at": "2017-11-24 03:34:26 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5299074696214,
         "longitude": 172.600421011448,
@@ -6932,7 +6399,6 @@
         "capacity": "4",
         "utilisation": "50%",
         "photos": "4e119644-0c15-4b59-8b40-9ef65a457e53",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=4e119644-0c15-4b59-8b40-9ef65a457e53"
       },
       "geometry": {
@@ -6952,8 +6418,6 @@
         "system_created_at": "2017-11-24 03:34:26 UTC",
         "system_updated_at": "2017-11-24 03:34:26 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5301894420041,
         "longitude": 172.600193023682,
@@ -6971,7 +6435,6 @@
         "capacity": "4",
         "utilisation": "25%",
         "photos": "24476425-3888-4f61-963f-8f84729c1aa1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=24476425-3888-4f61-963f-8f84729c1aa1"
       },
       "geometry": {
@@ -6991,8 +6454,6 @@
         "system_created_at": "2017-11-24 03:34:27 UTC",
         "system_updated_at": "2017-12-17 22:10:26 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5304505084,
         "longitude": 172.600346915,
@@ -7010,7 +6471,6 @@
         "capacity": "4",
         "utilisation": "100%",
         "photos": "29cc107c-07d8-4776-b083-3b06a4ebe0d6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=29cc107c-07d8-4776-b083-3b06a4ebe0d6"
       },
       "geometry": {
@@ -7030,8 +6490,6 @@
         "system_created_at": "2017-11-24 03:34:27 UTC",
         "system_updated_at": "2017-11-24 03:34:27 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5426566511207,
         "longitude": 172.531989477575,
@@ -7049,7 +6507,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "64822450-95db-4e4b-b9ba-c8ed50515692",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=64822450-95db-4e4b-b9ba-c8ed50515692"
       },
       "geometry": {
@@ -7069,8 +6526,6 @@
         "system_created_at": "2017-11-24 03:34:28 UTC",
         "system_updated_at": "2017-11-24 03:34:28 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.542709145323,
         "longitude": 172.531139887869,
@@ -7088,7 +6543,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "afdf22d2-8b45-4f68-b9e5-aabcf3658d0a",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=afdf22d2-8b45-4f68-b9e5-aabcf3658d0a"
       },
       "geometry": {
@@ -7108,8 +6562,6 @@
         "system_created_at": "2017-11-24 03:34:28 UTC",
         "system_updated_at": "2017-11-24 03:34:28 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.542789830767,
         "longitude": 172.530153170228,
@@ -7127,7 +6579,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "8058e1e5-d31e-4731-b268-f27e97a53eab",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8058e1e5-d31e-4731-b268-f27e97a53eab"
       },
       "geometry": {
@@ -7147,8 +6598,6 @@
         "system_created_at": "2017-11-24 03:34:29 UTC",
         "system_updated_at": "2017-11-24 03:34:29 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5423424140372,
         "longitude": 172.5300482288,
@@ -7166,7 +6615,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "d64439a4-a08f-4c4e-8df5-8677b82a2cc8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d64439a4-a08f-4c4e-8df5-8677b82a2cc8"
       },
       "geometry": {
@@ -7186,8 +6634,6 @@
         "system_created_at": "2017-11-24 03:34:29 UTC",
         "system_updated_at": "2017-11-24 03:34:29 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5424700046978,
         "longitude": 172.5273405388,
@@ -7205,7 +6651,6 @@
         "capacity": "20",
         "utilisation": "0%",
         "photos": "e96fb16d-c664-4930-b6ed-137456c4b228",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e96fb16d-c664-4930-b6ed-137456c4b228"
       },
       "geometry": {
@@ -7225,8 +6670,6 @@
         "system_created_at": "2017-11-24 03:34:30 UTC",
         "system_updated_at": "2017-11-24 03:34:30 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5415163491125,
         "longitude": 172.524294555187,
@@ -7244,7 +6687,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "9a6659e7-258e-41c4-a13b-f2f66100cf36",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9a6659e7-258e-41c4-a13b-f2f66100cf36"
       },
       "geometry": {
@@ -7264,8 +6706,6 @@
         "system_created_at": "2017-11-24 03:34:30 UTC",
         "system_updated_at": "2017-11-24 03:34:30 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5420391117258,
         "longitude": 172.524284161627,
@@ -7283,7 +6723,6 @@
         "capacity": "16",
         "utilisation": "0%",
         "photos": "935e0b86-7c3a-4945-a997-92f1fbe5eb92",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=935e0b86-7c3a-4945-a997-92f1fbe5eb92"
       },
       "geometry": {
@@ -7303,8 +6742,6 @@
         "system_created_at": "2017-11-24 03:34:31 UTC",
         "system_updated_at": "2017-11-24 03:34:31 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5420750803489,
         "longitude": 172.5235247612,
@@ -7322,7 +6759,6 @@
         "capacity": "6",
         "utilisation": "33%",
         "photos": "e7bffd10-03e4-4c92-95a9-eb8e0a5fba56",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e7bffd10-03e4-4c92-95a9-eb8e0a5fba56"
       },
       "geometry": {
@@ -7342,8 +6778,6 @@
         "system_created_at": "2017-11-24 03:34:32 UTC",
         "system_updated_at": "2017-11-24 03:34:32 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5312477989978,
         "longitude": 172.630151957273,
@@ -7361,7 +6795,6 @@
         "capacity": "6",
         "utilisation": "50%",
         "photos": "be100b94-5c6e-483a-9042-e73e737ba423",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=be100b94-5c6e-483a-9042-e73e737ba423"
       },
       "geometry": {
@@ -7381,8 +6814,6 @@
         "system_created_at": "2017-11-24 03:34:33 UTC",
         "system_updated_at": "2017-11-24 03:34:33 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5309004440989,
         "longitude": 172.629606798291,
@@ -7400,7 +6831,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "b1709214-60f3-4f96-8b17-d1c2646e2923",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b1709214-60f3-4f96-8b17-d1c2646e2923"
       },
       "geometry": {
@@ -7420,8 +6850,6 @@
         "system_created_at": "2017-11-27 02:41:27 UTC",
         "system_updated_at": "2017-11-27 02:41:27 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5302886181839,
         "longitude": 172.575094923377,
@@ -7439,7 +6867,6 @@
         "capacity": "10",
         "utilisation": "40%",
         "photos": "c94b9c67-b4bc-45e4-810a-f96842b5b53c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c94b9c67-b4bc-45e4-810a-f96842b5b53c"
       },
       "geometry": {
@@ -7459,8 +6886,6 @@
         "system_created_at": "2017-11-27 02:41:28 UTC",
         "system_updated_at": "2017-11-27 02:41:28 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5314015485752,
         "longitude": 172.577227195886,
@@ -7478,7 +6903,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "28e6758a-c88f-436f-9817-f8ea25d5a396",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=28e6758a-c88f-436f-9817-f8ea25d5a396"
       },
       "geometry": {
@@ -7498,8 +6922,6 @@
         "system_created_at": "2017-11-27 02:41:28 UTC",
         "system_updated_at": "2017-11-27 02:41:28 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5313844075832,
         "longitude": 172.574866600495,
@@ -7517,7 +6939,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "69b81c50-5738-4b18-ac02-a7ebc7ee8958",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=69b81c50-5738-4b18-ac02-a7ebc7ee8958"
       },
       "geometry": {
@@ -7537,8 +6958,6 @@
         "system_created_at": "2017-11-27 02:41:29 UTC",
         "system_updated_at": "2017-11-27 02:41:29 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5308165827494,
         "longitude": 172.573925815523,
@@ -7556,7 +6975,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "b1bf44ba-e0dd-43ab-bb37-ceb941e38e41",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b1bf44ba-e0dd-43ab-bb37-ceb941e38e41"
       },
       "geometry": {
@@ -7576,8 +6994,6 @@
         "system_created_at": "2017-11-27 02:41:30 UTC",
         "system_updated_at": "2017-11-27 02:41:30 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5310438089478,
         "longitude": 172.57360839301,
@@ -7595,7 +7011,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "61476f98-996b-4e92-bd03-17fe4e02a418",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=61476f98-996b-4e92-bd03-17fe4e02a418"
       },
       "geometry": {
@@ -7615,8 +7030,6 @@
         "system_created_at": "2017-11-27 02:41:30 UTC",
         "system_updated_at": "2017-11-27 02:41:30 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5324274294975,
         "longitude": 172.572652772069,
@@ -7634,7 +7047,6 @@
         "capacity": "30",
         "utilisation": "7%",
         "photos": "00527c67-8539-4d3d-bb64-f6afde107c1e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=00527c67-8539-4d3d-bb64-f6afde107c1e"
       },
       "geometry": {
@@ -7654,8 +7066,6 @@
         "system_created_at": "2017-11-27 02:41:31 UTC",
         "system_updated_at": "2017-11-27 02:41:31 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5316131393255,
         "longitude": 172.57468085736,
@@ -7673,7 +7083,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "3bbfdd38-3fc1-46cf-ac4b-654f80e1ce47",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3bbfdd38-3fc1-46cf-ac4b-654f80e1ce47"
       },
       "geometry": {
@@ -7693,8 +7102,6 @@
         "system_created_at": "2017-11-27 02:41:32 UTC",
         "system_updated_at": "2017-11-27 02:41:32 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5304424867872,
         "longitude": 172.574896775186,
@@ -7712,7 +7119,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "1f50c8df-d78f-4c2c-a4a7-89a09027c16f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=1f50c8df-d78f-4c2c-a4a7-89a09027c16f"
       },
       "geometry": {
@@ -7732,8 +7138,6 @@
         "system_created_at": "2017-11-27 02:41:32 UTC",
         "system_updated_at": "2017-11-27 02:41:32 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5560866287047,
         "longitude": 172.620051763952,
@@ -7751,7 +7155,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "f5f1cdd5-50c8-427e-b99a-28a914b8f122",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f5f1cdd5-50c8-427e-b99a-28a914b8f122"
       },
       "geometry": {
@@ -7771,8 +7174,6 @@
         "system_created_at": "2017-11-27 02:41:33 UTC",
         "system_updated_at": "2017-11-27 02:41:33 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5565074593719,
         "longitude": 172.618300952017,
@@ -7790,7 +7191,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "0ef673c5-88b2-4988-85e2-9afe0872b8f3,f684780f-dd15-4d69-85c8-29c7648ba9a7",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=0ef673c5-88b2-4988-85e2-9afe0872b8f3%2Cf684780f-dd15-4d69-85c8-29c7648ba9a7"
       },
       "geometry": {
@@ -7810,8 +7210,6 @@
         "system_created_at": "2017-11-27 02:41:34 UTC",
         "system_updated_at": "2017-11-27 02:41:34 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5557792649572,
         "longitude": 172.621325142682,
@@ -7829,7 +7227,6 @@
         "capacity": "10",
         "utilisation": "40%",
         "photos": "32d5226a-3639-408b-b9f8-98b89e0831b5",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=32d5226a-3639-408b-b9f8-98b89e0831b5"
       },
       "geometry": {
@@ -7849,8 +7246,6 @@
         "system_created_at": "2017-11-27 02:41:34 UTC",
         "system_updated_at": "2017-11-27 02:41:34 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5564654250321,
         "longitude": 172.620768584311,
@@ -7868,7 +7263,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "b6ee4ef6-6d92-44a0-83b1-59bedf923d08",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b6ee4ef6-6d92-44a0-83b1-59bedf923d08"
       },
       "geometry": {
@@ -7888,8 +7282,6 @@
         "system_created_at": "2017-11-27 02:41:35 UTC",
         "system_updated_at": "2017-11-27 02:41:35 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5563828141053,
         "longitude": 172.619762085378,
@@ -7907,7 +7299,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "5c23dc35-c302-4338-a27d-0b816b9a94ee",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=5c23dc35-c302-4338-a27d-0b816b9a94ee"
       },
       "geometry": {
@@ -7927,8 +7318,6 @@
         "system_created_at": "2017-11-27 02:41:35 UTC",
         "system_updated_at": "2017-11-27 02:41:35 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5559573660391,
         "longitude": 172.621546760201,
@@ -7946,7 +7335,6 @@
         "capacity": "12",
         "utilisation": "8%",
         "photos": "97dee925-9556-4a0b-844c-a1faf3e40ef2",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=97dee925-9556-4a0b-844c-a1faf3e40ef2"
       },
       "geometry": {
@@ -7966,8 +7354,6 @@
         "system_created_at": "2017-11-27 02:41:36 UTC",
         "system_updated_at": "2017-11-27 02:41:36 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5328238754495,
         "longitude": 172.675481960177,
@@ -7985,7 +7371,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "caaf0f7a-bf13-4140-aa35-47e798b16a6d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=caaf0f7a-bf13-4140-aa35-47e798b16a6d"
       },
       "geometry": {
@@ -8005,8 +7390,6 @@
         "system_created_at": "2017-11-27 02:41:36 UTC",
         "system_updated_at": "2017-12-17 20:01:15 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5335158873687,
         "longitude": 172.675015255809,
@@ -8024,7 +7407,6 @@
         "capacity": "7",
         "utilisation": "43%",
         "photos": "b07aa297-e811-4cf1-b55f-0169e4e76cc6",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b07aa297-e811-4cf1-b55f-0169e4e76cc6"
       },
       "geometry": {
@@ -8044,8 +7426,6 @@
         "system_created_at": "2017-11-27 02:41:37 UTC",
         "system_updated_at": "2017-11-27 02:41:37 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5337186037927,
         "longitude": 172.673870287836,
@@ -8063,7 +7443,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "80df7957-5dd3-4412-9a0e-b45add91820f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=80df7957-5dd3-4412-9a0e-b45add91820f"
       },
       "geometry": {
@@ -8083,8 +7462,6 @@
         "system_created_at": "2017-11-27 02:41:38 UTC",
         "system_updated_at": "2017-11-27 02:41:38 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5332852176113,
         "longitude": 172.672328017652,
@@ -8102,7 +7479,6 @@
         "capacity": "16",
         "utilisation": "6%",
         "photos": "9a6e1941-a4ea-4dcf-9acb-ab8337101bc4",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9a6e1941-a4ea-4dcf-9acb-ab8337101bc4"
       },
       "geometry": {
@@ -8122,8 +7498,6 @@
         "system_created_at": "2017-11-27 02:41:38 UTC",
         "system_updated_at": "2017-11-27 02:41:38 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5331026743222,
         "longitude": 172.671928368509,
@@ -8141,7 +7515,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "fb9f7d44-c00e-4b3f-af9f-f1978be41281",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=fb9f7d44-c00e-4b3f-af9f-f1978be41281"
       },
       "geometry": {
@@ -8161,8 +7534,6 @@
         "system_created_at": "2017-11-27 02:41:39 UTC",
         "system_updated_at": "2017-11-27 02:41:39 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5325752159081,
         "longitude": 172.674648799002,
@@ -8180,7 +7551,6 @@
         "capacity": "0",
         "utilisation": "NaN%",
         "photos": "946ba8cf-5d3c-46a9-9758-8c23847869e1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=946ba8cf-5d3c-46a9-9758-8c23847869e1"
       },
       "geometry": {
@@ -8200,8 +7570,6 @@
         "system_created_at": "2017-11-28 00:33:23 UTC",
         "system_updated_at": "2017-11-28 00:33:23 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5073889355599,
         "longitude": 172.663557194173,
@@ -8219,7 +7587,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "d1f912fc-275d-4b89-a1cf-700f75bf25a8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d1f912fc-275d-4b89-a1cf-700f75bf25a8"
       },
       "geometry": {
@@ -8239,8 +7606,6 @@
         "system_created_at": "2017-11-28 00:33:23 UTC",
         "system_updated_at": "2017-11-28 00:33:23 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5060762845275,
         "longitude": 172.663503549993,
@@ -8258,7 +7623,6 @@
         "capacity": "56",
         "utilisation": "7%",
         "photos": "3c7dea81-1539-4261-85c4-8226d12fa059",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3c7dea81-1539-4261-85c4-8226d12fa059"
       },
       "geometry": {
@@ -8278,8 +7642,6 @@
         "system_created_at": "2017-11-28 00:33:24 UTC",
         "system_updated_at": "2017-11-28 00:33:24 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5052451024412,
         "longitude": 172.66327958554,
@@ -8297,7 +7659,6 @@
         "capacity": "8",
         "utilisation": "13%",
         "photos": "97e441b0-f414-4287-bf76-d88b70c29cfd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=97e441b0-f414-4287-bf76-d88b70c29cfd"
       },
       "geometry": {
@@ -8317,8 +7678,6 @@
         "system_created_at": "2017-11-28 00:33:24 UTC",
         "system_updated_at": "2017-11-28 00:33:24 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.49175661307,
         "longitude": 172.611130401492,
@@ -8336,7 +7695,6 @@
         "capacity": "8",
         "utilisation": "38%",
         "photos": "3fb9caf3-0e8a-4737-9838-f197f9181f68,e5af8525-c51d-4ddb-bd63-77b48e7c7210",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3fb9caf3-0e8a-4737-9838-f197f9181f68%2Ce5af8525-c51d-4ddb-bd63-77b48e7c7210"
       },
       "geometry": {
@@ -8356,8 +7714,6 @@
         "system_created_at": "2017-11-28 00:33:25 UTC",
         "system_updated_at": "2017-11-28 00:33:25 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4925230382626,
         "longitude": 172.61049170047,
@@ -8375,7 +7731,6 @@
         "capacity": "9",
         "utilisation": "33%",
         "photos": "0befbd6d-33f0-4772-a3b1-b598ab0ed672",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=0befbd6d-33f0-4772-a3b1-b598ab0ed672"
       },
       "geometry": {
@@ -8395,8 +7750,6 @@
         "system_created_at": "2017-11-28 00:33:25 UTC",
         "system_updated_at": "2017-11-28 00:33:25 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4917196415041,
         "longitude": 172.609138526022,
@@ -8414,7 +7767,6 @@
         "capacity": "68",
         "utilisation": "3%",
         "photos": "94659582-f682-4dc9-815c-1709d95b37e9,fb8544e7-d17d-4d57-a55e-7cf6e324149c",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=94659582-f682-4dc9-815c-1709d95b37e9%2Cfb8544e7-d17d-4d57-a55e-7cf6e324149c"
       },
       "geometry": {
@@ -8434,8 +7786,6 @@
         "system_created_at": "2017-11-28 00:33:26 UTC",
         "system_updated_at": "2017-11-28 00:33:26 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4937294511045,
         "longitude": 172.609782591462,
@@ -8453,7 +7803,6 @@
         "capacity": "11",
         "utilisation": "9%",
         "photos": "ed7df08b-5798-4889-90b9-9b99a2ee8669,223cfa7d-fd04-41a9-aac8-29a4be176e8a",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ed7df08b-5798-4889-90b9-9b99a2ee8669%2C223cfa7d-fd04-41a9-aac8-29a4be176e8a"
       },
       "geometry": {
@@ -8473,8 +7822,6 @@
         "system_created_at": "2017-11-28 00:33:26 UTC",
         "system_updated_at": "2017-11-28 00:33:26 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4943684023373,
         "longitude": 172.608523629606,
@@ -8492,7 +7839,6 @@
         "capacity": "16",
         "utilisation": "13%",
         "photos": "b8c58023-b5ef-4f2e-b5d1-d0561b906ed8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b8c58023-b5ef-4f2e-b5d1-d0561b906ed8"
       },
       "geometry": {
@@ -8512,8 +7858,6 @@
         "system_created_at": "2017-11-29 02:53:08 UTC",
         "system_updated_at": "2017-11-29 02:53:08 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4597682380521,
         "longitude": 172.623624131083,
@@ -8531,7 +7875,6 @@
         "capacity": "9",
         "utilisation": "0%",
         "photos": "2ec94bf8-b14d-4e3b-9859-92712a38ae51",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=2ec94bf8-b14d-4e3b-9859-92712a38ae51"
       },
       "geometry": {
@@ -8551,8 +7894,6 @@
         "system_created_at": "2017-11-29 02:53:09 UTC",
         "system_updated_at": "2017-11-29 02:53:09 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4597621539842,
         "longitude": 172.623420618474,
@@ -8570,7 +7911,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "f28ee3b0-498b-4a10-b893-eb16e86ede62",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f28ee3b0-498b-4a10-b893-eb16e86ede62"
       },
       "geometry": {
@@ -8590,8 +7930,6 @@
         "system_created_at": "2017-11-29 02:53:09 UTC",
         "system_updated_at": "2017-11-29 02:53:09 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.4591406023803,
         "longitude": 172.62439828366,
@@ -8609,7 +7947,6 @@
         "capacity": "10",
         "utilisation": "10%",
         "photos": "509ba3f7-7c4f-4197-90c5-5c43ef500164",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=509ba3f7-7c4f-4197-90c5-5c43ef500164"
       },
       "geometry": {
@@ -8629,8 +7966,6 @@
         "system_created_at": "2017-11-30 23:58:00 UTC",
         "system_updated_at": "2017-11-30 23:58:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5072226064045,
         "longitude": 172.731533758342,
@@ -8648,7 +7983,6 @@
         "capacity": "16",
         "utilisation": "0%",
         "photos": "9feb0a20-4047-4f06-a555-2919961fe011",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9feb0a20-4047-4f06-a555-2919961fe011"
       },
       "geometry": {
@@ -8668,8 +8002,6 @@
         "system_created_at": "2017-11-30 23:58:00 UTC",
         "system_updated_at": "2017-11-30 23:58:00 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5067596058741,
         "longitude": 172.730912826955,
@@ -8687,7 +8019,6 @@
         "capacity": "10",
         "utilisation": "40%",
         "photos": "558a3b63-9921-4312-91c8-b0e815ba6cb4",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=558a3b63-9921-4312-91c8-b0e815ba6cb4"
       },
       "geometry": {
@@ -8707,8 +8038,6 @@
         "system_created_at": "2017-11-30 23:58:01 UTC",
         "system_updated_at": "2017-11-30 23:58:01 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5080146111581,
         "longitude": 172.725825682282,
@@ -8726,7 +8055,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "8bb35fba-9059-41f5-8872-dd60059d1548",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8bb35fba-9059-41f5-8872-dd60059d1548"
       },
       "geometry": {
@@ -8746,8 +8074,6 @@
         "system_created_at": "2017-11-30 23:58:01 UTC",
         "system_updated_at": "2017-11-30 23:58:01 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.50792488,
         "longitude": 172.72727877,
@@ -8765,7 +8091,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "3b2859df-e094-4639-8e04-030189c30a89",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=3b2859df-e094-4639-8e04-030189c30a89"
       },
       "geometry": {
@@ -8785,8 +8110,6 @@
         "system_created_at": "2017-11-30 23:58:02 UTC",
         "system_updated_at": "2017-11-30 23:58:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5075735020248,
         "longitude": 172.728177644312,
@@ -8804,7 +8127,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "445bffc1-1032-4447-9c55-d8b1676e4f50,71425696-e40b-43bd-81dd-885e396f25cf",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=445bffc1-1032-4447-9c55-d8b1676e4f50%2C71425696-e40b-43bd-81dd-885e396f25cf"
       },
       "geometry": {
@@ -8824,8 +8146,6 @@
         "system_created_at": "2017-11-30 23:58:02 UTC",
         "system_updated_at": "2017-11-30 23:58:02 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5072649182507,
         "longitude": 172.729284726083,
@@ -8843,7 +8163,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "9eeaf72e-d891-4aa9-bb8f-9e94d9a0f9d3",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9eeaf72e-d891-4aa9-bb8f-9e94d9a0f9d3"
       },
       "geometry": {
@@ -8863,8 +8182,6 @@
         "system_created_at": "2017-11-30 23:58:05 UTC",
         "system_updated_at": "2017-11-30 23:58:05 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5438805318359,
         "longitude": 172.636765949428,
@@ -8882,7 +8199,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "0aff4405-24c2-4615-b5c9-db118b3a1b42",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=0aff4405-24c2-4615-b5c9-db118b3a1b42"
       },
       "geometry": {
@@ -8902,8 +8218,6 @@
         "system_created_at": "2017-11-30 23:58:06 UTC",
         "system_updated_at": "2017-11-30 23:58:06 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5424649,
         "longitude": 172.63609473,
@@ -8921,7 +8235,6 @@
         "capacity": "3",
         "utilisation": "0%",
         "photos": "c8a75038-b5bf-473e-a0ca-16b71e677819",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c8a75038-b5bf-473e-a0ca-16b71e677819"
       },
       "geometry": {
@@ -8941,8 +8254,6 @@
         "system_created_at": "2017-11-30 23:58:07 UTC",
         "system_updated_at": "2017-11-30 23:58:07 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5695711859375,
         "longitude": 172.759850174189,
@@ -8960,7 +8271,6 @@
         "capacity": "3",
         "utilisation": "0%",
         "photos": "b9f35444-c24a-42e6-87de-1c6cde40d09d",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b9f35444-c24a-42e6-87de-1c6cde40d09d"
       },
       "geometry": {
@@ -8980,8 +8290,6 @@
         "system_created_at": "2017-11-30 23:58:07 UTC",
         "system_updated_at": "2017-11-30 23:58:07 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5683898529536,
         "longitude": 172.759246341884,
@@ -8999,7 +8307,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "81d69240-1cae-4bfa-8298-8af15259d99e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=81d69240-1cae-4bfa-8298-8af15259d99e"
       },
       "geometry": {
@@ -9019,8 +8326,6 @@
         "system_created_at": "2017-11-30 23:58:08 UTC",
         "system_updated_at": "2017-11-30 23:58:08 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5683760062236,
         "longitude": 172.7588865906,
@@ -9038,7 +8343,6 @@
         "capacity": "10",
         "utilisation": "70%",
         "photos": "9ace54d2-1d25-46c0-84ee-5bc74c496712",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=9ace54d2-1d25-46c0-84ee-5bc74c496712"
       },
       "geometry": {
@@ -9058,8 +8362,6 @@
         "system_created_at": "2017-11-30 23:58:08 UTC",
         "system_updated_at": "2017-11-30 23:58:08 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5682020715892,
         "longitude": 172.758638821542,
@@ -9077,7 +8379,6 @@
         "capacity": "4",
         "utilisation": "25%",
         "photos": "449882bd-95d6-46fb-a145-adfb647de2aa",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=449882bd-95d6-46fb-a145-adfb647de2aa"
       },
       "geometry": {
@@ -9097,8 +8398,6 @@
         "system_created_at": "2017-11-30 23:58:09 UTC",
         "system_updated_at": "2017-11-30 23:58:09 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5680040867224,
         "longitude": 172.758721970022,
@@ -9116,7 +8415,6 @@
         "capacity": "12",
         "utilisation": "0%",
         "photos": "c188b261-9c5a-48de-9aa7-814cb0917167",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c188b261-9c5a-48de-9aa7-814cb0917167"
       },
       "geometry": {
@@ -9136,8 +8434,6 @@
         "system_created_at": "2017-11-30 23:58:09 UTC",
         "system_updated_at": "2017-11-30 23:58:09 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5687710011674,
         "longitude": 172.75988638401,
@@ -9155,7 +8451,6 @@
         "capacity": "4",
         "utilisation": "25%",
         "photos": "bda07f18-4525-4bf2-905c-083a044122cc",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=bda07f18-4525-4bf2-905c-083a044122cc"
       },
       "geometry": {
@@ -9175,8 +8470,6 @@
         "system_created_at": "2017-11-30 23:58:09 UTC",
         "system_updated_at": "2017-11-30 23:58:09 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5698068181636,
         "longitude": 172.759430743754,
@@ -9194,7 +8487,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "685e72fc-345b-4b2d-b5c6-a86f306f1672",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=685e72fc-345b-4b2d-b5c6-a86f306f1672"
       },
       "geometry": {
@@ -9214,8 +8506,6 @@
         "system_created_at": "2017-11-30 23:58:10 UTC",
         "system_updated_at": "2017-11-30 23:58:10 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5730771525226,
         "longitude": 172.769950702786,
@@ -9233,7 +8523,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "c800379a-da6c-41ff-9654-09b2f181c3fb",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c800379a-da6c-41ff-9654-09b2f181c3fb"
       },
       "geometry": {
@@ -9253,8 +8542,6 @@
         "system_created_at": "2017-11-30 23:58:11 UTC",
         "system_updated_at": "2017-11-30 23:58:11 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5668280674931,
         "longitude": 172.758864462376,
@@ -9272,7 +8559,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "c95774c1-471a-4e0c-8bda-3019df7e4ac8",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=c95774c1-471a-4e0c-8bda-3019df7e4ac8"
       },
       "geometry": {
@@ -9292,8 +8578,6 @@
         "system_created_at": "2017-11-30 23:58:11 UTC",
         "system_updated_at": "2017-11-30 23:58:11 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5668659647732,
         "longitude": 172.758804447949,
@@ -9311,7 +8595,6 @@
         "capacity": "0",
         "utilisation": "NaN%",
         "photos": "b2aef2f2-8dfe-427d-9367-d96d7fde112e",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=b2aef2f2-8dfe-427d-9367-d96d7fde112e"
       },
       "geometry": {
@@ -9331,8 +8614,6 @@
         "system_created_at": "2017-11-30 23:58:12 UTC",
         "system_updated_at": "2017-11-30 23:58:12 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.55644695907,
         "longitude": 172.702250406146,
@@ -9350,7 +8631,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "cbc71c8a-85d3-452c-a223-71b327e78833",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=cbc71c8a-85d3-452c-a223-71b327e78833"
       },
       "geometry": {
@@ -9370,8 +8650,6 @@
         "system_created_at": "2017-11-30 23:58:12 UTC",
         "system_updated_at": "2017-11-30 23:58:12 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5560390056496,
         "longitude": 172.7019168064,
@@ -9389,7 +8667,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "56bb3f66-6ced-466c-9663-017d02fc6eec",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=56bb3f66-6ced-466c-9663-017d02fc6eec"
       },
       "geometry": {
@@ -9409,8 +8686,6 @@
         "system_created_at": "2017-11-30 23:58:13 UTC",
         "system_updated_at": "2017-11-30 23:58:13 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5567800744365,
         "longitude": 172.700451314449,
@@ -9428,7 +8703,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "e18a3d27-b266-42e6-b503-a87193578fd0",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e18a3d27-b266-42e6-b503-a87193578fd0"
       },
       "geometry": {
@@ -9448,8 +8722,6 @@
         "system_created_at": "2017-11-30 23:58:13 UTC",
         "system_updated_at": "2017-11-30 23:58:13 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.556308950122,
         "longitude": 172.698943577707,
@@ -9467,7 +8739,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "f9fa67b3-8185-4462-a9b3-d3418ea4fb91",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f9fa67b3-8185-4462-a9b3-d3418ea4fb91"
       },
       "geometry": {
@@ -9487,8 +8758,6 @@
         "system_created_at": "2017-12-01 03:35:29 UTC",
         "system_updated_at": "2017-12-01 03:35:29 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5614996183402,
         "longitude": 172.638538554311,
@@ -9506,7 +8775,6 @@
         "capacity": "10",
         "utilisation": "20%",
         "photos": "e95ae36d-f842-4384-9bc1-200ca34cb3c1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=e95ae36d-f842-4384-9bc1-200ca34cb3c1"
       },
       "geometry": {
@@ -9526,8 +8794,6 @@
         "system_created_at": "2017-12-01 03:35:29 UTC",
         "system_updated_at": "2017-12-01 03:35:29 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5615921833041,
         "longitude": 172.637936733663,
@@ -9545,7 +8811,6 @@
         "capacity": "18",
         "utilisation": "33%",
         "photos": "73dd1e78-1254-435f-87ab-fa79a7d766a4,d54fe4cc-970d-40c7-bbdb-747d5e762b84",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=73dd1e78-1254-435f-87ab-fa79a7d766a4%2Cd54fe4cc-970d-40c7-bbdb-747d5e762b84"
       },
       "geometry": {
@@ -9565,8 +8830,6 @@
         "system_created_at": "2017-12-01 03:35:31 UTC",
         "system_updated_at": "2017-12-01 03:35:31 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5575626817755,
         "longitude": 172.637069374323,
@@ -9584,7 +8847,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "94b67588-3846-45a0-9fee-406d75ecd5bd",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=94b67588-3846-45a0-9fee-406d75ecd5bd"
       },
       "geometry": {
@@ -9604,8 +8866,6 @@
         "system_created_at": "2017-12-01 03:35:31 UTC",
         "system_updated_at": "2017-12-01 03:35:31 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5570495296474,
         "longitude": 172.636718004942,
@@ -9623,7 +8883,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "7fa28584-0071-4ef7-bed3-53dbb9446b74",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=7fa28584-0071-4ef7-bed3-53dbb9446b74"
       },
       "geometry": {
@@ -9643,8 +8902,6 @@
         "system_created_at": "2017-12-01 03:35:32 UTC",
         "system_updated_at": "2017-12-01 03:35:32 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5577696907718,
         "longitude": 172.637411020696,
@@ -9662,7 +8919,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "620b852d-2596-4912-8ba2-0a1f964ccbcb",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=620b852d-2596-4912-8ba2-0a1f964ccbcb"
       },
       "geometry": {
@@ -9682,8 +8938,6 @@
         "system_created_at": "2017-12-01 03:35:32 UTC",
         "system_updated_at": "2017-12-01 03:35:32 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5512872018147,
         "longitude": 172.637109272182,
@@ -9701,7 +8955,6 @@
         "capacity": "5",
         "utilisation": "20%",
         "photos": "731c80b8-902b-43b3-85cb-2efc7cef67ff",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=731c80b8-902b-43b3-85cb-2efc7cef67ff"
       },
       "geometry": {
@@ -9721,8 +8974,6 @@
         "system_created_at": "2017-12-01 03:35:33 UTC",
         "system_updated_at": "2017-12-01 03:35:33 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5517637112161,
         "longitude": 172.637055963278,
@@ -9740,7 +8991,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "064377a7-dd80-4f9d-a372-465684ab4bba",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=064377a7-dd80-4f9d-a372-465684ab4bba"
       },
       "geometry": {
@@ -9760,8 +9010,6 @@
         "system_created_at": "2017-12-01 03:35:33 UTC",
         "system_updated_at": "2017-12-01 03:35:33 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5523092260226,
         "longitude": 172.637444213033,
@@ -9779,7 +9027,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "f254d51e-88a4-4ed4-8b14-d1a121a719ee",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f254d51e-88a4-4ed4-8b14-d1a121a719ee"
       },
       "geometry": {
@@ -9799,8 +9046,6 @@
         "system_created_at": "2017-12-01 03:35:34 UTC",
         "system_updated_at": "2017-12-01 03:35:34 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.553127853454,
         "longitude": 172.636082656682,
@@ -9818,7 +9063,6 @@
         "capacity": "10",
         "utilisation": "30%",
         "photos": "40d48df6-3211-4859-bef9-1c18b5a2e921",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=40d48df6-3211-4859-bef9-1c18b5a2e921"
       },
       "geometry": {
@@ -9838,8 +9082,6 @@
         "system_created_at": "2017-12-01 03:35:34 UTC",
         "system_updated_at": "2017-12-01 03:35:34 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5497356649877,
         "longitude": 172.637420743704,
@@ -9857,7 +9099,6 @@
         "capacity": "8",
         "utilisation": "25%",
         "photos": "45039ca2-28ff-4060-a4b1-40833c3218e4",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=45039ca2-28ff-4060-a4b1-40833c3218e4"
       },
       "geometry": {
@@ -9877,8 +9118,6 @@
         "system_created_at": "2017-12-01 03:35:35 UTC",
         "system_updated_at": "2017-12-01 03:35:35 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5493485642961,
         "longitude": 172.637069374323,
@@ -9896,7 +9135,6 @@
         "capacity": "4",
         "utilisation": "25%",
         "photos": "d23f7220-8dc6-4c53-ab12-cb6bbeea8806",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=d23f7220-8dc6-4c53-ab12-cb6bbeea8806"
       },
       "geometry": {
@@ -9916,8 +9154,6 @@
         "system_created_at": "2017-12-06 00:22:38 UTC",
         "system_updated_at": "2017-12-06 00:22:38 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5136728751562,
         "longitude": 172.636444419622,
@@ -9935,7 +9171,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "1d30cbef-4f44-41b5-97e1-f96e5a18ce6b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=1d30cbef-4f44-41b5-97e1-f96e5a18ce6b"
       },
       "geometry": {
@@ -9955,8 +9190,6 @@
         "system_created_at": "2017-12-06 00:22:39 UTC",
         "system_updated_at": "2017-12-06 00:22:39 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5137010800425,
         "longitude": 172.636440731585,
@@ -9974,7 +9207,6 @@
         "capacity": "0",
         "utilisation": "NaN%",
         "photos": "62c2b9b0-2dad-45e1-a311-afaf3746233b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=62c2b9b0-2dad-45e1-a311-afaf3746233b"
       },
       "geometry": {
@@ -9994,8 +9226,6 @@
         "system_created_at": "2017-12-06 00:22:39 UTC",
         "system_updated_at": "2017-12-06 00:22:39 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5132191637088,
         "longitude": 172.636333443224,
@@ -10013,7 +9243,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "89b318f5-2f7c-43dd-a89b-69f73e1f39ae",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=89b318f5-2f7c-43dd-a89b-69f73e1f39ae"
       },
       "geometry": {
@@ -10033,8 +9262,6 @@
         "system_created_at": "2017-12-06 00:22:40 UTC",
         "system_updated_at": "2017-12-06 00:22:40 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5129290880966,
         "longitude": 172.637281268835,
@@ -10052,7 +9279,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "989ab6f4-aec0-4f99-a158-ff318d18b9b7",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=989ab6f4-aec0-4f99-a158-ff318d18b9b7"
       },
       "geometry": {
@@ -10072,8 +9298,6 @@
         "system_created_at": "2017-12-06 00:22:40 UTC",
         "system_updated_at": "2017-12-06 00:22:40 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5491041039472,
         "longitude": 172.684548832476,
@@ -10091,7 +9315,6 @@
         "capacity": "18",
         "utilisation": "0%",
         "photos": "321a4abb-7fde-4823-af94-3884fef11a5c",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=321a4abb-7fde-4823-af94-3884fef11a5c"
       },
       "geometry": {
@@ -10111,8 +9334,6 @@
         "system_created_at": "2017-12-06 00:22:40 UTC",
         "system_updated_at": "2017-12-06 00:22:40 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5492146701324,
         "longitude": 172.683998309076,
@@ -10130,7 +9351,6 @@
         "capacity": "16",
         "utilisation": "0%",
         "photos": "f44d5035-e01a-4696-a1c0-cfde263a1e69",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=f44d5035-e01a-4696-a1c0-cfde263a1e69"
       },
       "geometry": {
@@ -10150,8 +9370,6 @@
         "system_created_at": "2017-12-06 00:22:41 UTC",
         "system_updated_at": "2017-12-17 20:01:15 UTC",
         "version": 2,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5493646024156,
         "longitude": 172.682232409716,
@@ -10169,7 +9387,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "230146ea-98b2-4958-b935-16fbddd66728",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=230146ea-98b2-4958-b935-16fbddd66728"
       },
       "geometry": {
@@ -10189,8 +9406,6 @@
         "system_created_at": "2017-12-06 00:22:41 UTC",
         "system_updated_at": "2017-12-06 00:22:41 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5490120058051,
         "longitude": 172.682624682784,
@@ -10208,7 +9423,6 @@
         "capacity": "6",
         "utilisation": "17%",
         "photos": "74bc77d3-53f3-47ee-9f69-16307824ce8b",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=74bc77d3-53f3-47ee-9f69-16307824ce8b"
       },
       "geometry": {
@@ -10228,8 +9442,6 @@
         "system_created_at": "2017-12-06 00:22:42 UTC",
         "system_updated_at": "2017-12-06 00:22:42 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5562226943689,
         "longitude": 172.703726626933,
@@ -10247,7 +9459,6 @@
         "capacity": "6",
         "utilisation": "0%",
         "photos": "79c4f3f0-4ca1-4c16-a8a6-f392217745f1",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=79c4f3f0-4ca1-4c16-a8a6-f392217745f1"
       },
       "geometry": {
@@ -10267,8 +9478,6 @@
         "system_created_at": "2017-12-06 00:22:43 UTC",
         "system_updated_at": "2017-12-06 00:22:43 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5559826111827,
         "longitude": 172.696476197031,
@@ -10286,7 +9495,6 @@
         "capacity": "5",
         "utilisation": "0%",
         "photos": "47de13ec-1bc7-4894-8722-bf452ed22661",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=47de13ec-1bc7-4894-8722-bf452ed22661"
       },
       "geometry": {
@@ -10306,8 +9514,6 @@
         "system_created_at": "2017-12-06 00:22:43 UTC",
         "system_updated_at": "2017-12-06 00:22:43 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.6025563120466,
         "longitude": 172.720607109368,
@@ -10325,7 +9531,6 @@
         "capacity": "8",
         "utilisation": "0%",
         "photos": "94bb5153-e998-4140-aaf9-a5f18da6f86f",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=94bb5153-e998-4140-aaf9-a5f18da6f86f"
       },
       "geometry": {
@@ -10345,8 +9550,6 @@
         "system_created_at": "2017-12-06 00:22:44 UTC",
         "system_updated_at": "2017-12-06 00:22:44 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.6026335183333,
         "longitude": 172.72174872458,
@@ -10364,7 +9567,6 @@
         "capacity": "2",
         "utilisation": "0%",
         "photos": "bbbe9884-b29c-40d6-b834-cbe62d759456",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=bbbe9884-b29c-40d6-b834-cbe62d759456"
       },
       "geometry": {
@@ -10384,8 +9586,6 @@
         "system_created_at": "2017-12-06 02:36:13 UTC",
         "system_updated_at": "2017-12-06 02:36:13 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5430284840688,
         "longitude": 172.523497603834,
@@ -10403,7 +9603,6 @@
         "capacity": "8",
         "utilisation": "50%",
         "photos": "46d68ecd-f0c8-4822-a83e-40a43c9574a6,61e2c327-538d-46e7-a4b3-5f02260036b6",
-        "photos_caption": ",",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=46d68ecd-f0c8-4822-a83e-40a43c9574a6%2C61e2c327-538d-46e7-a4b3-5f02260036b6"
       },
       "geometry": {
@@ -10423,8 +9622,6 @@
         "system_created_at": "2017-12-06 02:36:13 UTC",
         "system_updated_at": "2017-12-06 02:36:13 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5436472284535,
         "longitude": 172.524072602391,
@@ -10442,7 +9639,6 @@
         "capacity": "10",
         "utilisation": "0%",
         "photos": "8dcda3ca-2d78-453d-8ce1-50d2e0d401ad",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=8dcda3ca-2d78-453d-8ce1-50d2e0d401ad"
       },
       "geometry": {
@@ -10462,8 +9658,6 @@
         "system_created_at": "2017-12-06 02:36:14 UTC",
         "system_updated_at": "2017-12-06 02:36:14 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5436489296273,
         "longitude": 172.5244769454,
@@ -10481,7 +9675,6 @@
         "capacity": "10",
         "utilisation": "10%",
         "photos": "7ae6310f-fa9c-404f-9424-7c5224ea7c67",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=7ae6310f-fa9c-404f-9424-7c5224ea7c67"
       },
       "geometry": {
@@ -10501,8 +9694,6 @@
         "system_created_at": "2017-12-06 02:36:14 UTC",
         "system_updated_at": "2017-12-06 02:36:14 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.5430688265907,
         "longitude": 172.525122016668,
@@ -10520,7 +9711,6 @@
         "capacity": "4",
         "utilisation": "0%",
         "photos": "a53a6194-e650-468b-8e74-613584fd14c2",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=a53a6194-e650-468b-8e74-613584fd14c2"
       },
       "geometry": {
@@ -10540,8 +9730,6 @@
         "system_created_at": "2017-12-06 02:36:15 UTC",
         "system_updated_at": "2017-12-06 02:36:15 UTC",
         "version": 1,
-        "status": null,
-        "project": null,
         "assigned_to": null,
         "latitude": -43.542507188211,
         "longitude": 172.521697506309,
@@ -10559,7 +9747,6 @@
         "capacity": "14",
         "utilisation": "0%",
         "photos": "ac12e5fc-f967-4588-8c50-fb36e8e17f23",
-        "photos_caption": "",
         "photos_url": "https://web.fulcrumapp.com/photos/view?photos=ac12e5fc-f967-4588-8c50-fb36e8e17f23"
       },
       "geometry": {
