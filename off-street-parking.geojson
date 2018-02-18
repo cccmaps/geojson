@@ -6,38 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633441,
-          -43.528085
-        ]
-      },
-      "properties": {
-        "name": "Aldersgate car park",
-        "description": "Aldersgate Car park",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "type": "Mobility Off-Street",
-        "address": "null",
-        "spaces": 2,
-        "hourlyrate": "null",
-        "alldayrate": "null",
-        "timelimit": "null",
-        "nightrate": "null",
-        "monthly": "null",
-        "metered": "null",
-        "p180": "null",
-        "PleaseNote": "null",
-        "Access": "null",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.620876,
           -43.528365
         ]
@@ -188,38 +156,6 @@
         "PleaseNote": "",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63323,
-          -43.527894
-        ]
-      },
-      "properties": {
-        "name": "Aldersgate car park",
-        "description": "Aldersgate Car park",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "null",
-        "type": "CCC Off-Street Carpark",
-        "address": "309 Durham St North, opposite District Court.",
-        "spaces": 70,
-        "hourlyrate": "$2 (9am-6pm, Mon-Sun)",
-        "alldayrate": "N/A",
-        "timelimit": "N/A",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "Yes",
-        "p180": "N/A",
-        "Access": "Durham St North or Chester St West",
-        "PleaseNote": "Text park not available",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": ""
       }
     },
     {
