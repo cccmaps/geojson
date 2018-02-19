@@ -140,6 +140,23 @@
         "Open": "Open from 18 November to 31 March",
         "Type": "A sheltered paddling pool and large play area sit inside this English style park that is covered by a large collection of mature trees, hedges and herbaceous plants."
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Paddling Pools",
+        "Parkname": "Edgar Macintosh Park",
+        "Address": "Condell Avenue, Papanui",
+        "Open": "Open from 18 Nov to 31 March",
+        "Type": "This shaded paddling pool is part of a larger sports park that offers a playground and lots of space to run around."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593507,
+          -43.498974
+        ]
+      }
     }
   ]
 }
