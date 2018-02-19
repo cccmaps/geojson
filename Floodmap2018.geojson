@@ -9,13 +9,123 @@
         "Description": "do not delete",
         "Begin": "do not delete",
         "End": "do not delete",
-        "Comments": "do not delete"
+        "Comments": "do not delete",
+        "Draft": "yes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.63174653053284,
           -43.53183871095766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Road closed",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6314675807953,
+          -43.53183676637822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Restricted access",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63210862874985,
+          -43.53183676637822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Residents only",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63207376003265,
+          -43.53161897308519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Restricted at high tide",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63181895017624,
+          -43.53160536097826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Caution",
+        "Draft": "yes",
+        "End": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631593644619,
+          -43.53159174886826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Other",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63135492801666,
+          -43.53158980428086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Sinkhole",
+        "Draft": "yes",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63130396604538,
+          -43.53172398066395
         ]
       }
     }
