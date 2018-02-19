@@ -281,7 +281,8 @@
         "Location name": "do not delete",
         "Status": "Other",
         "Draft": "yes",
-        "Description": ""
+        "Description": "",
+        "Begin": "10:56am"
       },
       "geometry": {
         "type": "LineString",
