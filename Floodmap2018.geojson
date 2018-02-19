@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "null",
-        "Caution": "null",
-        "Description": "null",
-        "Begin": "null",
-        "End": "null"
+        "Name": "do not delete",
+        "Caution": "do not delete",
+        "Description": "do not delete",
+        "Begin": "do not delete",
+        "End": "do not delete"
       },
       "geometry": {
         "type": "Point",
