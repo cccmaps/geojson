@@ -4,11 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "do not delete",
-        "Caution": "do not delete",
+        "Location name": "do not delete",
+        "Status": "do not delete",
         "Description": "do not delete",
         "Begin": "do not delete",
-        "End": "do not delete"
+        "End": "do not delete",
+        "Comments": "do not delete"
       },
       "geometry": {
         "type": "Point",
