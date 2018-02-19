@@ -128,6 +128,182 @@
           -43.53172398066395
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Road closed",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63288110494614,
+            -43.531090043241996
+          ],
+          [
+            172.63288110494614,
+            -43.53159369345559
+          ],
+          [
+            172.63288110494614,
+            -43.532040946876144
+          ],
+          [
+            172.6316928863525,
+            -43.532040946876144
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Restricted access",
+        "Draft": "yes",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.62765884399414,
+            -43.53314934323164
+          ],
+          [
+            172.63067364692688,
+            -43.53314156508259
+          ],
+          [
+            172.6328730583191,
+            -43.53313378693252
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Residents only",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63065218925476,
+            -43.53323490280513
+          ],
+          [
+            172.6306414604187,
+            -43.53528051827969
+          ],
+          [
+            172.63363480567932,
+            -43.53530385189623
+          ],
+          [
+            172.63363480567932,
+            -43.534424946104814
+          ],
+          [
+            172.63354897499082,
+            -43.534207162158495
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Restricted at high tide",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63664960861203,
+            -43.535327185503746
+          ],
+          [
+            172.63662815093994,
+            -43.532029279437744
+          ],
+          [
+            172.6339030265808,
+            -43.532029279437744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Caution",
+        "Description": "",
+        "Draft": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63062000274658,
+            -43.53636941076456
+          ],
+          [
+            172.63363480567932,
+            -43.53638496622902
+          ],
+          [
+            172.63662815093994,
+            -43.53640052168949
+          ],
+          [
+            172.636638879776,
+            -43.535420519843534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location name": "do not delete",
+        "Status": "Other",
+        "Draft": "yes",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.63364553451538,
+            -43.53647829893159
+          ],
+          [
+            172.63363480567932,
+            -43.53838381002592
+          ],
+          [
+            172.63063073158264,
+            -43.538344922646324
+          ],
+          [
+            172.63062000274658,
+            -43.53741161801198
+          ]
+        ]
+      }
     }
   ]
 }
