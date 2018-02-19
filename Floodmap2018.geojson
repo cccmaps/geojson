@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "do not delete",
         "Description": "do not delete",
         "Begin": "do not delete",
@@ -23,9 +23,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Road closed",
-        "Draft": "yes"
+        "Draft": "yes",
+        "Description": "na",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -38,10 +42,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Restricted access",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -54,9 +61,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Residents only",
-        "Draft": "yes"
+        "Draft": "yes",
+        "Description": "na",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -69,10 +80,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Restricted at high tide",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -85,10 +99,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Caution",
         "Draft": "yes",
-        "End": ""
+        "End": "na",
+        "Description": "na",
+        "Begin": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -101,9 +118,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Other",
-        "Draft": "yes"
+        "Draft": "yes",
+        "Description": "na",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -116,10 +137,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Sinkhole",
         "Draft": "yes",
-        "Description": ""
+        "Description": "na",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "Point",
@@ -132,10 +156,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Road closed",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
@@ -162,10 +189,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Restricted access",
         "Draft": "yes",
-        "Description": ""
+        "Description": "na",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
@@ -188,10 +218,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Residents only",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
@@ -222,10 +255,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Restricted at high tide",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
@@ -248,10 +284,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Caution",
-        "Description": "",
-        "Draft": "yes"
+        "Description": "na",
+        "Draft": "yes",
+        "Begin": "na",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
@@ -278,11 +317,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Location name": "do not delete",
+        "Location": "do not delete",
         "Status": "Other",
         "Draft": "yes",
-        "Description": "",
-        "Begin": "10:56am"
+        "Description": "na",
+        "Begin": "10:56am",
+        "End": "na",
+        "Comments": "na"
       },
       "geometry": {
         "type": "LineString",
