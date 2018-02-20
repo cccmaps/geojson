@@ -437,31 +437,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Pages Rd",
-        "Status": "Caution",
-        "Description": "Anzac Dr to Bexley Rd flooding signs out",
-        "Begin": " ",
-        "End": " ",
-        "Comments": " ",
-        "Draft": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.71652579307556,
-            -43.511172070558146
-          ],
-          [
-            172.71749138832092,
-            -43.51075189603968
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Status": "Caution",
         "Location": "Ford Rd",
         "Description": "Opawa to Louisson Pl Flooding signs erected as carriageway has flooded. Road open.",
@@ -511,7 +486,7 @@
       "properties": {
         "Location": "Empire Rd",
         "Status": "Caution",
-        "Description": "At intersection with Main North Rd. Flooding signs out.",
+        "Description": "At intersection with Main North Rd. Severe flooding. Flooding signs out.",
         "Begin": " ",
         "End": " ",
         "Comments": " ",
@@ -648,21 +623,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Pages Rd",
-        "Status": "Caution",
-        "Description": "Anzac Dr to Bexley Rd flooding signs out"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.71700590848923,
-          -43.51094642164335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Location": "Clarendon Tce",
         "Status": "Residents only",
         "Description": "Opawa Rd end"
@@ -702,6 +662,492 @@
         "coordinates": [
           172.666540145874,
           -43.55467347142625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Akaroa St",
+        "Status": "Caution",
+        "Description": "Hills Rd to Dawe St - Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.65154123306274,
+            -43.49943720831831
+          ],
+          [
+            172.65168070793152,
+            -43.498923561447
+          ],
+          [
+            172.6518738269806,
+            -43.49840212757789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Atlantis St",
+        "Status": "Caution",
+        "Description": "Travis Rd to Chimera Cres - Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.7039676904678,
+            -43.49365842908061
+          ],
+          [
+            172.7037799358368,
+            -43.494751964409396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Atlantis St",
+        "Status": "Caution",
+        "Description": "Travis Rd to Chimera Cres - Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70395159721375,
+          -43.49375182788921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Akaroa St",
+        "Status": "Caution",
+        "Description": "Hills Rd to Dawe St - Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65169143676758,
+          -43.498884648627175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Avonside Dr",
+        "Status": "Caution",
+        "Description": "Fitzgerald Ave to Stanmore Rd. Flooding on the south side, signs have been established",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6507580280304,
+            -43.52657644954742
+          ],
+          [
+            172.65163779258725,
+            -43.52661534451614
+          ],
+          [
+            172.65488862991333,
+            -43.525829661284625
+          ],
+          [
+            172.65571475028992,
+            -43.52547182196565
+          ],
+          [
+            172.65698075294495,
+            -43.525409588823926
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Description": "Fitzgerald Ave to Stanmore Rd. Flooding on the south side, signs have been established",
+        "Location": "Avonside Dr",
+        "Status": "Caution",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65390157699585,
+          -43.526086370792754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Bailey St",
+        "Status": "Caution",
+        "Description": "15 Bailey St - Flooding signs up. Surface flooding.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.46986985206604,
+          -43.553264168785134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cleland St",
+        "Status": "Caution",
+        "Description": "Corner of Factory Rd - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6355391740799,
+          -43.44391473043836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cranford St",
+        "Status": "Caution",
+        "Description": "Corner of Main North Rd - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61611461639404,
+          -43.48801920838313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Edgeware Rd",
+        "Status": "Caution",
+        "Description": "Colombo St to Sherborne St - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6365852355957,
+            -43.51343629399642
+          ],
+          [
+            172.6380443572998,
+            -43.513451855375614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Edgeware Rd",
+        "Status": "Caution",
+        "Description": "Colombo St to Sherborne St - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6373255252838,
+          -43.51344018434159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Emmett St",
+        "Status": "Caution",
+        "Description": "Shirley Rd to Praem Pl - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.65604734420776,
+            -43.50804792522304
+          ],
+          [
+            172.65494763851166,
+            -43.505511140316855
+          ],
+          [
+            172.6548671722412,
+            -43.5051453987306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Emmett St",
+        "Status": "Caution",
+        "Description": "Shirley Rd to Praem Pl - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65536069869995,
+          -43.50649551889706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Godley Quay",
+        "Status": "Caution",
+        "Description": "Te Ana Marina - Minor flooding, signs installed",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71033525466916,
+          -43.605613653828605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Maces Rd",
+        "Status": "Caution",
+        "Description": "201 Maces Rd to Ruru Rd - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.69503593444824,
+            -43.53379492610675
+          ],
+          [
+            172.69543826580048,
+            -43.53295488920411
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Maces Rd",
+        "Status": "Caution",
+        "Description": "201 Maces Rd to Ruru Rd - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6952102780342,
+          -43.533423522345174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Pages Rd",
+        "Status": "Caution",
+        "Description": "Intersection with Anzac Dr - surface flooding left turn bay into Anzac Dr from Pages coned off.",
+        "Begin": "",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.7153804898262,
+            -43.51162725631882
+          ],
+          [
+            172.7174672484398,
+            -43.51075773181691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Pages Rd",
+        "Status": "Caution",
+        "Description": "Intersection with Anzac Dr - surface flooding left turn bay into Anzac Dr from Pages coned off.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7161905169487,
+          -43.511284894699166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Waterford Ave",
+        "Status": "Caution",
+        "Description": "Beechwood Dr to Redfern St - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.61574447155,
+            -43.4593284800463
+          ],
+          [
+            172.61554598808289,
+            -43.45960494145702
+          ],
+          [
+            172.6154762506485,
+            -43.45962441052281
+          ],
+          [
+            172.61536359786987,
+            -43.45962441052281
+          ],
+          [
+            172.6151382923126,
+            -43.45965945482543
+          ],
+          [
+            172.61499345302582,
+            -43.459741224785866
+          ],
+          [
+            172.61492908000946,
+            -43.459842463631304
+          ],
+          [
+            172.61493444442746,
+            -43.45997874642477
+          ],
+          [
+            172.6150417327881,
+            -43.46016954181956
+          ],
+          [
+            172.61515974998474,
+            -43.46023573599951
+          ],
+          [
+            172.61525094509125,
+            -43.46028635502941
+          ],
+          [
+            172.61539578437805,
+            -43.460336974016926
+          ],
+          [
+            172.61547088623047,
+            -43.460375911670795
+          ],
+          [
+            172.61554598808289,
+            -43.46046936193776
+          ],
+          [
+            172.61559963226318,
+            -43.46063679330486
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Waterford Ave",
+        "Status": "Caution",
+        "Description": "Beechwood Dr to Redfern St - Flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61494785547256,
+          -43.459801578733355
         ]
       }
     }
