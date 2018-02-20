@@ -350,58 +350,40 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Richardson Tce",
-        "Status": "Road Closed",
-        "Description": "From Brougham St to Sullivan Ave",
-        "Begin": "1.02pm",
-        "Comments": "May open at 2pm",
-        "Draft": ""
+        "Location": "Clarendon Tce",
+        "Status": "Residents Only",
+        "Description": "From Opawa Rd to Marshall Rd",
+        "Begin": "2.30pm",
+        "End": " ",
+        "Comments": " ",
+        "Draft": " "
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            172.66746282577515,
-            -43.55278208252351
+            172.66688883304596,
+            -43.55405338232453
           ],
           [
-            172.67014503479004,
-            -43.55239718830418
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": "Aynsley Tce",
-        "Status": "Road Closed",
-        "Description": "Opawa Rd to Grange St ",
-        "Begin": "1.27pm",
-        "Comments": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.66718387603757,
-            -43.55429442085254
+            172.66694247722623,
+            -43.55364128196281
           ],
           [
-            172.6673984527588,
-            -43.555196362919965
+            172.66797244548798,
+            -43.55287538984285
           ],
           [
-            172.66740918159485,
-            -43.55598166355375
+            172.66835868358612,
+            -43.55282873620124
           ],
           [
-            172.6667010784149,
-            -43.55672030332466
+            172.66917943954468,
+            -43.55298036040444
           ],
           [
-            172.66599297523499,
-            -43.558080931832876
+            172.66991436481476,
+            -43.552887053247616
           ]
         ]
       }
