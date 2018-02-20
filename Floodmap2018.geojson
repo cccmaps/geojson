@@ -351,9 +351,9 @@
       "type": "Feature",
       "properties": {
         "Location": "Clarendon Tce",
-        "Status": "Residents Only",
-        "Description": "From Opawa Rd to Marshall Rd",
-        "Begin": "2.30pm",
+        "Status": "Road closed",
+        "Description": "Under Brougham St bridge",
+        "Begin": " ",
         "End": " ",
         "Comments": " ",
         "Draft": " "
@@ -362,28 +362,74 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.66688883304596,
-            -43.55405338232453
+            172.66793489456177,
+            -43.55289871665012
           ],
           [
-            172.66694247722623,
-            -43.55364128196281
+            172.66713559627533,
+            -43.55353631255243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Clarendon Tce",
+        "Status": "Residents only ",
+        "Description": "Opawa Rd end",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66709804534912,
+            -43.55356741461901
           ],
           [
-            172.66797244548798,
-            -43.55287538984285
+            172.66685664653778,
+            -43.55381428670315
           ],
           [
-            172.66835868358612,
-            -43.55282873620124
+            172.66688615083694,
+            -43.55404949459843
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Clarendon Tce",
+        "Status": "Residents only",
+        "Description": "Marshal St end",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": " "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66988486051557,
+            -43.55289288494915
           ],
           [
-            172.66917943954468,
-            -43.55298036040444
+            172.66912579536438,
+            -43.552982304302006
           ],
           [
-            172.66991436481476,
-            -43.552887053247616
+            172.66838818788528,
+            -43.55283262400609
+          ],
+          [
+            172.6679590344429,
+            -43.5528909410487
           ]
         ]
       }
