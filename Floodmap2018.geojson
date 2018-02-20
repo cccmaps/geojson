@@ -614,6 +614,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Clarendon Tce",
+        "Status": "Road closed",
+        "Description": "Under Brougham St bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66755938529968,
+          -43.55322917878304
+        ]
+      }
     }
   ]
 }
