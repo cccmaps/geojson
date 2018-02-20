@@ -458,6 +458,53 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Status": "Caution",
+        "Location": "Ford Rd",
+        "Description": "Opawa to Louisson Pl Flooding signs erected as carriageway has flooded. Road open.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66631484031677,
+            -43.55405338232453
+          ],
+          [
+            172.6666259765625,
+            -43.554589886120034
+          ],
+          [
+            172.6662182807922,
+            -43.555134160452155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Birdwood Ave",
+        "Status": "Caution",
+        "Description": "Wiamea Tce to Eastern Tce. Flooding at the intersection of Birdwood and Eastern Tce. Flooding signs up road open.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6423653960228,
+          -43.57045540932404
+        ]
+      }
     }
   ]
 }
