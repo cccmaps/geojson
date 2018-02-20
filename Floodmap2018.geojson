@@ -1684,7 +1684,7 @@
       "properties": {
         "Location": "Avonside Dr",
         "Status": "Caution",
-        "Description": "Woodham Rd to Cowlishaw St",
+        "Description": "Woodham Rd to Cowlishaw St - Flooding",
         "Begin": " ",
         "End": " ",
         "Comments": " ",
@@ -1721,7 +1721,7 @@
       "properties": {
         "Location": "Avonside Dr",
         "Status": "Caution",
-        "Description": "Woodham Rd to Cowlishaw St",
+        "Description": "Woodham Rd to Cowlishaw St - Flooding",
         "Begin": " ",
         "End": " ",
         "Comments": " ",
@@ -1740,7 +1740,7 @@
       "properties": {
         "Location": "New Brighton Rd",
         "Status": "Caution",
-        "Description": "Bassett St to ANZAC Dr"
+        "Description": "Bassett St to ANZAC Dr - Flooding"
       },
       "geometry": {
         "type": "LineString",
@@ -1765,7 +1765,7 @@
       "properties": {
         "Location": "New Brighton Rd",
         "Status": "Caution",
-        "Description": "Bassett St to ANZAC Dr"
+        "Description": "Bassett St to ANZAC Dr - Flooding"
       },
       "geometry": {
         "type": "Point",
@@ -1780,7 +1780,7 @@
       "properties": {
         "Location": "Birmingham Rd",
         "Status": "Caution",
-        "Description": "Annex Rd to Wrights Rd"
+        "Description": "Annex Rd to Wrights Rd - Flooding"
       },
       "geometry": {
         "type": "LineString",
@@ -1821,7 +1821,7 @@
       "properties": {
         "Location": "Birmingham Rd ",
         "Status": "Caution",
-        "Description": "Annex Rd to Wrights Rd"
+        "Description": "Annex Rd to Wrights Rd - Flooding"
       },
       "geometry": {
         "type": "Point",
@@ -1836,7 +1836,7 @@
       "properties": {
         "Location": "Hunter Tce",
         "Status": "Caution",
-        "Description": "Colombo St to Malcolm Ave"
+        "Description": "Colombo St to Malcolm Ave - Flooding"
       },
       "geometry": {
         "type": "LineString",
@@ -1893,7 +1893,7 @@
       "properties": {
         "Location": "Hunter Tce",
         "Status": "Caution",
-        "Description": "Colombo St to Malcolm Ave"
+        "Description": "Colombo St to Malcolm Ave - Flooding"
       },
       "geometry": {
         "type": "Point",
@@ -1908,7 +1908,7 @@
       "properties": {
         "Location": "Richardson Tce",
         "Status": "Caution",
-        "Description": "Opawa rd to Ferry Rd"
+        "Description": "Opawa rd to Ferry Rd - Flooding"
       },
       "geometry": {
         "type": "LineString",
@@ -1977,13 +1977,28 @@
       "properties": {
         "Location": "Richardson Tce",
         "Status": "Caution",
-        "Description": "Opawa Rd to Ferry Rd"
+        "Description": "Opawa Rd to Ferry Rd - Flooding"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.6729667186737,
           -43.55024329043806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Dyers Rd",
+        "Status": "Caution",
+        "Description": "North of Linwood Ave intersection - Flooding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69599080085752,
+          -43.54588082825822
         ]
       }
     }
