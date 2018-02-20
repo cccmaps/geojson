@@ -1497,80 +1497,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Avonside Dr",
-        "Status": "Caution",
-        "Description": "Wainoni Rd to Avon Park - Flooding signs out",
-        "Begin": " ",
-        "End": " ",
-        "Comments": " "
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.68669962882996,
-            -43.5169841846134
-          ],
-          [
-            172.6864743232727,
-            -43.516859700754445
-          ],
-          [
-            172.6852512359619,
-            -43.51710866821555
-          ],
-          [
-            172.6844036579132,
-            -43.51720981095319
-          ],
-          [
-            172.68367409706116,
-            -43.5173109535213
-          ],
-          [
-            172.6813566684723,
-            -43.51785556443541
-          ],
-          [
-            172.68038034439087,
-            -43.517948925812846
-          ],
-          [
-            172.67815947532654,
-            -43.51796448602837
-          ],
-          [
-            172.67754793167114,
-            -43.51797226613463
-          ],
-          [
-            172.67717242240906,
-            -43.51804228704582
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": "Avonside Dr",
-        "Status": "Caution",
-        "Description": "Wainoni Rd to Avon Park - Flooding signs out",
-        "Begin": " ",
-        "End": " ",
-        "Comments": " "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6814103126526,
-          -43.51785556443541
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Location": "Northwood Blvd",
         "Status": "Caution",
         "Description": "O'Neill Ave roundabout - Flooding signs out",
@@ -1999,6 +1925,61 @@
         "coordinates": [
           172.69599080085752,
           -43.54588082825822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Avonside Dr",
+        "Status": "Road closed",
+        "Description": "Between Torlesse St and Wainoni Rd - Tidal flooding"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6864743232727,
+            -43.51687526125086
+          ],
+          [
+            172.6814103126526,
+            -43.51785556443541
+          ],
+          [
+            172.6774191856384,
+            -43.51801116665087
+          ],
+          [
+            172.6768183708191,
+            -43.51813564813435
+          ],
+          [
+            172.6764965057373,
+            -43.518477970889705
+          ],
+          [
+            172.6757025718689,
+            -43.520500747526306
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Avonside Dr",
+        "Status": "Road closed",
+        "Description": "Between Torlesse St and Wainoni Rd",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.68101334571838,
+          -43.51787112467502
         ]
       }
     }
