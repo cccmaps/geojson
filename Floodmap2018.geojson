@@ -1774,6 +1774,62 @@
           -43.50101703418511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Birmingham Rd",
+        "Status": "Caution",
+        "Description": "Annex Rd to Wrights Rd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.59457111358643,
+            -43.54425551652643
+          ],
+          [
+            172.59345531463623,
+            -43.54487765059555
+          ],
+          [
+            172.59238243103027,
+            -43.54486209732207
+          ],
+          [
+            172.58944272994995,
+            -43.54347783991115
+          ],
+          [
+            172.58845567703247,
+            -43.54336896438444
+          ],
+          [
+            172.58461475372314,
+            -43.54358671524121
+          ],
+          [
+            172.5835418701172,
+            -43.54385112593849
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Birmingham Rd ",
+        "Status": "Caution",
+        "Description": "Annex Rd to Wrights Rd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.58959293365476,
+          -43.54355560802412
+        ]
+      }
     }
   ]
 }
