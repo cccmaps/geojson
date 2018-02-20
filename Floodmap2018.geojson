@@ -346,6 +346,30 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Richardson Tce",
+        "Status": "Road Closed",
+        "Description": "From Brougham St to Sullivan Ave",
+        "Begin": "1.02pm",
+        "Comments": "May open at 2pm",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66746282577515,
+            -43.55278208252351
+          ],
+          [
+            172.67014503479004,
+            -43.55239718830418
+          ]
+        ]
+      }
     }
   ]
 }
