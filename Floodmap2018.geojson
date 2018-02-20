@@ -1638,7 +1638,8 @@
       "properties": {
         "Location": "New Brighton Rd",
         "Status": "Road closed",
-        "Description": "Pages Rd to Baker St"
+        "Description": "Pages Rd to Baker St",
+        "Draft": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1667,13 +1668,70 @@
       "properties": {
         "Location": "New Brighton Rd",
         "Status": "Road closed",
-        "Description": "Pages Rd to Baker St"
+        "Description": "Pages Rd to Baker St",
+        "Draft": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.7203533053398,
           -43.508129629713174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Avonside Dr",
+        "Status": "Caution",
+        "Description": "Woodham Rd to Cowlishaw St",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.66043543815613,
+            -43.52279573889608
+          ],
+          [
+            172.66077876091,
+            -43.52375260781431
+          ],
+          [
+            172.66115427017212,
+            -43.524561655871196
+          ],
+          [
+            172.6609718799591,
+            -43.52488060452707
+          ],
+          [
+            172.66082167625424,
+            -43.525098422152254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Avonside Dr",
+        "Status": "Caution",
+        "Description": "Woodham Rd to Cowlishaw St",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66087532043457,
+          -43.523912084491805
         ]
       }
     }
