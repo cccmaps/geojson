@@ -433,6 +433,31 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Pages Rd",
+        "Status": "Caution",
+        "Description": "Anzac Dr to Bexley Rd flooding signs out",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.71652579307556,
+            -43.511172070558146
+          ],
+          [
+            172.71749138832092,
+            -43.51075189603968
+          ]
+        ]
+      }
     }
   ]
 }
