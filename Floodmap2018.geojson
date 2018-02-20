@@ -581,6 +581,39 @@
           -43.545095396002885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cuthberts Rd",
+        "Status": "Caution",
+        "Description": "Senior Place to 73 Cuthberts Rd. Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.69660234451294,
+            -43.53090919484173
+          ],
+          [
+            172.69731044769287,
+            -43.53062917044242
+          ],
+          [
+            172.69932746887207,
+            -43.52861451213424
+          ],
+          [
+            172.70353317260742,
+            -43.5259385684821
+          ]
+        ]
+      }
     }
   ]
 }
