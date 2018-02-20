@@ -1734,6 +1734,46 @@
           -43.523912084491805
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton Rd",
+        "Status": "Caution",
+        "Description": "Bassett St to ANZAC Dr"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.68819093704224,
+            -43.500207670432246
+          ],
+          [
+            172.69121646881104,
+            -43.50120380889496
+          ],
+          [
+            172.70044326782227,
+            -43.50041001238763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton Rd",
+        "Status": "Caution",
+        "Description": "Bassett St to ANZAC Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69373774528503,
+          -43.50101703418511
+        ]
+      }
     }
   ]
 }
