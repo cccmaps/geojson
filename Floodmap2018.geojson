@@ -1632,6 +1632,50 @@
           -43.51012551933611
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton Rd",
+        "Status": "Road closed",
+        "Description": "Pages Rd to Baker St"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.7186930179596,
+            -43.50748377215387
+          ],
+          [
+            172.72008776664734,
+            -43.50798956480523
+          ],
+          [
+            172.72090315818787,
+            -43.5085109158715
+          ],
+          [
+            172.72151470184326,
+            -43.50892332471898
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton Rd",
+        "Status": "Road closed",
+        "Description": "Pages Rd to Baker St"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7203533053398,
+          -43.508129629713174
+        ]
+      }
     }
   ]
 }
