@@ -505,6 +505,82 @@
           -43.57045540932404
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Empire Rd",
+        "Status": "Caution",
+        "Description": "At intersection with Main North Rd. Flooding signs out.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65268921852112,
+          -43.41771247167711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Kirk Rd",
+        "Status": "Caution",
+        "Description": "Mahoe St intersection. Flooding in carriageway. Flooding signs are up as water is on road.",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.47307777404785,
+          -43.552887053247616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "McLeans Island Rd",
+        "Status": "Caution",
+        "Description": "Flooding signs outside Orana Park",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.46337890624997,
+          -43.46654721283238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Shands Rd",
+        "Status": "Caution",
+        "Description": "Amyes Rd intersection. Flooding signs up. At intersection outside the Hells Pizza",
+        "Begin": " ",
+        "End": " ",
+        "Comments": " ",
+        "Draft": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.52498388290405,
+          -43.545095396002885
+        ]
+      }
     }
   ]
 }
