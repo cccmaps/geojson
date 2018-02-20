@@ -629,6 +629,81 @@
           -43.55322917878304
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cuthberts Rd",
+        "Status": "Caution",
+        "Description": "Senior Place to 73 Cuthberts Rd. Flooding signs out."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69967079162598,
+          -43.52837337091624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Pages Rd",
+        "Status": "Caution",
+        "Description": "Anzac Dr to Bexley Rd flooding signs out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71700590848923,
+          -43.51094642164335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Clarendon Tce",
+        "Status": "Residents only",
+        "Description": "Opawa Rd end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66685396432877,
+          -43.55380651121986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Clarendon Tce",
+        "Status": "Residents only",
+        "Description": "Marshal St end"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66895413398743,
+          -43.55295120193346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Ford Rd",
+        "Status": "Caution",
+        "Description": "Opawa to Louisson Pl Flooding signs erected as carriageway has flooded. Road open."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.666540145874,
+          -43.55467347142625
+        ]
+      }
     }
   ]
 }
