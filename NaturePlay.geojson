@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.617488,
-          -43.530558
+          172.57915,
+          -43.599075
         ]
       },
       "properties": {
@@ -21,14 +21,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.621118,
-          -43.529843
+          172.574181,
+          -43.598314
         ]
       },
       "properties": {
         "Park": "Halswell Quarry: Canterbury Wetland",
         "How to get there": "The entrance to the main car park is 1km down Kennedys Bush Road, Halswell - take the 100 bus and get off on Glovers Road",
-        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/halswell-nature-play-2.jpg"
+        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/20180208-112822copy.jpg"
       }
     },
     {
@@ -36,8 +36,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.620958,
-          -43.529631
+          172.749494,
+          -43.559882
         ]
       },
       "properties": {
@@ -51,14 +51,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.620729,
-          -43.529712
+          172.546463,
+          -43.574951
         ]
       },
       "properties": {
         "Park": "Caulfield Drainage Reserve",
         "How to get there": "Beside Greenaway Park, Greenaway Street, Halswell - take the Orbitor bus to Greenway Park",
-        "PhotoURL": "/admin/assets/EditForm/field/File/item/34706/edit?Locale=en_NZ"
+        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/Caulfield-Drainage-Reserve-play.jpg"
       }
     },
     {
@@ -66,14 +66,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.621137,
-          -43.529453
+          172.616704,
+          -43.575191
         ]
       },
       "properties": {
         "Park": "Worsleys Reserve",
         "How to get there": "Worsleys Road, Cashmere - take the 145 bus to Cashmere Road near Marvin Road",
-        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/Worsleys.jpg"
+        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/DSCF2927.jpg"
       }
     },
     {
@@ -81,8 +81,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.618525,
-          -43.529814
+          172.613915,
+          -43.578885
         ]
       },
       "properties": {
@@ -96,8 +96,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.626913,
-          -43.531455
+          172.608496,
+          -43.58141
         ]
       },
       "properties": {
@@ -111,14 +111,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.620061,
-          -43.530593
+          172.662427,
+          -43.572476
         ]
       },
       "properties": {
         "Park": "Mt Vernon Farm Park",
         "How to get there": "Hillsborough Terrace, Hillsborough - take the 145 bus to Hillsborough Terrace",
-        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/mt-vernon1-copy.jpg"
+        "PhotoURL": "/assets/Images/Parks-gardens/Playgrounds/mt-vernon1resize.jpg"
       }
     },
     {
@@ -126,8 +126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.623061,
-          -43.53307
+          172.703496,
+          -43.567682
         ]
       },
       "properties": {
