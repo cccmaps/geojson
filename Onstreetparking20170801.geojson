@@ -492,13 +492,13 @@
         "RestrictedByUse": "Coach and Shuttle Stop",
         "RestrictedByUseCode": "CSS",
         "RestrictedByDurationCode": "N/A",
-        "RestrictedByDurationDescription": "Pick up and drop off only",
+        "RestrictedByDurationDescription": "Not applicable",
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20120501",
         "Geometry_XLO": 1569900.4552327453,
         "Geometry_YLO": 5180163.567862156,
@@ -2540,269 +2540,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.63277604725536,
-            -43.53537397166604,
-            0
-          ],
-          [
-            172.6328251889372,
-            -43.53537390522642,
-            0
-          ],
-          [
-            172.6328289697314,
-            -43.535373899365865,
-            0
-          ],
-          [
-            172.63282897641474,
-            -43.535373899355896,
-            0
-          ],
-          [
-            172.6328720764478,
-            -43.53537383800786,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4883,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20120508",
-        "Geometry_XLO": 1570329.353584234,
-        "Geometry_YLO": 5179664.548515381,
-        "Geometry_XHI": 1570337.1124087854,
-        "Geometry_YHI": 5179664.597608608
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63175992675355,
-            -43.535375404115165,
-            0
-          ],
-          [
-            172.63186064838138,
-            -43.53537526474061,
-            0
-          ],
-          [
-            172.63197486458157,
-            -43.535375098647364,
-            0
-          ],
-          [
-            172.6319748739713,
-            -43.53537509863453,
-            0
-          ],
-          [
-            172.63202126387705,
-            -43.53537503968006,
-            0
-          ],
-          [
-            172.6320852674832,
-            -43.53537494632932,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4887,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20120508",
-        "Geometry_XLO": 1570247.2545947086,
-        "Geometry_YLO": 5179664.02647578,
-        "Geometry_XHI": 1570273.5409900323,
-        "Geometry_YHI": 5179664.193636276
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63166243451485,
-            -43.53537553919444,
-            0
-          ],
-          [
-            172.63157580327535,
-            -43.535375659914166,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4892,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20120508",
-        "Geometry_XLO": 1570232.3780589106,
-        "Geometry_YLO": 5179663.932191665,
-        "Geometry_XHI": 1570239.3775611606,
-        "Geometry_YHI": 5179663.976597533
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63224210216163,
-            -43.53537472261001,
-            0
-          ],
-          [
-            172.6321752446406,
-            -43.535374816295615,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4893,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20120508",
-        "Geometry_XLO": 1570280.8108286539,
-        "Geometry_YLO": 5179664.240229123,
-        "Geometry_XHI": 1570286.2126832376,
-        "Geometry_YHI": 5179664.274518782
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6326061462039,
-            -43.53537420763883,
-            0
-          ],
-          [
-            172.63235067489202,
-            -43.535374569527725,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4910,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20120508",
-        "Geometry_XLO": 1570294.9849808495,
-        "Geometry_YLO": 5179664.330298596,
-        "Geometry_XHI": 1570315.6261703845,
-        "Geometry_YHI": 5179664.461690489
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6318771890078,
-            -43.53465475000929,
-            0
-          ],
-          [
-            172.6318175505892,
-            -43.53469144100055,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 4951,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P60",
-        "RestrictedByDurationDescription": "60 minutes maximum",
-        "RestrictedByDuration": 60,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm",
-        "ObservationDate": "20120621",
-        "Geometry_XLO": 1570251.5742188399,
-        "Geometry_YLO": 5179740.007240842,
-        "Geometry_XHI": 1570256.374857172,
-        "Geometry_YHI": 5179744.103426691
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.6317090458404,
             -43.53475819134831,
             0
@@ -2841,37 +2578,42 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.63121990609247,
+            172.6312199060926,
             -43.53497113892362,
             0
           ],
           [
-            172.6312737212628,
-            -43.53495710077505,
+            172.63127372126294,
+            -43.53495710077504,
             0
           ],
           [
-            172.6313626772137,
+            172.63130866415761,
+            -43.534947233062745,
+            0
+          ],
+          [
+            172.63136267721384,
             -43.534931979997346,
             0
           ],
           [
-            172.6314283619884,
-            -43.534911963344896,
+            172.63142836198858,
+            -43.5349119633449,
             0
           ],
           [
-            172.63150317420178,
+            172.63150317420195,
             -43.534883677931965,
             0
           ],
           [
-            172.6315618433261,
+            172.63156184332624,
             -43.53484875241658,
             0
           ],
           [
-            172.6315885816229,
+            172.63158858162308,
             -43.53483230165673,
             0
           ]
@@ -2892,9 +2634,9 @@
         "ParkingHourlyRate": "$3.10",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm",
         "ObservationDate": "20120621",
-        "Geometry_XLO": 1570203.4233863666,
+        "Geometry_XLO": 1570203.423386379,
         "Geometry_YLO": 5179708.730402337,
-        "Geometry_XHI": 1570233.1432447762,
+        "Geometry_XHI": 1570233.1432447885,
         "Geometry_YHI": 5179724.281507247
       }
     },
@@ -2904,23 +2646,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.63084497437058,
+            172.63084497437086,
             -43.534996582319486,
             0
           ],
           [
-            172.63085236217145,
+            172.63085236217177,
             -43.53499657043478,
             0
           ],
           [
-            172.63104094466135,
+            172.63104094466166,
             -43.534996266901175,
             0
           ],
           [
-            172.63105614166872,
-            -43.534996241506434,
+            172.63104719556142,
+            -43.534995978105485,
+            0
+          ],
+          [
+            172.63106557333813,
+            -43.53499512903805,
             0
           ]
         ]
@@ -2940,10 +2687,10 @@
         "ParkingHourlyRate": "$3.10",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri 9am-8.30pm",
         "ObservationDate": "20120621",
-        "Geometry_XLO": 1570173.142290697,
+        "Geometry_XLO": 1570173.1422907216,
         "Geometry_YLO": 5179705.770314397,
-        "Geometry_XHI": 1570190.2039562715,
-        "Geometry_YHI": 5179705.883862846
+        "Geometry_XHI": 1570190.9654655561,
+        "Geometry_YHI": 5179706.010792307
       }
     },
     {
@@ -5853,9 +5600,9 @@
         "RestrictedByDuration": 30,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20120928",
         "Geometry_XLO": 1570170.2769326866,
         "Geometry_YLO": 5180266.31717945,
@@ -8529,9 +8276,9 @@
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20120904",
         "Geometry_XLO": 1570650.2715923174,
         "Geometry_YLO": 5179351.966608729,
@@ -11089,28 +10836,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6385974904254,
-            -43.52870026549279,
+            172.63859749042555,
+            -43.52870026549281,
             0
           ],
           [
-            172.63850622391936,
-            -43.52870041107863,
+            172.6385062239195,
+            -43.52870041107866,
             0
           ],
           [
-            172.6384814752975,
-            -43.52870045054435,
+            172.63848147529765,
+            -43.52870045054436,
             0
           ],
           [
-            172.6379529834838,
+            172.63795298348396,
             -43.5287012921421,
             0
           ],
           [
-            172.63742449162473,
-            -43.528702131314084,
+            172.63750477210505,
+            -43.528702003997154,
             0
           ]
         ]
@@ -11130,10 +10877,10 @@
         "ParkingHourlyRate": "$3.10",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri-Sun 9am-8.30pm",
         "ObservationDate": "20130625",
-        "Geometry_XLO": 1570701.7052823326,
-        "Geometry_YLO": 5180407.162616785,
-        "Geometry_XHI": 1570796.4898490275,
-        "Geometry_YHI": 5180407.782273351
+        "Geometry_XLO": 1570708.1923738436,
+        "Geometry_YLO": 5180407.205026653,
+        "Geometry_XHI": 1570796.4898490398,
+        "Geometry_YHI": 5180407.782273349
       }
     },
     {
@@ -11493,18 +11240,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6369449671227,
-            -43.528702890151564,
+            172.63694496712284,
+            -43.52870289015157,
             0
           ],
           [
-            172.63718460567497,
+            172.63718460567512,
             -43.52870251098169,
             0
           ],
           [
-            172.63742424421795,
-            -43.52870213131305,
+            172.6374266635288,
+            -43.5287021276737,
             0
           ]
         ]
@@ -11524,10 +11271,10 @@
         "ParkingHourlyRate": "$3.10",
         "MeterHoursOfOperation": "Mon-Thurs 9am-5pm Fri-Sun 9am-8.30pm",
         "ObservationDate": "20131031",
-        "Geometry_XLO": 1570662.9571415896,
-        "Geometry_YLO": 5180406.909349672,
-        "Geometry_XHI": 1570701.6852903515,
-        "Geometry_YHI": 5180407.162529768
+        "Geometry_XLO": 1570662.957141602,
+        "Geometry_YLO": 5180406.90934967,
+        "Geometry_XHI": 1570701.880783683,
+        "Geometry_YHI": 5180407.163785985
       }
     },
     {
@@ -15899,82 +15646,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6308498108124,
-            -43.53537667700816,
-            0
-          ],
-          [
-            172.63100500765606,
-            -43.535376461637476,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 18356,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20151103",
-        "Geometry_XLO": 1570173.7204015425,
-        "Geometry_YLO": 5179663.559169168,
-        "Geometry_XHI": 1570186.259765757,
-        "Geometry_YHI": 5179663.638725667
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63109474615254,
-            -43.53537633546514,
-            0
-          ],
-          [
-            172.63147383631411,
-            -43.535375801928815,
-            0
-          ]
-        ]
-      },
-      "properties": {
-        "ParkingZoneID": 18357,
-        "drvParkingSpaces": null,
-        "Configuration": "Parallel",
-        "RestrictedByUse": "No restriction",
-        "RestrictedByUseCode": "None",
-        "RestrictedByDurationCode": "P120",
-        "RestrictedByDurationDescription": "120 minutes maximum",
-        "RestrictedByDuration": 120,
-        "Revenue": "Metered",
-        "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "$3.10",
-        "MeterHoursOfOperation": "Mon-Fri 9am-5pm",
-        "ObservationDate": "20151103",
-        "Geometry_XLO": 1570193.5103228225,
-        "Geometry_YLO": 5179663.684898572,
-        "Geometry_XHI": 1570224.1394837783,
-        "Geometry_YHI": 5179663.879923954
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.63955434576914,
             -43.53048051895442,
             0
@@ -17746,9 +17417,9 @@
         "RestrictedByDuration": 30,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": null,
         "Geometry_XLO": 1571115.9403030444,
         "Geometry_YLO": 5180533.991223008,
@@ -19288,13 +18959,13 @@
         "RestrictedByUse": "Coach and Shuttle Stop",
         "RestrictedByUseCode": "CSS",
         "RestrictedByDurationCode": "N/A",
-        "RestrictedByDurationDescription": "Pick up and drop off only",
+        "RestrictedByDurationDescription": "Not applicable",
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20171005",
         "Geometry_XLO": 1569901.0076079182,
         "Geometry_YLO": 5180072.864884278,
@@ -19338,8 +19009,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.64211390536866,
-          -43.53160507437358,
+          172.6421138967882,
+          -43.53160254282365,
           0
         ]
       },
@@ -19354,14 +19025,14 @@
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20171005",
-        "Geometry_XLO": 1571081.8607451671,
-        "Geometry_YLO": 5180062.059890133,
-        "Geometry_XHI": 1571082.190323649,
-        "Geometry_YHI": 5180110.752604968
+        "Geometry_XLO": 1571081.888786051,
+        "Geometry_YLO": 5180066.765004164,
+        "Geometry_XHI": 1571082.1584769823,
+        "Geometry_YHI": 5180106.609786636
       }
     },
     {
@@ -19385,9 +19056,9 @@
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20171005",
         "Geometry_XLO": 1571217.4090661993,
         "Geometry_YLO": 5179926.43589464,
@@ -19568,9 +19239,9 @@
         "RestrictedByDuration": 30,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20171011",
         "Geometry_XLO": 1570216.0188316,
         "Geometry_YLO": 5179919.256242883,
@@ -19614,7 +19285,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.62660138860855,
+          172.62660138860875,
           -43.53980204205327,
           0
         ]
@@ -19634,10 +19305,10 @@
         "ParkingHourlyRate": "Not applicable",
         "MeterHoursOfOperation": "Not applicable",
         "ObservationDate": "20171011",
-        "Geometry_XLO": 1569805.6656340724,
+        "Geometry_XLO": 1569805.6656340847,
         "Geometry_YLO": 5179170.362532871,
-        "Geometry_XHI": 1569859.6665933419,
-        "Geometry_YHI": 5179170.73918148
+        "Geometry_XHI": 1569859.6665933563,
+        "Geometry_YHI": 5179170.739181479
       }
     },
     {
@@ -19661,9 +19332,9 @@
         "RestrictedByDuration": null,
         "Revenue": "Not applicable",
         "RestrictedByTimeOfDay": "Not applicable",
-        "ParkingDailyRate": "Not applicable",
-        "ParkingHourlyRate": "Not applicable",
-        "MeterHoursOfOperation": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
         "ObservationDate": "20171013",
         "Geometry_XLO": 1570999.388908727,
         "Geometry_YLO": 5180274.093540773,
@@ -19807,6 +19478,254 @@
         "Geometry_YLO": 5179838.679010506,
         "Geometry_XHI": 1569481.4633531582,
         "Geometry_YHI": 5179856.06331608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62661283929737,
+          -43.53980202141584,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19957,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Coach and Shuttle Stop",
+        "RestrictedByUseCode": "CSS",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180130",
+        "Geometry_XLO": 1569807.5158453968,
+        "Geometry_YLO": 5179170.375418149,
+        "Geometry_XHI": 1569859.6665933342,
+        "Geometry_YHI": 5179170.739186405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64168127289247,
+          -43.528517891443705,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19967,
+        "drvParkingSpaces": null,
+        "Configuration": "Angled",
+        "RestrictedByUse": "Disabled parking",
+        "RestrictedByUseCode": "DP",
+        "RestrictedByDurationCode": "P120",
+        "RestrictedByDurationDescription": "120 minutes maximum",
+        "RestrictedByDuration": 120,
+        "Revenue": "Not metered",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180201",
+        "Geometry_XLO": 1571045.5209739022,
+        "Geometry_YLO": 5180424.066968067,
+        "Geometry_XHI": 1571045.6611696042,
+        "Geometry_YHI": 5180434.161875016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63716653088923,
+          -43.528827910042544,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19977,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "P5",
+        "RestrictedByDurationDescription": "5 minutes maximum",
+        "RestrictedByDuration": 5,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180212",
+        "Geometry_XLO": 1570673.9295092141,
+        "Geometry_YLO": 5180393.060931682,
+        "Geometry_XHI": 1570687.913298636,
+        "Geometry_YHI": 5180393.144889228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64243266453508,
+          -43.53796081888304,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 19992,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180219",
+        "Geometry_XLO": 1571103.784265473,
+        "Geometry_YLO": 5179380.597835335,
+        "Geometry_XHI": 1571117.8481910694,
+        "Geometry_YHI": 5179380.713009281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64073290057755,
+          -43.537300821508076,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 20002,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180219",
+        "Geometry_XLO": 1570970.6059364781,
+        "Geometry_YLO": 5179453.320654569,
+        "Geometry_XHI": 1570975.7327354825,
+        "Geometry_YHI": 5179453.403803178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64182172458558,
+          -43.537298381391494,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 20003,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Motorcycle parking",
+        "RestrictedByUseCode": "MC",
+        "RestrictedByDurationCode": "N/A",
+        "RestrictedByDurationDescription": "Not applicable",
+        "RestrictedByDuration": null,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180219",
+        "Geometry_XLO": 1571058.8751090134,
+        "Geometry_YLO": 5179454.002217386,
+        "Geometry_XHI": 1571063.4034845843,
+        "Geometry_YHI": 5179454.02302436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6392444471101,
+          -43.53698526743582,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 20017,
+        "drvParkingSpaces": null,
+        "Configuration": "Not applicable",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "P5",
+        "RestrictedByDurationDescription": "5 minutes maximum",
+        "RestrictedByDuration": 5,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not applicable",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180220",
+        "Geometry_XLO": 1570849.076187853,
+        "Geometry_YLO": 5179487.863201458,
+        "Geometry_XHI": 1570856.4404100091,
+        "Geometry_YHI": 5179487.910407359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6439386583795,
+          -43.53087057598997,
+          0
+        ]
+      },
+      "properties": {
+        "ParkingZoneID": 20024,
+        "drvParkingSpaces": null,
+        "Configuration": "Parallel",
+        "RestrictedByUse": "Loading bay",
+        "RestrictedByUseCode": "L",
+        "RestrictedByDurationCode": "P5",
+        "RestrictedByDurationDescription": "5 minutes maximum",
+        "RestrictedByDuration": 5,
+        "Revenue": "Not applicable",
+        "RestrictedByTimeOfDay": "Not restricted",
+        "ParkingDailyRate": null,
+        "ParkingHourlyRate": null,
+        "MeterHoursOfOperation": null,
+        "ObservationDate": "20180220",
+        "Geometry_XLO": 1571222.4106542445,
+        "Geometry_YLO": 5180168.563835025,
+        "Geometry_XHI": 1571235.8303352632,
+        "Geometry_YHI": 5180168.659067187
       }
     }
   ]
