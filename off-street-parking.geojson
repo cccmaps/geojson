@@ -101,37 +101,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.610292,
-          -43.541658
-        ]
-      },
-      "properties": {
-        "name": "Addington car park",
-        "description": "Addington Car park",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "type": "Mobility Off-Street",
-        "address": null,
-        "spaces": 3,
-        "hourlyrate": null,
-        "alldayrate": null,
-        "timelimit": null,
-        "nightrate": null,
-        "monthly": null,
-        "metered": null,
-        "p180": null,
-        "Access": null,
-        "PleaseNote": "",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.625113,
           -43.534496
         ]
@@ -247,42 +216,10 @@
         "metered": "Yes",
         "p180": "Yes",
         "Access": "Gloucester St",
-        "PleaseNote": "Text park not available. This car park can be used by campervans during normal operating hours.",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.610352,
-          -43.541738
-        ]
-      },
-      "properties": {
-        "name": "Addington car park",
-        "description": "Addington Car park",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "null",
-        "type": "CCC Off-Street Carpark",
-        "address": "36 Clarence St South.",
-        "spaces": 265,
-        "hourlyrate": "$2 (9am-6pm Mon-Fri, 9am-1pm Sat)",
-        "alldayrate": "$4 (9am-6pm) Mon-Fri",
-        "timelimit": "N/A",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "Yes",
-        "p180": "N/A",
-        "Access": "Bernard St or Clarence St South.",
         "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
