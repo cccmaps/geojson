@@ -14,7 +14,7 @@
         "SportCode": "Tennis",
         "Address": "Woolley Street, Avondale",
         "Parkname": "Avondale Park",
-        "Type": "1 full"
+        "Type": "1 full court"
       }
     },
     {
@@ -46,7 +46,7 @@
         "SportCode": "Tennis",
         "Address": "Forgan Lane/Marsack Crescent, Halswell",
         "Parkname": "Forgan Reserve",
-        "Type": "1 full"
+        "Type": "1 full court"
       }
     },
     {
@@ -62,7 +62,7 @@
         "SportCode": "Tennis",
         "Address": "Armagh Street entrance to Hagley Park, CBD",
         "Parkname": "Hagley Park North",
-        "Type": "4 full"
+        "Type": "4 full court"
       }
     },
     {
@@ -78,7 +78,7 @@
         "SportCode": "Tennis",
         "Address": "Opawa Road, Hillsborough",
         "Parkname": "Hillsborough Park",
-        "Type": "1 full"
+        "Type": "1 full court"
       }
     },
     {
@@ -94,7 +94,7 @@
         "SportCode": "Tennis",
         "Address": "Jeffreys Road, Fendalton",
         "Parkname": "Jeffreys Reserve",
-        "Type": "1 full"
+        "Type": "1 full court"
       }
     },
     {
@@ -110,7 +110,7 @@
         "SportCode": "Tennis",
         "Address": "Rugby Street, Merivale",
         "Parkname": "Merivale Reserve",
-        "Type": "1 full"
+        "Type": "1 full court"
       }
     },
     {
@@ -126,7 +126,7 @@
         "SportCode": "Tennis",
         "Address": "Major Hornbrook Road, Mount Pleasant",
         "Parkname": "Mount Pleasant Old School Reserve",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     },
     {
@@ -142,7 +142,7 @@
         "SportCode": "Tennis",
         "Address": "Shaw Avenue, New Brighton",
         "Parkname": "Rawhiti Domain",
-        "Type": "4 Full Courts"
+        "Type": "4 full courts"
       }
     },
     {
@@ -158,7 +158,7 @@
         "SportCode": "Tennis",
         "Address": "Heyders Road, Bottle Lake",
         "Parkname": "Spencerville Reserve",
-        "Type": "1 Full Court, 2 Half Courts"
+        "Type": "1 full court and 2 half courts"
       }
     },
     {
@@ -174,7 +174,7 @@
         "SportCode": "Tennis",
         "Address": "Heyders Road, Bottle Lake",
         "Parkname": "Spencer Park",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     },
     {
@@ -190,7 +190,7 @@
         "SportCode": "Tennis",
         "Address": "Kirk Road, Templeton",
         "Parkname": "Templeton Domain",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     },
     {
@@ -206,7 +206,7 @@
         "SportCode": "Tennis",
         "Address": "Prestons Road, Parklands",
         "Parkname": "Limes Reserve",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     },
     {
@@ -222,7 +222,7 @@
         "SportCode": "Tennis",
         "Address": "Yaldhurst Road, Ilam",
         "Parkname": "Upper Riccarton Domain",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     },
     {
@@ -238,7 +238,7 @@
         "SportCode": "Tennis",
         "Address": "Richardson Terrace, Woolston",
         "Parkname": "Woolston Park",
-        "Type": "1 Full Court"
+        "Type": "1 full court"
       }
     }
   ]
