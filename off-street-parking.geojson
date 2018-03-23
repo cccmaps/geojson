@@ -61,7 +61,7 @@
         "Access": null,
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "Access": null,
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -187,7 +187,7 @@
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St.",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -219,7 +219,7 @@
         "PleaseNote": "Text park not available. This car park can be used by campervans during normal operating hours.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -251,7 +251,7 @@
         "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -271,19 +271,19 @@
         "marker-symbol": "null",
         "type": "Off-Street Motorcycle park",
         "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
-        "spaces": 4,
-        "hourlyrate": "null",
-        "alldayrate": "null",
-        "timelimit": "null",
-        "nightrate": "null",
-        "monthly": "null",
-        "metered": "null",
-        "p180": "null",
-        "Access": "null",
+        "spaces": "4 (Free)",
+        "hourlyrate": "N/A",
+        "alldayrate": "N/A",
+        "timelimit": "N/A",
+        "nightrate": "N/A",
+        "monthly": "N/A",
+        "metered": "N/A",
+        "p180": "N/A",
+        "Access": "Rolleston Ave or Worcester St",
         "PleaseNote": "",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -499,7 +499,7 @@
         "alldayrate": "$10 (max 24hr period)",
         "timelimit": "N/A",
         "Access": "Lichfield Street",
-        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height Restriction 2.4 metres.",
+        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height Restriction 2.4 metres. 10 Electric Vehicle Bays. 92 Cycle parking spaces.",
         "metered": "Yes",
         "p180": "N/A",
         "HoursOfOperation": "24 hours",
@@ -525,7 +525,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "type": "Mobility Off-Street",
-        "spaces": 24,
+        "spaces": 26,
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
         "alldayrate": "$10 (max 24hr period)",
@@ -540,6 +540,35 @@
         "monthly": "",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lichfield Street car park",
+        "description": "Lichfield Street car park",
+        "type": "Off-Street Motorcycle park",
+        "spaces": "81 (Free)",
+        "address": "33 Lichfield Street",
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "",
+        "hourlyrate": "N/A",
+        "alldayrate": "N/A",
+        "timelimit": "N/A",
+        "nightrate": "N/A",
+        "monthly": "N/A",
+        "metered": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63505101203918,
+          -43.53403993466589
+        ]
       }
     }
   ]
