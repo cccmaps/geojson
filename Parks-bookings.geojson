@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708006,
+          -43.581749
+        ]
+      },
+      "properties": {
+        "Address": "Bridle Path Road, Heathcote Valley",
+        "Features": "Sports field, playground, tennis courts, trees, open spaces",
+        "Name": "Heathcote Domain BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. Heathcote Domain BBQ is located near a bookable picnic space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739629,
+          -43.564552
+        ]
+      },
+      "properties": {
+        "Address": "Main Road, Redcliffs",
+        "Features": "Sports fields, walking tracks, playground, open spaces, trees, toilets",
+        "Name": "Barnett Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. Barnett Park BBQ is located near a bookable picnic space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651844,
+          -43.440736
+        ]
+      },
+      "properties": {
+        "Address": "Chenery Ave, Styx",
+        "Features": "Playground, open spaces, tennis courts, toilets",
+        "Name": "Ouruhia Reserve BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. Ouruhia Reserve BBQ is located near a bookable picnic space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769432,
+          -43.573663
+        ]
+      },
+      "properties": {
+        "Address": "Heberden Ave, Sumner",
+        "Features": "Playground, paddling pool, Sumner beach, toilets, trees, walkways, cafes",
+        "Name": "Scarborough Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. Scarborough Park BBQ is located near a bookable picnic space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732722,
+          -43.529492
+        ]
+      },
+      "properties": {
+        "Address": "Jellicoe Street, Beatty Street, South Brighton",
+        "Features": "Playground, basketball court, estuary",
+        "Name": "South New Brighton Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. South Brighton Park BBQ is located near a bookable picnic space."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696272,
+          -43.433099
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Styx River Place, Brooklands",
+        "Features": "Playground, wide spaces, tennis court",
+        "Name": "Spencerville Reserve BBQ",
+        "BBQs": "Please note that BBQs cannot be booked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706581,
+          -43.431457
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Bottle Lake",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Name": "Spencer Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70714,
+          -43.431818
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Bottle Lake",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Name": "Spencer Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707652,
+          -43.431529
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Bottle Lake",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Name": "Spencer Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706895,
+          -43.432043
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Bottle Lake",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Name": "Spencer Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707947,
+          -43.430506
+        ]
+      },
+      "properties": {
+        "Address": "Heyders Road, Bottle Lake",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Name": "Spencer Park BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604337,
+          -43.452787
+        ]
+      },
+      "properties": {
+        "Address": "Groynes Drive, Northwood",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Name": "The Groynes BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608431,
+          -43.448463
+        ]
+      },
+      "properties": {
+        "Address": "Groynes Drive, Northwood",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Name": "The Groynes BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.609688,
+          -43.447934
+        ]
+      },
+      "properties": {
+        "Address": "Groynes Drive, Northwood",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Name": "The Groynes BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611084,
+          -43.446866
+        ]
+      },
+      "properties": {
+        "Address": "Groynes Drive, Northwood",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Name": "The Groynes BBQ",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622733,
+          -43.528787
+        ]
+      },
+      "properties": {
+        "Address": "Armagh Street car park",
+        "Features": "Sports fields, walking tracks, fitness trail, lakes, golf course, river, botanical collection, toilets, wide spaces",
+        "Name": "Hagley Park North BBQ",
+        "BBQs": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612717,
+          -43.531142
+        ]
+      },
+      "properties": {
+        "Address": "Deans Ave",
+        "Features": "Sports fields, walking tracks, wide spaces, toilets",
+        "Name": "Hagley Park South BBQ",
+        "BBQs": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces."
+      }
+    }
+  ]
+}
