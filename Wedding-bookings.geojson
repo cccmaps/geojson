@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621459,
+          -43.530685
+        ]
+      },
+      "properties": {
+        "Address": "off Rolleston Avenue, City Centre, Christchurch",
+        "Features": "The Botanic Gardens offers five spectacular wedding locations as well as our function room: the Azalea Magnolia Garden, Cockayne Memorial Garden, Daffodil Woodland, Pinetum and Water Garden Lawn. ",
+        "Capacity": "50 - 100 people, depending on location",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/_resampled/FillWyI4NTUiLCIzODAiXQ/Botanic-Gardens-Wedding-Water-Garden-700.jpg",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/christchurch-botanic-gardens/weddings/",
+        "Park": "Botanic Gardens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608964,
+          -43.523406
+        ]
+      },
+      "properties": {
+        "Address": "Mona Vale Avenue, Ricccarton, Christchurch",
+        "Features": "Mona Vale offers three stunning locations ideal for your wedding ceremony: Mound Lawn, Lily Pond and Mill Stream Lawn. ",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1MCwzNzhd/Mona-Vale-Weddings.jpg",
+        "Park": "Mona Vale",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/mona-vale/mona-vale-wedding-ceremonies/",
+        "Capacity": "75 - 150 people, depending on location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630632,
+          -43.513932
+        ]
+      },
+      "properties": {
+        "Address": "15 Abberley Crescent, St Albans, Christchurch",
+        "Features": "Abberley Park is a suburban haven with mature trees, an attractive stream and scented garden. Wedding locations include: Scented Garden, West Lawn, North Lawn and East Lawn. ",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/scented-garden2.jpg",
+        "Park": "Abberley Park",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/abberley-park/",
+        "Capacity": "75 -150 people, depending on location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660317,
+          -43.520099
+        ]
+      },
+      "properties": {
+        "Address": "9 Eveleyn Couzins Avenue, Richmond, Christchurch",
+        "Features": "Once a private garden, Avebury Park is an English style park with expansive lawns and large deciduous trees. The North Lawn is a beautiful spot for weddings.",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Avebury-Park-Wedding-locations-5859.jpg",
+        "Park": "Avebury Park",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/avebury-park/",
+        "Capacity": "150 people"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665739,
+          -43.540471
+        ]
+      },
+      "properties": {
+        "Address": "357 Ferry Rd, Waltham, Christchurch",
+        "Features": "This famous garden graces the cover of the best selling Edmonds Cook Book. Wedding locations include the Bluebird Lawn, Back Lawn and Front Lawn. ",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Edmonds-Gardens-Wedding-locations-5903.jpg",
+        "Park": "Edmonds Factory Gardens",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/edmonds-factory-gardens/",
+        "Capacity": "30 -150 people, depending on location "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61768,
+          -43.522489
+        ]
+      },
+      "properties": {
+        "Address": "3 Rossall Street, Merivale, Christchurch",
+        "Features": "Millbrook Reserve is a delightful and intimate garden that showcases in spring with azaleas, rhododendrons and camellias blooming.  ",
+        "Photo URL": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Hagley-Park/_resampled/ResizedImageWzg1NSw1Njld/Millbrook-Reserve-and-visitor.jpg",
+        "Park": "Millbrook Reserve",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/millbrook-reserve/",
+        "Capacity": "50 people"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660639,
+          -43.554391
+        ]
+      },
+      "properties": {
+        "Address": "Cholmondeley Avenue, Opawa, Christchurch",
+        "Features": "Risingholme Park was once a private garden and features a collection of mature trees, native plantings and a rose garden. Wedding locations include the Rose Garden, Taxus Lawn, Playground Lawn and Western Lawn. ",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Hagley-Park/_resampled/ResizedImageWzg1NSw1Njld/Millbrook-Reserve-and-visitor.jpg",
+        "Park": "Risingholme Park",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/risingholme-park/",
+        "Capacity": "50 - 150 people, depending on location"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.671594,
+          -43.524074
+        ]
+      },
+      "properties": {
+        "Address": "Woodham Road, Linwood, Christchurch",
+        "Features": "Woodham Park is an English style park with open spaces, shrubs, herbaceous plants and specimen trees. Wedding locations include the Rhododendron Dell Lawn, Playground Lawn and Main Lawn (which contains a summerhouse).",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Woodham-Park-Wedding-locations-5878.jpg",
+        "Park": "Woodham Park",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/woodham-park/",
+        "Capacity": "150 people on each lawn"
+      }
+    }
+  ]
+}
