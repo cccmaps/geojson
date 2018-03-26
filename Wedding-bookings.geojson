@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "Address": "off Rolleston Avenue, City Centre, Christchurch",
+        "Address": "Rolleston Avenue, City Centre, Christchurch",
         "Features": "The Botanic Gardens offers five spectacular wedding locations as well as our function room: the Azalea Magnolia Garden, Cockayne Memorial Garden, Daffodil Woodland, Pinetum and Water Garden Lawn. ",
-        "Capacity": "50 - 100 people, depending on location",
+        "Capacity": "50–100 people, depending on location",
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/_resampled/FillWyI4NTUiLCIzODAiXQ/Botanic-Gardens-Wedding-Water-Garden-700.jpg",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/christchurch-botanic-gardens/weddings/",
         "Park": "Botanic Gardens"
@@ -34,7 +34,7 @@
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1MCwzNzhd/Mona-Vale-Weddings.jpg",
         "Park": "Mona Vale",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/mona-vale/mona-vale-wedding-ceremonies/",
-        "Capacity": "75 - 150 people, depending on location"
+        "Capacity": "75–150 people, depending on location"
       }
     },
     {
@@ -52,7 +52,7 @@
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/scented-garden2.jpg",
         "Park": "Abberley Park",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/abberley-park/",
-        "Capacity": "75 -150 people, depending on location"
+        "Capacity": "75–150 people, depending on location"
       }
     },
     {
@@ -88,7 +88,7 @@
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Edmonds-Gardens-Wedding-locations-5903.jpg",
         "Park": "Edmonds Factory Gardens",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/edmonds-factory-gardens/",
-        "Capacity": "30 -150 people, depending on location "
+        "Capacity": "30–150 people, depending on location "
       }
     },
     {
@@ -124,7 +124,7 @@
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Hagley-Park/_resampled/ResizedImageWzg1NSw1Njld/Millbrook-Reserve-and-visitor.jpg",
         "Park": "Risingholme Park",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/risingholme-park/",
-        "Capacity": "50 - 150 people, depending on location"
+        "Capacity": "50–150 people, depending on location"
       }
     },
     {
@@ -142,7 +142,7 @@
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Woodham-Park-Wedding-locations-5878.jpg",
         "Park": "Woodham Park",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/woodham-park/",
-        "Capacity": "150 people on each lawn"
+        "Capacity": "150 people per lawn"
       }
     }
   ]
