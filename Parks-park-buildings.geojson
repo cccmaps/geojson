@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630524,
+          -43.513672
+        ]
+      },
+      "properties": {
+        "Building": "Abberley Park Hall",
+        "Address": "Abberley Park, 15 Abberley Crescent, St Albans, Christchurch",
+        "Features": "This small hall is set a pretty heritage park and suitable for public meetings, dance classes and social events. ",
+        "Capacity": "60 standing and 40 seated",
+        "Facilities": "Tables, chairs, oven, sink, zip water heater available on site",
+        "Availability": "Monday to Sunday, 8am to midnight",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220164-AbberleyParkHallExternal.jpg",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/abberley-park-hall/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.968156,
+          -43.801605
+        ]
+      },
+      "properties": {
+        "Building": "Akaroa Sports Pavilion",
+        "Address": "Akaroa Recreation Ground, Rue Lavaud, Akaroa",
+        "Features": "This venue is available to hire for small private functions, meetings and sports team use. ",
+        "Capacity": "60 standing and 40 seated",
+        "Facilities": "Tables, chairs, shower and changing facilities and full kitchen on site",
+        "Availability": "Monday to Sunday, 8am to midnight",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Banks-Peninsula/_resampled/ResizedImageWzg1NSw0NjVd/Akaroapavilionresizecrop.jpg",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/explore-parks/banks-peninsula-parks-reserves/akaroa-recreation-ground/akaroa-sports-pavilion/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660285,
+          -43.519864
+        ]
+      },
+      "properties": {
+        "Building": "Avebury House",
+        "Address": "Avebury Park, 9 Eveleyn Couzins Avenue, Richmond, Christchurch",
+        "Features": "A community facility with three large and four smaller rooms - perfect for classes, programmes, meetings, events and functions. ",
+        "Capacity": "12 people for small meeting rooms, 30-35 people in large meeting rooms",
+        "Facilities": " Commercial grade kitchen, overhead projector, whiteboards, tables and chairs on site",
+        "Availability": "Contact Carol Penfold on 03 381 6615 or admin@aveburyhouse.co.nz for availability",
+        "Photo URL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/avebury-park",
+        "Web URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1MCwzNzZd/Avebury-Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.558221,
+          -43.49908
+        ]
+      },
+      "properties": {
+        "Building": "Avice Hill Arts and Craft Centre",
+        "Address": "Avice Hill Reserve, 395 Memorial Avenue, Burnside, Christchurch",
+        "Features": "This centre hosts two rooms ideally suited for dance, educational and art and craft activities. ",
+        "Capacity": "50 people over the two rooms",
+        "Facilities": "Chairs, tables, two sinks, oven, projector screen and heater on site",
+        "Availability": "Monday to Sunday, 7am to 11pm",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220165-AviceHillArtsCraftsCentreExternal.jpg",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/avice-hill-arts-and-craft-centre/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622503,
+          -43.529667
+        ]
+      },
+      "properties": {
+        "Building": "Botanic Gardens Function Room",
+        "Address": "Christchurch Botanic Gardens, off Rolleston Avenue, Christchurch",
+        "Features": "A stunning, light filled space suitable for corporate, private or community hire. ",
+        "Capacity": "150 people",
+        "Facilities": "Tables, chairs, lecturn, microphone and sink on site",
+        "Availability": "Monday to Sunday, contact Lauri Brouwer on 022 436 6571 or eventsgoodcompany@gmail.com for availability",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzg1NSwzODld/Gardens-function-room-Nov2017.jpg",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/christchurch-botanic-gardens/weddings/botanic-gardens-function-room/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.543949,
+          -43.547003
+        ]
+      },
+      "properties": {
+        "Building": "Harvard Community Lounge",
+        "Address": "Wigram Green, Corsair Drive, Wigram, Christchurch",
+        "Features": "This centre is comprised of a large room with separate kitchen and bar area, a children's playground sits adjacent. ",
+        "Capacity": "150 standing and 100 seated",
+        "Facilities": "Microwave oven and oven, two fridges, dishwasher, chairs, tables and zip water heater on site",
+        "Availability": "Monday to Sunday, 9am to midnight",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220165-HarvardCommunityLoungeExternal.jpg",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/harvard-community-lounge/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72683,
+          -43.495029
+        ]
+      },
+      "properties": {
+        "Building": "North New Brighton Community Centre",
+        "Address": "North New Brighton Beach, 93 Marine Parade, New Brighton, Christchurch",
+        "Features": "This modern multi use facility overlooks the beach and is a ideal for community activities and private functions.",
+        "Capacity": "230 people over the two rooms",
+        "Facilities": "Tables, chairs, stage, piano, commercial kitchen facilities on site",
+        "Availability": "Monday to Sunday, 8am to midnight  ",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220165-NorthNewBrightonCommunityCentreExterior.jpg",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/north-new-brighton-community-centre/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704843,
+          -43.481828
+        ]
+      },
+      "properties": {
+        "Building": "Parkview Community Lounge",
+        "Address": "Parklands Reserve, 75 Queenspark Drive, Parklands, Christchurch",
+        "Features": "This hall with small kitchen is available for sporting, dance, educational and arts and crafts activities. ",
+        "Capacity": "25 people in each room",
+        "Facilities": "Chairs, tables, fridge, oven, sink and heaters on site",
+        "Availability": "Monday to Sunday, 8am to midnight",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220165-ParkviewCommunityLoungeInternal.jpg",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/parkview-community-lounge/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660517,
+          -43.553963
+        ]
+      },
+      "properties": {
+        "Building": "Risingholme Community Centre",
+        "Address": "Risingholme Park, Cholmondeley Avenue, Opawa, Christchurch",
+        "Features": "This community centre hosts three meeting rooms and is situated in a beautiful English style park with plenty of open spaces and a children's play area. ",
+        "Capacity": "14-20 people, depending on the room",
+        "Facilities": "Tables, chairs, whiteboard, television, projector, kitchen facilities",
+        "Availability": "Check the website for availability: https://www.risingholme.org.nz/Venue-Hire/",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1MCwzNzZd/Risingholme.jpg",
+        "Web URL": "https://www.risingholme.org.nz/Venue-Hire/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.733021,
+          -43.527756
+        ]
+      },
+      "properties": {
+        "Building": "South Brighton Community Centre",
+        "Address": "South New Brighton Beach, 74 Beatty Avenue, South New Brighton, Christchurch",
+        "Features": "This multi use facility is available for community acitivities and private social functions. ",
+        "Capacity": "99 people",
+        "Facilities": "Chairs, tables, kitchen facilities, heat pumps on site",
+        "Availability": "Monday to Sunday, 8am to midnight",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220164-SouthNewBrightonCommunityHallExterior.png",
+        "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/south-new-brighton-community-hall/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697762,
+          -43.48442
+        ]
+      },
+      "properties": {
+        "Building": "Travis Wetland Education Centre",
+        "Address": "Travis Wetland, off Beach Road, Burwood, Christchurch",
+        "Features": "The education centre can be booked for private or community use and offers easy access to recreational opportunities.",
+        "Capacity": "40 people",
+        "Facilities": "Tables, chairs, kitchen with small fridge, freezer, hot water system and oven, overhead projector, electronic whiteboard, tv and screen on site",
+        "Availability": "Monday to Sunday, 8am to 10pm",
+        "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzgwMCw1OThd/P1000634traviscentre.jpg",
+        "Web URL": "https://ccc.govt.nz/parks-and-gardens/explore-parks/plains-and-wetlands/travis-wetland/travis-wetland-education-centre/"
+      }
+    }
+  ]
+}
