@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70791,
+          -43.581742
+        ]
+      },
+      "properties": {
+        "Park": "Heathcote Domain picnic area",
+        "Park features": "Sports field, playground, tennis courts, open spaces and trees ",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Bridle Path Road, Heathcote Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739666,
+          -43.564498
+        ]
+      },
+      "properties": {
+        "Park": "Barnett Park picnic area",
+        "Park features": "Sports fields, walking tracks, playground, open spaces, trees and toilets",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Main Road, Redcliffs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.574647,
+          -43.596261
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Rotary picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580715,
+          -43.598394
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Kurashiki Garden picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576364,
+          -43.598657
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Oval picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 200 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.578581,
+          -43.59863
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Oval picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579956,
+          -43.598298
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Lions picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 50 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580869,
+          -43.598868
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Findlay picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580925,
+          -43.599274
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Findlay picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.578278,
+          -43.601116
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Inner Quarry picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579678,
+          -43.600619
+        ]
+      },
+      "properties": {
+        "Park": "Halswell Quarry Inner Quarry picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651779,
+          -43.440792
+        ]
+      },
+      "properties": {
+        "Park": "Ouruhia Reserve picnic area",
+        "Park features": "Playground, open spaces, tennis courts and toilets",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Chenery Ave, Styx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769323,
+          -43.573727
+        ]
+      },
+      "properties": {
+        "Park": "Scarborough Park picnic area",
+        "Park features": "Playground, paddling pool, Sumner beach, toilets, trees, walkways and cafes",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Heberden Ave, Sumner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732895,
+          -43.529428
+        ]
+      },
+      "properties": {
+        "Park": "South New Brighton Park picnic area",
+        "Park features": "Playground, basketball court, estuary, toilets and open spaces",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Jellicoe Street, Beatty Street, South Brighton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696165,
+          -43.433229
+        ]
+      },
+      "properties": {
+        "Park": "Spencerville Reserve picnic area",
+        "Park features": "Playground, open spaces and a tennis court",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Heyders Road, Styx River Place, Brooklands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706194,
+          -43.431273
+        ]
+      },
+      "properties": {
+        "Park": "Spencer Park picnic area 1",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706523,
+          -43.431868
+        ]
+      },
+      "properties": {
+        "Park": "Spencer Park picnic area 2",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708028,
+          -43.431107
+        ]
+      },
+      "properties": {
+        "Park": "Spencer Park picnic area 3",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.600699,
+          -43.463242
+        ]
+      },
+      "properties": {
+        "Park": "Styx Mill picnic area",
+        "Park features": "River, dog exercise area, trees, walking tracks, lake, wildlife and toilets",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx Mill",
+        "Address": "Husseys Road, Styx Mill Road, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626863,
+          -43.464379
+        ]
+      },
+      "properties": {
+        "Park": "Styx River Esplanade Reserve picnic area 1",
+        "Park features": "River, playground, walking tracks and trees",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx River Esplanade Reserve",
+        "Address": "Willowview Drive, Redwood Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630421,
+          -43.466109
+        ]
+      },
+      "properties": {
+        "Park": "Styx River Esplanade Reserve picnic area 2",
+        "Park features": "River, playground, walking tracks and trees",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx River Esplanade Reserve",
+        "Address": "Willowview Drive, Redwood Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.607344,
+          -43.449417
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 2e",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608302,
+          -43.449301
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 2d",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608833,
+          -43.448766
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 2c",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608784,
+          -43.447768
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 2b",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.610015,
+          -43.447377
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 2a",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.610934,
+          -43.44747
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 3b",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611678,
+          -43.44677
+        ]
+      },
+      "properties": {
+        "Park": "The Groynes picnic area 3a",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood"
+      }
+    }
+  ]
+}
