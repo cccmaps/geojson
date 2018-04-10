@@ -1,0 +1,5912 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Burwood",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683976291001,
+          -43.4897116025647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Farrington",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587632462773,
+          -43.4903559059374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Murray Aynsley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.662924719667,
+          -43.5627579474477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 1",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716953946728,
+          -43.5577512009809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Westmorland 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.603020125068,
+          -43.5788856158979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ennerdale",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.597808192097,
+          -43.5807683733513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 2",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.715917471902,
+          -43.5628010072155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653952496351,
+          -43.5706235504457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "McCormacks",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.729933076192,
+          -43.5618533658839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Clifton 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.746925066727,
+          -43.5722625345118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Palatine",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.646904654394,
+          -43.5648794037033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "St Johns",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691032550751,
+          -43.5438033400128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Chapmans",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.686959484792,
+          -43.5644667823956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Harewood",
+        "ServiceStatus": "In Service",
+        "Situation": "Well",
+        "WsPumpID": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.558586332837,
+          -43.4782684892591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "DecommissionDate": "2010-12-09T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Withells",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.551798857019,
+          -43.5183248415529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Templeton",
+        "ServiceStatus": "In Service",
+        "Situation": "Foremans Rd",
+        "WsPumpID": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.502628268739,
+          -43.5455403400603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Addington",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.609244684378,
+          -43.5459980539662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grampian",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605436794976,
+          -43.4773309401826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sockburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.556810955712,
+          -43.5382181860213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Aldwins",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.668018979161,
+          -43.539819472194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Aston Drive",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.718879183979,
+          -43.4806724431188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Auburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576368764877,
+          -43.533496348415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Averill",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660254987524,
+          -43.5128458862967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Belfast",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.629618982174,
+          -43.4422201469644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Blighs",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.599001203198,
+          -43.5056997991142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Burnside",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.563376934664,
+          -43.5045958846444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Main Pumping Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638292499642,
+          -43.5621604268836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Carters",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.705466790946,
+          -43.5208872966616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Cashmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630357455332,
+          -43.5712818589387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "DecommissionDate": "2010-08-04T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Clarence",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.601478064954,
+          -43.5311478690764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "DecommissionDate": "2017-02-09T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Clifton 1",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.749032800572,
+          -43.5643784841551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Crosbie",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.548027322587,
+          -43.5167715669209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Effingham",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719962746078,
+          -43.4919557144121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "DecommissionDate": "2004-08-13T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Ensors",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.659956159205,
+          -43.5489278562669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Estuary",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736970579411,
+          -43.5323014139057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Fitzgerald",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651131306334,
+          -43.5302678477781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grassmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614413358297,
+          -43.4926329421589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Hackthorne",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627738619869,
+          -43.5781018689618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Halswell 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.575559410688,
+          -43.6018447978608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Hillmorton",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593051224022,
+          -43.554267391166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Standby",
+        "PumpStationName": "Hills",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651225598643,
+          -43.499015730047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651824949196,
+          -43.5659478295689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Jeffreys",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593047054688,
+          -43.5146049915729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Kainga",
+        "ServiceStatus": "In Service",
+        "Situation": "Well",
+        "WsPumpID": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.659253642417,
+          -43.4147790332823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Lake Terrace",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683462456941,
+          -43.5005880052296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Major Aitken 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.646718382849,
+          -43.5721725766946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "DecommissionDate": "2010-08-04T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mandeville",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60666031548,
+          -43.5323696021045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Marshlands",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.661376919034,
+          -43.4903854603024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "DecommissionDate": "2011-09-01T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Palmers",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713570659521,
+          -43.5049641768962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Montreal",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630256091219,
+          -43.5217260480944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mays",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621705821664,
+          -43.5022579569952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Port Hills",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706012858097,
+          -43.5791756310715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Redwood",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623685197338,
+          -43.4742774961593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Spreydon",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614429027526,
+          -43.5645870959494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takahe 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634447425374,
+          -43.5814020001313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Tanner",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.679038793493,
+          -43.5578987542053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Thorrington",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632908409497,
+          -43.5642511105872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Worsley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611144156682,
+          -43.5828862912882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Moncks Spur 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739980853652,
+          -43.5635946592137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Standby",
+        "PumpStationName": "Mairehau",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.682956700448,
+          -43.4816290296565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 4",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.725532095518,
+          -43.5759093434864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ocean View 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757377540089,
+          -43.5780644304872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Parklands",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706761526128,
+          -43.4810288009959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Scarborough 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769664400897,
+          -43.5742118577379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Scarborough 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.77132219628,
+          -43.5761873595768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sydenham",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635567834606,
+          -43.5494070717275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Trafalgar",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635602247623,
+          -43.5128097541009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Woolston",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683499095019,
+          -43.5486358548752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Dunbars",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.57115912833,
+          -43.5711789007006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Kerrs",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.681593931037,
+          -43.5249153305236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Wrights",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.596624382037,
+          -43.545661039472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "properties": {
+        "DecommissionDate": "2009-01-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Tara",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.589872056878,
+          -43.5319785060886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Sutherlands 1",
+        "ServiceStatus": "In Service",
+        "Situation": "Submersible pump in reservoir",
+        "WsPumpID": 119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587470920977,
+          -43.5961318737077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Moncks Spur 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732106216273,
+          -43.5696838804457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Bexley",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71458353362,
+          -43.5112273914906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Avonhead",
+        "ServiceStatus": "In Service",
+        "Situation": "Submersible Pump",
+        "WsPumpID": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.535871572587,
+          -43.5188703130709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": null,
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mt Pleasant No. 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716703762084,
+          -43.5687252319538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Brooklands",
+        "ServiceStatus": "In Service",
+        "Situation": "Well 1",
+        "WsPumpID": 126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.693729263248,
+          -43.4072798682401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Burkes Track 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.586112423882,
+          -43.6238502145783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653730658883,
+          -43.5762333921856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Moncks Spur 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727107448177,
+          -43.5710573283295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "La Mar",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757152162719,
+          -43.5834745923126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": null,
+        "PumpStationName": null,
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60021548485,
+          -43.5463024152434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653727308651,
+          -43.5762274235804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Picton",
+        "ServiceStatus": "In Service",
+        "Situation": "Pump 1",
+        "WsPumpID": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604120840904,
+          -43.5321574179833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Picton",
+        "ServiceStatus": "In Service",
+        "Situation": "Pump 2",
+        "WsPumpID": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604086781729,
+          -43.5321600401023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Kainga",
+        "ServiceStatus": "In Service",
+        "Situation": "Well",
+        "WsPumpID": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65925381945,
+          -43.414782707115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Brooklands",
+        "ServiceStatus": "In Service",
+        "Situation": "Well 2",
+        "WsPumpID": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692956243556,
+          -43.4071731118616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Picton",
+        "ServiceStatus": "In Service",
+        "Situation": "Well 3",
+        "WsPumpID": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60427855998,
+          -43.5323926213686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Standby",
+        "PumpStationName": "Auburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576296354064,
+          -43.5334974122832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Auburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576287288913,
+          -43.5334573221436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Auburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576289984483,
+          -43.5334749356603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Avonhead",
+        "ServiceStatus": "In Service",
+        "Situation": "Submersible Pump",
+        "WsPumpID": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.535633607808,
+          -43.518902851096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Avonhead",
+        "ServiceStatus": "In Service",
+        "Situation": "Submersible Pump",
+        "WsPumpID": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.535641397613,
+          -43.5188137865166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "properties": {
+        "DecommissionDate": "2010-08-04T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Clarence",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60174018108,
+          -43.5311442623042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Belfast",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62960866806,
+          -43.4422359408229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grampian",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605458893793,
+          -43.4773318663039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grampian",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605479892922,
+          -43.4773327463353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Crosbie",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.547673070329,
+          -43.5166323175382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Crosbie",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.547346939331,
+          -43.5164517935328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Jeffreys",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593060189627,
+          -43.5146365037851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Jeffreys",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593054848794,
+          -43.514622277497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Jeffreys",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593097091135,
+          -43.5146289938677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Redwood",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623551795365,
+          -43.4740868134343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Wrights",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.595747367765,
+          -43.5448627265865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Wrights",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.596168615925,
+          -43.5452428145182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Wrights",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.596495036019,
+          -43.5455391127129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sockburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.556830611998,
+          -43.5382381383054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sockburn",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.556851321077,
+          -43.5382591592187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Morgans Valley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71306746709,
+          -43.5781957350141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Denton Park",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.519213029561,
+          -43.541185122406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Denton Park",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.519243809126,
+          -43.5411942563777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Dunbars",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.571123208549,
+          -43.5711858481394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Dunbars",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.571195048103,
+          -43.5711719532506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Burnside",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.563397870393,
+          -43.5046136074613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Main Pumping Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638436605181,
+          -43.562513963822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Main Pumping Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638349556581,
+          -43.5625485401997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Main Pumping Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638363164821,
+          -43.5625153266245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ashgrove",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627364281676,
+          -43.5670909669094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ashgrove",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627374087083,
+          -43.5670997751619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ashgrove",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627390316623,
+          -43.5671143596396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Aldwins",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.668033695143,
+          -43.539797818538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Aldwins",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66802480719,
+          -43.5396624011918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Aston Drive",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.718889371054,
+          -43.4807024105933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Blighs",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.599809242944,
+          -43.5056116700757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Blighs",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.599017044646,
+          -43.5057313355301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Burwood",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683961664501,
+          -43.4897142508816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Burwood",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683943382243,
+          -43.4897175611179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Morgans Valley 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.718371425032,
+          -43.5811126710912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Thompsons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628703802241,
+          -43.4584624523763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Worcester",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.652663645618,
+          -43.5305042875974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Carters",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.705455433177,
+          -43.5208944317703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Estuary",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736961241372,
+          -43.5322811926325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Standby",
+        "PumpStationName": "Estuary",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736961416742,
+          -43.5322510616456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grassmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614392305588,
+          -43.4926220491972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Grassmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614571575345,
+          -43.4923727685312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Effingham",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719988654962,
+          -43.4919448713594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Hillmorton",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593005582875,
+          -43.5542842792608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Hillmorton",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.592977138631,
+          -43.55414785379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Hills",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651253469274,
+          -43.4990544154952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Hills",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651264914208,
+          -43.4990703014617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Lake Terrace",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683420708733,
+          -43.5005767087511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Kerrs",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.681640968975,
+          -43.5249220460469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mairehau",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.682947273835,
+          -43.481653866073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Marshlands",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.661346109287,
+          -43.4903872377145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mays",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621742658158,
+          -43.5022399583808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Montreal",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630294448045,
+          -43.5217827295947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "properties": {
+        "DecommissionDate": "2011-09-01T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Palmers",
+        "ServiceStatus": "Abandoned",
+        "Situation": null,
+        "WsPumpID": 204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713513968525,
+          -43.5049589481145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Parklands",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706783481487,
+          -43.4810367942184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Parklands",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706828821109,
+          -43.4810533008602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Chapmans",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.686943902146,
+          -43.5644672302022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Spreydon",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614433500297,
+          -43.5646111797125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Spreydon",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614453648517,
+          -43.5645007056413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "St Johns",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691049243953,
+          -43.5438121052187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Farrington",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587954997524,
+          -43.4903753321929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Farrington",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587836619704,
+          -43.4905903405445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Farrington",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587379217605,
+          -43.4904473330812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sydenham",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635519302616,
+          -43.5494071165143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "properties": {
+        "DecommissionDate": "2012-02-14T00:00:00",
+        "Diesel": "yes",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Sydenham",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63551208075,
+          -43.549474571355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Woolston",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683552763527,
+          -43.5486641899244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Woolston",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683520899724,
+          -43.5486473669843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Tanner",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.678805030919,
+          -43.5578331750714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Tara",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.589051986775,
+          -43.5321108744508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Cashmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630347151492,
+          -43.5712868477252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Cashmere",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630351195842,
+          -43.5712749845579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Clifton 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.750218926914,
+          -43.5672277294389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Clifton 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.746931174502,
+          -43.5722693092246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Clifton 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.750189359827,
+          -43.5672271631706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Port Hills",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706003468815,
+          -43.5791779916251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ennerdale",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.597815250947,
+          -43.5807601335082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227,
+      "properties": {
+        "DecommissionDate": "2011-12-05T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 1",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65248303491,
+          -43.5657660147998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Huntsbury 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651835262537,
+          -43.5659526286937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Moncks Spur 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739994253288,
+          -43.563594815723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 1",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716935552251,
+          -43.5577603664879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 231,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 1",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716931822295,
+          -43.5577353482531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 1",
+        "ServiceStatus": "In Service",
+        "Situation": "SUR",
+        "WsPumpID": 232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716937421214,
+          -43.5577000028993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Moncks Spur 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727095644008,
+          -43.5710508112882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Mt Pleasant 4",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.725539883652,
+          -43.5759017449467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Murray Aynsley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.662919045712,
+          -43.5627480948516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Ocean View 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.757386928882,
+          -43.5780705759278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Scarborough 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769657373458,
+          -43.5742187344542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Scarborough 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.771314215499,
+          -43.5762020942681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takahe 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634430465097,
+          -43.5813997689562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Templeton",
+        "ServiceStatus": "In Service",
+        "Situation": "Foremans Rd",
+        "WsPumpID": 240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.502629762541,
+          -43.5455537977099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Templeton",
+        "ServiceStatus": "In Service",
+        "Situation": "Foremans Rd",
+        "WsPumpID": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.502631256343,
+          -43.5455672553459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Upper Balmoral",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.728231935272,
+          -43.568302994721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Upper Balmoral",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.728225138429,
+          -43.5683059018204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Westmorland 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.603007715792,
+          -43.5788838597122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Worsley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61114896717,
+          -43.582889707354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "yes",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Worcester",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65263275737,
+          -43.5305043124673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Thompsons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628872692102,
+          -43.4579958239298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Buxtons 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.702738455946,
+          -43.6065640426971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Exeter",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720080765341,
+          -43.5994250001206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Somes",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72289556394,
+          -43.5963876299777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "LY Dyers",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.698084511927,
+          -43.544539338553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Scruttons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697441523914,
+          -43.5689359973626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB Hayes 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.646815358579,
+          -43.6191271861042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB Ernest Adams 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645034450227,
+          -43.6257834901644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB (Stewarts)",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.659597010819,
+          -43.6184332228342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB (Stewarts)",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.659598632983,
+          -43.6184274920935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB Hayes 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.646812836909,
+          -43.6191211580366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH James",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719351445544,
+          -43.6259562987787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "properties": {
+        "DecommissionDate": "2005-08-31T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Whero",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73577521332,
+          -43.6286580419014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "properties": {
+        "DecommissionDate": "2005-08-31T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Ngatea",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731091849089,
+          -43.6287915755267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "properties": {
+        "DecommissionDate": "2005-08-31T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Waipapa",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739589197413,
+          -43.6295846625744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "properties": {
+        "DecommissionDate": "2010-06-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Primary",
+        "PumpStationName": "BF Bayleys",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692570769193,
+          -43.8172773309025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "AK Watson 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.97102487192,
+          -43.8087893012381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Booster",
+        "PumpStationName": "AK Lighthouse 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.960342107655,
+          -43.8150567911761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "AK Watson 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.968877444585,
+          -43.8108320469356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "AK Langlois 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9751866545,
+          -43.8087940258808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Sutherlands 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.586891687104,
+          -43.5959994625795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Sutherlands 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.586887884086,
+          -43.5960080279108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Hunters",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727225777908,
+          -43.6318450940877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "WN Wainui Valley 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.894010516258,
+          -43.8125035169408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Primary",
+        "PumpStationName": "AK Settlers Hill",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.971983402371,
+          -43.8069217451151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "properties": {
+        "DecommissionDate": "2013-06-05T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": "Primary",
+        "PumpStationName": "LY Tunnel Rd Well 9",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691220351463,
+          -43.5551619924386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "properties": {
+        "DecommissionDate": "2013-06-05T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "LY Tunnel Rd Well 7",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.695481088924,
+          -43.5572802546723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "LR Council Hill WSTP",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.78723666731,
+          -43.7667941557955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "GB The Terrace 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64571098875,
+          -43.6214911699867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": null,
+        "PumpStationName": null,
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.698269134853,
+          -43.5248286594652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Dunbars",
+        "ServiceStatus": "In Service",
+        "Situation": "Well",
+        "WsPumpID": 280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.570691949766,
+          -43.5711943694131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": null,
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727124595141,
+          -43.596865238103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "properties": {
+        "DecommissionDate": "2014-01-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "AK Aylmer's WSTP",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.966224941025,
+          -43.8191525069589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "properties": {
+        "DecommissionDate": "2010-06-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "BF Bayleys",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692573074105,
+          -43.8172654883455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "properties": {
+        "DecommissionDate": "2012-01-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DV Duvauchelle WSTP",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948546014604,
+          -43.7587662985829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "properties": {
+        "DecommissionDate": "2012-01-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "DV Duvauchelle WSTP",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948521759355,
+          -43.7587330164987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287,
+      "properties": {
+        "DecommissionDate": "2014-06-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "TK Takamatua Valley WSTP",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.989498789066,
+          -43.7909191599596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "LY Dyers",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.698093742984,
+          -43.5445299675512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Hunters",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727214550275,
+          -43.6318458518096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Belfast",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.629794471266,
+          -43.4420175650746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "properties": {
+        "DecommissionDate": "2008-07-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Unknown",
+        "PumpFunction": null,
+        "PumpStationName": "Warnerville 1",
+        "ServiceStatus": "Removed",
+        "Situation": null,
+        "WsPumpID": 293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.903573051472,
+          -43.8106292515011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "TK Kingfisher 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.951977282846,
+          -43.786543108469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 295,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": null,
+        "PumpStationName": "Carters Rd Well 5",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707759770121,
+          -43.5210757520544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Spreydon",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.613933301069,
+          -43.5645259668923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298,
+      "properties": {
+        "DecommissionDate": "2013-06-01T00:00:00",
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Estuary",
+        "ServiceStatus": "Removed",
+        "Situation": "Well 3",
+        "WsPumpID": 298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.735522761616,
+          -43.5324907921688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 299,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Doris Faigan",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720598615224,
+          -43.6371019706226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 300,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DH Doris Faigan",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720605606937,
+          -43.6371038131341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 301,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Sutherlands 1",
+        "ServiceStatus": "In Service",
+        "Situation": "Submersible pump in reservoir",
+        "WsPumpID": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.587468089834,
+          -43.5961358421441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 302,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Halswell 1",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.575562277552,
+          -43.6018535101237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Morgans Valley 2",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.718371724228,
+          -43.5811153624515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 304,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Hackthorne",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.627744539637,
+          -43.5782007815744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Bell Farm Pump",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640871494643,
+          -43.5863114980486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 307,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": null,
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Mt Pleasant No. 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.716709123294,
+          -43.5687175729317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 309,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Primary",
+        "PumpStationName": "AK Aylmer's WSTP",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.966282281098,
+          -43.81910381465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 310,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1117 Wilmers WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538336864755,
+          -43.5569135004547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 311,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1117 Wilmers WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538385521794,
+          -43.5568677676248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 312,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1117 Wilmers WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538361192863,
+          -43.5568907690509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "PS1117 Wilmers WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538757911661,
+          -43.5566995656181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "PS1117 Wilmers WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538586115329,
+          -43.5571215841605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": null,
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1119 Keyes WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720587537807,
+          -43.5060025860842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 316,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": null,
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1119 Keyes WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720602654795,
+          -43.5059918707028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 317,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": null,
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "PS1119 Keyes WS",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720619734443,
+          -43.5059790114638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 318,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takamatua Booster Pump Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.970417948425,
+          -43.7959403918519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 319,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takamatua Booster Pump Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.970402338274,
+          -43.7959425147722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 320,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takamatua Raw Water Pump Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.98943058602,
+          -43.79093437567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 321,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Takamatua Raw Water Pump Station",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.989432008544,
+          -43.7909256402572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 322,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "PS1546 Ferrymead Park",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70829752394,
+          -43.5641188632776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 323,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "PS1546 Ferrymead Park",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708275450677,
+          -43.5641152771028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 324,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Survey Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Westmorland 3",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.606374491794,
+          -43.5879254682809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 325,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LR Council Hill",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.79086916853,
+          -43.7681979641233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 326,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LR Council Hill",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.790861006138,
+          -43.7681903011334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 327,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "BF Jones",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653082409747,
+          -43.8122210594505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 328,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "BF Jones",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.653081262614,
+          -43.8122101441348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 330,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Exeter",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72008755592,
+          -43.5994190178055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 331,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Exeter",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720094774116,
+          -43.5994126882104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 332,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Non Verified",
+        "PumpFunction": "Booster",
+        "PumpStationName": "LY Somes",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722908067868,
+          -43.5963880706274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 333,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": null,
+        "PumpStationName": "DV Devauch Wtr Tplant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948415490404,
+          -43.7587348042542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": null,
+        "PumpStationName": "DV Devauch Wtr Tplant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948422892202,
+          -43.7587363143219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DV Devauch Wtr Tplant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948430228651,
+          -43.7586953336853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 336,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "DV Devauch Wtr Tplant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948437543463,
+          -43.7586968265149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 337,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "BF Treatment Plant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692582390352,
+          -43.8173674103289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 338,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "BF Treatment Plant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692582004113,
+          -43.8173721227205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 339,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "BF Treatment Plant",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692606913079,
+          -43.8173954603302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 341,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Survey Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Clifton 5",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.747065304927,
+          -43.5664486334063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 342,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Survey Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Clifton 5",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.747066960616,
+          -43.5664396955253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 343,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Estuary",
+        "ServiceStatus": "In Service",
+        "Situation": "Well 4",
+        "WsPumpID": 343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.735512499694,
+          -43.5324587801953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 344,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Prestons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.663453461006,
+          -43.47387244615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 345,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Booster",
+        "PumpStationName": "Prestons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.663650210367,
+          -43.4731797044342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 346,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Prestons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665070561222,
+          -43.473406839244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 347,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Prestons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665072016749,
+          -43.4734221097414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 348,
+      "properties": {
+        "DecommissionDate": null,
+        "Diesel": "no",
+        "LocationCertainty": "Accurate",
+        "PumpFunction": "Primary",
+        "PumpStationName": "Prestons",
+        "ServiceStatus": "In Service",
+        "Situation": null,
+        "WsPumpID": 348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665073472277,
+          -43.4734373802388
+        ]
+      }
+    }
+  ],
+  "bbox": [
+    172.502628268739,
+    -43.8191525069589,
+    172.989498789066,
+    -43.4071731118616
+  ]
+}
