@@ -13,7 +13,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 3,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +35,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 7,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +57,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 20,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +79,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 22,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +101,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 26,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -123,7 +123,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 27,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 28,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 31,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -189,7 +189,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 33,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +211,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 34,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -233,7 +233,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 36,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +255,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 37,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +277,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 39,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +299,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Well",
         "WsPumpID": 43,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 45,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +343,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Foremans Rd",
         "WsPumpID": 47,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +365,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 52,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +387,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 53,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -409,7 +409,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 54,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -431,7 +431,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 55,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +453,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 57,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -497,7 +497,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 59,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +519,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 60,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -541,7 +541,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 61,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +563,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 62,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +585,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 63,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +607,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 64,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +629,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 65,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +651,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 67,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -673,7 +673,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 68,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +695,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 70,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -717,7 +717,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 71,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +739,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 72,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -761,7 +761,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 73,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -783,7 +783,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 74,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -805,7 +805,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 75,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -827,7 +827,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 76,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -849,7 +849,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 77,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -871,7 +871,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 78,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -893,7 +893,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 79,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +915,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 80,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -959,7 +959,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Well",
         "WsPumpID": 82,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +981,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 83,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1003,7 +1003,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 85,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1025,7 +1025,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 86,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1047,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 87,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1069,7 +1069,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 88,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1091,7 +1091,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 89,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1113,7 +1113,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 90,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1135,7 +1135,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 91,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1179,7 +1179,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 93,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1201,7 +1201,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 94,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1223,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 95,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1245,7 +1245,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 97,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1267,7 +1267,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 100,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1289,7 +1289,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 101,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1311,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 102,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1333,7 +1333,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 103,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1355,7 +1355,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 104,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1377,7 +1377,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 105,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1399,7 +1399,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 106,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +1421,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 107,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1443,7 +1443,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 109,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1465,7 +1465,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 110,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1487,7 +1487,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 111,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1509,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 113,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1531,7 +1531,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 115,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1553,7 +1553,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 117,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1575,7 +1575,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 118,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1597,7 +1597,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Submersible pump in reservoir",
         "WsPumpID": 119,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1619,7 +1619,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 121,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1641,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 122,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1685,7 +1685,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 124,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1729,7 +1729,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 127,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1751,7 +1751,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 128,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1773,7 +1773,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 129,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1795,7 +1795,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 130,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1817,7 +1817,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 131,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1839,7 +1839,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 133,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1861,7 +1861,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Pump 1",
         "WsPumpID": 134,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1883,7 +1883,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Pump 2",
         "WsPumpID": 135,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1927,7 +1927,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Well 2",
         "WsPumpID": 139,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1971,7 +1971,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 141,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -1993,7 +1993,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 142,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2015,7 +2015,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 143,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2037,7 +2037,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Submersible Pump",
         "WsPumpID": 144,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2059,7 +2059,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Submersible Pump",
         "WsPumpID": 145,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2081,7 +2081,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 146,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2103,7 +2103,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 147,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2125,7 +2125,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 148,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2147,7 +2147,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 149,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2169,7 +2169,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 150,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2191,7 +2191,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 151,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2213,7 +2213,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 152,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2235,7 +2235,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 153,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2257,7 +2257,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 154,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2279,7 +2279,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 155,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2301,7 +2301,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 156,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2323,7 +2323,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 157,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2345,7 +2345,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 158,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2367,7 +2367,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 159,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2411,7 +2411,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 164,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2455,7 +2455,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 166,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2477,7 +2477,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 167,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2499,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 168,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2543,7 +2543,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 170,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2565,7 +2565,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 171,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2587,7 +2587,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 172,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2609,7 +2609,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 173,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2631,7 +2631,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 175,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2653,7 +2653,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 176,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2675,7 +2675,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 177,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2697,7 +2697,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 178,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2719,7 +2719,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 179,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2741,7 +2741,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 180,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2763,7 +2763,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 181,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2785,7 +2785,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 182,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2807,7 +2807,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 183,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2829,7 +2829,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 184,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2851,7 +2851,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 185,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2873,7 +2873,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 186,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2895,7 +2895,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 187,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2917,7 +2917,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 188,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2939,7 +2939,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 189,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2961,7 +2961,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 190,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -2983,7 +2983,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 191,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3005,7 +3005,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 192,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3027,7 +3027,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 193,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3049,7 +3049,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 194,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3071,7 +3071,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 195,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3093,7 +3093,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 196,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3115,7 +3115,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 197,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3137,7 +3137,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 198,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3203,7 +3203,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 202,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3225,7 +3225,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 203,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3247,7 +3247,7 @@
         "ServiceStatus": "Abandoned",
         "Situation": null,
         "WsPumpID": 204,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3269,7 +3269,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 205,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3291,7 +3291,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 206,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3313,7 +3313,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 207,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3335,7 +3335,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 208,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3357,7 +3357,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 209,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3379,7 +3379,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 210,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3401,7 +3401,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 211,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3445,7 +3445,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 213,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3467,7 +3467,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 214,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3489,7 +3489,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 215,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3511,7 +3511,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 216,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3533,7 +3533,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 217,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3555,7 +3555,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 218,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3577,7 +3577,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 219,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3599,7 +3599,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 220,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +3621,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 221,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3643,7 +3643,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 222,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3665,7 +3665,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 223,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3687,7 +3687,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 224,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3709,7 +3709,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 225,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3731,7 +3731,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 226,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3753,7 +3753,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 227,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3775,7 +3775,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 228,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3797,7 +3797,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 229,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3819,7 +3819,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 230,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3841,7 +3841,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 231,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3863,7 +3863,7 @@
         "ServiceStatus": "In Service",
         "Situation": "SUR",
         "WsPumpID": 232,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3885,7 +3885,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 233,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3907,7 +3907,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 234,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3929,7 +3929,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 235,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3951,7 +3951,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 236,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3973,7 +3973,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 237,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -3995,7 +3995,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 238,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4017,7 +4017,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 239,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4039,7 +4039,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Foremans Rd",
         "WsPumpID": 240,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4061,7 +4061,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Foremans Rd",
         "WsPumpID": 241,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4083,7 +4083,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 242,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4105,7 +4105,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 243,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4127,7 +4127,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 244,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4149,7 +4149,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 245,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4171,7 +4171,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 246,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4193,7 +4193,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 247,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4215,7 +4215,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 248,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4237,7 +4237,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 249,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4259,7 +4259,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 250,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4303,7 +4303,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 253,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4325,7 +4325,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 254,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4347,7 +4347,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 255,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4369,7 +4369,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 256,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4391,7 +4391,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 257,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4413,7 +4413,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 258,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4435,7 +4435,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 259,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4457,7 +4457,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 260,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4479,7 +4479,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 261,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4501,7 +4501,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 262,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4523,7 +4523,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 263,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4545,7 +4545,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 264,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4567,7 +4567,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 265,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4589,7 +4589,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 266,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4611,7 +4611,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 267,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4633,7 +4633,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 268,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4655,7 +4655,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 269,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4677,7 +4677,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 270,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4699,7 +4699,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 271,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4721,7 +4721,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 273,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4743,7 +4743,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 274,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4765,7 +4765,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 275,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4787,7 +4787,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 276,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4809,7 +4809,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 278,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4831,7 +4831,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 279,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4875,7 +4875,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 281,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4897,7 +4897,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 282,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4919,7 +4919,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 283,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4941,7 +4941,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 285,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4963,7 +4963,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 286,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -4985,7 +4985,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 287,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5007,7 +5007,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 289,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5029,7 +5029,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 290,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5051,7 +5051,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 291,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5073,7 +5073,7 @@
         "ServiceStatus": "Removed",
         "Situation": null,
         "WsPumpID": 293,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5095,7 +5095,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 294,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5117,7 +5117,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 295,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5139,7 +5139,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 296,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5161,7 +5161,7 @@
         "ServiceStatus": "Removed",
         "Situation": "Well 3",
         "WsPumpID": 298,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5183,7 +5183,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 299,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5205,7 +5205,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 300,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5227,7 +5227,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Submersible pump in reservoir",
         "WsPumpID": 301,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5249,7 +5249,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 302,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5271,7 +5271,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 303,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5293,7 +5293,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 304,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5315,7 +5315,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 306,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5337,7 +5337,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 307,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5359,7 +5359,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 309,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5381,7 +5381,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 310,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5403,7 +5403,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 311,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5425,7 +5425,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 312,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5469,7 +5469,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 314,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5491,7 +5491,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 315,
-        "Chlorinationstatus": "Secure"
+        "Chlorinationstatus": "Not treated"
       },
       "geometry": {
         "type": "Point",
@@ -5513,7 +5513,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 316,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5535,7 +5535,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 317,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5557,7 +5557,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 318,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5579,7 +5579,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 319,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5601,7 +5601,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 320,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5623,7 +5623,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 321,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5645,7 +5645,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 322,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5667,7 +5667,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 323,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5689,7 +5689,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 324,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5711,7 +5711,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 325,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5733,7 +5733,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 326,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5755,7 +5755,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 327,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5777,7 +5777,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 328,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5799,7 +5799,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 330,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5821,7 +5821,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 331,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5843,7 +5843,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 332,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5865,7 +5865,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 333,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5887,7 +5887,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 334,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5909,7 +5909,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 335,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5931,7 +5931,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 336,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5953,7 +5953,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 337,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5975,7 +5975,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 338,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -5997,7 +5997,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 339,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6019,7 +6019,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 341,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6041,7 +6041,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 342,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6063,7 +6063,7 @@
         "ServiceStatus": "In Service",
         "Situation": "Well 4",
         "WsPumpID": 343,
-        "Chlorinationstatus": "Secure"
+        "Chlorinationstatus": "Not treated"
       },
       "geometry": {
         "type": "Point",
@@ -6085,7 +6085,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 344,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6107,7 +6107,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 345,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6129,7 +6129,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 346,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6151,7 +6151,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 347,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -6173,7 +6173,7 @@
         "ServiceStatus": "In Service",
         "Situation": null,
         "WsPumpID": 348,
-        "Chlorinationstatus": "Secure"
+        "Chlorinationstatus": "Not treated"
       },
       "geometry": {
         "type": "Point",
