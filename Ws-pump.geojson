@@ -5,13 +5,8 @@
       "type": "Feature",
       "id": 3,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Burwood",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 3,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -27,13 +22,8 @@
       "type": "Feature",
       "id": 22,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 1",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 22,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -49,13 +39,8 @@
       "type": "Feature",
       "id": 28,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 2",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 28,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -71,13 +56,8 @@
       "type": "Feature",
       "id": 33,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "McCormacks",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 33,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -93,13 +73,8 @@
       "type": "Feature",
       "id": 34,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Clifton 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 34,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -115,13 +90,8 @@
       "type": "Feature",
       "id": 36,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Palatine",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 36,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -137,13 +107,8 @@
       "type": "Feature",
       "id": 37,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "St Johns",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 37,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -159,13 +124,8 @@
       "type": "Feature",
       "id": 52,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Addington",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 52,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -181,13 +141,8 @@
       "type": "Feature",
       "id": 53,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Grampian",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 53,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -203,13 +158,8 @@
       "type": "Feature",
       "id": 54,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Sockburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 54,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -225,13 +175,8 @@
       "type": "Feature",
       "id": 58,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Auburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 58,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -247,13 +192,8 @@
       "type": "Feature",
       "id": 59,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Averill",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 59,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -269,13 +209,8 @@
       "type": "Feature",
       "id": 60,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Belfast",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 60,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -291,13 +226,8 @@
       "type": "Feature",
       "id": 64,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Carters",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 64,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -313,13 +243,8 @@
       "type": "Feature",
       "id": 68,
       "properties": {
-        "DecommissionDate": "2017-02-09T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Clifton 1",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 68,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -335,13 +260,8 @@
       "type": "Feature",
       "id": 71,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Effingham",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 71,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -357,13 +277,8 @@
       "type": "Feature",
       "id": 79,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Standby",
         "PumpStationName": "Hills",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 79,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -379,13 +294,8 @@
       "type": "Feature",
       "id": 81,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Jeffreys",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 81,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -401,13 +311,8 @@
       "type": "Feature",
       "id": 82,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Kainga",
-        "ServiceStatus": "In Service",
-        "Situation": "Well",
         "WsPumpID": 82,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -423,13 +328,8 @@
       "type": "Feature",
       "id": 83,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Lake Terrace",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 83,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -445,13 +345,8 @@
       "type": "Feature",
       "id": 87,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Marshlands",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 87,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -467,13 +362,8 @@
       "type": "Feature",
       "id": 91,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Port Hills",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 91,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -489,13 +379,8 @@
       "type": "Feature",
       "id": 92,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Redwood",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 92,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -511,13 +396,8 @@
       "type": "Feature",
       "id": 93,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Spreydon",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 93,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -533,13 +413,8 @@
       "type": "Feature",
       "id": 95,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Tanner",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 95,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -555,13 +430,8 @@
       "type": "Feature",
       "id": 97,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Thorrington",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 97,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -577,13 +447,8 @@
       "type": "Feature",
       "id": 101,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Moncks Spur 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 101,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -599,13 +464,8 @@
       "type": "Feature",
       "id": 103,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 4",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 103,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -621,13 +481,8 @@
       "type": "Feature",
       "id": 104,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Ocean View 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 104,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -643,13 +498,8 @@
       "type": "Feature",
       "id": 106,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Scarborough 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 106,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -665,13 +515,8 @@
       "type": "Feature",
       "id": 107,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Scarborough 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 107,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -687,13 +532,8 @@
       "type": "Feature",
       "id": 109,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Sydenham",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 109,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -709,13 +549,8 @@
       "type": "Feature",
       "id": 110,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Trafalgar",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 110,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -731,13 +566,8 @@
       "type": "Feature",
       "id": 111,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Woolston",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 111,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -753,13 +583,8 @@
       "type": "Feature",
       "id": 115,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Kerrs",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 115,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -775,13 +600,8 @@
       "type": "Feature",
       "id": 121,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Moncks Spur 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 121,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -797,13 +617,8 @@
       "type": "Feature",
       "id": 123,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Avonhead",
-        "ServiceStatus": "In Service",
-        "Situation": "Submersible Pump",
         "WsPumpID": 123,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -819,13 +634,8 @@
       "type": "Feature",
       "id": 124,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": null,
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Mt Pleasant No. 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 124,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -841,13 +651,8 @@
       "type": "Feature",
       "id": 126,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Brooklands",
-        "ServiceStatus": "In Service",
-        "Situation": "Well 1",
         "WsPumpID": 126,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -863,13 +668,8 @@
       "type": "Feature",
       "id": 129,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Moncks Spur 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 129,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -885,13 +685,8 @@
       "type": "Feature",
       "id": 130,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "La Mar",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 130,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -907,13 +702,8 @@
       "type": "Feature",
       "id": 138,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Kainga",
-        "ServiceStatus": "In Service",
-        "Situation": "Well",
         "WsPumpID": 138,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -929,13 +719,8 @@
       "type": "Feature",
       "id": 140,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Picton",
-        "ServiceStatus": "In Service",
-        "Situation": "Well 3",
         "WsPumpID": 140,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -951,13 +736,8 @@
       "type": "Feature",
       "id": 150,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Crosbie",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 150,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -973,13 +753,8 @@
       "type": "Feature",
       "id": 159,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Sockburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 159,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -995,13 +770,8 @@
       "type": "Feature",
       "id": 160,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Sockburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 160,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1017,13 +787,8 @@
       "type": "Feature",
       "id": 164,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Morgans Valley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 164,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1039,13 +804,8 @@
       "type": "Feature",
       "id": 165,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Denton Park",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 165,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1061,13 +821,8 @@
       "type": "Feature",
       "id": 169,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Burnside",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 169,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1083,13 +838,8 @@
       "type": "Feature",
       "id": 171,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Main Pumping Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 171,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1105,13 +855,8 @@
       "type": "Feature",
       "id": 178,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Aldwins",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 178,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1127,13 +872,8 @@
       "type": "Feature",
       "id": 179,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Aston Drive",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 179,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1149,13 +889,8 @@
       "type": "Feature",
       "id": 181,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Blighs",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 181,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1171,13 +906,8 @@
       "type": "Feature",
       "id": 182,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Burwood",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 182,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1193,13 +923,8 @@
       "type": "Feature",
       "id": 183,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Burwood",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 183,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1215,13 +940,8 @@
       "type": "Feature",
       "id": 184,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Morgans Valley 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 184,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1237,13 +957,8 @@
       "type": "Feature",
       "id": 187,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Carters",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 187,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1259,13 +974,8 @@
       "type": "Feature",
       "id": 191,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Grassmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 191,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1281,13 +991,8 @@
       "type": "Feature",
       "id": 193,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Hillmorton",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 193,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1303,13 +1008,8 @@
       "type": "Feature",
       "id": 195,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Hills",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 195,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1325,13 +1025,8 @@
       "type": "Feature",
       "id": 196,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Hills",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 196,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1347,13 +1042,8 @@
       "type": "Feature",
       "id": 197,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Lake Terrace",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 197,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1369,13 +1059,8 @@
       "type": "Feature",
       "id": 199,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Mairehau",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 199,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1391,13 +1076,8 @@
       "type": "Feature",
       "id": 201,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Marshlands",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 201,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1413,13 +1093,8 @@
       "type": "Feature",
       "id": 202,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Mays",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 202,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1435,13 +1110,8 @@
       "type": "Feature",
       "id": 203,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Montreal",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 203,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1457,13 +1127,8 @@
       "type": "Feature",
       "id": 205,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Parklands",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 205,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1479,13 +1144,8 @@
       "type": "Feature",
       "id": 210,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "St Johns",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 210,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1501,13 +1161,8 @@
       "type": "Feature",
       "id": 212,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Farrington",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 212,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -1523,13 +1178,8 @@
       "type": "Feature",
       "id": 219,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "Tara",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 219,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1545,13 +1195,8 @@
       "type": "Feature",
       "id": 222,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Clifton 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 222,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1567,13 +1212,8 @@
       "type": "Feature",
       "id": 223,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Clifton 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 223,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1589,13 +1229,8 @@
       "type": "Feature",
       "id": 224,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Clifton 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 224,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1611,13 +1246,8 @@
       "type": "Feature",
       "id": 225,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Port Hills",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 225,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1633,13 +1263,8 @@
       "type": "Feature",
       "id": 229,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Moncks Spur 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 229,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1655,13 +1280,8 @@
       "type": "Feature",
       "id": 230,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 1",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 230,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1677,13 +1297,8 @@
       "type": "Feature",
       "id": 231,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 1",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 231,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1699,13 +1314,8 @@
       "type": "Feature",
       "id": 232,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 1",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
         "WsPumpID": 232,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1721,13 +1331,8 @@
       "type": "Feature",
       "id": 233,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Moncks Spur 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 233,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1743,13 +1348,8 @@
       "type": "Feature",
       "id": 234,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Mt Pleasant 4",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 234,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1765,13 +1365,8 @@
       "type": "Feature",
       "id": 236,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Ocean View 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 236,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1787,13 +1382,8 @@
       "type": "Feature",
       "id": 237,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Scarborough 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 237,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1809,13 +1399,8 @@
       "type": "Feature",
       "id": 238,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Scarborough 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 238,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1831,13 +1416,8 @@
       "type": "Feature",
       "id": 242,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Upper Balmoral",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 242,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1853,13 +1433,8 @@
       "type": "Feature",
       "id": 243,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "Upper Balmoral",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 243,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1875,13 +1450,8 @@
       "type": "Feature",
       "id": 246,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Worcester",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 246,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1897,13 +1467,8 @@
       "type": "Feature",
       "id": 247,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Thompsons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 247,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1919,13 +1484,8 @@
       "type": "Feature",
       "id": 248,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Buxtons 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 248,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1941,13 +1501,8 @@
       "type": "Feature",
       "id": 249,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Exeter",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 249,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1963,13 +1518,8 @@
       "type": "Feature",
       "id": 250,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Somes",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 250,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -1985,13 +1535,8 @@
       "type": "Feature",
       "id": 252,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "LY Dyers",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 252,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -2007,13 +1552,8 @@
       "type": "Feature",
       "id": 254,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "GB Hayes 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 254,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2029,13 +1569,8 @@
       "type": "Feature",
       "id": 255,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "GB Ernest Adams 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 255,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2051,13 +1586,8 @@
       "type": "Feature",
       "id": 256,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "GB (Stewarts)",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 256,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2073,13 +1603,8 @@
       "type": "Feature",
       "id": 257,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "GB (Stewarts)",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 257,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2095,13 +1620,8 @@
       "type": "Feature",
       "id": 258,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "GB Hayes 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 258,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2117,13 +1637,8 @@
       "type": "Feature",
       "id": 259,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "DH James",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 259,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2139,13 +1654,8 @@
       "type": "Feature",
       "id": 260,
       "properties": {
-        "DecommissionDate": "2005-08-31T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Whero",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 260,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2161,13 +1671,8 @@
       "type": "Feature",
       "id": 261,
       "properties": {
-        "DecommissionDate": "2005-08-31T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Ngatea",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 261,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2183,13 +1688,8 @@
       "type": "Feature",
       "id": 262,
       "properties": {
-        "DecommissionDate": "2005-08-31T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Waipapa",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 262,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2205,13 +1705,8 @@
       "type": "Feature",
       "id": 263,
       "properties": {
-        "DecommissionDate": "2010-06-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Primary",
         "PumpStationName": "BF Bayleys",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 263,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2227,13 +1722,8 @@
       "type": "Feature",
       "id": 264,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "AK Watson 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 264,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2249,13 +1739,8 @@
       "type": "Feature",
       "id": 265,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Booster",
         "PumpStationName": "AK Lighthouse 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 265,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2271,13 +1756,8 @@
       "type": "Feature",
       "id": 266,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "AK Watson 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 266,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2293,13 +1773,8 @@
       "type": "Feature",
       "id": 267,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "AK Langlois 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 267,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2315,13 +1790,8 @@
       "type": "Feature",
       "id": 270,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Hunters",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 270,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2337,13 +1807,8 @@
       "type": "Feature",
       "id": 271,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "WN Wainui Valley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 271,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2359,13 +1824,8 @@
       "type": "Feature",
       "id": 273,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": "Primary",
         "PumpStationName": "AK Settlers Hill",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 273,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2381,13 +1841,8 @@
       "type": "Feature",
       "id": 276,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "LR Council Hill WSTP",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 276,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2403,13 +1858,8 @@
       "type": "Feature",
       "id": 278,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "GB The Terrace 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 278,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2425,13 +1875,8 @@
       "type": "Feature",
       "id": 280,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Dunbars",
-        "ServiceStatus": "In Service",
-        "Situation": "Well",
         "WsPumpID": 280,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -2447,13 +1892,8 @@
       "type": "Feature",
       "id": 281,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": null,
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 281,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2469,13 +1909,8 @@
       "type": "Feature",
       "id": 282,
       "properties": {
-        "DecommissionDate": "2014-01-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "AK Aylmer's WSTP",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 282,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2491,13 +1926,8 @@
       "type": "Feature",
       "id": 283,
       "properties": {
-        "DecommissionDate": "2010-06-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "BF Bayleys",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 283,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2513,13 +1943,8 @@
       "type": "Feature",
       "id": 285,
       "properties": {
-        "DecommissionDate": "2012-01-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "DV Duvauchelle WSTP",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 285,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2535,13 +1960,8 @@
       "type": "Feature",
       "id": 286,
       "properties": {
-        "DecommissionDate": "2012-01-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "DV Duvauchelle WSTP",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 286,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2557,13 +1977,8 @@
       "type": "Feature",
       "id": 287,
       "properties": {
-        "DecommissionDate": "2014-06-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "TK Takamatua Valley WSTP",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 287,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2579,13 +1994,8 @@
       "type": "Feature",
       "id": 289,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "LY Dyers",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 289,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2601,13 +2011,8 @@
       "type": "Feature",
       "id": 290,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Hunters",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 290,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2623,13 +2028,8 @@
       "type": "Feature",
       "id": 293,
       "properties": {
-        "DecommissionDate": "2008-07-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
         "PumpFunction": null,
         "PumpStationName": "Warnerville 1",
-        "ServiceStatus": "Removed",
-        "Situation": null,
         "WsPumpID": 293,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2645,13 +2045,8 @@
       "type": "Feature",
       "id": 294,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "TK Kingfisher 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 294,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2667,13 +2062,8 @@
       "type": "Feature",
       "id": 299,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Doris Faigan",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 299,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2689,13 +2079,8 @@
       "type": "Feature",
       "id": 300,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "DH Doris Faigan",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 300,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2711,13 +2096,8 @@
       "type": "Feature",
       "id": 303,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Morgans Valley 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 303,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2733,13 +2113,8 @@
       "type": "Feature",
       "id": 307,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": null,
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Mt Pleasant No. 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 307,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2755,13 +2130,8 @@
       "type": "Feature",
       "id": 309,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Primary",
         "PumpStationName": "AK Aylmer's WSTP",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 309,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2777,13 +2147,8 @@
       "type": "Feature",
       "id": 313,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "PS1117 Wilmers WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 313,
         "Chlorinationstatus": "Chlorinated"
       },
@@ -2799,13 +2164,8 @@
       "type": "Feature",
       "id": 315,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": null,
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "PS1119 Keyes WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 315,
         "Chlorinationstatus": "Not treated"
       },
@@ -2821,13 +2181,8 @@
       "type": "Feature",
       "id": 318,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Takamatua Booster Pump Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 318,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2843,13 +2198,8 @@
       "type": "Feature",
       "id": 319,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Takamatua Booster Pump Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 319,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2865,13 +2215,8 @@
       "type": "Feature",
       "id": 320,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Takamatua Raw Water Pump Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 320,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2887,13 +2232,8 @@
       "type": "Feature",
       "id": 321,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "Takamatua Raw Water Pump Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 321,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2909,13 +2249,8 @@
       "type": "Feature",
       "id": 322,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "PS1546 Ferrymead Park",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 322,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2931,13 +2266,8 @@
       "type": "Feature",
       "id": 325,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "LR Council Hill",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 325,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2953,13 +2283,8 @@
       "type": "Feature",
       "id": 326,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "LR Council Hill",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 326,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2975,13 +2300,8 @@
       "type": "Feature",
       "id": 327,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "BF Jones",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 327,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -2997,13 +2317,8 @@
       "type": "Feature",
       "id": 328,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "BF Jones",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 328,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3019,13 +2334,8 @@
       "type": "Feature",
       "id": 330,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Exeter",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 330,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3041,13 +2351,8 @@
       "type": "Feature",
       "id": 331,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Exeter",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 331,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3063,13 +2368,8 @@
       "type": "Feature",
       "id": 332,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
         "PumpFunction": "Booster",
         "PumpStationName": "LY Somes",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 332,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3085,13 +2385,8 @@
       "type": "Feature",
       "id": 333,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": null,
         "PumpStationName": "DV Devauch Wtr Tplant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 333,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3107,13 +2402,8 @@
       "type": "Feature",
       "id": 334,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": null,
         "PumpStationName": "DV Devauch Wtr Tplant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 334,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3129,13 +2419,8 @@
       "type": "Feature",
       "id": 335,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "DV Devauch Wtr Tplant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 335,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3151,13 +2436,8 @@
       "type": "Feature",
       "id": 336,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "DV Devauch Wtr Tplant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 336,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3173,13 +2453,8 @@
       "type": "Feature",
       "id": 337,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "BF Treatment Plant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 337,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3195,13 +2470,8 @@
       "type": "Feature",
       "id": 338,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "BF Treatment Plant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 338,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3217,13 +2487,8 @@
       "type": "Feature",
       "id": 339,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Booster",
         "PumpStationName": "BF Treatment Plant",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 339,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3239,13 +2504,8 @@
       "type": "Feature",
       "id": 341,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Survey Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Clifton 5",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 341,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3261,13 +2521,8 @@
       "type": "Feature",
       "id": 342,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Survey Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Clifton 5",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 342,
         "Chlorinationstatus": "To receive chlorine"
       },
@@ -3283,13 +2538,8 @@
       "type": "Feature",
       "id": 343,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Estuary",
-        "ServiceStatus": "In Service",
-        "Situation": "Well 4",
         "WsPumpID": 343,
         "Chlorinationstatus": "Not treated"
       },
@@ -3305,13 +2555,8 @@
       "type": "Feature",
       "id": 348,
       "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
         "PumpFunction": "Primary",
         "PumpStationName": "Prestons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
         "WsPumpID": 348,
         "Chlorinationstatus": "Not treated"
       },
