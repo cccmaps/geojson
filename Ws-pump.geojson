@@ -25,50 +25,6 @@
     },
     {
       "type": "Feature",
-      "id": 7,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Farrington",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
-        "WsPumpID": 7,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.587632462773,
-          -43.4903559059374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 20,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Murray Aynsley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 20,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.662924719667,
-          -43.5627579474477
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 22,
       "properties": {
         "DecommissionDate": null,
@@ -91,50 +47,6 @@
     },
     {
       "type": "Feature",
-      "id": 26,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Westmorland 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 26,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.603020125068,
-          -43.5788856158979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 27,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ennerdale",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 27,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.597808192097,
-          -43.5807683733513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 28,
       "properties": {
         "DecommissionDate": null,
@@ -152,28 +64,6 @@
         "coordinates": [
           172.715917471902,
           -43.5628010072155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 31,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 2",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 31,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.653952496351,
-          -43.5706235504457
         ]
       }
     },
@@ -267,94 +157,6 @@
     },
     {
       "type": "Feature",
-      "id": 39,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Chapmans",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 39,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.686959484792,
-          -43.5644667823956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 43,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Harewood",
-        "ServiceStatus": "In Service",
-        "Situation": "Well",
-        "WsPumpID": 43,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.558586332837,
-          -43.4782684892591
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 45,
-      "properties": {
-        "DecommissionDate": "2010-12-09T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Withells",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 45,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.551798857019,
-          -43.5183248415529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 47,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Templeton",
-        "ServiceStatus": "In Service",
-        "Situation": "Foremans Rd",
-        "WsPumpID": 47,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.502628268739,
-          -43.5455403400603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 52,
       "properties": {
         "DecommissionDate": null,
@@ -416,50 +218,6 @@
         "coordinates": [
           172.556810955712,
           -43.5382181860213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 55,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Aldwins",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 55,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.668018979161,
-          -43.539819472194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 57,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Aston Drive",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 57,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.718879183979,
-          -43.4806724431188
         ]
       }
     },
@@ -531,72 +289,6 @@
     },
     {
       "type": "Feature",
-      "id": 61,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Blighs",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 61,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.599001203198,
-          -43.5056997991142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 62,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Burnside",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 62,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.563376934664,
-          -43.5045958846444
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 63,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Main Pumping Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 63,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.638292499642,
-          -43.5621604268836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 64,
       "properties": {
         "DecommissionDate": null,
@@ -614,50 +306,6 @@
         "coordinates": [
           172.705466790946,
           -43.5208872966616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 65,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Cashmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 65,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630357455332,
-          -43.5712818589387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 67,
-      "properties": {
-        "DecommissionDate": "2010-08-04T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Clarence",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 67,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.601478064954,
-          -43.5311478690764
         ]
       }
     },
@@ -685,28 +333,6 @@
     },
     {
       "type": "Feature",
-      "id": 70,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Crosbie",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 70,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.548027322587,
-          -43.5167715669209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 71,
       "properties": {
         "DecommissionDate": null,
@@ -729,160 +355,6 @@
     },
     {
       "type": "Feature",
-      "id": 72,
-      "properties": {
-        "DecommissionDate": "2004-08-13T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Ensors",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 72,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.659956159205,
-          -43.5489278562669
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 73,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Estuary",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 73,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.736970579411,
-          -43.5323014139057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 74,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Fitzgerald",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 74,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.651131306334,
-          -43.5302678477781
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 75,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Grassmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 75,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.614413358297,
-          -43.4926329421589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 76,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Hackthorne",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 76,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627738619869,
-          -43.5781018689618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 77,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Halswell 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 77,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.575559410688,
-          -43.6018447978608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 78,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Hillmorton",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 78,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.593051224022,
-          -43.554267391166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79,
       "properties": {
         "DecommissionDate": null,
@@ -900,28 +372,6 @@
         "coordinates": [
           172.651225598643,
           -43.499015730047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 80,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 80,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.651824949196,
-          -43.5659478295689
         ]
       }
     },
@@ -993,50 +443,6 @@
     },
     {
       "type": "Feature",
-      "id": 85,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Major Aitken 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 85,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.646718382849,
-          -43.5721725766946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 86,
-      "properties": {
-        "DecommissionDate": "2010-08-04T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Mandeville",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 86,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60666031548,
-          -43.5323696021045
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 87,
       "properties": {
         "DecommissionDate": null,
@@ -1054,72 +460,6 @@
         "coordinates": [
           172.661376919034,
           -43.4903854603024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 88,
-      "properties": {
-        "DecommissionDate": "2011-09-01T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Palmers",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 88,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.713570659521,
-          -43.5049641768962
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 89,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Montreal",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 89,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630256091219,
-          -43.5217260480944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 90,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Mays",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 90,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.621705821664,
-          -43.5022579569952
         ]
       }
     },
@@ -1191,28 +531,6 @@
     },
     {
       "type": "Feature",
-      "id": 94,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takahe 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 94,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.634447425374,
-          -43.5814020001313
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 95,
       "properties": {
         "DecommissionDate": null,
@@ -1257,28 +575,6 @@
     },
     {
       "type": "Feature",
-      "id": 100,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Worsley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 100,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.611144156682,
-          -43.5828862912882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 101,
       "properties": {
         "DecommissionDate": null,
@@ -1296,28 +592,6 @@
         "coordinates": [
           172.739980853652,
           -43.5635946592137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Standby",
-        "PumpStationName": "Mairehau",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 102,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.682956700448,
-          -43.4816290296565
         ]
       }
     },
@@ -1362,28 +636,6 @@
         "coordinates": [
           172.757377540089,
           -43.5780644304872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 105,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Parklands",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 105,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.706761526128,
-          -43.4810288009959
         ]
       }
     },
@@ -1499,28 +751,6 @@
     },
     {
       "type": "Feature",
-      "id": 113,
-      "properties": {
-        "DecommissionDate": "",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Dunbars",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 113,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.57115912833,
-          -43.5711789007006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 115,
       "properties": {
         "DecommissionDate": null,
@@ -1543,72 +773,6 @@
     },
     {
       "type": "Feature",
-      "id": 117,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Wrights",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 117,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.596624382037,
-          -43.545661039472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 118,
-      "properties": {
-        "DecommissionDate": "2009-01-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Tara",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 118,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.589872056878,
-          -43.5319785060886
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 119,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Sutherlands 1",
-        "ServiceStatus": "In Service",
-        "Situation": "Submersible pump in reservoir",
-        "WsPumpID": 119,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.587470920977,
-          -43.5961318737077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 121,
       "properties": {
         "DecommissionDate": null,
@@ -1626,28 +790,6 @@
         "coordinates": [
           172.732106216273,
           -43.5696838804457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 122,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Bexley",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 122,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.71458353362,
-          -43.5112273914906
         ]
       }
     },
@@ -1719,50 +861,6 @@
     },
     {
       "type": "Feature",
-      "id": 127,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Burkes Track 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 127,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.586112423882,
-          -43.6238502145783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 128,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 128,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.653730658883,
-          -43.5762333921856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 129,
       "properties": {
         "DecommissionDate": null,
@@ -1807,94 +905,6 @@
     },
     {
       "type": "Feature",
-      "id": 131,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": null,
-        "PumpStationName": null,
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 131,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60021548485,
-          -43.5463024152434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 133,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 133,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.653727308651,
-          -43.5762274235804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 134,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Picton",
-        "ServiceStatus": "In Service",
-        "Situation": "Pump 1",
-        "WsPumpID": 134,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.604120840904,
-          -43.5321574179833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 135,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Picton",
-        "ServiceStatus": "In Service",
-        "Situation": "Pump 2",
-        "WsPumpID": 135,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.604086781729,
-          -43.5321600401023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 138,
       "properties": {
         "DecommissionDate": null,
@@ -1912,28 +922,6 @@
         "coordinates": [
           172.65925381945,
           -43.414782707115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 139,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Brooklands",
-        "ServiceStatus": "In Service",
-        "Situation": "Well 2",
-        "WsPumpID": 139,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692956243556,
-          -43.4071731118616
         ]
       }
     },
@@ -1961,204 +949,6 @@
     },
     {
       "type": "Feature",
-      "id": 141,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Standby",
-        "PumpStationName": "Auburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 141,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.576296354064,
-          -43.5334974122832
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 142,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Auburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 142,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.576287288913,
-          -43.5334573221436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 143,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Auburn",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 143,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.576289984483,
-          -43.5334749356603
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 144,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Avonhead",
-        "ServiceStatus": "In Service",
-        "Situation": "Submersible Pump",
-        "WsPumpID": 144,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.535633607808,
-          -43.518902851096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 145,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Avonhead",
-        "ServiceStatus": "In Service",
-        "Situation": "Submersible Pump",
-        "WsPumpID": 145,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.535641397613,
-          -43.5188137865166
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 146,
-      "properties": {
-        "DecommissionDate": "2010-08-04T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Clarence",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 146,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60174018108,
-          -43.5311442623042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 147,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Belfast",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 147,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.62960866806,
-          -43.4422359408229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 148,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Grampian",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 148,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.605458893793,
-          -43.4773318663039
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 149,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Grampian",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 149,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.605479892922,
-          -43.4773327463353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 150,
       "properties": {
         "DecommissionDate": null,
@@ -2176,182 +966,6 @@
         "coordinates": [
           172.547673070329,
           -43.5166323175382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 151,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Crosbie",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 151,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.547346939331,
-          -43.5164517935328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 152,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Jeffreys",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 152,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.593060189627,
-          -43.5146365037851
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 153,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Jeffreys",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 153,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.593054848794,
-          -43.514622277497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 154,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Jeffreys",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 154,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.593097091135,
-          -43.5146289938677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 155,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Redwood",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 155,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.623551795365,
-          -43.4740868134343
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 156,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Wrights",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 156,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.595747367765,
-          -43.5448627265865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 157,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Wrights",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 157,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.596168615925,
-          -43.5452428145182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 158,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Wrights",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 158,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.596495036019,
-          -43.5455391127129
         ]
       }
     },
@@ -2445,72 +1059,6 @@
     },
     {
       "type": "Feature",
-      "id": 166,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Denton Park",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 166,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.519243809126,
-          -43.5411942563777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 167,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Dunbars",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 167,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.571123208549,
-          -43.5711858481394
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 168,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Dunbars",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 168,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.571195048103,
-          -43.5711719532506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 169,
       "properties": {
         "DecommissionDate": null,
@@ -2533,28 +1081,6 @@
     },
     {
       "type": "Feature",
-      "id": 170,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Main Pumping Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 170,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.638436605181,
-          -43.562513963822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 171,
       "properties": {
         "DecommissionDate": null,
@@ -2572,116 +1098,6 @@
         "coordinates": [
           172.638349556581,
           -43.5625485401997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 172,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Main Pumping Station",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 172,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.638363164821,
-          -43.5625153266245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 173,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ashgrove",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 173,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627364281676,
-          -43.5670909669094
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 175,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ashgrove",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 175,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627374087083,
-          -43.5670997751619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 176,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ashgrove",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 176,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627390316623,
-          -43.5671143596396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 177,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Aldwins",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 177,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.668033695143,
-          -43.539797818538
         ]
       }
     },
@@ -2726,28 +1142,6 @@
         "coordinates": [
           172.718889371054,
           -43.4807024105933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 180,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Blighs",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 180,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.599809242944,
-          -43.5056116700757
         ]
       }
     },
@@ -2841,50 +1235,6 @@
     },
     {
       "type": "Feature",
-      "id": 185,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Thompsons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 185,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.628703802241,
-          -43.4584624523763
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 186,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Worcester",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 186,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.652663645618,
-          -43.5305042875974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 187,
       "properties": {
         "DecommissionDate": null,
@@ -2902,72 +1252,6 @@
         "coordinates": [
           172.705455433177,
           -43.5208944317703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 188,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Estuary",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 188,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.736961241372,
-          -43.5322811926325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 189,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Standby",
-        "PumpStationName": "Estuary",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 189,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.736961416742,
-          -43.5322510616456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 190,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Grassmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 190,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.614392305588,
-          -43.4926220491972
         ]
       }
     },
@@ -2995,28 +1279,6 @@
     },
     {
       "type": "Feature",
-      "id": 192,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Effingham",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 192,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.719988654962,
-          -43.4919448713594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 193,
       "properties": {
         "DecommissionDate": null,
@@ -3034,28 +1296,6 @@
         "coordinates": [
           172.593005582875,
           -43.5542842792608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 194,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Hillmorton",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 194,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.592977138631,
-          -43.55414785379
         ]
       }
     },
@@ -3122,28 +1362,6 @@
         "coordinates": [
           172.683420708733,
           -43.5005767087511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 198,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Kerrs",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 198,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.681640968975,
-          -43.5249220460469
         ]
       }
     },
@@ -3237,28 +1455,6 @@
     },
     {
       "type": "Feature",
-      "id": 204,
-      "properties": {
-        "DecommissionDate": "2011-09-01T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Palmers",
-        "ServiceStatus": "Abandoned",
-        "Situation": null,
-        "WsPumpID": 204,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.713513968525,
-          -43.5049589481145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 205,
       "properties": {
         "DecommissionDate": null,
@@ -3276,94 +1472,6 @@
         "coordinates": [
           172.706783481487,
           -43.4810367942184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 206,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Parklands",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 206,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.706828821109,
-          -43.4810533008602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 207,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Chapmans",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 207,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.686943902146,
-          -43.5644672302022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 208,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Spreydon",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 208,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.614433500297,
-          -43.5646111797125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 209,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Spreydon",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 209,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.614453648517,
-          -43.5645007056413
         ]
       }
     },
@@ -3391,28 +1499,6 @@
     },
     {
       "type": "Feature",
-      "id": 211,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Farrington",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
-        "WsPumpID": 211,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.587954997524,
-          -43.4903753321929
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 212,
       "properties": {
         "DecommissionDate": null,
@@ -3435,138 +1521,6 @@
     },
     {
       "type": "Feature",
-      "id": 213,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Farrington",
-        "ServiceStatus": "In Service",
-        "Situation": "SUR",
-        "WsPumpID": 213,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.587379217605,
-          -43.4904473330812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 214,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "yes",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Sydenham",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 214,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.635519302616,
-          -43.5494071165143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 215,
-      "properties": {
-        "DecommissionDate": "2012-02-14T00:00:00",
-        "Diesel": "yes",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Sydenham",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 215,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63551208075,
-          -43.549474571355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 216,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Woolston",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 216,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.683552763527,
-          -43.5486641899244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 217,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Woolston",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 217,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.683520899724,
-          -43.5486473669843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Tanner",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 218,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.678805030919,
-          -43.5578331750714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 219,
       "properties": {
         "DecommissionDate": null,
@@ -3584,50 +1538,6 @@
         "coordinates": [
           172.589051986775,
           -43.5321108744508
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 220,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Cashmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 220,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630347151492,
-          -43.5712868477252
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 221,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Cashmere",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 221,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630351195842,
-          -43.5712749845579
         ]
       }
     },
@@ -3716,72 +1626,6 @@
         "coordinates": [
           172.706003468815,
           -43.5791779916251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 226,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ennerdale",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 226,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.597815250947,
-          -43.5807601335082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 227,
-      "properties": {
-        "DecommissionDate": "2011-12-05T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 1",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 227,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.65248303491,
-          -43.5657660147998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 228,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Huntsbury 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 228,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.651835262537,
-          -43.5659526286937
         ]
       }
     },
@@ -3919,28 +1763,6 @@
     },
     {
       "type": "Feature",
-      "id": 235,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Murray Aynsley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 235,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.662919045712,
-          -43.5627480948516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 236,
       "properties": {
         "DecommissionDate": null,
@@ -4007,72 +1829,6 @@
     },
     {
       "type": "Feature",
-      "id": 239,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takahe 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 239,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.634430465097,
-          -43.5813997689562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 240,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Templeton",
-        "ServiceStatus": "In Service",
-        "Situation": "Foremans Rd",
-        "WsPumpID": 240,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.502629762541,
-          -43.5455537977099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 241,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Templeton",
-        "ServiceStatus": "In Service",
-        "Situation": "Foremans Rd",
-        "WsPumpID": 241,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.502631256343,
-          -43.5455672553459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 242,
       "properties": {
         "DecommissionDate": null,
@@ -4112,50 +1868,6 @@
         "coordinates": [
           172.728225138429,
           -43.5683059018204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 244,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Westmorland 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 244,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.603007715792,
-          -43.5788838597122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 245,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Worsley 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 245,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.61114896717,
-          -43.582889707354
         ]
       }
     },
@@ -4288,28 +2000,6 @@
         "coordinates": [
           172.698084511927,
           -43.544539338553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Scruttons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 253,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.697441523914,
-          -43.5689359973626
         ]
       }
     },
@@ -4623,50 +2313,6 @@
     },
     {
       "type": "Feature",
-      "id": 268,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Sutherlands 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 268,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.586891687104,
-          -43.5959994625795
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 269,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Sutherlands 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 269,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.586887884086,
-          -43.5960080279108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 270,
       "properties": {
         "DecommissionDate": null,
@@ -4733,50 +2379,6 @@
     },
     {
       "type": "Feature",
-      "id": 274,
-      "properties": {
-        "DecommissionDate": "2013-06-05T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Unknown",
-        "PumpFunction": "Primary",
-        "PumpStationName": "LY Tunnel Rd Well 9",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 274,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.691220351463,
-          -43.5551619924386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 275,
-      "properties": {
-        "DecommissionDate": "2013-06-05T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "LY Tunnel Rd Well 7",
-        "ServiceStatus": "Removed",
-        "Situation": null,
-        "WsPumpID": 275,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.695481088924,
-          -43.5572802546723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 276,
       "properties": {
         "DecommissionDate": null,
@@ -4816,28 +2418,6 @@
         "coordinates": [
           172.64571098875,
           -43.6214911699867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 279,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": null,
-        "PumpStationName": null,
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 279,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.698269134853,
-          -43.5248286594652
         ]
       }
     },
@@ -5041,28 +2621,6 @@
     },
     {
       "type": "Feature",
-      "id": 291,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Belfast",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 291,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.629794471266,
-          -43.4420175650746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 293,
       "properties": {
         "DecommissionDate": "2008-07-01T00:00:00",
@@ -5102,72 +2660,6 @@
         "coordinates": [
           172.951977282846,
           -43.786543108469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 295,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": null,
-        "PumpStationName": "Carters Rd Well 5",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 295,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.707759770121,
-          -43.5210757520544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 296,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Non Verified",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Spreydon",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 296,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.613933301069,
-          -43.5645259668923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 298,
-      "properties": {
-        "DecommissionDate": "2013-06-01T00:00:00",
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Estuary",
-        "ServiceStatus": "Removed",
-        "Situation": "Well 3",
-        "WsPumpID": 298,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.735522761616,
-          -43.5324907921688
         ]
       }
     },
@@ -5217,50 +2709,6 @@
     },
     {
       "type": "Feature",
-      "id": 301,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Sutherlands 1",
-        "ServiceStatus": "In Service",
-        "Situation": "Submersible pump in reservoir",
-        "WsPumpID": 301,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.587468089834,
-          -43.5961358421441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 302,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Halswell 1",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 302,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.575562277552,
-          -43.6018535101237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 303,
       "properties": {
         "DecommissionDate": null,
@@ -5278,50 +2726,6 @@
         "coordinates": [
           172.718371724228,
           -43.5811153624515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 304,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Hackthorne",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 304,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627744539637,
-          -43.5782007815744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 306,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Bell Farm Pump",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 306,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.640871494643,
-          -43.5863114980486
         ]
       }
     },
@@ -5371,72 +2775,6 @@
     },
     {
       "type": "Feature",
-      "id": 310,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "PS1117 Wilmers WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 310,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.538336864755,
-          -43.5569135004547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 311,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "PS1117 Wilmers WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 311,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.538385521794,
-          -43.5568677676248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 312,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "PS1117 Wilmers WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 312,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.538361192863,
-          -43.5568907690509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 313,
       "properties": {
         "DecommissionDate": null,
@@ -5459,28 +2797,6 @@
     },
     {
       "type": "Feature",
-      "id": 314,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "PS1117 Wilmers WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 314,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.538586115329,
-          -43.5571215841605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 315,
       "properties": {
         "DecommissionDate": null,
@@ -5498,50 +2814,6 @@
         "coordinates": [
           172.720587537807,
           -43.5060025860842
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 316,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": null,
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "PS1119 Keyes WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 316,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720602654795,
-          -43.5059918707028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 317,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": null,
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "PS1119 Keyes WS",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 317,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720619734443,
-          -43.5059790114638
         ]
       }
     },
@@ -5652,50 +2924,6 @@
         "coordinates": [
           172.70829752394,
           -43.5641188632776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 323,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "PS1546 Ferrymead Park",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 323,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.708275450677,
-          -43.5641152771028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 324,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Survey Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Westmorland 3",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 324,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.606374491794,
-          -43.5879254682809
         ]
       }
     },
@@ -6075,94 +3303,6 @@
     },
     {
       "type": "Feature",
-      "id": 344,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Prestons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 344,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.663453461006,
-          -43.47387244615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 345,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Booster",
-        "PumpStationName": "Prestons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 345,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.663650210367,
-          -43.4731797044342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 346,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Prestons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 346,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.665070561222,
-          -43.473406839244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 347,
-      "properties": {
-        "DecommissionDate": null,
-        "Diesel": "no",
-        "LocationCertainty": "Accurate",
-        "PumpFunction": "Primary",
-        "PumpStationName": "Prestons",
-        "ServiceStatus": "In Service",
-        "Situation": null,
-        "WsPumpID": 347,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.665072016749,
-          -43.4734221097414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 348,
       "properties": {
         "DecommissionDate": null,
@@ -6183,11 +3323,5 @@
         ]
       }
     }
-  ],
-  "bbox": [
-    172.502628268739,
-    -43.8191525069589,
-    172.989498789066,
-    -43.4071731118616
   ]
 }
