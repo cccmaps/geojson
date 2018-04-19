@@ -42,6 +42,90 @@
           -43.52055131607336
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Rhododendron Border"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60679125785828,
+          -43.521115346994534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Parking",
+        "Name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60788023471832,
+          -43.52365536573088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Pond",
+        "Name": "Lily Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6080545783043,
+          -43.52350561261584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Toilet",
+        "Name": "Toilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60860174894333,
+          -43.52375260781431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Building",
+        "Name": "Homestead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60851860046387,
+          -43.523283899529154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Road Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6075181365013,
+          -43.5229046515709
+        ]
+      }
     }
   ]
 }
