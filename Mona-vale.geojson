@@ -103,7 +103,9 @@
       "type": "Feature",
       "properties": {
         "Type": "Building",
-        "Name": "Homestead"
+        "Name": "Homestead",
+        "Description": "xxxxx",
+        "Hours": "9-5"
       },
       "geometry": {
         "type": "Point",
