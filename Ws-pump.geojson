@@ -19,7 +19,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +48,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +77,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +106,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +135,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Abandon"
+        "Pinstatus": "Abandon",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +164,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +193,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +222,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +251,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Secure"
+        "Pinstatus": "Secure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +280,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +309,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +338,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +367,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -383,7 +396,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +425,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +454,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +483,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +512,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Abandon"
+        "Pinstatus": "Abandon",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -523,7 +541,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +570,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +599,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Abandon"
+        "Pinstatus": "Abandon",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -607,7 +628,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -635,7 +657,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +686,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -691,7 +715,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +744,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +773,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "MakeSecure"
+        "Pinstatus": "MakeSecure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +802,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "NewWells"
+        "Pinstatus": "NewWells",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +831,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "MakeSecure"
+        "Pinstatus": "MakeSecure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +860,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +889,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +918,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -915,7 +947,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +976,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -971,7 +1005,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1034,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1027,7 +1063,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1055,7 +1092,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1121,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Abandon"
+        "Pinstatus": "Abandon",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1111,7 +1150,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1139,7 +1179,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1208,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1195,7 +1237,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1223,7 +1266,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "UV"
+        "Pinstatus": "UV",
+        "furtherdiscussion": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1295,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseDifficult"
+        "Pinstatus": "RaiseDifficult",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1279,7 +1324,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1307,7 +1353,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1382,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "RaiseEasy"
+        "Pinstatus": "RaiseEasy",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1363,7 +1411,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Secure"
+        "Pinstatus": "Secure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1391,7 +1440,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "NewWells"
+        "Pinstatus": "NewWells",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1419,7 +1469,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Secure"
+        "Pinstatus": "Secure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1447,7 +1498,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "Abandon"
+        "Pinstatus": "Abandon",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
@@ -1475,7 +1527,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Pinstatus": "MakeSecure"
+        "Pinstatus": "MakeSecure",
+        "furtherdiscussion": "No"
       },
       "geometry": {
         "type": "Point",
