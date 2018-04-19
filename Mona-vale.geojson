@@ -128,6 +128,20 @@
           -43.5229046515709
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Waymouth Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60881900787354,
+          -43.523760387174214
+        ]
+      }
     }
   ]
 }
