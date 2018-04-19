@@ -8,7 +8,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Burwood",
         "WsPumpID": 3,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1081
       },
       "geometry": {
         "type": "Point",
@@ -20,80 +21,13 @@
     },
     {
       "type": "Feature",
-      "id": 22,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 1",
-        "WsPumpID": 22,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716953946728,
-          -43.5577512009809
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 28,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 2",
-        "WsPumpID": 28,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.715917471902,
-          -43.5628010072155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 33,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "McCormacks",
-        "WsPumpID": 33,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.729933076192,
-          -43.5618533658839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 34,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Clifton 3",
-        "WsPumpID": 34,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.746925066727,
-          -43.5722625345118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 36,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Palatine",
         "WsPumpID": 36,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1028
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +44,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "St Johns",
         "WsPumpID": 37,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1063
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +62,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Addington",
         "WsPumpID": 52,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1001
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +80,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Grampian",
         "WsPumpID": 53,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1074
       },
       "geometry": {
         "type": "Point",
@@ -156,29 +93,13 @@
     },
     {
       "type": "Feature",
-      "id": 54,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Sockburn",
-        "WsPumpID": 54,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.556810955712,
-          -43.5382181860213
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 58,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Auburn",
         "WsPumpID": 58,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1068
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +116,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Averill",
         "WsPumpID": 59,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1005
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +134,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Belfast",
         "WsPumpID": 60,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1070
       },
       "geometry": {
         "type": "Point",
@@ -224,46 +147,13 @@
     },
     {
       "type": "Feature",
-      "id": 64,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Carters",
-        "WsPumpID": 64,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.705466790946,
-          -43.5208872966616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 68,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Clifton 1",
-        "WsPumpID": 68,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.749032800572,
-          -43.5643784841551
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 71,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Effingham",
         "WsPumpID": 71,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1010
       },
       "geometry": {
         "type": "Point",
@@ -275,29 +165,13 @@
     },
     {
       "type": "Feature",
-      "id": 79,
-      "properties": {
-        "PumpFunction": "Standby",
-        "PumpStationName": "Hills",
-        "WsPumpID": 79,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.651225598643,
-          -43.499015730047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 81,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Jeffreys",
         "WsPumpID": 81,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1076
       },
       "geometry": {
         "type": "Point",
@@ -309,29 +183,13 @@
     },
     {
       "type": "Feature",
-      "id": 82,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Kainga",
-        "WsPumpID": 82,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.659253642417,
-          -43.4147790332823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 83,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Lake Terrace",
         "WsPumpID": 83,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1023
       },
       "geometry": {
         "type": "Point",
@@ -343,46 +201,13 @@
     },
     {
       "type": "Feature",
-      "id": 87,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Marshlands",
-        "WsPumpID": 87,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.661376919034,
-          -43.4903854603024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 91,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Port Hills",
-        "WsPumpID": 91,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.706012858097,
-          -43.5791756310715
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 92,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Redwood",
         "WsPumpID": 92,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1077
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +224,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Spreydon",
         "WsPumpID": 93,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1030
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +242,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Tanner",
         "WsPumpID": 95,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1095
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +260,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Thorrington",
         "WsPumpID": 97,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1034
       },
       "geometry": {
         "type": "Point",
@@ -445,97 +273,13 @@
     },
     {
       "type": "Feature",
-      "id": 101,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Moncks Spur 1",
-        "WsPumpID": 101,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.739980853652,
-          -43.5635946592137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 4",
-        "WsPumpID": 103,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.725532095518,
-          -43.5759093434864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 104,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ocean View 1",
-        "WsPumpID": 104,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.757377540089,
-          -43.5780644304872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 106,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Scarborough 1",
-        "WsPumpID": 106,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.769664400897,
-          -43.5742118577379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 107,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Scarborough 2",
-        "WsPumpID": 107,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.77132219628,
-          -43.5761873595768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 109,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Sydenham",
         "WsPumpID": 109,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1031
       },
       "geometry": {
         "type": "Point",
@@ -552,7 +296,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Trafalgar",
         "WsPumpID": 110,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1035
       },
       "geometry": {
         "type": "Point",
@@ -569,7 +314,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Woolston",
         "WsPumpID": 111,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1065
       },
       "geometry": {
         "type": "Point",
@@ -586,7 +332,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Kerrs",
         "WsPumpID": 115,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1022
       },
       "geometry": {
         "type": "Point",
@@ -598,29 +345,13 @@
     },
     {
       "type": "Feature",
-      "id": 121,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Moncks Spur 2",
-        "WsPumpID": 121,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.732106216273,
-          -43.5696838804457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 123,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Avonhead",
         "WsPumpID": 123,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1069
       },
       "geometry": {
         "type": "Point",
@@ -632,29 +363,13 @@
     },
     {
       "type": "Feature",
-      "id": 124,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Mt Pleasant No. 3",
-        "WsPumpID": 124,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716703762084,
-          -43.5687252319538
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 126,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Brooklands",
         "WsPumpID": 126,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1066
       },
       "geometry": {
         "type": "Point",
@@ -666,46 +381,13 @@
     },
     {
       "type": "Feature",
-      "id": 129,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Moncks Spur 3",
-        "WsPumpID": 129,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.727107448177,
-          -43.5710573283295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 130,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "La Mar",
-        "WsPumpID": 130,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.757152162719,
-          -43.5834745923126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 138,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Kainga",
         "WsPumpID": 138,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1067
       },
       "geometry": {
         "type": "Point",
@@ -722,7 +404,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Picton",
         "WsPumpID": 140,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1088
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +422,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Crosbie",
         "WsPumpID": 150,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1072
       },
       "geometry": {
         "type": "Point",
@@ -751,29 +435,13 @@
     },
     {
       "type": "Feature",
-      "id": 159,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Sockburn",
-        "WsPumpID": 159,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.556830611998,
-          -43.5382381383054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 160,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Sockburn",
         "WsPumpID": 160,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1109
       },
       "geometry": {
         "type": "Point",
@@ -785,29 +453,13 @@
     },
     {
       "type": "Feature",
-      "id": 164,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Morgans Valley 1",
-        "WsPumpID": 164,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.71306746709,
-          -43.5781957350141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 165,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Denton Park",
         "WsPumpID": 165,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1099
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +476,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Burnside",
         "WsPumpID": 169,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1071
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +494,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Main Pumping Station",
         "WsPumpID": 171,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1024
       },
       "geometry": {
         "type": "Point",
@@ -858,7 +512,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Aldwins",
         "WsPumpID": 178,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1002
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +530,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Aston Drive",
         "WsPumpID": 179,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1004
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +548,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Blighs",
         "WsPumpID": 181,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1007
       },
       "geometry": {
         "type": "Point",
@@ -904,63 +561,13 @@
     },
     {
       "type": "Feature",
-      "id": 182,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Burwood",
-        "WsPumpID": 182,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.683961664501,
-          -43.4897142508816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 183,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Burwood",
-        "WsPumpID": 183,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.683943382243,
-          -43.4897175611179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 184,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Morgans Valley 2",
-        "WsPumpID": 184,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.718371425032,
-          -43.5811126710912
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 187,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Carters",
         "WsPumpID": 187,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1008
       },
       "geometry": {
         "type": "Point",
@@ -977,7 +584,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Grassmere",
         "WsPumpID": 191,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1014
       },
       "geometry": {
         "type": "Point",
@@ -994,7 +602,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Hillmorton",
         "WsPumpID": 193,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1016
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +620,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Hills",
         "WsPumpID": 195,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1017
       },
       "geometry": {
         "type": "Point",
@@ -1023,46 +633,13 @@
     },
     {
       "type": "Feature",
-      "id": 196,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Hills",
-        "WsPumpID": 196,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.651264914208,
-          -43.4990703014617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 197,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Lake Terrace",
-        "WsPumpID": 197,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.683420708733,
-          -43.5005767087511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 199,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Mairehau",
         "WsPumpID": 199,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1083
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +656,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Marshlands",
         "WsPumpID": 201,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1084
       },
       "geometry": {
         "type": "Point",
@@ -1096,7 +674,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Mays",
         "WsPumpID": 202,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1026
       },
       "geometry": {
         "type": "Point",
@@ -1113,7 +692,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Montreal",
         "WsPumpID": 203,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1027
       },
       "geometry": {
         "type": "Point",
@@ -1130,7 +710,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Parklands",
         "WsPumpID": 205,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1085
       },
       "geometry": {
         "type": "Point",
@@ -1147,7 +728,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "St Johns",
         "WsPumpID": 210,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1063
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +746,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Farrington",
         "WsPumpID": 212,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1073
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +764,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Tara",
         "WsPumpID": 219,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1089
       },
       "geometry": {
         "type": "Point",
@@ -1193,267 +777,13 @@
     },
     {
       "type": "Feature",
-      "id": 222,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Clifton 2",
-        "WsPumpID": 222,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.750218926914,
-          -43.5672277294389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 223,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Clifton 3",
-        "WsPumpID": 223,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.746931174502,
-          -43.5722693092246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 224,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Clifton 2",
-        "WsPumpID": 224,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.750189359827,
-          -43.5672271631706
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 225,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Port Hills",
-        "WsPumpID": 225,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.706003468815,
-          -43.5791779916251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 229,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Moncks Spur 1",
-        "WsPumpID": 229,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.739994253288,
-          -43.563594815723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 230,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 1",
-        "WsPumpID": 230,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716935552251,
-          -43.5577603664879
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 231,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 1",
-        "WsPumpID": 231,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716931822295,
-          -43.5577353482531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 232,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 1",
-        "WsPumpID": 232,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716937421214,
-          -43.5577000028993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 233,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Moncks Spur 3",
-        "WsPumpID": 233,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.727095644008,
-          -43.5710508112882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 234,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Mt Pleasant 4",
-        "WsPumpID": 234,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.725539883652,
-          -43.5759017449467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 236,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Ocean View 1",
-        "WsPumpID": 236,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.757386928882,
-          -43.5780705759278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 237,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Scarborough 1",
-        "WsPumpID": 237,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.769657373458,
-          -43.5742187344542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 238,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Scarborough 2",
-        "WsPumpID": 238,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.771314215499,
-          -43.5762020942681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 242,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Upper Balmoral",
-        "WsPumpID": 242,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.728231935272,
-          -43.568302994721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 243,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Upper Balmoral",
-        "WsPumpID": 243,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.728225138429,
-          -43.5683059018204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 246,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Worcester",
         "WsPumpID": 246,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1037
       },
       "geometry": {
         "type": "Point",
@@ -1470,7 +800,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Thompsons",
         "WsPumpID": 247,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1078
       },
       "geometry": {
         "type": "Point",
@@ -1482,63 +813,13 @@
     },
     {
       "type": "Feature",
-      "id": 248,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Buxtons 1",
-        "WsPumpID": 248,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.702738455946,
-          -43.6065640426971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 249,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Exeter",
-        "WsPumpID": 249,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720080765341,
-          -43.5994250001206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 250,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Somes",
-        "WsPumpID": 250,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.72289556394,
-          -43.5963876299777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 252,
       "properties": {
         "PumpFunction": "Primary",
-        "PumpStationName": "LY Dyers",
+        "PumpStationName": "Dyers",
         "WsPumpID": 252,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1529
       },
       "geometry": {
         "type": "Point",
@@ -1550,267 +831,13 @@
     },
     {
       "type": "Feature",
-      "id": 254,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB Hayes 1",
-        "WsPumpID": 254,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.646815358579,
-          -43.6191271861042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB Ernest Adams 1",
-        "WsPumpID": 255,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.645034450227,
-          -43.6257834901644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 256,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB (Stewarts)",
-        "WsPumpID": 256,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.659597010819,
-          -43.6184332228342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB (Stewarts)",
-        "WsPumpID": 257,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.659598632983,
-          -43.6184274920935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB Hayes 1",
-        "WsPumpID": 258,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.646812836909,
-          -43.6191211580366
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH James",
-        "WsPumpID": 259,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.719351445544,
-          -43.6259562987787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 260,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Whero",
-        "WsPumpID": 260,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.73577521332,
-          -43.6286580419014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Ngatea",
-        "WsPumpID": 261,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.731091849089,
-          -43.6287915755267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 262,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Waipapa",
-        "WsPumpID": 262,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.739589197413,
-          -43.6295846625744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "BF Bayleys",
-        "WsPumpID": 263,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692570769193,
-          -43.8172773309025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 264,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "AK Watson 1",
-        "WsPumpID": 264,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.97102487192,
-          -43.8087893012381
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "AK Lighthouse 1",
-        "WsPumpID": 265,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.960342107655,
-          -43.8150567911761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 266,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "AK Watson 2",
-        "WsPumpID": 266,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.968877444585,
-          -43.8108320469356
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "AK Langlois 1",
-        "WsPumpID": 267,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.9751866545,
-          -43.8087940258808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Hunters",
-        "WsPumpID": 270,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.727225777908,
-          -43.6318450940877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 271,
       "properties": {
         "PumpFunction": "Primary",
-        "PumpStationName": "WN Wainui Valley 1",
+        "PumpStationName": "Wainui Valley",
         "WsPumpID": 271,
-        "Chlorinationstatus": "To receive chlorine"
+        "Chlorinationstatus": "To receive chlorine",
+        "PS ID": 1541
       },
       "geometry": {
         "type": "Point",
@@ -1822,63 +849,13 @@
     },
     {
       "type": "Feature",
-      "id": 273,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "AK Settlers Hill",
-        "WsPumpID": 273,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.971983402371,
-          -43.8069217451151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "LR Council Hill WSTP",
-        "WsPumpID": 276,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.78723666731,
-          -43.7667941557955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 278,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "GB The Terrace 1",
-        "WsPumpID": 278,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.64571098875,
-          -43.6214911699867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Dunbars",
         "WsPumpID": 280,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1102
       },
       "geometry": {
         "type": "Point",
@@ -1890,267 +867,13 @@
     },
     {
       "type": "Feature",
-      "id": 281,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": null,
-        "WsPumpID": 281,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.727124595141,
-          -43.596865238103
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "AK Aylmer's WSTP",
-        "WsPumpID": 282,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.966224941025,
-          -43.8191525069589
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 283,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "BF Bayleys",
-        "WsPumpID": 283,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692573074105,
-          -43.8172654883455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 285,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DV Duvauchelle WSTP",
-        "WsPumpID": 285,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948546014604,
-          -43.7587662985829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 286,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "DV Duvauchelle WSTP",
-        "WsPumpID": 286,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948521759355,
-          -43.7587330164987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 287,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "TK Takamatua Valley WSTP",
-        "WsPumpID": 287,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.989498789066,
-          -43.7909191599596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "LY Dyers",
-        "WsPumpID": 289,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.698093742984,
-          -43.5445299675512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 290,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Hunters",
-        "WsPumpID": 290,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.727214550275,
-          -43.6318458518096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293,
-      "properties": {
-        "PumpFunction": null,
-        "PumpStationName": "Warnerville 1",
-        "WsPumpID": 293,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.903573051472,
-          -43.8106292515011
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 294,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "TK Kingfisher 1",
-        "WsPumpID": 294,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.951977282846,
-          -43.786543108469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 299,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Doris Faigan",
-        "WsPumpID": 299,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720598615224,
-          -43.6371019706226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 300,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DH Doris Faigan",
-        "WsPumpID": 300,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720605606937,
-          -43.6371038131341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 303,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Morgans Valley 2",
-        "WsPumpID": 303,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.718371724228,
-          -43.5811153624515
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 307,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Mt Pleasant No. 3",
-        "WsPumpID": 307,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.716709123294,
-          -43.5687175729317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 309,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "AK Aylmer's WSTP",
-        "WsPumpID": 309,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.966282281098,
-          -43.81910381465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 313,
       "properties": {
         "PumpFunction": "Booster",
-        "PumpStationName": "PS1117 Wilmers WS",
+        "PumpStationName": "Wilmers",
         "WsPumpID": 313,
-        "Chlorinationstatus": "Chlorinated"
+        "Chlorinationstatus": "Chlorinated",
+        "PS ID": 1117
       },
       "geometry": {
         "type": "Point",
@@ -2165,9 +888,10 @@
       "id": 315,
       "properties": {
         "PumpFunction": "Primary",
-        "PumpStationName": "PS1119 Keyes WS",
+        "PumpStationName": "Keyes",
         "WsPumpID": 315,
-        "Chlorinationstatus": "Not treated"
+        "Chlorinationstatus": "Not treated",
+        "PS ID": 1119
       },
       "geometry": {
         "type": "Point",
@@ -2179,369 +903,13 @@
     },
     {
       "type": "Feature",
-      "id": 318,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takamatua Booster Pump Station",
-        "WsPumpID": 318,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.970417948425,
-          -43.7959403918519
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 319,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takamatua Booster Pump Station",
-        "WsPumpID": 319,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.970402338274,
-          -43.7959425147722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 320,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takamatua Raw Water Pump Station",
-        "WsPumpID": 320,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.98943058602,
-          -43.79093437567
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 321,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "Takamatua Raw Water Pump Station",
-        "WsPumpID": 321,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.989432008544,
-          -43.7909256402572
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 322,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "PS1546 Ferrymead Park",
-        "WsPumpID": 322,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.70829752394,
-          -43.5641188632776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 325,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LR Council Hill",
-        "WsPumpID": 325,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.79086916853,
-          -43.7681979641233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 326,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LR Council Hill",
-        "WsPumpID": 326,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.790861006138,
-          -43.7681903011334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 327,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "BF Jones",
-        "WsPumpID": 327,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.653082409747,
-          -43.8122210594505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 328,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "BF Jones",
-        "WsPumpID": 328,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.653081262614,
-          -43.8122101441348
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 330,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Exeter",
-        "WsPumpID": 330,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.72008755592,
-          -43.5994190178055
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 331,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Exeter",
-        "WsPumpID": 331,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.720094774116,
-          -43.5994126882104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 332,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "LY Somes",
-        "WsPumpID": 332,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.722908067868,
-          -43.5963880706274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 333,
-      "properties": {
-        "PumpFunction": null,
-        "PumpStationName": "DV Devauch Wtr Tplant",
-        "WsPumpID": 333,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948415490404,
-          -43.7587348042542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 334,
-      "properties": {
-        "PumpFunction": null,
-        "PumpStationName": "DV Devauch Wtr Tplant",
-        "WsPumpID": 334,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948422892202,
-          -43.7587363143219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 335,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DV Devauch Wtr Tplant",
-        "WsPumpID": 335,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948430228651,
-          -43.7586953336853
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 336,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "DV Devauch Wtr Tplant",
-        "WsPumpID": 336,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948437543463,
-          -43.7586968265149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 337,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "BF Treatment Plant",
-        "WsPumpID": 337,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692582390352,
-          -43.8173674103289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 338,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "BF Treatment Plant",
-        "WsPumpID": 338,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692582004113,
-          -43.8173721227205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 339,
-      "properties": {
-        "PumpFunction": "Booster",
-        "PumpStationName": "BF Treatment Plant",
-        "WsPumpID": 339,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692606913079,
-          -43.8173954603302
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 341,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Clifton 5",
-        "WsPumpID": 341,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.747065304927,
-          -43.5664486334063
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 342,
-      "properties": {
-        "PumpFunction": "Primary",
-        "PumpStationName": "Clifton 5",
-        "WsPumpID": 342,
-        "Chlorinationstatus": "To receive chlorine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.747066960616,
-          -43.5664396955253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": 343,
       "properties": {
         "PumpFunction": "Primary",
         "PumpStationName": "Estuary",
         "WsPumpID": 343,
-        "Chlorinationstatus": "Not treated"
+        "Chlorinationstatus": "Not treated",
+        "PS ID": 1012
       },
       "geometry": {
         "type": "Point",
@@ -2558,7 +926,8 @@
         "PumpFunction": "Primary",
         "PumpStationName": "Prestons",
         "WsPumpID": 348,
-        "Chlorinationstatus": "Not treated"
+        "Chlorinationstatus": "Not treated",
+        "PS ID": 1123
       },
       "geometry": {
         "type": "Point",
