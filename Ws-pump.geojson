@@ -6,16 +6,16 @@
       "id": 3,
       "properties": {
         "PumpStationName": "Burwood",
-        "PS ID": 1081,
-        "Current status": "To receive chlorine",
-        "Proposed treatment": "null",
-        "Work needed to confirm scope": "null",
+        "PSID": 1081,
+        "Currentstatus": "To receive chlorine",
+        "Proposedtreatment": "null",
+        "Workneededtoconfirmscope": "null",
         "Criticality": "null",
-        "Well 1": "null",
-        "Well 2": "null",
-        "Well 3": "null",
-        "Well 4": "null",
-        "Well 5": "null"
+        "Well1": "null",
+        "Well2": "null",
+        "Well3": "null",
+        "Well4": "null",
+        "Well5": "null"
       },
       "geometry": {
         "type": "Point",
@@ -30,8 +30,8 @@
       "id": 122,
       "properties": {
         "PumpStationName": "Bexley",
-        "PS ID": 1006,
-        "Current status": ""
+        "PSID": 1006,
+        "Currentstatus": ""
       },
       "geometry": {
         "type": "Point",
@@ -46,9 +46,9 @@
       "id": 36,
       "properties": {
         "PumpStationName": "Palatine",
-        "PS ID": 1028,
-        "Current status": "To receive chlorine",
-        "Well 1": ""
+        "PSID": 1028,
+        "Currentstatus": "To receive chlorine",
+        "Well1": ""
       },
       "geometry": {
         "type": "Point",
@@ -63,8 +63,8 @@
       "id": 37,
       "properties": {
         "PumpStationName": "St Johns",
-        "PS ID": 1063,
-        "Current status": "To receive chlorine"
+        "PSID": 1063,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -79,8 +79,8 @@
       "id": 52,
       "properties": {
         "PumpStationName": "Addington",
-        "PS ID": 1001,
-        "Current status": "To receive chlorine"
+        "PSID": 1001,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -95,9 +95,9 @@
       "id": 53,
       "properties": {
         "PumpStationName": "Grampian",
-        "PS ID": 1074,
-        "Current status": "To receive chlorine",
-        "Proposed treatment": ""
+        "PSID": 1074,
+        "Currentstatus": "To receive chlorine",
+        "Proposedtreatment": ""
       },
       "geometry": {
         "type": "Point",
@@ -112,8 +112,8 @@
       "id": 58,
       "properties": {
         "PumpStationName": "Auburn",
-        "PS ID": 1068,
-        "Current status": "Chlorinated"
+        "PSID": 1068,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -128,8 +128,8 @@
       "id": 59,
       "properties": {
         "PumpStationName": "Averill",
-        "PS ID": 1005,
-        "Current status": "To receive chlorine"
+        "PSID": 1005,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -144,8 +144,8 @@
       "id": 60,
       "properties": {
         "PumpStationName": "Belfast",
-        "PS ID": 1070,
-        "Current status": "To receive chlorine"
+        "PSID": 1070,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -160,8 +160,8 @@
       "id": 71,
       "properties": {
         "PumpStationName": "Effingham",
-        "PS ID": 1010,
-        "Current status": "To receive chlorine"
+        "PSID": 1010,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -176,8 +176,8 @@
       "id": 81,
       "properties": {
         "PumpStationName": "Jeffreys",
-        "PS ID": 1076,
-        "Current status": "Chlorinated"
+        "PSID": 1076,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -192,8 +192,8 @@
       "id": 83,
       "properties": {
         "PumpStationName": "Lake Terrace",
-        "PS ID": 1023,
-        "Current status": "To receive chlorine"
+        "PSID": 1023,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -208,8 +208,8 @@
       "id": 92,
       "properties": {
         "PumpStationName": "Redwood",
-        "PS ID": 1077,
-        "Current status": "Chlorinated"
+        "PSID": 1077,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -224,8 +224,8 @@
       "id": 93,
       "properties": {
         "PumpStationName": "Spreydon",
-        "PS ID": 1030,
-        "Current status": "To receive chlorine"
+        "PSID": 1030,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -240,8 +240,8 @@
       "id": 95,
       "properties": {
         "PumpStationName": "Tanner",
-        "PS ID": 1095,
-        "Current status": "To receive chlorine"
+        "PSID": 1095,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -256,9 +256,9 @@
       "id": 97,
       "properties": {
         "PumpStationName": "Thorrington",
-        "PS ID": 1034,
-        "Current status": "To receive chlorine",
-        "Work needed to confirm scope": ""
+        "PSID": 1034,
+        "Currentstatus": "To receive chlorine",
+        "Workneededtoconfirmscope": ""
       },
       "geometry": {
         "type": "Point",
@@ -273,8 +273,8 @@
       "id": 109,
       "properties": {
         "PumpStationName": "Sydenham",
-        "PS ID": 1031,
-        "Current status": "To receive chlorine"
+        "PSID": 1031,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -289,8 +289,8 @@
       "id": 110,
       "properties": {
         "PumpStationName": "Trafalgar",
-        "PS ID": 1035,
-        "Current status": "To receive chlorine"
+        "PSID": 1035,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -305,8 +305,8 @@
       "id": 111,
       "properties": {
         "PumpStationName": "Woolston",
-        "PS ID": 1065,
-        "Current status": "To receive chlorine"
+        "PSID": 1065,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -321,8 +321,8 @@
       "id": 115,
       "properties": {
         "PumpStationName": "Kerrs",
-        "PS ID": 1022,
-        "Current status": "To receive chlorine"
+        "PSID": 1022,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -337,8 +337,8 @@
       "id": 123,
       "properties": {
         "PumpStationName": "Avonhead",
-        "PS ID": 1069,
-        "Current status": "Chlorinated"
+        "PSID": 1069,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -353,10 +353,10 @@
       "id": 126,
       "properties": {
         "PumpStationName": "Brooklands",
-        "PS ID": 1066,
-        "Current status": "Subject to temporary chlorination",
-        "Proposed treatment": "Wells 1 and 2 raise wellheads above ground or abandon Well 2. Note Well 2 is very close to the river and is flood prone. Trees adjacent to Well 1 may hinder construction.",
-        "Work needed to confirm scope": "Modelling to assess whether Well 2 can be abandoned"
+        "PSID": 1066,
+        "Currentstatus": "Subject to temporary chlorination",
+        "Proposedtreatment": "Wells 1 and 2 raise wellheads above ground or abandon Well2. Note Well2 is very close to the river and is flood prone. Trees adjacent to Well1 may hinder construction.",
+        "Workneededtoconfirmscope": "Modelling to assess whether Well2 can be abandoned"
       },
       "geometry": {
         "type": "Point",
@@ -371,8 +371,8 @@
       "id": 138,
       "properties": {
         "PumpStationName": "Kainga",
-        "PS ID": 1067,
-        "Current status": "Chlorinated"
+        "PSID": 1067,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -387,8 +387,8 @@
       "id": 140,
       "properties": {
         "PumpStationName": "Picton",
-        "PS ID": 1088,
-        "Current status": "Chlorinated"
+        "PSID": 1088,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -403,8 +403,8 @@
       "id": 150,
       "properties": {
         "PumpStationName": "Crosbie",
-        "PS ID": 1072,
-        "Current status": "To receive chlorine"
+        "PSID": 1072,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -419,8 +419,8 @@
       "id": 160,
       "properties": {
         "PumpStationName": "Sockburn",
-        "PS ID": 1109,
-        "Current status": "Chlorinated"
+        "PSID": 1109,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -435,8 +435,8 @@
       "id": 165,
       "properties": {
         "PumpStationName": "Denton Park",
-        "PS ID": 1099,
-        "Current status": "Chlorinated"
+        "PSID": 1099,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -451,8 +451,8 @@
       "id": 169,
       "properties": {
         "PumpStationName": "Burnside",
-        "PS ID": 1071,
-        "Current status": "Chlorinated"
+        "PSID": 1071,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -467,8 +467,8 @@
       "id": 171,
       "properties": {
         "PumpStationName": "Main Pumping Station",
-        "PS ID": 1024,
-        "Current status": "To receive chlorine"
+        "PSID": 1024,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -483,8 +483,8 @@
       "id": 178,
       "properties": {
         "PumpStationName": "Aldwins",
-        "PS ID": 1002,
-        "Current status": "To receive chlorine"
+        "PSID": 1002,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -499,8 +499,8 @@
       "id": 179,
       "properties": {
         "PumpStationName": "Aston Drive",
-        "PS ID": 1004,
-        "Current status": "To receive chlorine"
+        "PSID": 1004,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -515,8 +515,8 @@
       "id": 181,
       "properties": {
         "PumpStationName": "Blighs",
-        "PS ID": 1007,
-        "Current status": "To receive chlorine"
+        "PSID": 1007,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -531,8 +531,8 @@
       "id": 187,
       "properties": {
         "PumpStationName": "Carters",
-        "PS ID": 1008,
-        "Current status": "To receive chlorine"
+        "PSID": 1008,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -547,8 +547,8 @@
       "id": 191,
       "properties": {
         "PumpStationName": "Grassmere",
-        "PS ID": 1014,
-        "Current status": "To receive chlorine"
+        "PSID": 1014,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -563,8 +563,8 @@
       "id": 193,
       "properties": {
         "PumpStationName": "Hillmorton",
-        "PS ID": 1016,
-        "Current status": "To receive chlorine"
+        "PSID": 1016,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -579,8 +579,8 @@
       "id": 195,
       "properties": {
         "PumpStationName": "Hills",
-        "PS ID": 1017,
-        "Current status": "To receive chlorine"
+        "PSID": 1017,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -595,8 +595,8 @@
       "id": 199,
       "properties": {
         "PumpStationName": "Mairehau",
-        "PS ID": 1083,
-        "Current status": "To chlorinate this week"
+        "PSID": 1083,
+        "Currentstatus": "To chlorinate this week"
       },
       "geometry": {
         "type": "Point",
@@ -611,8 +611,8 @@
       "id": 201,
       "properties": {
         "PumpStationName": "Marshlands",
-        "PS ID": 1084,
-        "Current status": "Chlorinated"
+        "PSID": 1084,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -627,8 +627,8 @@
       "id": 202,
       "properties": {
         "PumpStationName": "Mays",
-        "PS ID": 1026,
-        "Current status": "To receive chlorine"
+        "PSID": 1026,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -643,8 +643,8 @@
       "id": 203,
       "properties": {
         "PumpStationName": "Montreal",
-        "PS ID": 1027,
-        "Current status": "To receive chlorine"
+        "PSID": 1027,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -659,8 +659,8 @@
       "id": 205,
       "properties": {
         "PumpStationName": "Parklands",
-        "PS ID": 1085,
-        "Current status": "To receive chlorine"
+        "PSID": 1085,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -675,8 +675,8 @@
       "id": 210,
       "properties": {
         "PumpStationName": "St Johns",
-        "PS ID": 1063,
-        "Current status": "To receive chlorine"
+        "PSID": 1063,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -691,8 +691,8 @@
       "id": 212,
       "properties": {
         "PumpStationName": "Farrington",
-        "PS ID": 1073,
-        "Current status": "Chlorinated"
+        "PSID": 1073,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -707,8 +707,8 @@
       "id": 219,
       "properties": {
         "PumpStationName": "Tara",
-        "PS ID": 1089,
-        "Current status": "To receive chlorine"
+        "PSID": 1089,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -723,8 +723,8 @@
       "id": 246,
       "properties": {
         "PumpStationName": "Worcester",
-        "PS ID": 1037,
-        "Current status": "To receive chlorine"
+        "PSID": 1037,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -739,8 +739,8 @@
       "id": 247,
       "properties": {
         "PumpStationName": "Thompsons",
-        "PS ID": 1078,
-        "Current status": "To receive chlorine"
+        "PSID": 1078,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -755,8 +755,8 @@
       "id": 252,
       "properties": {
         "PumpStationName": "Dyers",
-        "PS ID": 1529,
-        "Current status": "Chlorinated"
+        "PSID": 1529,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -771,8 +771,8 @@
       "id": 271,
       "properties": {
         "PumpStationName": "Wainui Valley",
-        "PS ID": 1541,
-        "Current status": "To receive chlorine"
+        "PSID": 1541,
+        "Currentstatus": "To receive chlorine"
       },
       "geometry": {
         "type": "Point",
@@ -787,8 +787,8 @@
       "id": 280,
       "properties": {
         "PumpStationName": "Dunbars",
-        "PS ID": 1102,
-        "Current status": "Chlorinated"
+        "PSID": 1102,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -803,8 +803,8 @@
       "id": 313,
       "properties": {
         "PumpStationName": "Wilmers",
-        "PS ID": 1117,
-        "Current status": "Chlorinated"
+        "PSID": 1117,
+        "Currentstatus": "Chlorinated"
       },
       "geometry": {
         "type": "Point",
@@ -819,8 +819,8 @@
       "id": 315,
       "properties": {
         "PumpStationName": "Keyes",
-        "PS ID": 1119,
-        "Current status": "Not treated"
+        "PSID": 1119,
+        "Currentstatus": "Not treated"
       },
       "geometry": {
         "type": "Point",
@@ -835,8 +835,8 @@
       "id": 343,
       "properties": {
         "PumpStationName": "Estuary",
-        "PS ID": 1012,
-        "Current status": "Not treated"
+        "PSID": 1012,
+        "Currentstatus": "Not treated"
       },
       "geometry": {
         "type": "Point",
@@ -851,8 +851,8 @@
       "id": 348,
       "properties": {
         "PumpStationName": "Prestons",
-        "PS ID": 1123,
-        "Current status": "To be signed as secure by the DWA"
+        "PSID": 1123,
+        "Currentstatus": "To be signed as secure by the DWA"
       },
       "geometry": {
         "type": "Point",
