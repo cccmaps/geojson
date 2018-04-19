@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Pedestrian entrance",
+        "Name": "Pedestrian entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6069736480713,
+          -43.520376270922235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Building",
+        "Name": "Gatehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6068475842476,
+          -43.5205143621393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Karewa Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60670006275177,
+          -43.52055131607336
+        ]
+      }
+    }
+  ]
+}
