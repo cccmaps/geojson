@@ -820,7 +820,7 @@
         "Below-wellheads": 5,
         "Abandoned": "n/a",
         "Kept": "n/a",
-        "Currentstatus": "Subject to temporary chlorination",
+        "Currentstatus": "Subject to temporary Chlorination",
         "Proposedtreatment": "Raise one well above ground (Well 5)",
         "Workneededtoconfirmscope": "",
         "Criticality": "n/a",
@@ -928,7 +928,7 @@
         "Below-wellheads": 3,
         "Abandoned": "n/a",
         "Kept": "n/a",
-        "Currentstatus": "Subject to temporary chlorination",
+        "Currentstatus": "Subject to temporary Chlorination",
         "Proposedtreatment": "Raise one wellhead above ground (Well 6)",
         "Workneededtoconfirmscope": "",
         "Criticality": "n/a",
@@ -1117,7 +1117,7 @@
         "Below-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
-        "Currentstatus": "Subject to temporary chlorination",
+        "Currentstatus": "Subject to temporary Chlorination",
         "Proposedtreatment": "Raise three wellheads above ground (Wells 1-3). Possible NPSH issues on Well 01/02. Also in park so may run into opposition. Shrub adjacent to Well 1.",
         "Workneededtoconfirmscope": "NPSH assessment",
         "Criticality": "n/a",
@@ -1198,7 +1198,7 @@
         "Below-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
-        "Currentstatus": "Subject to temporary chlorination",
+        "Currentstatus": "Subject to temporary Chlorination",
         "Proposedtreatment": "Raise five wellheads above ground (Wells 1-5). Site access to Well 5 is difficult due to rail, arterial road and buildings.",
         "Workneededtoconfirmscope": "Access issues to be dealt with during design",
         "Criticality": "n/a",
@@ -1252,7 +1252,7 @@
         "Below-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
-        "Currentstatus": "Subject to temporary chlorination",
+        "Currentstatus": "Subject to temporary Chlorination",
         "Proposedtreatment": "Raise six wellheads above ground (Wells 1-6). Well 4 is adjacent to footpath, Well 6 is adjacent to a tree.",
         "Workneededtoconfirmscope": "",
         "Criticality": "n/a",
@@ -1402,6 +1402,31 @@
         "coordinates": [
           172.894,
           -43.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1125,
+        "PumpStationName": "Gardiners",
+        "Above-wellheads": 2,
+        "Currentstatus": "To be signed as secure by the DWA",
+        "Proposedtreatment": "No follow up action",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.58927106857297,
+          -43.46966182592256
         ]
       }
     }
