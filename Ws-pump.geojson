@@ -596,7 +596,7 @@
       "properties": {
         "PumpStationName": "Mairehau",
         "PS ID": 1083,
-        "Current status": "Chlorinated"
+        "Current status": "To chlorinate this week"
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +852,7 @@
       "properties": {
         "PumpStationName": "Prestons",
         "PS ID": 1123,
-        "Current status": "Not treated"
+        "Current status": "To be signed as secure by the DWA"
       },
       "geometry": {
         "type": "Point",
