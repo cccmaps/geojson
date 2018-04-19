@@ -6,8 +6,8 @@
       "properties": {
         "PSID": 1001,
         "PumpStationName": "Addington",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -18,7 +18,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -33,8 +34,8 @@
       "properties": {
         "PSID": 1002,
         "PumpStationName": "Aldwins",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -45,7 +46,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -60,8 +62,8 @@
       "properties": {
         "PSID": 1004,
         "PumpStationName": "Aston Drive",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -72,7 +74,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -87,8 +90,8 @@
       "properties": {
         "PSID": 1005,
         "PumpStationName": "Averill ",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -99,7 +102,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -114,8 +118,8 @@
       "properties": {
         "PSID": 1006,
         "PumpStationName": "Bexley",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Pump station to be decommissioned - will be replaced by Ben Rarere",
@@ -126,7 +130,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Abandon"
       },
       "geometry": {
         "type": "Point",
@@ -141,8 +146,8 @@
       "properties": {
         "PSID": 1007,
         "PumpStationName": "Blighs ",
-        "Above-wellheads": 1,
         "Below-wellheads": 1,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -153,7 +158,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -168,8 +174,8 @@
       "properties": {
         "PSID": 1008,
         "PumpStationName": "Carters",
-        "Above-wellheads": 4,
-        "Below-wellheads": "",
+        "Below-wellheads": 4,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -180,7 +186,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -195,8 +202,8 @@
       "properties": {
         "PSID": 1010,
         "PumpStationName": "Effingham",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -207,7 +214,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -222,8 +230,8 @@
       "properties": {
         "PSID": 1012,
         "PumpStationName": "Estuary",
-        "Above-wellheads": "",
-        "Below-wellheads": 3,
+        "Below-wellheads": "",
+        "Above-wellheads": 3,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To be signed as secure by the DWA",
@@ -234,7 +242,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Secure"
       },
       "geometry": {
         "type": "Point",
@@ -249,8 +258,8 @@
       "properties": {
         "PSID": 1014,
         "PumpStationName": "Grassmere",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -261,7 +270,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -276,8 +286,8 @@
       "properties": {
         "PSID": 1016,
         "PumpStationName": "Hillmorton",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -288,7 +298,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -303,8 +314,8 @@
       "properties": {
         "PSID": 1017,
         "PumpStationName": "Hills",
-        "Above-wellheads": 1,
-        "Below-wellheads": 2,
+        "Below-wellheads": 1,
+        "Above-wellheads": 2,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -315,7 +326,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -330,8 +342,8 @@
       "properties": {
         "PSID": 1022,
         "PumpStationName": "Kerrs",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -342,7 +354,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -357,8 +370,8 @@
       "properties": {
         "PSID": 1023,
         "PumpStationName": "Lake Terrace",
-        "Above-wellheads": 1,
-        "Below-wellheads": 2,
+        "Below-wellheads": 1,
+        "Above-wellheads": 2,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -369,7 +382,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -384,8 +398,8 @@
       "properties": {
         "PSID": 1024,
         "PumpStationName": "Main Pumps",
-        "Above-wellheads": 5,
-        "Below-wellheads": 1,
+        "Below-wellheads": 5,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -396,7 +410,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -411,8 +426,8 @@
       "properties": {
         "PSID": 1026,
         "PumpStationName": "Mays",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -423,7 +438,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -438,8 +454,8 @@
       "properties": {
         "PSID": 1027,
         "PumpStationName": "Montreal",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -450,7 +466,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -465,8 +482,8 @@
       "properties": {
         "PSID": 1028,
         "PumpStationName": "Palatine",
-        "Above-wellheads": 1,
-        "Below-wellheads": "",
+        "Below-wellheads": 1,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -477,7 +494,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Abandon"
       },
       "geometry": {
         "type": "Point",
@@ -492,8 +510,8 @@
       "properties": {
         "PSID": 1030,
         "PumpStationName": "Spreydon",
-        "Above-wellheads": 5,
-        "Below-wellheads": "",
+        "Below-wellheads": 5,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -504,7 +522,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -519,8 +538,8 @@
       "properties": {
         "PSID": 1031,
         "PumpStationName": "Sydenham ",
-        "Above-wellheads": 2,
         "Below-wellheads": 2,
+        "Above-wellheads": 2,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -531,7 +550,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -546,8 +566,8 @@
       "properties": {
         "PSID": 1034,
         "PumpStationName": "Thorrington ",
-        "Above-wellheads": 1,
-        "Below-wellheads": "",
+        "Below-wellheads": 1,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -558,7 +578,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Abandon"
       },
       "geometry": {
         "type": "Point",
@@ -573,8 +594,8 @@
       "properties": {
         "PSID": 1035,
         "PumpStationName": "Trafalgar",
-        "Above-wellheads": 2,
-        "Below-wellheads": 1,
+        "Below-wellheads": 2,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -585,7 +606,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -600,8 +622,8 @@
       "properties": {
         "PSID": 1037,
         "PumpStationName": "Worcester",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 24 April",
@@ -612,7 +634,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -627,8 +650,8 @@
       "properties": {
         "PSID": 1063,
         "PumpStationName": "St Johns",
-        "Above-wellheads": 2,
-        "Below-wellheads": 1,
+        "Below-wellheads": 2,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -639,7 +662,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -654,8 +678,8 @@
       "properties": {
         "PSID": 1065,
         "PumpStationName": "Woolston",
-        "Above-wellheads": 2,
-        "Below-wellheads": 1,
+        "Below-wellheads": 2,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -666,7 +690,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -681,8 +706,8 @@
       "properties": {
         "PSID": 1066,
         "PumpStationName": "Brooklands",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary chlorination",
@@ -693,7 +718,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -708,8 +734,8 @@
       "properties": {
         "PSID": 1067,
         "PumpStationName": "Kainga",
-        "Above-wellheads": "",
-        "Below-wellheads": 1,
+        "Below-wellheads": "",
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary chlorination",
@@ -720,7 +746,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "MakeSecure"
       },
       "geometry": {
         "type": "Point",
@@ -735,8 +762,8 @@
       "properties": {
         "PSID": 1068,
         "PumpStationName": "Auburn",
-        "Above-wellheads": 2,
-        "Below-wellheads": 0,
+        "Below-wellheads": 2,
+        "Above-wellheads": 0,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 12 April",
@@ -747,7 +774,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "NewWells"
       },
       "geometry": {
         "type": "Point",
@@ -762,8 +790,8 @@
       "properties": {
         "PSID": 1069,
         "PumpStationName": "Avonhead",
-        "Above-wellheads": 4,
-        "Below-wellheads": "",
+        "Below-wellheads": 4,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 12 April",
@@ -774,7 +802,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "MakeSecure"
       },
       "geometry": {
         "type": "Point",
@@ -789,8 +818,8 @@
       "properties": {
         "PSID": 1070,
         "PumpStationName": "Belfast",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -801,7 +830,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -816,8 +846,8 @@
       "properties": {
         "PSID": 1071,
         "PumpStationName": "Burnside",
-        "Above-wellheads": 1,
-        "Below-wellheads": 5,
+        "Below-wellheads": 1,
+        "Above-wellheads": 5,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary Chlorination",
@@ -828,7 +858,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -843,8 +874,8 @@
       "properties": {
         "PSID": 1072,
         "PumpStationName": "Crosbie",
-        "Above-wellheads": 2,
         "Below-wellheads": 2,
+        "Above-wellheads": 2,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 19 April",
@@ -855,7 +886,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -870,8 +902,8 @@
       "properties": {
         "PSID": 1073,
         "PumpStationName": "Farrington",
-        "Above-wellheads": 1,
-        "Below-wellheads": 4,
+        "Below-wellheads": 1,
+        "Above-wellheads": 4,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -882,7 +914,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -897,8 +930,8 @@
       "properties": {
         "PSID": 1074,
         "PumpStationName": "Grampian",
-        "Above-wellheads": 1,
         "Below-wellheads": 1,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 12 April",
@@ -909,7 +942,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -924,8 +958,8 @@
       "properties": {
         "PSID": 1076,
         "PumpStationName": "Jeffreys",
-        "Above-wellheads": 1,
-        "Below-wellheads": 3,
+        "Below-wellheads": 1,
+        "Above-wellheads": 3,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary Chlorination",
@@ -936,7 +970,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -951,8 +986,8 @@
       "properties": {
         "PSID": 1077,
         "PumpStationName": "Redwood",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 12 April",
@@ -963,7 +998,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -978,8 +1014,8 @@
       "properties": {
         "PSID": 1078,
         "PumpStationName": "Thompsons",
-        "Above-wellheads": 1,
         "Below-wellheads": 1,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -990,7 +1026,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1005,8 +1042,8 @@
       "properties": {
         "PSID": 1081,
         "PumpStationName": "Burwood",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate before 30 April",
@@ -1017,7 +1054,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -1032,8 +1070,8 @@
       "properties": {
         "PSID": 1083,
         "PumpStationName": "Mairehau",
-        "Above-wellheads": 1,
-        "Below-wellheads": "",
+        "Below-wellheads": 1,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate this week",
@@ -1044,7 +1082,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Abandon"
       },
       "geometry": {
         "type": "Point",
@@ -1059,8 +1098,8 @@
       "properties": {
         "PSID": 1084,
         "PumpStationName": "Marshlands",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate this week",
@@ -1071,7 +1110,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1086,8 +1126,8 @@
       "properties": {
         "PSID": 1085,
         "PumpStationName": "Parklands",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate this week",
@@ -1098,7 +1138,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -1113,8 +1154,8 @@
       "properties": {
         "PSID": 1088,
         "PumpStationName": "Picton",
-        "Above-wellheads": 3,
-        "Below-wellheads": "",
+        "Below-wellheads": 3,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary Chlorination",
@@ -1125,7 +1166,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -1140,8 +1182,8 @@
       "properties": {
         "PSID": 1089,
         "PumpStationName": "Tara",
-        "Above-wellheads": 1,
-        "Below-wellheads": "",
+        "Below-wellheads": 1,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 19 April",
@@ -1152,7 +1194,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1167,8 +1210,8 @@
       "properties": {
         "PSID": 1095,
         "PumpStationName": "Tanner",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 30 April",
@@ -1179,7 +1222,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "UV"
       },
       "geometry": {
         "type": "Point",
@@ -1194,8 +1238,8 @@
       "properties": {
         "PSID": 1099,
         "PumpStationName": "Denton Park",
-        "Above-wellheads": 5,
-        "Below-wellheads": "",
+        "Below-wellheads": 5,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary Chlorination",
@@ -1206,7 +1250,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseDifficult"
       },
       "geometry": {
         "type": "Point",
@@ -1221,8 +1266,8 @@
       "properties": {
         "PSID": 1102,
         "PumpStationName": "Dunbars",
-        "Above-wellheads": 4,
-        "Below-wellheads": 1,
+        "Below-wellheads": 4,
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 12 April",
@@ -1233,7 +1278,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1248,8 +1294,8 @@
       "properties": {
         "PSID": 1109,
         "PumpStationName": "Sockburn ",
-        "Above-wellheads": 6,
-        "Below-wellheads": "",
+        "Below-wellheads": 6,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "Subject to temporary Chlorination",
@@ -1260,7 +1306,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1275,8 +1322,8 @@
       "properties": {
         "PSID": 1117,
         "PumpStationName": "Wilmers",
-        "Above-wellheads": 2,
-        "Below-wellheads": "",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 12 April",
@@ -1287,7 +1334,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "RaiseEasy"
       },
       "geometry": {
         "type": "Point",
@@ -1302,8 +1350,8 @@
       "properties": {
         "PSID": 1119,
         "PumpStationName": "Keyes ",
-        "Above-wellheads": "",
-        "Below-wellheads": 3,
+        "Below-wellheads": "",
+        "Above-wellheads": 3,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To be signed as secure by the DWA",
@@ -1314,7 +1362,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Secure"
       },
       "geometry": {
         "type": "Point",
@@ -1329,8 +1378,8 @@
       "properties": {
         "PSID": 1123,
         "PumpStationName": "Prestons",
-        "Above-wellheads": "",
-        "Below-wellheads": 4,
+        "Below-wellheads": "",
+        "Above-wellheads": 4,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To be signed as secure by the DWA",
@@ -1341,7 +1390,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "NewWells"
       },
       "geometry": {
         "type": "Point",
@@ -1354,10 +1404,38 @@
     {
       "type": "Feature",
       "properties": {
+        "PSID": 1125,
+        "PumpStationName": "Gardiners",
+        "Below-wellheads": 2,
+        "Above-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To be signed as secure by the DWA",
+        "Proposedtreatment": "No follow up action required",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Pinstatus": "Secure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5893,
+          -43.4697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "PSID": 1529,
         "PumpStationName": "Dyers",
-        "Above-wellheads": "",
-        "Below-wellheads": 1,
+        "Below-wellheads": "",
+        "Above-wellheads": 1,
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate on 19 April",
@@ -1368,7 +1446,8 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "Abandon"
       },
       "geometry": {
         "type": "Point",
@@ -1383,8 +1462,8 @@
       "properties": {
         "PSID": 1541,
         "PumpStationName": "Wainui ",
-        "Above-wellheads": 1,
-        "Below-wellheads": "",
+        "Below-wellheads": 1,
+        "Above-wellheads": "",
         "Abandoned": "n/a",
         "Kept": "n/a",
         "Currentstatus": "To chlorinate 30 April",
@@ -1395,38 +1474,14 @@
         "Well2": "n/a",
         "Well3": "n/a",
         "Well4": "n/a",
-        "Well5": "n/a"
+        "Well5": "n/a",
+        "Pinstatus": "MakeSecure"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.894,
           -43.8125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PSID": 1125,
-        "PumpStationName": "Gardiners",
-        "Above-wellheads": 2,
-        "Currentstatus": "To be signed as secure by the DWA",
-        "Proposedtreatment": "No follow up action",
-        "Abandoned": "n/a",
-        "Kept": "n/a",
-        "Criticality": "n/a",
-        "Well1": "n/a",
-        "Well2": "n/a",
-        "Well3": "n/a",
-        "Well4": "n/a",
-        "Well5": "n/a"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.58927106857297,
-          -43.46966182592256
         ]
       }
     }
