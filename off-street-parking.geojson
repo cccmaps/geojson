@@ -48,20 +48,20 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "type": "Mobility Off-Street",
-        "address": null,
+        "address": "null",
         "spaces": 2,
-        "hourlyrate": null,
-        "alldayrate": null,
-        "timelimit": null,
-        "nightrate": null,
-        "monthly": null,
-        "metered": null,
-        "p180": null,
-        "PleaseNote": null,
-        "Access": null,
+        "hourlyrate": "null",
+        "alldayrate": "null",
+        "timelimit": "null",
+        "nightrate": "null",
+        "monthly": "null",
+        "metered": "null",
+        "p180": "null",
+        "PleaseNote": "null",
+        "Access": "null",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -93,7 +93,7 @@
         "Access": null,
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -187,7 +187,7 @@
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St.",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -216,10 +216,10 @@
         "metered": "Yes",
         "p180": "Yes",
         "Access": "Gloucester St",
-        "PleaseNote": "Text park not available. This car park can be used by campervans during normal operating hours.",
+        "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -251,7 +251,7 @@
         "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -271,19 +271,19 @@
         "marker-symbol": "null",
         "type": "Off-Street Motorcycle park",
         "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
-        "spaces": "4 (Free)",
-        "hourlyrate": "N/A",
-        "alldayrate": "N/A",
-        "timelimit": "N/A",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "N/A",
-        "p180": "N/A",
-        "Access": "Rolleston Ave or Worcester St",
+        "spaces": 4,
+        "hourlyrate": "null",
+        "alldayrate": "null",
+        "timelimit": "null",
+        "nightrate": "null",
+        "monthly": "null",
+        "metered": "null",
+        "p180": "null",
+        "Access": "null",
         "PleaseNote": "",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "hr free"
       }
     },
     {
@@ -360,7 +360,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": null,
+        "marker-symbol": "null",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "name": "Hereford St car park building",
@@ -499,7 +499,7 @@
         "alldayrate": "$10 (max 24hr period)",
         "timelimit": "N/A",
         "Access": "Lichfield Street",
-        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height Restriction 2.4 metres. 10 Electric Vehicle Bays. 92 Cycle parking spaces.",
+        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height Restriction 2.4 metres.",
         "metered": "Yes",
         "p180": "N/A",
         "HoursOfOperation": "24 hours",
@@ -525,7 +525,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "type": "Mobility Off-Street",
-        "spaces": 26,
+        "spaces": 24,
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
         "alldayrate": "$10 (max 24hr period)",
@@ -545,29 +545,76 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7E7E7E",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Lichfield Street car park",
-        "description": "Lichfield Street car park",
-        "type": "Off-Street Motorcycle park",
-        "spaces": "81 (Free)",
-        "address": "33 Lichfield Street",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": "",
-        "hourlyrate": "N/A",
-        "alldayrate": "N/A",
-        "timelimit": "N/A",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "N/A"
+        "name": "Hereford St car park building",
+        "description": "Hereford St car park building",
+        "type": "Mobility Off-Street",
+        "spaces": 16
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.63505101203918,
-          -43.53403993466589
+          172.63807654380798,
+          -43.53223929298364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Crossing car park building",
+        "description": "The Crossing car park building",
+        "type": "Mobility Off-Street",
+        "spaces": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637540102005,
+          -43.534102158903366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "West End car park building",
+        "description": "West end car park building",
+        "type": "Mobility Off-Street",
+        "spaces": "14 (1 Electric Vehicle only)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6311081647873,
+          -43.53224707124907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Innovation car park building",
+        "description": "Innovation car park building",
+        "type": "Mobility Off-Street",
+        "spaces": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6423144340515,
+          -43.53433549922204
         ]
       }
     }
