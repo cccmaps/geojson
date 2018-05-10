@@ -61,7 +61,7 @@
         "Access": "null",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -93,7 +93,7 @@
         "Access": null,
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -187,7 +187,7 @@
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St.",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -219,7 +219,7 @@
         "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -251,7 +251,7 @@
         "PleaseNote": "Text park not available.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
@@ -283,7 +283,7 @@
         "PleaseNote": "",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": ""
       }
     },
     {
