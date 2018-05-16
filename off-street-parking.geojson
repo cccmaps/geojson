@@ -152,7 +152,7 @@
         "monthly": null,
         "metered": null,
         "p180": null,
-        "PleaseNote": "Gates close: Nov to Feb 9pm, March 8.30pm, April to Sept 6.30pm, Sept to Oct 8.30pm.",
+        "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
         "Access": "Armagh St",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council"
@@ -269,7 +269,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "null",
-        "type": "Off-Street Motorcycle park",
+        "type": "Off-Street Motorcycle parks",
         "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
         "spaces": 4,
         "hourlyrate": "null",
@@ -499,7 +499,7 @@
         "alldayrate": "$10 (max 24hr period)",
         "timelimit": "N/A",
         "Access": "Lichfield Street",
-        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height Restriction 2.4 metres.",
+        "PleaseNote": "Lost ticket charge of $10 (24hr period). Height restriction 2.4m. 92 cycle spaces. 10 electric vehicle spaces.",
         "metered": "Yes",
         "p180": "N/A",
         "HoursOfOperation": "24 hours",
@@ -615,6 +615,25 @@
         "coordinates": [
           172.6423144340515,
           -43.53433549922204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lichfield Street car park building",
+        "description": "Lichfield Street car park building",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "Free Off-Street Motorcycle parks",
+        "spaces": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63499200344086,
+          -43.53379103707398
         ]
       }
     }
