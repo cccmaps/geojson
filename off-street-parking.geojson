@@ -627,7 +627,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "type": "Off-Street Motorcycle park",
-        "spaces": 81
+        "spaces": 81,
+        "address": "33 Lichfield Street"
       },
       "geometry": {
         "type": "Point",
