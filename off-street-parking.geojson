@@ -269,7 +269,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "null",
-        "type": "Off-Street Motorcycle parks",
+        "type": "Off-Street Motorcycle park",
         "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
         "spaces": 4,
         "hourlyrate": "null",
@@ -626,7 +626,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "type": "Free Off-Street Motorcycle parks",
+        "type": "Off-Street Motorcycle parks",
         "spaces": 81
       },
       "geometry": {
