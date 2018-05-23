@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Hagley Park (Special Events)",
+        "Address": "36 Park Terrace, Christchurch Central, Christchurch 8013, New Zealand",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Grass",
+        "Toilets": "Some",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "No",
+        "Bus stops": "Yes",
+        "Area": "",
+        "Capacity": "2,000 - 35,000",
+        "Small": "No",
+        "Large": "Yes",
+        "Free": "Yes",
+        "Commercial": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62628,
+          -43.527139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Hagley Park (Entertainment Triangle)",
+        "Address": "16 Riccarton Avenue, Christchurch Central, Christchurch 8011, New Zealand",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Grass",
+        "Toilets": "Some",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "No",
+        "Bus stops": "Yes",
+        "Area": "",
+        "Capacity": "up to 10,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Free": "Yes",
+        "Commercial": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624885,
+          -43.528804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cathedral Square ",
+        "Address": "105 Cathedral Square, Christchurch Central, Christchurch 8011, New Zealand",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "Yes",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "No",
+        "Bus stops": "No",
+        "Area": "",
+        "Capacity": "up to 5,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Free": "Yes",
+        "Commercial": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Case-by-Case"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636199,
+          -43.53136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Latimer Square",
+        "Address": "181 Latimer Square, Christchurch Central, Christchurch 8011, New Zealand",
+        "Power": "Yes",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "No",
+        "Bus stops": "Yes",
+        "Area": "",
+        "Capacity": "up to 3,000",
+        "Small": "Yes",
+        "Large": "No",
+        "Free": "Yes",
+        "Commercial": "Yes",
+        "Infrastructure allowed": "No",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642765,
+          -43.531018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margaret Mahy Playground",
+        "Address": "177 Armagh Street, Christchurch Central, Christchurch 8011",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "Yes",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Yes",
+        "Bus stops": "Yes",
+        "Area": "",
+        "Capacity": "up to 1,000",
+        "Small": "Yes",
+        "Large": "No",
+        "Free": "Yes",
+        "Commercial": "No",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Chlidren's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640898,
+          -43.528389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cranmer Square",
+        "Address": "18-20 Cranmer Square, Christchurch Central, Christchurch 8013, New Zealand",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "No",
+        "Bus stops": "No",
+        "Area": "",
+        "Capacity": "up to 5,000",
+        "Small": "",
+        "Large": "",
+        "Free": "",
+        "Commercial": "No",
+        "Infrastructure allowed": "No",
+        "Private": "Np",
+        "Public": "Yes",
+        "Type": "Commemorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630598,
+          -43.527875
+        ]
+      }
+    }
+  ]
+}
