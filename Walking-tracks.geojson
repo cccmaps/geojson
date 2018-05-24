@@ -8483,7 +8483,7 @@
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": null,
         "RouteHierarchy": "Primary",
-        "RouteSharedUse": "No",
+        "RouteSharedUse": "No ",
         "RouteWarning": null,
         "RouteArea": "Beach and Coastal",
         "RoutePlace": "Sumner Beach",
