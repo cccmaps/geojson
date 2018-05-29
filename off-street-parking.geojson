@@ -144,7 +144,8 @@
         "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
         "Access": "Armagh St",
         "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council"
+        "Provider": "Christchurch City Council",
+        "MobilitySpaces": "5 (1 at entry)"
       }
     },
     {
@@ -173,7 +174,8 @@
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St.",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": 2
       }
     },
     {
@@ -202,7 +204,8 @@
         "PleaseNote": "Text park not available. Closing permanently Friday 1st June 2018.",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": 2
       }
     },
     {
@@ -348,7 +351,8 @@
         "PleaseNote": "",
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": 16
       }
     },
     {
@@ -377,7 +381,8 @@
         "PleaseNote": "",
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": "14 (1 electric vehicle only)"
       }
     },
     {
@@ -406,7 +411,8 @@
         "PleaseNote": "",
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": 13
       }
     },
     {
@@ -435,7 +441,8 @@
         "nightrate": "",
         "monthly": "",
         "Provider": "Innovation Carpark",
-        "Promotion": ""
+        "Promotion": "",
+        "MobilitySpaces": 8
       }
     },
     {
@@ -464,7 +471,8 @@
         "nightrate": "$2.50 per hour or part thereof. Max $5 (6pm-10am Mon-Sun)",
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free"
+        "Promotion": "hr free",
+        "MobilitySpaces": 26
       }
     },
     {
