@@ -1,0 +1,1617 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1001,
+        "PumpStationName": "Addington",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Raise two wellheads above ground. Possible NPSH issues. No space for tank.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6092,
+          -43.546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1002,
+        "PumpStationName": "Aldwins",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Temporary UV, Wells 1 and 2 - raise wellheads above ground, replace Well 3 ",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV. NPSH assessment.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.668,
+          -43.5397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1004,
+        "PumpStationName": "Aston Drive",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Wells 1 and 2 - raise wellheads above ground. Possible NPSH issues. Space tight for tank.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7189,
+          -43.4807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1005,
+        "PumpStationName": "Averill ",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Wells 3 and 4 - raise wellheads above ground. Or replace pump station? Old and EQ damaged. Wells are in a carpark - bollards required.",
+        "Workneededtoconfirmscope": "MCA to assess whether wells should be remediated or pump station replaced. NPSH assessment.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6603,
+          -43.5128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1006,
+        "PumpStationName": "Bexley",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Pump station to be decommissioned - will be replaced by Ben Rarere",
+        "Proposedtreatment": "No follow up action",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7146,
+          -43.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1007,
+        "PumpStationName": "Blighs ",
+        "Above-wellheads": 1,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Well 3 - raise wellhead above ground. Site access is difficult.",
+        "Workneededtoconfirmscope": "Site access issues to be dealt with during design",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 3 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.599,
+          -43.5057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1008,
+        "PumpStationName": "Carters",
+        "Above-wellheads": 4,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Wells 1, 2, 3 and 5 - raise wellheads above ground.",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7055,
+          -43.5209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1010,
+        "PumpStationName": "Effingham",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Wells 1, 2 and 3 - raise wellheads above ground. Likely NPSH issues. May need suction tank to perform correctly.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1,2,3,5 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72,
+          -43.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1012,
+        "PumpStationName": "Estuary",
+        "Above-wellheads": "",
+        "Below-wellheads": 3,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To be signed as secure by the DWA",
+        "Proposedtreatment": "No follow up Action",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Already Secure",
+        "Treatment": "Already Secure",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7355,
+          -43.5325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1014,
+        "PumpStationName": "Grassmere",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Temporary UV or permenent UV? Wells 2 and 3 - raise wellheads above ground. Replace Well 1.",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "UV or Ozone Treatment",
+        "Treatment": "UV or Ozone Treatment",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6146,
+          -43.4924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1016,
+        "PumpStationName": "Hillmorton",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Wells 1, 2 and 4 - raise well heads above ground. Drill two replacement wells for Palatine and Thorrington.",
+        "Workneededtoconfirmscope": "Modelling to confirm the two new wells would satisfactorily replace capacity at Palatine and Thorrington",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1,2,4 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593,
+          -43.5543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1017,
+        "PumpStationName": "Hills",
+        "Above-wellheads": 1,
+        "Below-wellheads": 2,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Well 1 - raise wellhead above ground",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 5 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6513,
+          -43.4991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1022,
+        "PumpStationName": "Kerrs",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Wells 1 and 2 - raise wellheads above ground. Or replace pump station?",
+        "Workneededtoconfirmscope": "NPSH assessment. MCA to assess whether wells should be remediated or pump station replaced.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6816,
+          -43.5249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1023,
+        "PumpStationName": "Lake Terrace",
+        "Above-wellheads": 1,
+        "Below-wellheads": 2,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Well 3 - raise wellhead above ground",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6835,
+          -43.5006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1024,
+        "PumpStationName": "Main Pumps",
+        "Above-wellheads": 5,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Permanent UV, alternative would be a new pump station or 6 new wells at Sydenham",
+        "Workneededtoconfirmscope": "Assessment of temporary vs permanent UV. Modelling to see if capacity could be replaced at Sydenham.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "UV or Ozone Treatment",
+        "Treatment": "UV or Ozone Treatment",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6383,
+          -43.5625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1026,
+        "PumpStationName": "Mays",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Temporary UV or permenent UV? Wells 4 and 5 - raise wellheads above ground. Replace Well 1.",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "UV or Ozone Treatment",
+        "Treatment": "UV or Ozone Treatment",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6217,
+          -43.5022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1027,
+        "PumpStationName": "Montreal",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Temporary or permanent UV? Well 1 - raise wellhead above ground, replace Well 2. Site constraints may result in replacing capacity with well elsewhere. May be able to use ground source heating wells.",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV. Modelling to confirm whether capacity could be replaced by ground source heating wells (Metro Sports, Central Library, Town Hall). Assess risks and mitigations for using ground source heating water. Discuss with Otakaro about using their ground source heating wells. Consider possible sites for suction tank and booster pump station.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6303,
+          -43.5218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1028,
+        "PumpStationName": "Palatine",
+        "Above-wellheads": 1,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Replace wells in another location such as Hillmorton. Temporary UV or not?",
+        "Workneededtoconfirmscope": "Modelling to see if capacity could be replaced at Hillmorton or Sydenham",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6469,
+          -43.5649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1030,
+        "PumpStationName": "Spreydon",
+        "Above-wellheads": 5,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Temporary UV, replace Well 2 and raise Wells 3-6. Well 3 is in a carpark - bollards required.",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV. Assess impact of HAIL site on bore water security.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "UV or Ozone Treatment",
+        "Treatment": "UV or Ozone Treatment",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6144,
+          -43.5646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1031,
+        "PumpStationName": "Sydenham ",
+        "Above-wellheads": 2,
+        "Below-wellheads": 2,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Wells 5 and 6 - raise above ground. Could be a good site for replacing Main Pumps.",
+        "Workneededtoconfirmscope": "Modelling to confirm whether this could satisfactorily replace capacity at Palatine, Thorrington and/or Main Pumps. ",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6356,
+          -43.5494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1034,
+        "PumpStationName": "Thorrington ",
+        "Above-wellheads": 1,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Replace wells in another location such as Hillmorton. Temporary UV or not? Upgrade pump station to booster pump station.",
+        "Workneededtoconfirmscope": "Modelling to see if capacity could be replaced at Hillmorton or Sydenham, and whether it should be converted to a booster pump station.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6329,
+          -43.5643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1035,
+        "PumpStationName": "Trafalgar",
+        "Above-wellheads": 2,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Wells 5 and 6 - raise wellheads above ground. Possible car park issues.",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 5,6 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6356,
+          -43.5128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1037,
+        "PumpStationName": "Worcester",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 24 April",
+        "Proposedtreatment": "Wells 1 and 2 - raise wellheads above ground. Possible NPSH issues. May require tank to resolve. Space avaiable.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1,2 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6526,
+          -43.5305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1063,
+        "PumpStationName": "St Johns",
+        "Above-wellheads": 2,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "Raise two wellheads above ground (Wells 1 and 2)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1,2 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691,
+          -43.5438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1065,
+        "PumpStationName": "Woolston",
+        "Above-wellheads": 2,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "UV treatment - temporary or permanent? Raise two wellheads above ground, replace Well 1.",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6835,
+          -43.5486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1066,
+        "PumpStationName": "Brooklands",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary chlorination",
+        "Proposedtreatment": "Wells 1 and 2 - raise wellheads above ground. Note one well is very close to the river and is flood prone. Trees adjacent to Well 1 may hinder construction.",
+        "Workneededtoconfirmscope": "Modelling to assess whether Well 2 can be abandoned",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6937,
+          -43.4073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1067,
+        "PumpStationName": "Kainga",
+        "Above-wellheads": "",
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary chlorination",
+        "Proposedtreatment": "Make above ground wellhead secure.",
+        "Workneededtoconfirmscope": "-",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Make above",
+        "Treatment": "Make above ground well secure",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6593,
+          -43.4148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1068,
+        "PumpStationName": "Auburn",
+        "Above-wellheads": 2,
+        "Below-wellheads": 0,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 12 April",
+        "Proposedtreatment": "Replace Well 3 and raise one wellhead above ground (Well 5).",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5764,
+          -43.5335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1069,
+        "PumpStationName": "Avonhead",
+        "Above-wellheads": 4,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 12 April",
+        "Proposedtreatment": "Make two above ground wellheads secure. HAIL Issues may prevent these wells from getting secure status without additional work.",
+        "Workneededtoconfirmscope": "Beca assessing impact of HAIL issues on well head security.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Make above",
+        "Treatment": "Make above ground well secure",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5359,
+          -43.5189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1070,
+        "PumpStationName": "Belfast",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "UV Treatment. Replace Well 1 and raise one wellhead above ground (Well 2). Or abandon well or pump station?",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6296,
+          -43.4422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1071,
+        "PumpStationName": "Burnside",
+        "Above-wellheads": 1,
+        "Below-wellheads": 5,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary Chlorination",
+        "Proposedtreatment": "Raise one well above ground (Well 5)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 5 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5634,
+          -43.5046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1072,
+        "PumpStationName": "Crosbie",
+        "Above-wellheads": 2,
+        "Below-wellheads": 2,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 19 April",
+        "Proposedtreatment": "Raise two above below ground wells (Wells 2 and 4)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5477,
+          -43.5166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1073,
+        "PumpStationName": "Farrington",
+        "Above-wellheads": 1,
+        "Below-wellheads": 4,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "Raise one wellhead above ground (Well 4)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 4 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5878,
+          -43.4906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1074,
+        "PumpStationName": "Grampian",
+        "Above-wellheads": 1,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 12 April",
+        "Proposedtreatment": "Raise one wellhead above ground (Well 4)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 5 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6054,
+          -43.4773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1076,
+        "PumpStationName": "Jeffreys",
+        "Above-wellheads": 1,
+        "Below-wellheads": 3,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary Chlorination",
+        "Proposedtreatment": "Raise one wellhead above ground (Well 6)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593,
+          -43.5146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1077,
+        "PumpStationName": "Redwood",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 12 April",
+        "Proposedtreatment": "UV treatment, replace two wells (Wells 1 and 2)",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Replace",
+        "Treatment": "Replace wells or Treat",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6237,
+          -43.4743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1078,
+        "PumpStationName": "Thompsons",
+        "Above-wellheads": 1,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "Raise one wellhead above ground (Well 2)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6289,
+          -43.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1081,
+        "PumpStationName": "Burwood",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate before 30 April",
+        "Proposedtreatment": "Wells 2 and 3 - raise wellheads above ground. Wells in carpark - bollards required.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 2,3 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.684,
+          -43.4897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1083,
+        "PumpStationName": "Mairehau",
+        "Above-wellheads": 1,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate this week",
+        "Proposedtreatment": "Raise one below ground well head or abandon and replace capacity at Prestons",
+        "Workneededtoconfirmscope": "Modelling to confirm the capacity could be replaced at Prestons. Check with Property if there is any agreements (e.g. with hospital) to continue operating this pump station. Diesel tanks may not comply with Land and Water Regional Plan - Dale is checking.",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6829,
+          -43.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1084,
+        "PumpStationName": "Marshlands",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate this week",
+        "Proposedtreatment": "Wells 1 and 2 - raise wellheads above ground. Possible NPSH issues. Good location for a suction tank additional wells and space in parks and adjoining land for many more wells. Station is setup to take a third pump.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6613,
+          -43.4904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1085,
+        "PumpStationName": "Parklands",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate this week",
+        "Proposedtreatment": "Wells 1, 2 and 3 - raise wellheads above ground. Will likely have land and NPSH issues. May have to stay below ground. Limited space availabe - bollards likely to be required.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7068,
+          -43.481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1088,
+        "PumpStationName": "Picton",
+        "Above-wellheads": 3,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary Chlorination",
+        "Proposedtreatment": "Raise three wellheads above ground (Wells 1-3). Possible NPSH issues on Well 01/02. Also in park so may run into opposition. Shrub adjacent to Well 1.",
+        "Workneededtoconfirmscope": "NPSH assessment",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1 2, 3 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6043,
+          -43.5324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1089,
+        "PumpStationName": "Tara",
+        "Above-wellheads": 1,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 19 April",
+        "Proposedtreatment": "Raise one below ground well (Well 4). Adjacent road - bollards required.",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5891,
+          -43.5321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1095,
+        "PumpStationName": "Tanner",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 30 April",
+        "Proposedtreatment": "Temporary or permanent UV? Booster pump station site?",
+        "Workneededtoconfirmscope": "MCA to assess temporary vs permanent UV",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.679,
+          -43.5579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1099,
+        "PumpStationName": "Denton Park",
+        "Above-wellheads": 5,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary Chlorination",
+        "Proposedtreatment": "Raise five wellheads above ground (Wells 1-5). Site access to Well 5 is difficult due to rail, arterial road and buildings.",
+        "Workneededtoconfirmscope": "Access issues to be dealt with during design",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1 - 5 above ground level",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5192,
+          -43.5412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1102,
+        "PumpStationName": "Dunbars",
+        "Above-wellheads": 4,
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 12 April",
+        "Proposedtreatment": "Raise three wellheads above ground (Wells 1, 2, 3 and 5) and abandon Well 4 (in driveway)",
+        "Workneededtoconfirmscope": "Modelling to confirm Well 4 can be abandoned",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Raise",
+        "Treatment": "Raise well 1,2,3,5 above ground level",
+        "": "Abondend well 4",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5707,
+          -43.5712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1109,
+        "PumpStationName": "Sockburn ",
+        "Above-wellheads": 6,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "Subject to temporary Chlorination",
+        "Proposedtreatment": "Raise six wellheads above ground (Wells 1-6). Well 4 is adjacent to footpath, Well 6 is adjacent to a tree.",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5569,
+          -43.5383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1117,
+        "PumpStationName": "Wilmers",
+        "Above-wellheads": 2,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 12 April",
+        "Proposedtreatment": "Raise two wellheads above ground (Wells 1-2)",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5388,
+          -43.5567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1119,
+        "PumpStationName": "Keyes ",
+        "Above-wellheads": "",
+        "Below-wellheads": 3,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To be signed as secure by the DWA",
+        "Proposedtreatment": "No follow up action",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Already Secure",
+        "Treatment": "Already Secure",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7206,
+          -43.506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1123,
+        "PumpStationName": "Prestons",
+        "Above-wellheads": "",
+        "Below-wellheads": 4,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To be signed as secure by the DWA",
+        "Proposedtreatment": "Develop and connect two existing wells which could replace capacity if Mairehau is abandoned",
+        "Workneededtoconfirmscope": "Modelling to confirm this would satisfactorily replace capacity at Mairehau",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "Already Secure",
+        "Treatment": "Already Secure",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6651,
+          -43.4734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1529,
+        "PumpStationName": "Dyers",
+        "Above-wellheads": "",
+        "Below-wellheads": 1,
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate on 19 April",
+        "Proposedtreatment": "Considering relocation of well.",
+        "Workneededtoconfirmscope": "Modelling to confirm whether well needs replacing",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6981,
+          -43.5445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PSID": 1541,
+        "PumpStationName": "Wainui ",
+        "Above-wellheads": 1,
+        "Below-wellheads": "",
+        "Abandoned": "n/a",
+        "Kept": "n/a",
+        "Currentstatus": "To chlorinate 30 April",
+        "Proposedtreatment": "Make secure",
+        "Workneededtoconfirmscope": "",
+        "Criticality": "n/a",
+        "Well1": "n/a",
+        "Well2": "n/a",
+        "Well3": "n/a",
+        "Well4": "n/a",
+        "Well5": "n/a",
+        "Treatment-status": "",
+        "Treatment": "",
+        "": "",
+        "Colour Code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.894,
+          -43.8125
+        ]
+      }
+    }
+  ]
+}
