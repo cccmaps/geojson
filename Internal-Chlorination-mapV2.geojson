@@ -562,6 +562,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PSID": 1030,
         "PumpStationName": "Spreydon",
         "Above-wellheads": 5,
@@ -577,9 +580,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "UV or Ozone Treatment",
-        "Treatment": "UV or Ozone Treatment",
-        "": "",
+        "Treatment-status": "Raise difficult",
+        "Treatment": "Raise well above ground (may be more difficult)",
         "Colour Code": ""
       },
       "geometry": {
@@ -1151,6 +1153,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PSID": 1081,
         "PumpStationName": "Burwood",
         "Above-wellheads": 2,
@@ -1166,9 +1171,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
-        "Treatment": "Raise well 2,3 above ground level",
-        "": "",
+        "Treatment-status": "Raise difficult",
+        "Treatment": "Raise well above ground (may be more difficult)",
         "Colour Code": ""
       },
       "geometry": {
