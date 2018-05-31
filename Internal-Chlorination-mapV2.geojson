@@ -21,8 +21,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -52,8 +51,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -83,8 +81,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -114,8 +111,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -145,8 +141,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -176,8 +171,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 3 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -207,8 +201,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -238,8 +231,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1,2,3,5 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -269,8 +261,7 @@
         "Well5": "n/a",
         "Treatment-status": "Already Secure",
         "Treatment": "Already Secure",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -300,8 +291,7 @@
         "Well5": "n/a",
         "Treatment-status": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -331,8 +321,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1,2,4 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -362,8 +351,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 5 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -393,8 +381,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -424,8 +411,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -455,8 +441,7 @@
         "Well5": "n/a",
         "Treatment-status": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -486,8 +471,7 @@
         "Well5": "n/a",
         "Treatment-status": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -517,8 +501,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -548,8 +531,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -581,8 +563,7 @@
         "Well4": "n/a",
         "Well5": "n/a",
         "Treatment-status": "Raise difficult",
-        "Treatment": "Raise well above ground (may be more difficult)",
-        "Colour Code": ""
+        "Treatment": "Raise well above ground (may be more difficult)"
       },
       "geometry": {
         "type": "Point",
@@ -612,8 +593,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -643,8 +623,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -674,8 +653,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 5,6 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -705,8 +683,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1,2 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -736,8 +713,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1,2 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -767,8 +743,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -798,8 +773,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -829,8 +803,7 @@
         "Well5": "n/a",
         "Treatment-status": "Make above",
         "Treatment": "Make above ground well secure",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -860,8 +833,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -891,8 +863,7 @@
         "Well5": "n/a",
         "Treatment-status": "Make above",
         "Treatment": "Make above ground well secure",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -922,8 +893,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -953,8 +923,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 5 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -984,8 +953,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1015,8 +983,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 4 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1046,8 +1013,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 5 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1077,8 +1043,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1108,8 +1073,7 @@
         "Well5": "n/a",
         "Treatment-status": "Replace",
         "Treatment": "Replace wells or Treat",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1139,8 +1103,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1172,8 +1135,7 @@
         "Well4": "n/a",
         "Well5": "n/a",
         "Treatment-status": "Raise difficult",
-        "Treatment": "Raise well above ground (may be more difficult)",
-        "Colour Code": ""
+        "Treatment": "Raise well above ground (may be more difficult)"
       },
       "geometry": {
         "type": "Point",
@@ -1203,8 +1165,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1234,8 +1195,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1265,8 +1225,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1296,8 +1255,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1 2, 3 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1327,8 +1285,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1358,8 +1315,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1389,8 +1345,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1 - 5 above ground level",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1420,8 +1375,7 @@
         "Well5": "n/a",
         "Treatment-status": "Raise",
         "Treatment": "Raise well 1,2,3,5 above ground level",
-        "": "Abondend well 4",
-        "Colour Code": ""
+        "": "Abondend well 4"
       },
       "geometry": {
         "type": "Point",
@@ -1451,8 +1405,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1482,8 +1435,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1513,8 +1465,7 @@
         "Well5": "n/a",
         "Treatment-status": "Already Secure",
         "Treatment": "Already Secure",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1544,8 +1495,7 @@
         "Well5": "n/a",
         "Treatment-status": "Already Secure",
         "Treatment": "Already Secure",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1575,8 +1525,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
@@ -1606,8 +1555,7 @@
         "Well5": "n/a",
         "Treatment-status": "n/a",
         "Treatment": "",
-        "": "",
-        "Colour Code": ""
+        "": ""
       },
       "geometry": {
         "type": "Point",
