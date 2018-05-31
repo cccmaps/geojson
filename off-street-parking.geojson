@@ -521,7 +521,7 @@
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
         "type": "Off-Street Motorcycle park",
-        "spaces": "",
+        "spaces": 81,
         "address": "33 Lichfield Street"
       },
       "geometry": {
