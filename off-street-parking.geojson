@@ -65,36 +65,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.639992,
-          -43.529963
-        ]
-      },
-      "properties": {
-        "name": "New Regent St car park",
-        "description": "New Regent St Car park",
-        "type": "Mobility Off-Street",
-        "address": "null",
-        "spaces": "",
-        "hourlyrate": "null",
-        "alldayrate": "null",
-        "timelimit": "null",
-        "nightrate": "null",
-        "monthly": "null",
-        "metered": "null",
-        "p180": "null",
-        "PleaseNote": "null",
-        "Access": "null",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": "",
-        "MobilitySpaces": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.625113,
           -43.534496
         ]
@@ -173,36 +143,6 @@
         "PleaseNote": "Text park not available",
         "HoursOfOperation": "24 hours",
         "Access": "Rolleston Ave or Worcester St.",
-        "Provider": "Christchurch City Council",
-        "Promotion": "",
-        "MobilitySpaces": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.640128,
-          -43.530123
-        ]
-      },
-      "properties": {
-        "name": "New Regent St car park",
-        "description": "New Regent St Car park",
-        "type": "CCC Off-Street Carpark",
-        "address": "204 Manchester St (Cnr Manchester & Gloucester St).",
-        "spaces": 70,
-        "hourlyrate": "$1 (9am-5pm, Mon-Sun)",
-        "alldayrate": "N/A",
-        "timelimit": "Some P180 areas",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "Yes",
-        "p180": "Yes",
-        "Access": "Gloucester St",
-        "PleaseNote": "Text park not available. Closing permanently Friday 1st June 2018.",
-        "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
         "Promotion": "",
         "MobilitySpaces": 2
