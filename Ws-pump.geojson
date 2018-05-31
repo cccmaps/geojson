@@ -546,7 +546,7 @@
       "properties": {
         "PSID": 1012,
         "PumpStationName": "Estuary",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": "",
         "Above-wellheads": 3,
         "Abandoned": "n/a",
@@ -846,7 +846,7 @@
       "properties": {
         "PSID": 1119,
         "PumpStationName": "Keyes ",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": "",
         "Above-wellheads": 3,
         "Abandoned": "n/a",
@@ -1144,9 +1144,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PSID": 1123,
         "PumpStationName": "Prestons",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": "",
         "Above-wellheads": 4,
         "Abandoned": "n/a",
