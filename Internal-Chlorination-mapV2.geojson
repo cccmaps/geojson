@@ -19,7 +19,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well above ground level"
       },
       "geometry": {
@@ -48,7 +48,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -77,7 +77,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -106,7 +106,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -135,7 +135,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -164,7 +164,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 3 above ground level"
       },
       "geometry": {
@@ -193,7 +193,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -222,7 +222,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1,2,3,5 above ground level"
       },
       "geometry": {
@@ -251,7 +251,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Already Secure",
+        "Treatmentstatus": "Already Secure",
         "Treatment": "Already Secure"
       },
       "geometry": {
@@ -280,7 +280,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "UV or Ozone Treatment",
+        "Treatmentstatus": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -309,7 +309,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1,2,4 above ground level"
       },
       "geometry": {
@@ -338,7 +338,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 5 above ground level"
       },
       "geometry": {
@@ -367,7 +367,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -396,7 +396,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -425,7 +425,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "UV",
+        "Treatmentstatus": "UV",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -454,7 +454,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "UV",
+        "Treatmentstatus": "UV",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -483,7 +483,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -512,7 +512,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -541,7 +541,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "UV",
+        "Treatmentstatus": "UV",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -570,7 +570,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -599,7 +599,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -628,7 +628,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 5,6 above ground level"
       },
       "geometry": {
@@ -657,7 +657,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1,2 above ground level"
       },
       "geometry": {
@@ -686,7 +686,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1,2 above ground level"
       },
       "geometry": {
@@ -715,7 +715,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -744,7 +744,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -773,7 +773,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Make above",
+        "Treatmentstatus": "Make above",
         "Treatment": "Make above ground well secure"
       },
       "geometry": {
@@ -802,7 +802,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -831,7 +831,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Make above",
+        "Treatmentstatus": "Make above",
         "Treatment": "Make above ground well secure"
       },
       "geometry": {
@@ -860,7 +860,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -889,7 +889,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 5 above ground level"
       },
       "geometry": {
@@ -918,7 +918,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -947,7 +947,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 4 above ground level"
       },
       "geometry": {
@@ -976,7 +976,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 5 above ground level"
       },
       "geometry": {
@@ -1005,7 +1005,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1034,7 +1034,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Replace",
+        "Treatmentstatus": "Replace",
         "Treatment": "Replace wells or Treat"
       },
       "geometry": {
@@ -1063,7 +1063,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1092,7 +1092,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 2,3 above ground level"
       },
       "geometry": {
@@ -1121,7 +1121,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1150,7 +1150,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1179,7 +1179,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1208,7 +1208,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1 2, 3 above ground level"
       },
       "geometry": {
@@ -1237,7 +1237,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1266,7 +1266,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1295,7 +1295,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1 - 5 above ground level"
       },
       "geometry": {
@@ -1324,7 +1324,7 @@
         "Well3": "n/a",
         "Well4": "Abandoned",
         "Well5": "n/a",
-        "Treatment-status": "Raise",
+        "Treatmentstatus": "Raise",
         "Treatment": "Raise well 1,2,3,5 above ground level"
       },
       "geometry": {
@@ -1353,7 +1353,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1382,7 +1382,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1411,7 +1411,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Already Secure",
+        "Treatmentstatus": "Already Secure",
         "Treatment": "Already Secure"
       },
       "geometry": {
@@ -1440,7 +1440,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "Already Secure",
+        "Treatmentstatus": "Already Secure",
         "Treatment": "Already Secure"
       },
       "geometry": {
@@ -1469,7 +1469,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
@@ -1498,7 +1498,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatment-status": "n/a",
+        "Treatmentstatus": "n/a",
         "Treatment": ""
       },
       "geometry": {
