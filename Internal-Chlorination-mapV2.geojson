@@ -425,7 +425,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "UV or Ozone Treatment",
+        "Treatmentstatus": "UV",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -454,7 +454,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "UV or Ozone Treatment",
+        "Treatmentstatus": "UV",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -541,8 +541,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "UV or Ozone Treatment",
-        "Treatment": "UV or Ozone Treatment"
+        "Treatmentstatus": "Raise difficult",
+        "Treatment": "Raise well above ground (may be more difficult)"
       },
       "geometry": {
         "type": "Point",
@@ -1092,8 +1092,8 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "Raise",
-        "Treatment": "Raise well 2,3 above ground level"
+        "Treatmentstatus": "Raise difficult",
+        "Treatment": "Raise well above ground (may be more difficult)"
       },
       "geometry": {
         "type": "Point",
