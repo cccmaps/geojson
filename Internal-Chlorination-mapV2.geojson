@@ -563,7 +563,7 @@
         "Well4": "n/a",
         "Well5": "n/a",
         "Treatment-status": "Raise difficult",
-        "Treatment": "Raise well above ground (may be more difficult)"
+        "Treatment": "Raise well above ground - may be more difficult"
       },
       "geometry": {
         "type": "Point",
@@ -1135,7 +1135,7 @@
         "Well4": "n/a",
         "Well5": "n/a",
         "Treatment-status": "Raise difficult",
-        "Treatment": "Raise well above ground (may be more difficult)"
+        "Treatment": "Raise well above ground - may be more difficult"
       },
       "geometry": {
         "type": "Point",
