@@ -425,7 +425,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "UV",
+        "Treatmentstatus": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
@@ -454,7 +454,7 @@
         "Well3": "n/a",
         "Well4": "n/a",
         "Well5": "n/a",
-        "Treatmentstatus": "UV",
+        "Treatmentstatus": "UV or Ozone Treatment",
         "Treatment": "UV or Ozone Treatment"
       },
       "geometry": {
