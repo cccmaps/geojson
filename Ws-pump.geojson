@@ -606,7 +606,7 @@
       "properties": {
         "PSID": 1125,
         "PumpStationName": "Gardiners",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
