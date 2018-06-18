@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spencer Beach Kiwi Holiday Park",
+        "website": "http://spencerbeachholidaypark.co.nz/",
+        "Address": "100 Heyders Rd, Spencerville, Christchurch 8083",
+        "Phone": "(03) 329 8721",
+        "Email": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7048152685165,
+          -43.43204993297947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://southbrightonholidaypark.co.nz/",
+        "Name": "South Brighton Holiday Park",
+        "Address": "59 Halsey Street, South New Brighton, Christchurch 8062",
+        "Phone": "(03) 388 9844",
+        "Email": "relax@southbrightonholidaypark.co.nz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73588597774506,
+          -43.53472828671937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "1357 Okains Bay Rd, Okains Bay, 7583",
+        "website": "http://okainsbaycamp.co.nz/",
+        "Name": "Okains Bay Camping Ground",
+        "Phone": "(03) 304 8789"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.06224644184113,
+          -43.697611198356235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pigeon Bay Camping Ground",
+        "website": "https://sites.google.com/site/canterburytentsites/quick-map/pigeon-bay-camping-ground",
+        "Address": "81 Wharf Rd, Pigeon Bay 7583",
+        "Phone": "027 523 4723",
+        "Email": "liddlegus@yahoo.com.au"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.90080428123474,
+          -43.68338334695545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "http://duvauchelleholidaypark.co.nz/",
+        "Address": "19a Seafield Rd, Duvauchelle 7581",
+        "Name": "Duvauchelle Holiday Park",
+        "Phone": "(03) 304 5777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9431188106537,
+          -43.75431061122924
+        ]
+      }
+    }
+  ]
+}
