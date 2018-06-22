@@ -234,7 +234,7 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": 5
+        "MobilitySpaces": "5. "
       }
     },
     {
@@ -264,7 +264,7 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": 5
+        "MobilitySpaces": "5. No Mobility concessions.  "
       }
     },
     {
@@ -444,7 +444,7 @@
         "monthly": "",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": 26
+        "MobilitySpaces": "26. No Mobility concessions."
       }
     },
     {
@@ -454,7 +454,8 @@
         "description": "Hereford St car park building",
         "type": "Mobility Off-Street",
         "spaces": "",
-        "MobilitySpaces": 16
+        "MobilitySpaces": 16,
+        "Promotion": ""
       },
       "geometry": {
         "type": "Point",
