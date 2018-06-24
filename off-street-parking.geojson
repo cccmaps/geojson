@@ -234,7 +234,7 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "5. "
+        "MobilitySpaces": "5. No Mobility concessions."
       }
     },
     {
@@ -247,6 +247,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Art Gallery car park building",
         "description": "Art Gallery Car park building",
         "type": "Mobility Off-Street",
@@ -397,6 +400,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
         "type": "CCC Off-Street Carpark",
@@ -414,7 +420,7 @@
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": 26
+        "MobilitySpaces": "26. No Mobility concessions."
       }
     },
     {
