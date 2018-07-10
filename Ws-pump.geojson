@@ -96,7 +96,7 @@
       "properties": {
         "PSID": 1068,
         "PumpStationName": "Auburn",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 2,
         "Above-wellheads": 0,
         "Abandoned": "n/a",
@@ -156,7 +156,7 @@
       "properties": {
         "PSID": 1069,
         "PumpStationName": "Avonhead",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 4,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -396,7 +396,7 @@
       "properties": {
         "PSID": 1072,
         "PumpStationName": "Crosbie",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 2,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
@@ -426,7 +426,7 @@
       "properties": {
         "PSID": 1099,
         "PumpStationName": "Denton Park",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 5,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -876,7 +876,7 @@
       "properties": {
         "PSID": 1023,
         "PumpStationName": "Lake Terrace",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 1,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
@@ -1116,7 +1116,7 @@
       "properties": {
         "PSID": 1088,
         "PumpStationName": "Picton",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 3,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1209,7 +1209,7 @@
       "properties": {
         "PSID": 1109,
         "PumpStationName": "Sockburn ",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 6,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1269,7 +1269,7 @@
       "properties": {
         "PSID": 1063,
         "PumpStationName": "St Johns",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 2,
         "Above-wellheads": 1,
         "Abandoned": "n/a",
@@ -1299,7 +1299,7 @@
       "properties": {
         "PSID": 1031,
         "PumpStationName": "Sydenham ",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 2,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
