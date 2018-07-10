@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "ADDINGTON",
+        "pump_station_name": "Addington",
         "well": "ADDINGTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2270",
@@ -31,7 +31,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "ADDINGTON",
+        "pump_station_name": "Addington",
         "well": "ADDINGTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/2787",
@@ -57,7 +57,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "ALDWINS",
+        "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2587",
@@ -83,7 +83,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "ALDWINS",
+        "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/3813",
@@ -109,7 +109,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "ALDWINS",
+        "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/8147",
@@ -135,7 +135,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "ASTON",
+        "pump_station_name": "Aston",
         "well": "ASTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/7216",
@@ -161,7 +161,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "ASTON",
+        "pump_station_name": "Astone",
         "well": "ASTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/7215",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "AUBURN",
+        "pump_station_name": "Auburn",
         "well": "AUBURN STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/7600",
@@ -213,7 +213,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "AVERILL",
+        "pump_station_name": "Averill",
         "well": "AVERILL STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/2403",
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "AVERILL",
+        "pump_station_name": "Averill",
         "well": "AVERILL STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/1870",
@@ -265,7 +265,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "BELFAST",
+        "pump_station_name": "Belfast",
         "well": "BELFAST STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/1336",
@@ -291,7 +291,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "BELFAST",
+        "pump_station_name": "Belfast",
         "well": "BELFAST STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/10632",
@@ -317,7 +317,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "BEXLEY",
+        "pump_station_name": "Bexley",
         "well": "BEXLEY STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2266",
@@ -343,7 +343,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "BEXLEY",
+        "pump_station_name": "Bexley",
         "well": "BEXLEY STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/6038",
@@ -369,7 +369,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "BLIGHS",
+        "pump_station_name": "Blighs",
         "well": "BLIGHS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/6203",
@@ -395,7 +395,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "BLIGHS",
+        "pump_station_name": "Blighs",
         "well": "BLIGHS STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "BX24/0965",
@@ -421,7 +421,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Brooklands / Kainga",
-        "pump_station_name": "BROOKLANDS",
+        "pump_station_name": "Brooklands",
         "well": "BROOKLANDS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/7180",
@@ -447,7 +447,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "BURNSIDE",
+        "pump_station_name": "Burnside",
         "well": "BURNSIDE STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/9439",
@@ -473,7 +473,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "BURWOOD",
+        "pump_station_name": "Burwood",
         "well": "BURWOOD STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/4133",
@@ -499,7 +499,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "BURWOOD",
+        "pump_station_name": "Burwood",
         "well": "BURWOOD STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/1546",
@@ -525,7 +525,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "CARTERS",
+        "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2789",
@@ -551,7 +551,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "CARTERS",
+        "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/2790",
@@ -577,7 +577,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "CARTERS",
+        "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/2555",
@@ -603,7 +603,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "CARTERS",
+        "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/10928",
@@ -629,7 +629,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "CROSBIE",
+        "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/6040",
@@ -655,7 +655,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "CROSBIE",
+        "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/18384",
@@ -681,7 +681,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "CROSBIE",
+        "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "BX23/0228",
@@ -707,7 +707,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DENTON",
+        "pump_station_name": "Denton",
         "well": "DENTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/3547",
@@ -733,7 +733,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DENTON",
+        "pump_station_name": "Denton",
         "well": "DENTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/1866",
@@ -759,7 +759,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DENTON",
+        "pump_station_name": "Denton",
         "well": "DENTON STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/1865",
@@ -785,7 +785,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DENTON",
+        "pump_station_name": "Denton",
         "well": "DENTON STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/3546",
@@ -811,7 +811,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DENTON",
+        "pump_station_name": "Denton",
         "well": "DENTON STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/1864",
@@ -837,7 +837,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DUNBARS",
+        "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/4053",
@@ -863,7 +863,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DUNBARS",
+        "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M36/4052",
@@ -889,7 +889,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DUNBARS",
+        "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M36/4333",
@@ -915,7 +915,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DUNBARS",
+        "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M36/3060",
@@ -941,7 +941,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "DUNBARS",
+        "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M36/8019",
@@ -967,7 +967,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "EFFINGHAM",
+        "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/1554",
@@ -993,7 +993,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "EFFINGHAM",
+        "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/1606",
@@ -1019,7 +1019,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "EFFINGHAM",
+        "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/2609",
@@ -1045,7 +1045,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "FARRINGTON",
+        "pump_station_name": "Farrington",
         "well": "FARRINGTON STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/9440",
@@ -1071,7 +1071,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "GRAMPIAN",
+        "pump_station_name": "Grampian",
         "well": "GRAMPIAN STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "CRC001310",
@@ -1097,7 +1097,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "GRAMPIAN",
+        "pump_station_name": "Grampian",
         "well": "GRAMPIAN STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "BX24/1327",
@@ -1123,7 +1123,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "GRASSMERE",
+        "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/1476",
@@ -1149,7 +1149,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "GRASSMERE",
+        "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/1475",
@@ -1175,7 +1175,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "GRASSMERE",
+        "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/8087",
@@ -1201,7 +1201,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLMORTON",
+        "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/0981",
@@ -1227,7 +1227,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLMORTON",
+        "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M36/1058",
@@ -1253,7 +1253,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLMORTON",
+        "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M36/4073",
@@ -1279,7 +1279,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLS",
+        "pump_station_name": "Hills",
         "well": "HILLS STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/1035",
@@ -1305,7 +1305,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLS",
+        "pump_station_name": "Hills",
         "well": "HILLS STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "BX24/0457",
@@ -1331,7 +1331,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "HILLS",
+        "pump_station_name": "Hills",
         "well": "HILLS STN WELL-07",
         "well_number": "WELL-07",
         "ecan_well_id": "BX24/0350",
@@ -1357,7 +1357,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "JEFFREYS",
+        "pump_station_name": "Jeffreys",
         "well": "JEFFREYS STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "M35/6667",
@@ -1383,7 +1383,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "JEFFREYS",
+        "pump_station_name": "Jeffreys",
         "well": "JEFFREYS STN WELL-09",
         "well_number": "WELL-09",
         "ecan_well_id": "BX24/0534",
@@ -1409,7 +1409,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Brooklands / Kainga",
-        "pump_station_name": "KAINGA",
+        "pump_station_name": "Kainga",
         "well": "KAINGA STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/6213",
@@ -1435,7 +1435,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "KERRS",
+        "pump_station_name": "Kerrs",
         "well": "KERRS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2152",
@@ -1461,7 +1461,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "KERRS",
+        "pump_station_name": "Kerrs",
         "well": "KERRS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/2241",
@@ -1487,7 +1487,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "LAKE TERRACE",
+        "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/2260",
@@ -1513,7 +1513,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "LAKE TERRACE",
+        "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/18398",
@@ -1539,7 +1539,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "LAKE TERRACE",
+        "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "BX24/0993",
@@ -1565,7 +1565,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/4591",
@@ -1591,7 +1591,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M36/2828",
@@ -1617,7 +1617,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M36/1356",
@@ -1643,7 +1643,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M36/1363",
@@ -1669,7 +1669,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M36/1195",
@@ -1695,7 +1695,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAIN PUMPS",
+        "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "M36/0985",
@@ -1721,7 +1721,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "MAIREHAU",
+        "pump_station_name": "Mairehau",
         "well": "MAIREHAU STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/5830",
@@ -1747,7 +1747,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "MARSHLANDS",
+        "pump_station_name": "Marshlands",
         "well": "MARSHLANDS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/7813",
@@ -1773,7 +1773,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "MARSHLANDS",
+        "pump_station_name": "Marshlands",
         "well": "MARSHLANDS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/7814",
@@ -1799,7 +1799,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAYS",
+        "pump_station_name": "Mays",
         "well": "MAYS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/1944",
@@ -1825,7 +1825,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAYS",
+        "pump_station_name": "Mays",
         "well": "MAYS STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/1945",
@@ -1851,7 +1851,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MAYS",
+        "pump_station_name": "Mays",
         "well": "MAYS STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/7319",
@@ -1877,7 +1877,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MONTREAL",
+        "pump_station_name": "Montreal",
         "well": "MONTREAL STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2243",
@@ -1903,7 +1903,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "MONTREAL",
+        "pump_station_name": "Montreal",
         "well": "MONTREAL STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/2325",
@@ -1929,7 +1929,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Hackthorne",
-        "pump_station_name": "PALATINE",
+        "pump_station_name": "Palatine",
         "well": "PALATINE STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/1197",
@@ -1955,7 +1955,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "PARKLANDS",
+        "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/3446",
@@ -1981,7 +1981,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "PARKLANDS",
+        "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/3128",
@@ -2007,7 +2007,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "PARKLANDS",
+        "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/7746",
@@ -2033,7 +2033,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Riccarton",
-        "pump_station_name": "PICTON",
+        "pump_station_name": "Picton",
         "well": "PICTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/8897",
@@ -2059,7 +2059,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Riccarton",
-        "pump_station_name": "PICTON",
+        "pump_station_name": "Picton",
         "well": "PICTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/8896",
@@ -2085,7 +2085,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Riccarton",
-        "pump_station_name": "PICTON",
+        "pump_station_name": "Picton",
         "well": "PICTON STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/8898",
@@ -2111,7 +2111,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "REDWOOD",
+        "pump_station_name": "Redwood",
         "well": "REDWOOD STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/5251",
@@ -2137,7 +2137,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "REDWOOD",
+        "pump_station_name": "Redwood",
         "well": "REDWOOD STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/5573",
@@ -2163,7 +2163,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "SOCKBURN",
+        "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/1859",
@@ -2189,7 +2189,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "SOCKBURN",
+        "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/1860",
@@ -2215,7 +2215,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "SOCKBURN",
+        "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/2274",
@@ -2241,7 +2241,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "SOCKBURN",
+        "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "M35/2275",
@@ -2267,7 +2267,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SPREYDON",
+        "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M36/1225",
@@ -2293,7 +2293,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SPREYDON",
+        "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M36/1210",
@@ -2319,7 +2319,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SPREYDON",
+        "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M36/1055",
@@ -2345,7 +2345,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SPREYDON",
+        "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M36/1619",
@@ -2371,7 +2371,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SPREYDON",
+        "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "M36/8288",
@@ -2397,7 +2397,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "ST JOHNS",
+        "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/2554",
@@ -2423,7 +2423,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "ST JOHNS",
+        "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/2805",
@@ -2449,7 +2449,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "ST JOHNS",
+        "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M35/18432",
@@ -2475,7 +2475,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SYDENHAM",
+        "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M36/0967",
@@ -2501,7 +2501,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SYDENHAM",
+        "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-07",
         "well_number": "WELL-07",
         "ecan_well_id": "M36/20670",
@@ -2527,7 +2527,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "SYDENHAM",
+        "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-08",
         "well_number": "WELL-08",
         "ecan_well_id": "M36/20671",
@@ -2553,7 +2553,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Riccarton",
-        "pump_station_name": "TARA",
+        "pump_station_name": "Tara",
         "well": "TARA STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M35/6945",
@@ -2579,7 +2579,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "THOMPSONS",
+        "pump_station_name": "Thompsons",
         "well": "THOMPSONS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/8972",
@@ -2605,7 +2605,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "THOMPSONS",
+        "pump_station_name": "Thompsons",
         "well": "THOMPSONS STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "BX24/0153",
@@ -2631,7 +2631,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Hackthorne",
-        "pump_station_name": "THORRINGTON",
+        "pump_station_name": "Thorrington",
         "well": "THORRINGTON STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/2195",
@@ -2657,7 +2657,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "TRAFALGAR",
+        "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M35/2556",
@@ -2683,7 +2683,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "TRAFALGAR",
+        "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-06",
         "well_number": "WELL-06",
         "ecan_well_id": "M35/8452",
@@ -2709,7 +2709,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "TRAFALGAR",
+        "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-07",
         "well_number": "WELL-07",
         "ecan_well_id": "BX24/0348",
@@ -2735,7 +2735,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "WILMERS",
+        "pump_station_name": "Wilmers",
         "well": "WILMERS STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M36/20556",
@@ -2761,7 +2761,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "West",
-        "pump_station_name": "WILMERS",
+        "pump_station_name": "Wilmers",
         "well": "WILMERS STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M36/20557",
@@ -2787,7 +2787,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "WOOLSTON",
+        "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-03",
         "well_number": "WELL-03",
         "ecan_well_id": "M36/1045",
@@ -2813,7 +2813,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "WOOLSTON",
+        "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-04",
         "well_number": "WELL-04",
         "ecan_well_id": "M36/1030",
@@ -2839,7 +2839,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Ferrymead",
-        "pump_station_name": "WOOLSTON",
+        "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-05",
         "well_number": "WELL-05",
         "ecan_well_id": "M36/5838",
@@ -2865,7 +2865,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "WORCESTER",
+        "pump_station_name": "Worcester",
         "well": "WORCESTER STN WELL-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/9289",
@@ -2891,7 +2891,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central",
-        "pump_station_name": "WORCESTER",
+        "pump_station_name": "Worcester",
         "well": "WORCESTER STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/9290",
@@ -2917,7 +2917,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "ESTUARY",
+        "pump_station_name": "Estuary",
         "well": "ESTUARY STN Well-01",
         "well_number": "WELL-04",
         "ecan_well_id": "BX24/0412",
@@ -2943,7 +2943,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Parklands",
-        "pump_station_name": "PRESTONS",
+        "pump_station_name": "Prestons",
         "well": "PRESTONS STN Well-01",
         "well_number": "WELL-01",
         "ecan_well_id": "BX24/0624",
@@ -2969,7 +2969,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Northwest",
-        "pump_station_name": "GARDINERS",
+        "pump_station_name": "Gardiners",
         "well": "GARDINERS STN Well-01",
         "well_number": "WELL-01",
         "ecan_well_id": "BX24/1311",
@@ -2995,7 +2995,7 @@
       "type": "Feature",
       "properties": {
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "KEYES",
+        "pump_station_name": "Keyes",
         "well": "KEYES STN Well-01",
         "well_number": "WELL-01",
         "ecan_well_id": "M35/18732",
