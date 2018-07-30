@@ -306,7 +306,7 @@
       "properties": {
         "PSID": 1071,
         "PumpStationName": "Burnside",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 5,
         "Abandoned": "n/a",
@@ -576,7 +576,7 @@
       "properties": {
         "PSID": 1073,
         "PumpStationName": "Farrington",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 4,
         "Abandoned": "n/a",
