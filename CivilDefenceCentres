@@ -1,0 +1,572 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 7,
+        "Centre": "Horncastle Arena",
+        "Street": "55 Jack Hinton Drive",
+        "Suburb": "Addington",
+        "Postcode": 8024,
+        "ContactName": "Chris Mintern",
+        "ContactLandline": "03 339 3599  ",
+        "ContactMobile": "027 702 9853",
+        "ContactEmail": "chris.mintern@vbase.co.nz",
+        "ContactPosition": "Vbase Opperations Manager",
+        "Name2": "Peter Maddock",
+        "Landline2": "03 339 5411",
+        "Mobile2": "027 680 4153",
+        "Email2": "peter.maddock@vbase.co.nz",
+        "Position2": "Vbase Manager for Stadium Venues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.601627,
+          -43.545571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 6,
+        "Centre": "Burnside High School",
+        "Street": "151 Greers Road",
+        "Suburb": "Burnside",
+        "Postcode": 8053,
+        "ContactName": "Doug Reynolds",
+        "ContactLandline": "03 358 8384",
+        "ContactMobile": "021 550 169",
+        "ContactEmail": "",
+        "ContactPosition": "Resident Caretaker",
+        "Name2": "Wally Lauder",
+        "Landline2": "03 357 1607",
+        "Mobile2": "021 550 185",
+        "Email2": "",
+        "Position2": "Facilities Manager"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576553,
+          -43.507401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 6,
+        "Centre": "Haeata Community Campus",
+        "Street": "240 Breezes Road",
+        "Suburb": "Aranui",
+        "Postcode": 8061,
+        "ContactName": "Bharti Uppal",
+        "ContactLandline": "",
+        "ContactMobile": "027 546 7202",
+        "ContactEmail": "bharti.uppal@programmes.co.nz",
+        "ContactPosition": "Facility Manager",
+        "Name2": "Craig Stewart",
+        "Landline2": "",
+        "Mobile2": "027 541 8160",
+        "Email2": "",
+        "Position2": "Contract Mgnt for Facility Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696261,
+          -43.51475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 5,
+        "Centre": "Cowles Stadium",
+        "Street": "210-220 Pages Road",
+        "Suburb": "Wainoni",
+        "Postcode": 8062,
+        "ContactName": "Simon Vesty",
+        "ContactLandline": "03 941 7036",
+        "ContactMobile": "027 201 7183",
+        "ContactEmail": "simon.vesty@ccc.govt.nz",
+        "ContactPosition": "Centres Leader Operations",
+        "Name2": "David Pritchard",
+        "Landline2": "03 941 5275",
+        "Mobile2": "027 505 9934",
+        "Email2": "david.pritchard@ccc.govt.nz",
+        "Position2": "Manager Centres Operations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696028,
+          -43.521518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Orauwhata: Bishopdale Community Centre",
+        "Street": "13P Bishopdale Court",
+        "Suburb": "Bishopdale",
+        "Postcode": 8053,
+        "ContactName": "Barbara Purcell",
+        "ContactLandline": "03 941 6716",
+        "ContactMobile": "021 293 1735",
+        "ContactEmail": "Barbara.Purcell@ccc.govt.nz",
+        "ContactPosition": "Team Leader Community Library Fendalton",
+        "Name2": "Sarah Ruane",
+        "Landline2": "03 941 7813",
+        "Mobile2": "",
+        "Email2": "Sarah.Ruane@ccc.govt.nz",
+        "Position2": "Associate Team Leader - Fendalton Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.586118,
+          -43.489284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Pioneer Stadium",
+        "Street": "75 Lyttelton Street",
+        "Suburb": "Somerfield",
+        "Postcode": 8024,
+        "ContactName": "Simon Vesty",
+        "ContactLandline": "03 941 7036",
+        "ContactMobile": "027 201 7183",
+        "ContactEmail": "simon.vesty@ccc.govt.nz",
+        "ContactPosition": "Centres Leader Operations",
+        "Name2": "David Pritchard",
+        "Landline2": "03 941 5275",
+        "Mobile2": "027 505 9934",
+        "Email2": "david.pritchard@ccc.govt.nz",
+        "Position2": "Manager Centres Operations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61415,
+          -43.56603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Te Hapua: Halswell Centre",
+        "Street": "341 Halswell Road",
+        "Suburb": "Halswell",
+        "Postcode": 8025,
+        "ContactName": "Lisa Peterson",
+        "ContactLandline": "03 941 7806",
+        "ContactMobile": "027 759 0049",
+        "ContactEmail": "Lisa.Peterson@ccc.govt.nz",
+        "ContactPosition": "Team Leader Community Libraries Halswell",
+        "Name2": "Pamela Fisher",
+        "Landline2": "03 941 5270",
+        "Mobile2": "027 599 4608",
+        "Email2": "Pamela.Fisher@ccc.govt.nz",
+        "Position2": "Associate Team Leader - Te Hapua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.569081,
+          -43.580957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Riccarton Park Raceway",
+        "Street": "165 Racecourse Road",
+        "Suburb": "Sockburn",
+        "Postcode": 8042,
+        "ContactName": "Eric Cormak",
+        "ContactLandline": "",
+        "ContactMobile": "027 435 4959",
+        "ContactEmail": "eric@riccartonpark.co.nz",
+        "ContactPosition": "Operations Manager",
+        "Name2": "Tim Mills",
+        "Landline2": "",
+        "Mobile2": "027 430 0208",
+        "Email2": "tim@riccartonpark.co.nz",
+        "Position2": "CEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.545829,
+          -43.528356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Templeton Community Centre",
+        "Street": "64 Kirk Road",
+        "Suburb": "Templeton",
+        "Postcode": 8042,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.471285,
+          -43.549094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Spencer Beach Holiday Park",
+        "Street": "100 Heyders Road",
+        "Suburb": "Spencerville",
+        "Postcode": 8083,
+        "ContactName": "Colin Jacka",
+        "ContactLandline": "03 941 8679",
+        "ContactMobile": "027 529 3703",
+        "ContactEmail": "colin.jacka@ccc.govt.nz",
+        "ContactPosition": "Business Operations Leader",
+        "Name2": "Davitt Joslen",
+        "Landline2": "03 941 7829",
+        "Mobile2": "027 704 9065",
+        "Email2": "davitt.joslen@ccc.govt.nz",
+        "Position2": "Camp Manager"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704211,
+          -43.43036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 4,
+        "Centre": "Mairehau High School",
+        "Street": "440 Hills Road",
+        "Suburb": "Mairehau",
+        "Postcode": 8052,
+        "ContactName": "Steve Clark",
+        "ContactLandline": "03 385 3145",
+        "ContactMobile": "021 957 355",
+        "ContactEmail": "",
+        "ContactPosition": "Caretaker",
+        "Name2": "Harry Romana",
+        "Landline2": "03 385 3145",
+        "Mobile2": "027 462 8822",
+        "Email2": "romanah@mairehau.school.nz",
+        "Position2": "Principal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.650054,
+          -43.492591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "North New Brighton Community Centre",
+        "Street": "88 Marine Parade",
+        "Suburb": "North New Brighton",
+        "Postcode": 8083,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.726859,
+          -43.49481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Aranui Wainoni Community Centre",
+        "Street": "31 Hampshire Street",
+        "Suburb": "Aranui",
+        "Postcode": 8061,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.701079,
+          -43.511188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Fendalton Community Centre",
+        "Street": "170 Clyde Road",
+        "Suburb": "Burnside",
+        "Postcode": 8053,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.591152,
+          -43.51508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Governors Bay School Hall",
+        "Street": "1 Jetty Road",
+        "Suburb": "Governors Bay",
+        "Postcode": 8971,
+        "ContactName": "Rebecca Baynes",
+        "ContactLandline": "03 329 9854",
+        "ContactMobile": "021 333 901",
+        "ContactEmail": "rebecca.baynes@governorsbay.school.nz",
+        "ContactPosition": "",
+        "Name2": "",
+        "Landline2": "",
+        "Mobile2": "",
+        "Email2": "",
+        "Position2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649986,
+          -43.621676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Linwood College",
+        "Street": "85 Aldwins Road",
+        "Suburb": "Phillipstown",
+        "Postcode": 8062,
+        "ContactName": "Richard Edmundson",
+        "ContactLandline": "03 982 0100",
+        "ContactMobile": "027 622 1090",
+        "ContactEmail": "",
+        "ContactPosition": "Principal",
+        "Name2": "Melissa Young",
+        "Landline2": "",
+        "Mobile2": "027 411 5000",
+        "Email2": "",
+        "Position2": "Acting Principal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.666909,
+          -43.537889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Lyttelton Recreation Centre",
+        "Street": "25 Winchester Street",
+        "Suburb": "Lyttelton",
+        "Postcode": 8082,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.720329,
+          -43.60099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 3,
+        "Centre": "Parkview Community Lounge",
+        "Street": "75 Queenspark Drive",
+        "Suburb": "Parklands",
+        "Postcode": 8083,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.704606,
+          -43.481491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 2,
+        "Centre": "South New Brighton Community Hall",
+        "Street": "74 Beatty Street ",
+        "Suburb": "South New Brighton",
+        "Postcode": 8062,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73268,
+          -43.526352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 2,
+        "Centre": "Hei Hei Community Centre",
+        "Street": "12 Wycola Avenue",
+        "Suburb": "Hei Hei",
+        "Postcode": 8042,
+        "ContactName": "Steve Orme",
+        "ContactLandline": "03 941 8176",
+        "ContactMobile": "027 505 9919",
+        "ContactEmail": "Steve.Orme@ccc.govt.nz",
+        "ContactPosition": "Team Leader, Facility Mgnt, CCC",
+        "Name2": "Paul McKeefry",
+        "Landline2": "03 941 8859",
+        "Mobile2": "027 43 72077",
+        "Email2": "Paul.McKeefry@ccc.govt.nz",
+        "Position2": "Community Facility Specialist, Facility Mgnt, CCC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.521832,
+          -43.535508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CDCLevel": 2,
+        "Centre": "St Andrews Community Church",
+        "Street": "85 Marine Drive",
+        "Suburb": "Diamond Harbour",
+        "Postcode": 8971,
+        "ContactName": "Wendy Coles",
+        "ContactLandline": "03 329 4483",
+        "ContactMobile": "021 154 1434",
+        "ContactEmail": "colesdhb@gmail.com",
+        "ContactPosition": "CDEM Volunteer/Diamond Harbour Resident",
+        "Name2": "Peter Harding",
+        "Landline2": "03 329 3356",
+        "Mobile2": "021 343 866",
+        "Email2": "",
+        "Position2": "CDEM Volunteer/Diamond Harbour Resident"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.730755,
+          -43.627987
+        ]
+      }
+    }
+  ]
+}
