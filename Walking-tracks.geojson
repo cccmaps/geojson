@@ -34,7 +34,7 @@
         "MountainBikeClassification": null,
         "RouteHierarchy": "Primary",
         "RouteSharedUse": "Yes",
-        "RouteWarning": null,
+        "RouteWarning": "",
         "RouteArea": "Hagley Park",
         "RoutePlace": "North Hagley Park Walk",
         "RouteDogRestriction": "On Lead",
