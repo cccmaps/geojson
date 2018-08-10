@@ -636,7 +636,7 @@
       "properties": {
         "PSID": 1074,
         "PumpStationName": "Grampian",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 1,
         "Abandoned": "n/a",
@@ -726,7 +726,7 @@
       "properties": {
         "PSID": 1017,
         "PumpStationName": "Hills",
-        "ChlorinationDose": "0.5 parts per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
@@ -876,7 +876,7 @@
       "properties": {
         "PSID": 1023,
         "PumpStationName": "Lake Terrace",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
