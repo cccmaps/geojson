@@ -192,6 +192,584 @@
           -43.527875
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Hagley Park (Special Events)",
+        "Address": "36 Park Terrace, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Grass",
+        "Toilets": "Some",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "54,570sqm",
+        "Capacity": "2,000 - 35,000",
+        "Small": "No",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62628,
+          -43.527139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Hagley Park (Entertainment Triangle)",
+        "Address": "16 Riccarton Avenue, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Grass",
+        "Toilets": "Some",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "29,607sqm",
+        "Capacity": "up to 10,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624885,
+          -43.528804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cathedral Square ",
+        "Address": "105 Cathedral Square, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "Yes",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "7,031sqm",
+        "Capacity": "up to 5,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636199,
+          -43.53136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Latimer Square",
+        "Address": "181 Latimer Square, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "18,118sqm",
+        "Capacity": "up to 3,000",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "No",
+        "Infrastructure allowed": "No",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Special conditions apply",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642765,
+          -43.531018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margaret Mahy Playground",
+        "Address": "177 Armagh Street, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "Yes",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Yes",
+        "Bus stops": "Yes",
+        "Area": "16,331sqm",
+        "Capacity": "up to 1,000",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "No",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Children's",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640898,
+          -43.528389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cranmer Square",
+        "Address": "18-20 Cranmer Square, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "18,996sqm",
+        "Capacity": "up to 5,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "No",
+        "Infrastructure allowed": "No",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Commemorative only",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630598,
+          -43.527875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Victoria Square",
+        "Address": "89 Armagh St, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard/Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "16,153sqm",
+        "Capacity": "up to 5,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6358052,
+          -43.52818118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rauora Park ",
+        "Address": "113 Lichfield Street, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "No",
+        "Surface type": "Hard/Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "9000sqm",
+        "Capacity": "up to 5,000",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640602,
+          -43.534043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City Mall (Hack Circle)",
+        "Address": "160 Cashel St, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "517sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6376659,
+          -43.53297347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Friendship Corner",
+        "Address": "100 Oxford Terrace, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "2005sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633369,
+          -43.53354127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Park of Remembrance",
+        "Address": "126 Cambridge Terrace, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "No",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "3007sqm",
+        "Capacity": "up to 1000",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "No",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Special conditions apply",
+        "Contact": "CCC",
+        "Special Conditions": "Permission for infrastructure evualated on a case by case basis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6331437,
+          -43.53254955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City Mall (paved area in front of Bridge of Remembrance)",
+        "Address": "77 Cashel St, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "No",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "455sqm",
+        "Capacity": "up to 200",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6337606,
+          -43.53305903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scott Statue Reserve",
+        "Address": "Robert Falcon Scott Memorials, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Grass",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "484sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "No",
+        "Infrastructure allowed": "No",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6336962,
+          -43.53107167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Terrace",
+        "Address": "124 Oxford Terrace, Christchurch Central, Christchurch",
+        "Power": "No",
+        "Water": "No",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "No",
+        "Area": "2230sqm",
+        "Capacity": "Varies",
+        "Small": "Yes",
+        "Large": "Yes",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633709,
+          -43.532713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Vanguard Square",
+        "Address": "5 Poplar Street, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "535sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "Yes",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641489,
+          -43.534857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matai Common",
+        "Address": "Mollett Street, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "662sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634944,
+          -43.535817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Evolution Square",
+        "Address": "226 Tuam Street, Christchurch Central, Christchurch",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "669sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Private": "No",
+        "Public": "Yes",
+        "Type": "Events; Promotions",
+        "Contact": "CCC",
+        "Special Conditions": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640373,
+          -43.535591
+        ]
+      }
     }
   ]
 }
