@@ -4,210 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "North Hagley Park (Special Events)",
-        "Address": "36 Park Terrace, Christchurch Central, Christchurch 8013",
-        "Power": "Yes",
-        "Water": "Yes",
-        "Surface type": "Grass",
-        "Toilets": "Some",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "No",
-        "Bus stops": "Yes",
-        "Area": "",
-        "Capacity": "2,000 - 35,000",
-        "Small": "No",
-        "Large": "Yes",
-        "Commercial": "Yes",
-        "Infrastructure allowed": "Yes",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "",
-        "Cost": "Free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.62628,
-          -43.527139
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "North Hagley Park (Entertainment Triangle)",
-        "Address": "16 Riccarton Avenue, Christchurch Central, Christchurch 8011",
-        "Power": "Yes",
-        "Water": "Yes",
-        "Surface type": "Grass",
-        "Toilets": "Some",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "No",
-        "Bus stops": "Yes",
-        "Area": "",
-        "Capacity": "up to 10,000",
-        "Small": "Yes",
-        "Large": "Yes",
-        "Commercial": "Yes",
-        "Infrastructure allowed": "Yes",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "",
-        "Cost": "Free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.624885,
-          -43.528804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Cathedral Square ",
-        "Address": "105 Cathedral Square, Christchurch Central, Christchurch 8011",
-        "Power": "Yes",
-        "Water": "Yes",
-        "Surface type": "Hard",
-        "Toilets": "Yes",
-        "Mobility-friendly": "Yes",
-        "Seating": "Yes",
-        "Car parking": "No",
-        "Bus stops": "No",
-        "Area": "",
-        "Capacity": "up to 5,000",
-        "Small": "Yes",
-        "Large": "Yes",
-        "Commercial": "Yes",
-        "Infrastructure allowed": "Yes",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "Case-by-Case",
-        "Cost": "Free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.636199,
-          -43.53136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Latimer Square",
-        "Address": "181 Latimer Square, Christchurch Central, Christchurch 8011",
-        "Power": "Yes",
-        "Water": "No",
-        "Surface type": "Grass",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "No",
-        "Bus stops": "Yes",
-        "Area": "",
-        "Capacity": "up to 3,000",
-        "Small": "Yes",
-        "Large": "No",
-        "Commercial": "Yes",
-        "Infrastructure allowed": "No",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "",
-        "Cost": "Free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.642765,
-          -43.531018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Margaret Mahy Playground",
-        "Address": "177 Armagh Street, Christchurch Central, Christchurch 8011",
-        "Power": "Yes",
-        "Water": "Yes",
-        "Surface type": "Hard",
-        "Toilets": "Yes",
-        "Mobility-friendly": "Yes",
-        "Seating": "Yes",
-        "Car parking": "Yes",
-        "Bus stops": "Yes",
-        "Area": "",
-        "Capacity": "up to 1,000",
-        "Small": "Yes",
-        "Large": "No",
-        "Commercial": "No",
-        "Infrastructure allowed": "Yes",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "Chlidren's",
-        "Cost": "Free"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.640898,
-          -43.528389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Cranmer Square",
-        "Address": "18-20 Cranmer Square, Christchurch Central, Christchurch 8013",
-        "Power": "No",
-        "Water": "No",
-        "Surface type": "Grass",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "No",
-        "Bus stops": "No",
-        "Area": "",
-        "Capacity": "up to 5,000",
-        "Small": "",
-        "Large": "",
-        "Commercial": "No",
-        "Infrastructure allowed": "No",
-        "Private": "No",
-        "Public": "Yes",
-        "Type": "Commemorative",
-        "Cost": "Charges apply"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630598,
-          -43.527875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "North Hagley Park (Special Events)",
+        "Name": "North Hagley Park (Special events)",
         "Address": "36 Park Terrace, Christchurch Central, Christchurch",
         "Power": "Yes",
         "Water": "Yes",
         "Surface type": "Grass",
-        "Toilets": "Some",
+        "Toilets": "Yes",
         "Mobility-friendly": "Yes",
         "Seating": "No",
         "Car parking": "Street parking",
         "Bus stops": "Yes",
         "Area": "54,570sqm",
-        "Capacity": "2,000 - 35,000",
+        "Capacity": "2,000 to 35,000",
         "Small": "No",
         "Large": "Yes",
         "Charges": "Charges apply",
@@ -216,7 +24,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -235,7 +43,7 @@
         "Power": "Yes",
         "Water": "Yes",
         "Surface type": "Grass",
-        "Toilets": "Some",
+        "Toilets": "Yes",
         "Mobility-friendly": "Yes",
         "Seating": "No",
         "Car parking": "Street parking",
@@ -250,7 +58,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -284,7 +92,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -318,7 +126,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -352,7 +160,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Children's",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -386,7 +194,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Commemorative only",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -420,7 +228,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -454,7 +262,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
       },
       "geometry": {
@@ -488,7 +296,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -522,7 +330,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -556,7 +364,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": "Permission for infrastructure evualated on a case by case basis"
       },
       "geometry": {
@@ -570,7 +378,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "City Mall (paved area in front of Bridge of Remembrance)",
+        "Name": "City Mall (Bridge of Remembrance)",
         "Address": "77 Cashel St, Christchurch Central, Christchurch",
         "Power": "Yes",
         "Water": "No",
@@ -590,7 +398,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -624,7 +432,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -658,7 +466,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
       },
       "geometry": {
@@ -692,7 +500,7 @@
         "Private": "Yes",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -726,7 +534,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
@@ -760,7 +568,7 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "CCC",
+        "Contact": "https://ccc.govt.nz/contact-us",
         "Special Conditions": ""
       },
       "geometry": {
