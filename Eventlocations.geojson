@@ -15,7 +15,7 @@
         "Car parking": "Street parking",
         "Bus stops": "Yes",
         "Area": "54,570sqm",
-        "Capacity": "2,000 to 35,000",
+        "Capacity": "up to 35,000",
         "Small": "No",
         "Large": "Yes",
         "Charges": "Charges apply",
@@ -25,7 +25,7 @@
         "Public": "Yes",
         "Type": "Events",
         "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "Minimum capacity is 2,000"
       },
       "geometry": {
         "type": "Point",
