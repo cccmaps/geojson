@@ -24,8 +24,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": "Minimum capacity is 2,000"
+        "Special Conditions": "Minimum capacity is 2,000",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -58,8 +59,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -92,8 +94,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -126,8 +129,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -160,8 +164,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Children's",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -194,8 +199,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Commemorative only",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -228,8 +234,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -262,8 +269,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
+        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -296,8 +304,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -330,8 +339,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -364,8 +374,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": "Permission for infrastructure evualated on a case by case basis"
+        "Special Conditions": "Permission for infrastructure evualated on a case by case basis",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -398,8 +409,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -432,8 +444,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -466,8 +479,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road"
+        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -500,8 +514,9 @@
         "Private": "Yes",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -534,8 +549,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
@@ -568,8 +584,9 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Contact": "https://ccc.govt.nz/contact-us",
-        "Special Conditions": ""
+        "Special Conditions": "",
+        "Contact url": "https://ccc.govt.nz/contact-us",
+        "Booking contact": "Christchurch City Council"
       },
       "geometry": {
         "type": "Point",
