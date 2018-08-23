@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "North Hagley Park (Special events)",
+        "Name": "North Hagley Park (Special events area)",
         "Address": "36 Park Terrace, Christchurch Central, Christchurch",
         "Power": "Yes",
         "Water": "Yes",
@@ -24,9 +24,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "Limited public toilet facilities. Additional facilities required for large events.",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -59,9 +60,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "Limited public toilet facilities. Additional facilities required for large events.",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -94,9 +96,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +114,7 @@
       "properties": {
         "Name": "Latimer Square",
         "Address": "181 Latimer Square, Christchurch Central, Christchurch",
-        "Power": "Yes",
+        "Power": "No",
         "Water": "No",
         "Surface type": "Grass",
         "Toilets": "No",
@@ -129,9 +132,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -164,9 +168,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Children's",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -199,9 +204,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Commemorative only",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -217,7 +223,7 @@
         "Name": "Victoria Square",
         "Address": "89 Armagh St, Christchurch Central, Christchurch",
         "Power": "Yes",
-        "Water": "Yes",
+        "Water": "No",
         "Surface type": "Hard/Grass",
         "Toilets": "No",
         "Mobility-friendly": "Yes",
@@ -234,9 +240,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -269,9 +276,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "May require a traffic management plan and permission for temporary use of legal road",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -304,9 +312,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -339,9 +348,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -360,7 +370,7 @@
         "Water": "No",
         "Surface type": "Grass",
         "Toilets": "No",
-        "Mobility-friendly": "No",
+        "Mobility-friendly": "Yes",
         "Seating": "No",
         "Car parking": "Street parking",
         "Bus stops": "No",
@@ -374,9 +384,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Special conditions apply",
-        "Special Conditions": "Permission for infrastructure evualated on a case by case basis",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "Permission for infrastructure evaluated on a case by case basis.",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -409,9 +420,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +437,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Scott Statue Reserve",
-        "Address": "Robert Falcon Scott Memorials, Christchurch Central, Christchurch",
+        "Address": "Robert Falcon Scott Memorial, Christchurch Central, Christchurch",
         "Power": "No",
         "Water": "No",
         "Surface type": "Grass",
@@ -444,9 +456,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -470,7 +483,7 @@
         "Car parking": "Street parking",
         "Bus stops": "No",
         "Area": "2230sqm",
-        "Capacity": "Varies",
+        "Capacity": "up to 1,000",
         "Small": "Yes",
         "Large": "Yes",
         "Charges": "Charges apply",
@@ -479,9 +492,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "May require a traffic management plan and permission for temporary use of legal road",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "May require a traffic management plan and permission for temporary use of legal road.",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -514,9 +528,10 @@
         "Private": "Yes",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -549,9 +564,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
@@ -584,9 +600,10 @@
         "Private": "No",
         "Public": "Yes",
         "Type": "Events; Promotions",
-        "Special Conditions": "",
         "Booking contact": "Christchurch City Council",
-        "Contact-URL": "https://ccc.govt.nz/contact-us"
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events"
       },
       "geometry": {
         "type": "Point",
