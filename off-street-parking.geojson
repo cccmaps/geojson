@@ -163,7 +163,7 @@
         "type": "CCC Off-Street Carpark",
         "address": "105 Worcester St.",
         "spaces": 40,
-        "hourlyrate": "$2 (9am-5pm, Mon-Fri), $2 Flat rate 24 hrs on weekends",
+        "hourlyrate": "$2 (9am-5pm, Mon-Sun)",
         "alldayrate": "N/A",
         "timelimit": "N/A",
         "nightrate": "",
