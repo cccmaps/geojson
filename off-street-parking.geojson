@@ -340,11 +340,14 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "type": "Other Off-street Carpark",
         "address": "71 Lichfield Street",
         "name": "The Crossing car park building",
         "description": "The Crossing Car park building",
-        "spaces": 400,
+        "spaces": 634,
         "hourlyrate": "<a title=\"The Crossing Parking info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
         "alldayrate": "<a title=\"The Crossing Parking info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
         "timelimit": "<a title=\"The Crossing Parking info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
