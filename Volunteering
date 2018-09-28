@@ -1,0 +1,597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697881,
+          -43.552926
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Charlesworth Reserve",
+        "Activities": "Planting and weeding, waterway clean-ups, education",
+        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
+        "Contact": "info@estuary.org.nz",
+        "External website URL": "http://www.estuary.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/charlesworth-volunteer-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.727226,
+          -43.559637
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "McCormacks Bay",
+        "Activities": "Planting and weeding",
+        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
+        "Contact": "Myles Richardson; mylsie@outlook.co.nz.",
+        "External website URL": "http://www.estuary.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mccormacks-bay-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683739,
+          -43.546188
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Thistledown Reserve",
+        "Activities": "Planting and weeding",
+        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
+        "Contact": "info@estuary.org.nz",
+        "External website URL": "http://www.estuary.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/thistledown-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.733204,
+          -43.527868
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "South Brighton Park ",
+        "Activities": "Weeding, watering, mulching, pruning and collecting litter",
+        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
+        "Contact": "info@estuary.org.nz",
+        "External website URL": "http://www.estuary.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/southbrigthon-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.671244,
+          -43.500141
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Horseshoe Lake",
+        "Activities": "Planting, weeding, watering, maintenance",
+        "Community Group": "Avon-Otakaro Forest Park",
+        "Contact": "info@aofp.co.nz",
+        "External website URL": "https://www.aofp.co.nz/get-involved",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/horseshoe-lake-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69829,
+          -43.558909
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Calder Green ",
+        "Activities": "Saltmarsh estuary restoration, lizard monitoring, bird surveys",
+        "Community Group": "Forest and Bird (North Canterbury)",
+        "Contact": "zip.gail@xtra.co.nz",
+        "External website URL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/caldersgreen-lizardgarden-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.741247,
+          -43.593284
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Mahoe-Nui Reserve, Port Hills ",
+        "Activities": "Bush restoration and bird monitoring",
+        "Community Group": "Forest and Bird (North Canterbury)",
+        "Contact": "Vicky Southworth; vickysouthworth@gmail.com",
+        "External website URL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/mahoe-nui-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.664575,
+          -43.542047
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Edmonds Factory Garden",
+        "Activities": "Gardening, fundraising, weddings",
+        "Community Group": "Friends of the Edmonds Factory Garden",
+        "Contact": "jenny.hoskin@gmail.com",
+        "External website URL": "http://www.cinch.org.nz/categories/a-z/f/311/entries/4379",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/edmonds-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620547,
+          -43.529087
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Christchurch Botanic Gardens",
+        "Activities": "Gardening, tour guiding and talks, plant propagation",
+        "Community Group": "Friends of the Christchurch Botanic Gardens",
+        "Contact": "Jeanette Christenson - Chair j-christensen@clear.net.nz",
+        "External website URL": "http://www.friendschchbotanicgardens.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/friends-of-bot-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.95979,
+          -43.812972
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Garden of Tane",
+        "Activities": "Projects, planting, weeding, maintenance",
+        "Community Group": "Garden of Tane Reserve Management Committee",
+        "Contact": "",
+        "External website URL": "http://www.gardenoftane.co.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/garden-tane-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60399,
+          -43.461835
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Styx River sites",
+        "Activities": "Water monitoring, bird monitoring, planting, education ",
+        "Community Group": "Styx Living Laboratory Trust",
+        "Contact": "Antony.shadbolt@ccc.govt.nz",
+        "External website URL": "https://www.thestyx.org.nz/styx",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/styx-lab-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614168,
+          -43.663324
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Port Hills",
+        "Activities": "Planting, restoration, reserve management",
+        "Community Group": "Summit Road Society",
+        "Contact": "secretary@summitroadsociety.org.nz",
+        "External website URL": "http://www.summitroadsociety.org.nz/",
+        "PhotoURL": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.678222,
+          -43.550331
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Laura Kent Reserve ",
+        "Activities": "Maintenance, planting",
+        "Community Group": "Laura Kent Working Group",
+        "Contact": "",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/laura-kent-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.758103,
+          -43.566666
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Sumner beach",
+        "Activities": "Dune management, bush restoration",
+        "Community Group": "Sumner Environment Group",
+        "Contact": "vickysouthworth@gmail.com",
+        "External website URL": "https://www.facebook.com/SumnerEnvironment/?fref=ts",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/sumner-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697837,
+          -43.48473
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Travis Wetland ",
+        "Activities": "Planting, weed busting",
+        "Community Group": "Travis Wetland Trust",
+        "Contact": "info@traviswetland.org.nz",
+        "External website URL": "http://traviswetland.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/travis-group-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.617426,
+          -43.572125
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Ashgrove Reserve",
+        "Activities": "Planting, weeding, mulching",
+        "Community Group": "Lowe Cashmere Residents Association",
+        "Contact": "Suebye.bye@gmail.com",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ashgrove-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.613993,
+          -43.57881
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Cashmere Stream",
+        "Activities": "Water quality monitoring",
+        "Community Group": "Cashmere Stream Care Group",
+        "Contact": "cashmerestreamcaregroup@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.682597,
+          -43.551769
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Radley Park",
+        "Activities": "Community food hub in Roimata/Woolston; fruit trees",
+        "Community Group": "Roimata Food Commons",
+        "Contact": "",
+        "External website URL": "https://www.facebook.com/roimatafoodcommons/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Radley-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634051,
+          -43.563484
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Ernle Clarke Reserve",
+        "Activities": "Planting and weed control, bird monitoring",
+        "Community Group": "Friends of Ernle Clarke Reserve",
+        "Contact": "alice@caverock.net.nz",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ernle-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.662605,
+          -43.562475
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "King George V Reserve",
+        "Activities": "Maintenance ",
+        "Community Group": "King George V Working Group",
+        "Contact": "",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/KingGeorgeV-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639278,
+          -43.560848
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Heathcote River",
+        "Activities": "Advocacy and networking for river restoration",
+        "Community Group": "Ōpāwaho Heathcote River Network",
+        "Contact": "opawahoheathcote@gmail.com ",
+        "External website URL": "http://www.ohr.co.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Opawaho-river-network-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.724193,
+          -43.567342
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Drayton Reserve",
+        "Activities": "Maintenance, planting",
+        "Community Group": "Drayton Reserve Volunteers",
+        "Contact": "ecosolutions@xtra.co.nz",
+        "External website URL": "https://www.draytonreservevolunteers.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Drayton-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691251,
+          -43.57086
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Duncan Park",
+        "Activities": "Maintenance, planting",
+        "Community Group": "Duncan Park Volunteers",
+        "Contact": "Amanda.black@ccc.govt.nz ",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/duncan-park-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.656724,
+          -43.462007
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Roanga Medicinal Gardens",
+        "Activities": "Maintenance, planting, cultural harvest",
+        "Community Group": "Roanga Practitioners ",
+        "Contact": "antony.shadbolt@ccc.govt.nz",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719643,
+          -43.502601
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Rawhiti Domain",
+        "Activities": "Planting, advocating for nature play and butterflies",
+        "Community Group": "Guardians of Rawhiti Domain",
+        "Contact": "guardiansofrawhiti@gmail.com",
+        "External website URL": "https://www.facebook.com/GuardiansofRawhiti/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/rawhiti-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.687842,
+          -43.475911
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Titirangi Reserve ",
+        "Activities": "Maintenance, planting",
+        "Community Group": "Friends of Titirangi Reserve ",
+        "Contact": "",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/titirangi-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.81553,
+          -43.786307
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Okuti Valley ",
+        "Activities": "Maintenance, planting, restoration",
+        "Community Group": "Little River Wairewa Community Trust",
+        "Contact": "",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.660946,
+          -43.569603
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Mt Vernon Farm Park",
+        "Activities": "Track maintenance, development ,planting ",
+        "Community Group": "Port Hills Park Board Trust",
+        "Contact": "christie.burrows@ccc.govt.nz",
+        "External website URL": "",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.54834,
+          -43.662575
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Multiple sites around Banks Peninsula ",
+        "Activities": "Restoration, planting, maintenance, tui project",
+        "Community Group": "Banks Peninsula Conservation Trust",
+        "Contact": "enquiries@bpct.org.nz",
+        "External website URL": "http://www.bpct.org.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/banks-peninsula-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.617836,
+          -43.576392
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Old Stone House    ",
+        "Activities": "Community facility management",
+        "Community Group": "Cracroft Community Centre Incorporated",
+        "Contact": "Cracroft Community Centre Incorporated",
+        "External website URL": "https://www.theoldstonehouse.co.nz/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/stonehouse-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630508,
+          -43.513497
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Abberley Park ",
+        "Activities": "Community facility management, gardening, heritage rose pruning",
+        "Community Group": "Friends of Abberley Park",
+        "Contact": "Patricia Wallace - patricia.t.wallace@gmail.com",
+        "External website URL": "https://www.facebook.com/Friends-of-Abberley-Park-1067633789987213/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/abberleyroses-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.66032,
+          -43.51981
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Avebury Park",
+        "Activities": "Community facility management, gardening",
+        "Community Group": "Avebury Community Garden",
+        "Contact": "admin@aveburyhouse.co.nz",
+        "External website URL": "http://www.aveburyhouse.co.nz/richmond-community-garden.html",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/avebury-250.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.609021,
+          -43.523538
+        ]
+      },
+      "properties": {
+        "Park/Reserve": "Mona Vale and the Christchurch Botanic Gardens",
+        "Activities": "Rose pruning and maintenance",
+        "Community Group": "Heritage Rose Society",
+        "Contact": "rosepeople@paradise.net.nz ",
+        "External website URL": "http://www.nzroses.org.nz/canterbury/",
+        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Heritage-Roses.jpg"
+      }
+    }
+  ]
+}
