@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Charlesworth Reserve",
+        "Park": "Charlesworth Reserve",
         "Activities": "Planting and weeding, waterway clean-ups, education",
         "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
         "Contact": "info@estuary.org.nz",
@@ -29,7 +29,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "McCormacks Bay",
+        "Park": "McCormacks Bay",
         "Activities": "Planting and weeding",
         "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
         "Contact": "Myles Richardson; mylsie@outlook.co.nz.",
@@ -47,7 +47,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Thistledown Reserve",
+        "Park": "Thistledown Reserve",
         "Activities": "Planting and weeding",
         "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
         "Contact": "info@estuary.org.nz",
@@ -65,7 +65,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "South Brighton Park ",
+        "Park": "South Brighton Park ",
         "Activities": "Weeding, watering, mulching, pruning and collecting litter",
         "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
         "Contact": "info@estuary.org.nz",
@@ -83,7 +83,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Horseshoe Lake",
+        "Park": "Horseshoe Lake",
         "Activities": "Planting, weeding, watering, maintenance",
         "Community Group": "Avon-Otakaro Forest Park",
         "Contact": "info@aofp.co.nz",
@@ -101,7 +101,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Calder Green ",
+        "Park": "Calder Green ",
         "Activities": "Saltmarsh estuary restoration, lizard monitoring, bird surveys",
         "Community Group": "Forest and Bird (North Canterbury)",
         "Contact": "zip.gail@xtra.co.nz",
@@ -119,7 +119,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Mahoe-Nui Reserve, Port Hills ",
+        "Park": "Mahoe-Nui Reserve, Port Hills ",
         "Activities": "Bush restoration and bird monitoring",
         "Community Group": "Forest and Bird (North Canterbury)",
         "Contact": "Vicky Southworth; vickysouthworth@gmail.com",
@@ -137,7 +137,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Edmonds Factory Garden",
+        "Park": "Edmonds Factory Garden",
         "Activities": "Gardening, fundraising, weddings",
         "Community Group": "Friends of the Edmonds Factory Garden",
         "Contact": "jenny.hoskin@gmail.com",
@@ -155,7 +155,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Christchurch Botanic Gardens",
+        "Park": "Christchurch Botanic Gardens",
         "Activities": "Gardening, tour guiding and talks, plant propagation",
         "Community Group": "Friends of the Christchurch Botanic Gardens",
         "Contact": "Jeanette Christenson - Chair j-christensen@clear.net.nz",
@@ -173,7 +173,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Garden of Tane",
+        "Park": "Garden of Tane",
         "Activities": "Projects, planting, weeding, maintenance",
         "Community Group": "Garden of Tane Reserve Management Committee",
         "Contact": "",
@@ -191,7 +191,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Styx River sites",
+        "Park": "Styx River sites",
         "Activities": "Water monitoring, bird monitoring, planting, education ",
         "Community Group": "Styx Living Laboratory Trust",
         "Contact": "Antony.shadbolt@ccc.govt.nz",
@@ -209,7 +209,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Port Hills",
+        "Park": "Port Hills",
         "Activities": "Planting, restoration, reserve management",
         "Community Group": "Summit Road Society",
         "Contact": "secretary@summitroadsociety.org.nz",
@@ -227,7 +227,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Laura Kent Reserve ",
+        "Park": "Laura Kent Reserve ",
         "Activities": "Maintenance, planting",
         "Community Group": "Laura Kent Working Group",
         "Contact": "",
@@ -245,7 +245,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Sumner beach",
+        "Park": "Sumner beach",
         "Activities": "Dune management, bush restoration",
         "Community Group": "Sumner Environment Group",
         "Contact": "vickysouthworth@gmail.com",
@@ -263,7 +263,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Travis Wetland ",
+        "Park": "Travis Wetland ",
         "Activities": "Planting, weed busting",
         "Community Group": "Travis Wetland Trust",
         "Contact": "info@traviswetland.org.nz",
@@ -281,7 +281,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Ashgrove Reserve",
+        "Park": "Ashgrove Reserve",
         "Activities": "Planting, weeding, mulching",
         "Community Group": "Lowe Cashmere Residents Association",
         "Contact": "Suebye.bye@gmail.com",
@@ -299,7 +299,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Cashmere Stream",
+        "Park": "Cashmere Stream",
         "Activities": "Water quality monitoring",
         "Community Group": "Cashmere Stream Care Group",
         "Contact": "cashmerestreamcaregroup@gmail.com"
@@ -315,7 +315,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Radley Park",
+        "Park": "Radley Park",
         "Activities": "Community food hub in Roimata/Woolston; fruit trees",
         "Community Group": "Roimata Food Commons",
         "Contact": "",
@@ -333,7 +333,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Ernle Clarke Reserve",
+        "Park": "Ernle Clarke Reserve",
         "Activities": "Planting and weed control, bird monitoring",
         "Community Group": "Friends of Ernle Clarke Reserve",
         "Contact": "alice@caverock.net.nz",
@@ -351,7 +351,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "King George V Reserve",
+        "Park": "King George V Reserve",
         "Activities": "Maintenance ",
         "Community Group": "King George V Working Group",
         "Contact": "",
@@ -369,7 +369,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Heathcote River",
+        "Park": "Heathcote River",
         "Activities": "Advocacy and networking for river restoration",
         "Community Group": "Ōpāwaho Heathcote River Network",
         "Contact": "opawahoheathcote@gmail.com ",
@@ -387,7 +387,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Drayton Reserve",
+        "Park": "Drayton Reserve",
         "Activities": "Maintenance, planting",
         "Community Group": "Drayton Reserve Volunteers",
         "Contact": "ecosolutions@xtra.co.nz",
@@ -405,7 +405,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Duncan Park",
+        "Park": "Duncan Park",
         "Activities": "Maintenance, planting",
         "Community Group": "Duncan Park Volunteers",
         "Contact": "Amanda.black@ccc.govt.nz ",
@@ -423,7 +423,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Roanga Medicinal Gardens",
+        "Park": "Roanga Medicinal Gardens",
         "Activities": "Maintenance, planting, cultural harvest",
         "Community Group": "Roanga Practitioners ",
         "Contact": "antony.shadbolt@ccc.govt.nz",
@@ -441,7 +441,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Rawhiti Domain",
+        "Park": "Rawhiti Domain",
         "Activities": "Planting, advocating for nature play and butterflies",
         "Community Group": "Guardians of Rawhiti Domain",
         "Contact": "guardiansofrawhiti@gmail.com",
@@ -459,7 +459,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Titirangi Reserve ",
+        "Park": "Titirangi Reserve ",
         "Activities": "Maintenance, planting",
         "Community Group": "Friends of Titirangi Reserve ",
         "Contact": "",
@@ -477,7 +477,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Okuti Valley ",
+        "Park": "Okuti Valley ",
         "Activities": "Maintenance, planting, restoration",
         "Community Group": "Little River Wairewa Community Trust",
         "Contact": "",
@@ -495,7 +495,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Mt Vernon Farm Park",
+        "Park": "Mt Vernon Farm Park",
         "Activities": "Track maintenance, development ,planting ",
         "Community Group": "Port Hills Park Board Trust",
         "Contact": "christie.burrows@ccc.govt.nz",
@@ -513,7 +513,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Multiple sites around Banks Peninsula ",
+        "Park": "Multiple sites around Banks Peninsula ",
         "Activities": "Restoration, planting, maintenance, tui project",
         "Community Group": "Banks Peninsula Conservation Trust",
         "Contact": "enquiries@bpct.org.nz",
@@ -531,7 +531,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Old Stone House    ",
+        "Park": "Old Stone House    ",
         "Activities": "Community facility management",
         "Community Group": "Cracroft Community Centre Incorporated",
         "Contact": "Cracroft Community Centre Incorporated",
@@ -549,7 +549,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Abberley Park ",
+        "Park": "Abberley Park ",
         "Activities": "Community facility management, gardening, heritage rose pruning",
         "Community Group": "Friends of Abberley Park",
         "Contact": "Patricia Wallace - patricia.t.wallace@gmail.com",
@@ -567,7 +567,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Avebury Park",
+        "Park": "Avebury Park",
         "Activities": "Community facility management, gardening",
         "Community Group": "Avebury Community Garden",
         "Contact": "admin@aveburyhouse.co.nz",
@@ -585,7 +585,7 @@
         ]
       },
       "properties": {
-        "Park/Reserve": "Mona Vale and the Christchurch Botanic Gardens",
+        "Park": "Mona Vale and the Christchurch Botanic Gardens",
         "Activities": "Rose pruning and maintenance",
         "Community Group": "Heritage Rose Society",
         "Contact": "rosepeople@paradise.net.nz ",
