@@ -13,7 +13,7 @@
       "properties": {
         "name": "Botanic Gardens car park",
         "description": "Botanic Gardens Car park",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "address": "Armagh St",
         "spaces": "",
         "hourlyrate": "Free",
@@ -42,7 +42,7 @@
       "properties": {
         "name": "Rolleston Ave car park",
         "description": "Rolleston Ave Car park",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "address": "null",
         "spaces": "",
         "hourlyrate": "null",
@@ -72,7 +72,7 @@
       "properties": {
         "name": "Hospital grounds",
         "description": "Hospital Grounds in front of Hospital.",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "address": null,
         "spaces": "",
         "hourlyrate": null,
@@ -101,7 +101,7 @@
       "properties": {
         "name": "Botanic Gardens car park",
         "description": "Botanic Gardens Car park",
-        "type": "CCC Off-Street Carpark",
+        "type": "Council off-street parking",
         "address": "Armagh St",
         "spaces": "272 (Mon-Sun) + 12 staff spaces which can be used weekends only.",
         "hourlyrate": "Free",
@@ -130,7 +130,7 @@
       "properties": {
         "name": "Rolleston Ave car park",
         "description": "Rolleston Ave Car park",
-        "type": "CCC Off-Street Carpark",
+        "type": "Council off-street parking",
         "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester St.",
         "spaces": 25,
         "hourlyrate": "$3.10 (9am-6pm, Mon-Sun)",
@@ -160,7 +160,7 @@
       "properties": {
         "name": "Worcester St car park",
         "description": "Worcester St Car park",
-        "type": "CCC Off-Street Carpark",
+        "type": "Council off-street parking",
         "address": "105 Worcester St.",
         "spaces": 40,
         "hourlyrate": "$2 (9am-5pm, Mon-Sun)",
@@ -190,7 +190,7 @@
       "properties": {
         "name": "Rolleston Ave car park",
         "description": "Rolleston Ave car park",
-        "type": "Off-Street Motorcycle park",
+        "type": "Off-street motorcycle parking",
         "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
         "spaces": 4,
         "hourlyrate": "null",
@@ -219,7 +219,7 @@
       "properties": {
         "name": "Art Gallery car park building",
         "description": "Art Gallery Car park building",
-        "type": "CCC Off-Street Carpark",
+        "type": "Council off-street parking",
         "address": "49 Montreal St, Cnr Montreal & Gloucester St's",
         "spaces": 105,
         "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
@@ -252,7 +252,7 @@
         "marker-symbol": "",
         "name": "Art Gallery car park building",
         "description": "Art Gallery Car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "address": "49 Montreal St, Cnr Montreal & Gloucester St's",
         "spaces": "",
         "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
@@ -281,7 +281,7 @@
       },
       "properties": {
         "name": "Hereford St car park building",
-        "type": "Other Off-street Carpark",
+        "type": "Other off-street parking",
         "description": "Hereford St Car park building",
         "spaces": 580,
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
@@ -312,7 +312,7 @@
       "properties": {
         "name": "West End car park building",
         "description": "West End Car park building",
-        "type": "Other Off-street Carpark",
+        "type": "Other off-street parking",
         "address": "Hereford Street, between Montreal Street and Cambridge Tce",
         "spaces": 680,
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz/park/3080_The-West-End-Carpark_48-Hereford-Street\">Wilson Parking info</a>",
@@ -343,7 +343,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "type": "Other Off-street Carpark",
+        "type": "Other off-street parking",
         "address": "71 Lichfield Street",
         "name": "The Crossing car park building",
         "description": "The Crossing Car park building",
@@ -375,7 +375,7 @@
       "properties": {
         "name": "Innovation car park building",
         "description": "Innovation Car park building",
-        "type": "Other Off-street Carpark",
+        "type": "Other off-street parking",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
         "hourlyrate": "<a title=\"Innovation Car park info\" href=\"http://innovationcarpark.co.nz/\">Innovation Car park info</a>",
@@ -408,7 +408,7 @@
         "marker-symbol": "",
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
-        "type": "CCC Off-Street Carpark",
+        "type": "Council off-street parking",
         "spaces": 805,
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
@@ -438,7 +438,7 @@
       "properties": {
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "spaces": "",
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
@@ -461,7 +461,7 @@
       "properties": {
         "name": "Hereford St car park building",
         "description": "Hereford St car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 16,
         "Promotion": ""
@@ -479,7 +479,7 @@
       "properties": {
         "name": "The Crossing car park building",
         "description": "The Crossing car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 13
       },
@@ -496,7 +496,7 @@
       "properties": {
         "name": "West End car park building",
         "description": "West end car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": "14 (1 electric vehicle only)"
       },
@@ -513,7 +513,7 @@
       "properties": {
         "name": "Innovation car park building",
         "description": "Innovation car park building",
-        "type": "Mobility Off-Street",
+        "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8
       },
@@ -530,7 +530,7 @@
       "properties": {
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
-        "type": "Off-Street Motorcycle park",
+        "type": "Off-street motorcycle parking",
         "spaces": 81,
         "address": "33 Lichfield Street"
       },
