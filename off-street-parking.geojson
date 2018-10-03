@@ -23,7 +23,7 @@
         "monthly": "N/A",
         "metered": "N/A",
         "p180": null,
-        "PleaseNote": "Gates close: Nov-Feb 9pm. March 8.30pm. April-Sept (Daylight savings) 6.30pm. Sept-Oct (Dalight savings) 8.30pm",
+        "PleaseNote": "Gates close: Nov-Feb 9pm. March 8.30pm. April-Sept (Daylight savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm",
         "Access": "Armagh St",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
@@ -234,7 +234,7 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "5. No Mobility concessions."
+        "MobilitySpaces": "5 (no mobility concessions)"
       }
     },
     {
@@ -267,7 +267,7 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "5. No Mobility concessions.  "
+        "MobilitySpaces": "5 (no mobility concessions)"
       }
     },
     {
@@ -327,7 +327,7 @@
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
         "Promotion": "",
-        "MobilitySpaces": "14 (1 electric vehicle only)"
+        "MobilitySpaces": "14 (1 electric vehicle)"
       }
     },
     {
@@ -423,7 +423,7 @@
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "26. No Mobility concessions."
+        "MobilitySpaces": "26 (no mobility concessions)"
       }
     },
     {
@@ -453,7 +453,7 @@
         "monthly": "",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "26. No Mobility concessions."
+        "MobilitySpaces": "26 (no mobility concessions)"
       }
     },
     {
@@ -498,7 +498,7 @@
         "description": "West end car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
-        "MobilitySpaces": "14 (1 electric vehicle only)"
+        "MobilitySpaces": "14 (1 electric vehicle)"
       },
       "geometry": {
         "type": "Point",
