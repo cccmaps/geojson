@@ -14,7 +14,7 @@
         "name": "Botanic Gardens car park",
         "description": "Botanic Gardens Car park",
         "type": "Mobility off-street parking",
-        "address": "Armagh St",
+        "address": "Armagh Street entrance",
         "spaces": "",
         "hourlyrate": "Free",
         "alldayrate": "N/A",
@@ -43,7 +43,7 @@
         "name": "Rolleston Ave car park",
         "description": "Rolleston Ave Car park",
         "type": "Mobility off-street parking",
-        "address": "null",
+        "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester Street.",
         "spaces": "",
         "hourlyrate": "null",
         "alldayrate": "null",
@@ -73,7 +73,7 @@
         "name": "Hospital grounds",
         "description": "Hospital Grounds in front of Hospital.",
         "type": "Mobility off-street parking",
-        "address": null,
+        "address": "Christchurch Hospital",
         "spaces": "",
         "hourlyrate": null,
         "alldayrate": null,
@@ -102,7 +102,7 @@
         "name": "Botanic Gardens car park",
         "description": "Botanic Gardens Car park",
         "type": "Council off-street parking",
-        "address": "Armagh St",
+        "address": "Armagh Street entrance",
         "spaces": "272 (Mon-Sun) + 12 staff spaces which can be used weekends only.",
         "hourlyrate": "Free",
         "alldayrate": null,
@@ -161,7 +161,7 @@
         "name": "Worcester St car park",
         "description": "Worcester St Car park",
         "type": "Council off-street parking",
-        "address": "105 Worcester St.",
+        "address": "105 Worcester Street",
         "spaces": 40,
         "hourlyrate": "$2 (9am-5pm, Mon-Sun)",
         "alldayrate": "N/A",
@@ -285,7 +285,7 @@
         "description": "Hereford St Car park building",
         "spaces": 580,
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
-        "address": "158 Hereford St",
+        "address": "158 Hereford Street",
         "alldayrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
         "timelimit": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
         "nightrate": "",
@@ -464,7 +464,8 @@
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 16,
-        "Promotion": ""
+        "Promotion": "",
+        "address": "158 Hereford Street"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +482,8 @@
         "description": "The Crossing car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
-        "MobilitySpaces": 13
+        "MobilitySpaces": 13,
+        "address": "71 Lichfield Street"
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +500,8 @@
         "description": "West end car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
-        "MobilitySpaces": "14 (1 electric vehicle)"
+        "MobilitySpaces": "14 (1 electric vehicle)",
+        "address": "Hereford Street, between Montreal Street and Cambridge Tce"
       },
       "geometry": {
         "type": "Point",
@@ -515,7 +518,8 @@
         "description": "Innovation car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
-        "MobilitySpaces": 8
+        "MobilitySpaces": 8,
+        "address": "Corner of Lichfield Street and Madras Street"
       },
       "geometry": {
         "type": "Point",
