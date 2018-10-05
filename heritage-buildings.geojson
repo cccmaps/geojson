@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Canterbury Provincial Council Buildings",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/Arts-Culture/_resampled/ResizedImageWzM1MCwyNjld/Canterbury-Provincial-Chambers.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631929,
+          -43.5292923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "New Regent Street",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/heritage/_resampled/ResizedImageWzYwMCwzNDVd/New-Regent.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638701,
+          -43.529288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Cuningham House",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzg1NSw0Njhd/Botanic-Gardens-Central-Rose-Garden-with-sundial-and-Cuningham-House.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621138,
+          -43.529795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Addington Water Tower",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzMyNSw0ODdd/AddingtonWaterTower.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6076877,
+          -43.5393537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Rose Historic Chapel",
+        "PhotoURL": "https://ccc.govt.nz/assets/Uploads/_resampled/ResizedImageWzYwMCwyMDBd/chapel-050716-T1-2-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636807,
+          -43.5232103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sign of the Kiwi",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/SoK.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645265,
+          -43.606299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sign of the Takahe",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzg1NSw0NjVd/Sign-of-the-Takahe-resize.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635496,
+          -43.57752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Godley House",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzgwMCw0NDFd/Godley-House-Diamond-Habr-resize11.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.740282,
+          -43.624363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Old Municipal Chambers (Our City O-Tautahi)",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/heritage/_resampled/ResizedImageWzg1NSw0OTFd/ourcityotautahi.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633656,
+          -43.530763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sign of the Bellbird",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Sign-of-the-Bellbird-.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624999,
+          -43.632139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Old Stone House",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzY1MCwyOTdd/stonehouse.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.617832,
+          -43.576267
+        ]
+      }
+    }
+  ]
+}
