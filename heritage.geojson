@@ -119,7 +119,7 @@
         "Title": "Godley House",
         "URL": "godley",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzgwMCw0NDFd/Godley-House-Diamond-Habr-resize11.jpg",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +775,7 @@
         "Title": "Moncks Cave",
         "URL": "moncks",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw0MTRd/Moncks-Cave-Heritage-image-cropped.jpg",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +791,7 @@
         "Title": "Moa Bone Point Cave",
         "URL": "moa",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw1NDdd/Moa-Bone-Point-Cave-pre-2011.jpg",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +807,7 @@
         "Title": "Grubb Cottage",
         "URL": "grubb",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw1MTld/Grubb-cottage-2014-05-2copy.jpg",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +823,7 @@
         "Title": "Stoddart Cottage",
         "URL": "stoddart",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSwzOTZd/Side-view-Stoddarts-Cottage.JPG",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
@@ -839,7 +839,7 @@
         "Title": "Magnetic Observatory",
         "URL": "magnetic",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzg1NSw0ODFd/Magnetic-Observatory-Workshop2.jpg",
-        "Type": "sites"
+        "Type": "archaeological site"
       },
       "geometry": {
         "type": "Point",
