@@ -871,7 +871,7 @@
         "Title": "Addington Cemetery",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#addingtoncemetery",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/Cemeteries/_resampled/ResizedImageWzMwMCwxODZd/AddingtonCemetery.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -887,7 +887,7 @@
         "Title": "Akaroa French Cemetery",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#akaroa",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage400249-AkaroaFrenchCemetery.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -903,7 +903,7 @@
         "Title": "Barbadoes Street Cemetery",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#barbadoes",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage399248-BarbadoesStreetCemetery.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -919,7 +919,7 @@
         "Title": "Mount Magdala Cemetery of the Good Shepherd Sisters",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#magdela",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage400296-MountMagdalaCemeteryoftheGoodShepherdSisters.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -935,7 +935,7 @@
         "Title": "Rutherford (Woolston) Cemetery",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#rutherford",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImageWzQwMCwyNDdd/RutherfordCemetery.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +951,7 @@
         "Title": "Interment site for February earthquake victims",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#february",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/Cemeteries/Avonhead-Park-CemeteryIntermentSiteSML.png",
-        "Type": "cemetery"
+        "Type": "historic cemetery"
       },
       "geometry": {
         "type": "Point",
