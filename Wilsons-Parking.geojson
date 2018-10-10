@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CarParkName": "Wilsons P711",
+        "Address": "699 Colombo St",
+        "Access ": "8-5pm",
+        "ParkingSpaces": 29,
+        "MobilitySpaces": 45,
+        "HourlyRate": "",
+        "AllDayRate": "",
+        "NightRate": "",
+        "ParkingDuration": "",
+        "HoursOfOperation": "",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636416,
+          -43.531436
+        ]
+      }
+    }
+  ]
+}
