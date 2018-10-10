@@ -4,23 +4,20 @@
     {
       "type": "Feature",
       "properties": {
-        "CarParkName": "Wilsons P711",
-        "Address": "699 Colombo St",
-        "Access ": "8-5pm",
-        "ParkingSpaces": 29,
-        "MobilitySpaces": 45,
-        "HourlyRate": "",
-        "AllDayRate": "",
-        "NightRate": "",
-        "ParkingDuration": "",
-        "HoursOfOperation": "",
-        "Note": ""
+        "CarParkName": "Peterborough St car park",
+        "Address": "52 Peterborough Street",
+        "Access ": "52 Peterborough Street, and also from Salisbury Street ",
+        "ParkingSpaces": 266,
+        "MobilitySpaces": 6,
+        "WilsonParking": "Wilson car park",
+        "URL": "http://www.wilsonparking.co.nz/park/490_52-Peterborough-Street_52-Peterborough-Street",
+        "Notes": "Motorhome parking available"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.636416,
-          -43.531436
+          172.63160705566406,
+          -43.52564296277434
         ]
       }
     }
