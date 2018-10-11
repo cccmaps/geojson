@@ -576,7 +576,7 @@
       "properties": {
         "PSID": 1073,
         "PumpStationName": "Farrington",
-        "ChlorinationDose": "none",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 1,
         "Above-wellheads": 4,
         "Abandoned": "n/a",
