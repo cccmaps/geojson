@@ -66,7 +66,7 @@
       "properties": {
         "PSID": 1004,
         "PumpStationName": "Aston Drive",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -966,7 +966,7 @@
       "properties": {
         "PSID": 1084,
         "PumpStationName": "Marshlands",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1026,7 +1026,7 @@
       "properties": {
         "PSID": 1027,
         "PumpStationName": "Montreal",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1209,7 +1209,7 @@
       "properties": {
         "PSID": 1109,
         "PumpStationName": "Sockburn ",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 6,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1299,7 +1299,7 @@
       "properties": {
         "PSID": 1031,
         "PumpStationName": "Sydenham ",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
@@ -1479,7 +1479,7 @@
       "properties": {
         "PSID": 1541,
         "PumpStationName": "Wainui ",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 1,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1509,7 +1509,7 @@
       "properties": {
         "PSID": 1117,
         "PumpStationName": "Wilmers",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1569,7 +1569,7 @@
       "properties": {
         "PSID": 1037,
         "PumpStationName": "Worcester",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 2,
         "Above-wellheads": "",
         "Abandoned": "n/a",
