@@ -8,9 +8,10 @@
         "Address": "53 Peterborough Street",
         "Access ": "53 Peterborough Street, and also from Salisbury Street ",
         "ParkingSpaces": 350,
-        "MobilitySpaces": 6,
+        "MobilitySpaces": 10,
         "WilsonParking": "Wilson car park",
-        "Notes": "Motorhome parking available"
+        "Notes": "Motorhome parking available",
+        "electricVehicleSpaces": 1
       },
       "geometry": {
         "type": "Point",
