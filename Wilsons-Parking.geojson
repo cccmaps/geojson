@@ -5,19 +5,18 @@
       "type": "Feature",
       "properties": {
         "CarParkName": "Peterborough St car park",
-        "Address": "52 Peterborough Street",
-        "Access ": "52 Peterborough Street, and also from Salisbury Street ",
-        "ParkingSpaces": 266,
+        "Address": "53 Peterborough Street",
+        "Access ": "53 Peterborough Street, and also from Salisbury Street ",
+        "ParkingSpaces": 350,
         "MobilitySpaces": 6,
         "WilsonParking": "Wilson car park",
-        "URL": "http://www.wilsonparking.co.nz/park/490_52-Peterborough-Street_52-Peterborough-Street",
         "Notes": "Motorhome parking available"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.63160705566406,
-          -43.52564296277434
+          172.63516902923584,
+          -43.525462098041494
         ]
       }
     }
