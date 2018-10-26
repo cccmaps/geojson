@@ -71,7 +71,7 @@
       },
       "properties": {
         "name": "Hospital grounds",
-        "description": "Hospital Grounds in front of Hospital.",
+        "description": "Hospital grounds in front of hospital.",
         "type": "Mobility off-street parking",
         "address": "Christchurch Hospital",
         "spaces": "",
@@ -373,7 +373,7 @@
         ]
       },
       "properties": {
-        "name": "Laneways car park building",
+        "name": "Laneways (Innovation) car park building",
         "description": "Laneways car park building",
         "type": "Other off-street parking",
         "spaces": 350,
@@ -514,7 +514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Laneways car park building",
+        "name": "Laneways (Innovation) car park building",
         "description": "Laneways car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
