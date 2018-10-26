@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": "Botanic Gardens car park",
-        "description": "Botanic Gardens Car park",
+        "description": "Botanic Gardens car park",
         "type": "Mobility off-street parking",
         "address": "Armagh Street entrance",
         "spaces": "",
@@ -41,7 +41,7 @@
       },
       "properties": {
         "name": "Rolleston Ave car park",
-        "description": "Rolleston Ave Car park",
+        "description": "Rolleston Ave car park",
         "type": "Mobility off-street parking",
         "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester Street.",
         "spaces": "",
@@ -100,7 +100,7 @@
       },
       "properties": {
         "name": "Botanic Gardens car park",
-        "description": "Botanic Gardens Car park",
+        "description": "Botanic Gardens car park",
         "type": "Council off-street parking",
         "address": "Armagh Street entrance",
         "spaces": "272 (Mon-Sun) + 12 staff spaces which can be used weekends only.",
@@ -129,7 +129,7 @@
       },
       "properties": {
         "name": "Rolleston Ave car park",
-        "description": "Rolleston Ave Car park",
+        "description": "Rolleston Ave car park",
         "type": "Council off-street parking",
         "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester St.",
         "spaces": 25,
@@ -159,7 +159,7 @@
       },
       "properties": {
         "name": "Worcester St car park",
-        "description": "Worcester St Car park",
+        "description": "Worcester St car park",
         "type": "Council off-street parking",
         "address": "105 Worcester Street",
         "spaces": 40,
@@ -218,7 +218,7 @@
       },
       "properties": {
         "name": "Art Gallery car park building",
-        "description": "Art Gallery Car park building",
+        "description": "Art Gallery car park building",
         "type": "Council off-street parking",
         "address": "49 Montreal St, Cnr Montreal & Gloucester St's",
         "spaces": 105,
@@ -251,7 +251,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Art Gallery car park building",
-        "description": "Art Gallery Car park building",
+        "description": "Art Gallery car park building",
         "type": "Mobility off-street parking",
         "address": "49 Montreal St, Cnr Montreal & Gloucester St's",
         "spaces": "",
@@ -282,7 +282,7 @@
       "properties": {
         "name": "Hereford St car park building",
         "type": "Other off-street parking",
-        "description": "Hereford St Car park building",
+        "description": "Hereford St car park building",
         "spaces": 580,
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
         "address": "158 Hereford Street",
@@ -311,7 +311,7 @@
       },
       "properties": {
         "name": "West End car park building",
-        "description": "West End Car park building",
+        "description": "West End car park building",
         "type": "Other off-street parking",
         "address": "Hereford Street, between Montreal Street and Cambridge Tce",
         "spaces": 680,
@@ -346,7 +346,7 @@
         "type": "Other off-street parking",
         "address": "71 Lichfield Street",
         "name": "The Crossing car park building",
-        "description": "The Crossing Car park building",
+        "description": "The Crossing car park building",
         "spaces": 634,
         "hourlyrate": "<a title=\"The Crossing Parking info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
         "alldayrate": "<a title=\"The Crossing Parking info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
@@ -373,8 +373,8 @@
         ]
       },
       "properties": {
-        "name": "Innovation car park building",
-        "description": "Innovation Car park building",
+        "name": "Laneways car park building",
+        "description": "Laneways car park building",
         "type": "Other off-street parking",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
@@ -388,7 +388,7 @@
         "HoursOfOperation": "",
         "nightrate": "",
         "monthly": "",
-        "Provider": "Innovation Carpark",
+        "Provider": "Laneways",
         "Promotion": "",
         "MobilitySpaces": 8
       }
@@ -514,8 +514,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Innovation car park building",
-        "description": "Innovation car park building",
+        "name": "Laneways car park building",
+        "description": "Laneways car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8,
