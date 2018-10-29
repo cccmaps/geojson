@@ -123,6 +123,29 @@
     },
     {
       "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Building": "Heathcote Valley Community Centre",
+        "Address": "45 Bridle Path Road, Heathcote Valley, Christchurch 8022",
+        "Features": "A stylish and versatile community centre with attractive views over the Port Hills. Flooded with natural light, the space is perfect for meetings, workshops, team building, catered functions and social events. ",
+        "Capacity": "The building is licenced to hold 96 people.",
+        "Facilities": "Kitchen, tableware, projector, retractable screen, 50 chairs, 4 rectangle tables, 3 cushioned bench seats and wifi.",
+        "Availability": "Monday to Sunday, 8am to 11pm (hours outside of this may be negotiable). ",
+        "Photo URL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Make-a-booking/hvcc.jpg",
+        "Web URL": "https://hvcc.org.nz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7084845304489,
+          -43.580973756755604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -139,6 +162,29 @@
         "Availability": "Monday to Sunday, 8am to midnight  ",
         "Photo URL": "https://ccc.govt.nz/assets/Images/Culture-Community/_resampled/ResizedImage220165-NorthNewBrightonCommunityCentreExterior.jpg",
         "Web URL": "https://ccc.govt.nz/culture-and-community/venues-for-hire/north-new-brighton-community-centre/"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Building": "Old Stone House",
+        "Address": "30 Shalamar Drive, Christchurch 8022",
+        "Features": "Built in 1870 by Sir John Cracroft Wilson to house his employees, this stunning grey stone building is a magical place to hold your meeting, class, event or celebration. ",
+        "Capacity": "Seating is provided for 80 people but the venue is licenced to hold a maximum of 100.",
+        "Facilities": "Sound system, 12 round tables, 12 trestle tables, tableware, kitchen and 80 plastic chairs.",
+        "Availability": "9.30am to midnight, Monday to Sunday. Check calendar on website for dates or email bookings@theoldstonehouse.co.nz.",
+        "Photo URL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Make-a-booking/Garden-view.jpg",
+        "Web URL": "https://www.theoldstonehouse.co.nz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61786878108978,
+          -43.57647555664919
+        ]
       }
     },
     {
@@ -219,52 +265,6 @@
         "Availability": "Monday to Sunday, 8am to 10pm",
         "Photo URL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzgwMCw1OThd/P1000634traviscentre.jpg",
         "Web URL": "https://ccc.govt.nz/parks-and-gardens/explore-parks/plains-and-wetlands/travis-wetland/travis-wetland-education-centre/"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Building": "Heathcote Valley Community Centre",
-        "Address": "45 Bridle Path Road, Heathcote Valley, Christchurch 8022",
-        "Features": "A stylish and versatile community centre with attractive views over the Port Hills. Flooded with natural light, the space is perfect for meetings, workshops, team building, catered functions and social events. ",
-        "Capacity": "The building is licenced to hold 96 people.",
-        "Facilities": "Kitchen, tableware, projector, retractable screen, 50 chairs, 4 rectangle tables, 3 cushioned bench seats and wifi.",
-        "Availability": "Monday to Sunday, 8am to 11pm (hours outside of this may be negotiable). ",
-        "Photo URL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Make-a-booking/hvcc.jpg",
-        "Web URL": "https://hvcc.org.nz/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.7084845304489,
-          -43.580973756755604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Building": "Old Stone House",
-        "Address": "30 Shalamar Drive, Christchurch 8022",
-        "Features": "Built in 1870 by Sir John Cracroft Wilson to house his employees, this stunning grey stone building is a magical place to hold your meeting, class, event or celebration. ",
-        "Capacity": "Seating is provided for 80 people but the venue is licenced to hold a maximum of 100.",
-        "Facilities": "Sound system, 12 round tables, 12 trestle tables, tableware, kitchen and 80 plastic chairs.",
-        "Availability": "9.30am to midnight, Monday to Sunday. Check calendar on website for dates or email bookings@theoldstonehouse.co.nz.",
-        "Photo URL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Make-a-booking/Garden-view.jpg",
-        "Web URL": "https://www.theoldstonehouse.co.nz/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.61786878108978,
-          -43.57647555664919
-        ]
       }
     }
   ]
