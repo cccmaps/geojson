@@ -35,36 +35,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.628205,
-          -43.530501
-        ]
-      },
-      "properties": {
-        "name": "Rolleston Ave car park",
-        "description": "Rolleston Ave car park",
-        "type": "Mobility off-street parking",
-        "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester Street.",
-        "spaces": "",
-        "hourlyrate": "null",
-        "alldayrate": "null",
-        "timelimit": "null",
-        "nightrate": "null",
-        "monthly": "null",
-        "metered": "null",
-        "p180": "null",
-        "PleaseNote": "null",
-        "Access": "null",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": "",
-        "MobilitySpaces": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.625113,
           -43.534496
         ]
@@ -123,36 +93,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.628036,
-          -43.530489
-        ]
-      },
-      "properties": {
-        "name": "Rolleston Ave car park",
-        "description": "Rolleston Ave car park",
-        "type": "Council off-street parking",
-        "address": "52 Rolleston Ave, Cnr Rolleston Ave & Worcester St.",
-        "spaces": 25,
-        "hourlyrate": "$3.10 (9am-6pm, Mon-Sun)",
-        "alldayrate": "N/A",
-        "timelimit": "N/A",
-        "nightrate": "N/A",
-        "monthly": "N/A",
-        "metered": "Yes",
-        "p180": "N/A",
-        "PleaseNote": "Text park not available",
-        "HoursOfOperation": "24 hours",
-        "Access": "Rolleston Ave or Worcester St.",
-        "Provider": "Christchurch City Council",
-        "Promotion": "",
-        "MobilitySpaces": 2
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.638372,
           -43.530629
         ]
@@ -176,35 +116,6 @@
         "Provider": "Christchurch City Council",
         "Promotion": "",
         "MobilitySpaces": 0
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.627687,
-          -43.530457
-        ]
-      },
-      "properties": {
-        "name": "Rolleston Ave car park",
-        "description": "Rolleston Ave car park",
-        "type": "Off-street motorcycle parking",
-        "address": "52 Rolleston Ave (Cnr Rolleston Ave & Worcester St)",
-        "spaces": 4,
-        "hourlyrate": "null",
-        "alldayrate": "null",
-        "timelimit": "null",
-        "nightrate": "null",
-        "monthly": "null",
-        "metered": "null",
-        "p180": "null",
-        "Access": "null",
-        "PleaseNote": "",
-        "HoursOfOperation": "24 hours",
-        "Provider": "Christchurch City Council",
-        "Promotion": ""
       }
     },
     {
