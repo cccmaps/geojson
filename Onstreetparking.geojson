@@ -14,7 +14,7 @@
       },
       "properties": {
         "ParkingZoneID": 790,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -1949,7 +1949,7 @@
       },
       "properties": {
         "ParkingZoneID": 2721,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Perpendicular",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -2085,7 +2085,7 @@
       },
       "properties": {
         "ParkingZoneID": 4211,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -3088,7 +3088,7 @@
       },
       "properties": {
         "ParkingZoneID": 5228,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -7968,7 +7968,7 @@
       },
       "properties": {
         "ParkingZoneID": 8151,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Perpendicular",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -8271,7 +8271,7 @@
       },
       "properties": {
         "ParkingZoneID": 8754,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -8500,7 +8500,7 @@
       },
       "properties": {
         "ParkingZoneID": 9580,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -9439,7 +9439,7 @@
       },
       "properties": {
         "ParkingZoneID": 13501,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Perpendicular",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -9470,7 +9470,7 @@
       },
       "properties": {
         "ParkingZoneID": 13503,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -10069,7 +10069,7 @@
       },
       "properties": {
         "ParkingZoneID": 16050,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -10234,7 +10234,7 @@
       },
       "properties": {
         "ParkingZoneID": 16144,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -11216,7 +11216,7 @@
       },
       "properties": {
         "ParkingZoneID": 17823,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -11478,7 +11478,7 @@
       },
       "properties": {
         "ParkingZoneID": 17837,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -13646,7 +13646,7 @@
       },
       "properties": {
         "ParkingZoneID": 18103,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -13677,7 +13677,7 @@
       },
       "properties": {
         "ParkingZoneID": 18110,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -13794,7 +13794,7 @@
       },
       "properties": {
         "ParkingZoneID": 18195,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -14598,7 +14598,7 @@
       },
       "properties": {
         "ParkingZoneID": 18310,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -14667,7 +14667,7 @@
       },
       "properties": {
         "ParkingZoneID": 18409,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -14827,7 +14827,7 @@
       },
       "properties": {
         "ParkingZoneID": 18454,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -14965,7 +14965,7 @@
       },
       "properties": {
         "ParkingZoneID": 18486,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -15866,7 +15866,7 @@
       },
       "properties": {
         "ParkingZoneID": 18626,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -17341,7 +17341,7 @@
       },
       "properties": {
         "ParkingZoneID": 18903,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -17945,7 +17945,7 @@
       },
       "properties": {
         "ParkingZoneID": 19869,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 3,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -18376,7 +18376,7 @@
       },
       "properties": {
         "ParkingZoneID": 19910,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -18545,7 +18545,7 @@
       },
       "properties": {
         "ParkingZoneID": 19967,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 3,
         "Configuration": "Angled",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -18607,7 +18607,7 @@
       },
       "properties": {
         "ParkingZoneID": 19980,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -18638,7 +18638,7 @@
       },
       "properties": {
         "ParkingZoneID": 19985,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 2,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -19111,7 +19111,7 @@
       },
       "properties": {
         "ParkingZoneID": 20072,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -19142,7 +19142,7 @@
       },
       "properties": {
         "ParkingZoneID": 20076,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -19860,7 +19860,7 @@
       },
       "properties": {
         "ParkingZoneID": 20164,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 3,
         "Configuration": "Perpendicular",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -19929,7 +19929,7 @@
       },
       "properties": {
         "ParkingZoneID": 20179,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 6,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -19960,7 +19960,7 @@
       },
       "properties": {
         "ParkingZoneID": 20180,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
@@ -20022,7 +20022,7 @@
       },
       "properties": {
         "ParkingZoneID": 20185,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Perpendicular",
         "RestrictedByUse": "Disabled parking",
         "RestrictedByUseCode": "DP",
