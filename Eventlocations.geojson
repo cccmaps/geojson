@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "North Hagley Park (Special events area)",
+        "Name": "Special Events Area - North Hagley Park",
         "Address": "36 Park Terrace, Christchurch Central, Christchurch",
         "Power": "Yes",
         "Water": "Yes",
@@ -15,7 +15,7 @@
         "Car parking": "Street parking",
         "Bus stops": "Yes",
         "Area": "54,570sqm",
-        "Capacity": "2,000 to 35,000",
+        "Capacity": "2,000 to 50,000",
         "Small": "No",
         "Large": "Yes",
         "Charges": "Charges apply",
@@ -41,7 +41,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "North Hagley Park (Entertainment Triangle)",
+        "Name": "Entertainment Triangle - North Hagley Park",
         "Address": "16 Riccarton Avenue, Christchurch Central, Christchurch",
         "Power": "Yes",
         "Water": "Yes",
@@ -52,7 +52,7 @@
         "Car parking": "Street parking",
         "Bus stops": "Yes",
         "Area": "29,607sqm",
-        "Capacity": "up to 10,000",
+        "Capacity": "up to 12,000",
         "Small": "Yes",
         "Large": "Yes",
         "Charges": "Charges apply",
@@ -292,8 +292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.640602,
-          -43.534043
+          172.64068,
+          -43.5326
         ]
       }
     },
@@ -627,6 +627,43 @@
         "coordinates": [
           172.640373,
           -43.535591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kahikatea Common & The Arcade",
+        "Address": "96 Tuam Street",
+        "Power": "Yes",
+        "Water": "Yes",
+        "Surface type": "Hard",
+        "Toilets": "No",
+        "Mobility-friendly": "Yes",
+        "Seating": "Yes",
+        "Car parking": "Street parking",
+        "Bus stops": "Yes",
+        "Area": "1125sqm",
+        "Capacity": "up to 500",
+        "Small": "Yes",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Type": "Events; Promotions",
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Notes": "May require a traffic management plan and permission for temporary use of legal road.",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
+        "Events-allowed": "Commercial, Public",
+        "Public": "Yes",
+        "Private": "No",
+        "Booking-contact": "Christchurch City Council"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63182431459427,
+          -43.535753022254994
         ]
       }
     }
