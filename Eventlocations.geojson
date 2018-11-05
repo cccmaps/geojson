@@ -29,7 +29,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": " https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#SpecialEvents"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#SpecialEvents",
+        "ChildpageURL": "https://ccc.govt.nz/special-events-area"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +68,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Triangle"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Triangle",
+        "ChildpageURL": "https://ccc.govt.nz/entertainment-triangle"
       },
       "geometry": {
         "type": "Point",
@@ -105,7 +107,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Cathedral"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Cathedral",
+        "ChildpageURL": "https://ccc.govt.nz/cathedral-square"
       },
       "geometry": {
         "type": "Point",
@@ -143,7 +146,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Latimer"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Latimer",
+        "ChildpageURL": "https://ccc.govt.nz/latimer-square"
       },
       "geometry": {
         "type": "Point",
@@ -181,7 +185,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#MargaretMahy"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#MargaretMahy",
+        "ChildpageURL": "https://ccc.govt.nz/margaret-mahy-playground"
       },
       "geometry": {
         "type": "Point",
@@ -219,7 +224,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Cranmer"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Cranmer",
+        "ChildpageURL": "https://ccc.govt.nz/cranmer-square"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +263,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": " https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Victoria"
+        "MoreInformationURL": " https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Victoria",
+        "ChildpageURL": "https://ccc.govt.nz/victoria-square"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +302,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Rauora"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Rauora",
+        "ChildpageURL": "https://ccc.govt.nz/rauora-park"
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +341,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Hack"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Hack",
+        "ChildpageURL": "https://ccc.govt.nz/hack-circle"
       },
       "geometry": {
         "type": "Point",
@@ -371,7 +380,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Friendship"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Friendship",
+        "ChildpageURL": "https://ccc.govt.nz/friendship-corner"
       },
       "geometry": {
         "type": "Point",
@@ -409,7 +419,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Remembrance"
+        "MoreInformationURL": "",
+        "ChildpageURL": "https://ccc.govt.nz/park-of-remembrance"
       },
       "geometry": {
         "type": "Point",
@@ -446,7 +457,9 @@
         "Events-allowed": "Commercial, Public",
         "Public": "Yes",
         "Private": "No",
-        "Booking-contact": "Christchurch City Council"
+        "Booking-contact": "Christchurch City Council",
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Remembrance",
+        "ChildpageURL": " https://ccc.govt.nz/city-mall-in-front-of-the-bridge-of-remembrance"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +497,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Scott"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Scott",
+        "ChildpageURL": "https://ccc.govt.nz/scott-statue-reserve"
       },
       "geometry": {
         "type": "Point",
@@ -522,7 +536,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Terrace"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Terrace",
+        "ChildpageURL": "https://ccc.govt.nz/the-terrace"
       },
       "geometry": {
         "type": "Point",
@@ -560,7 +575,8 @@
         "Public": "Yes",
         "Private": "Yes",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Vanguard"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Vanguard",
+        "ChildpageURL": "https://ccc.govt.nz/vanguard-square"
       },
       "geometry": {
         "type": "Point",
@@ -598,7 +614,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Matai"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Matai",
+        "ChildpageURL": "https://ccc.govt.nz/matai-common-and-mollett-street"
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +653,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Evolution"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Evolution",
+        "ChildpageURL": "https://ccc.govt.nz/evolution-square"
       },
       "geometry": {
         "type": "Point",
@@ -674,7 +692,8 @@
         "Public": "Yes",
         "Private": "No",
         "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Kahikatea"
+        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Kahikatea",
+        "ChildpageURL": " https://ccc.govt.nz/kahikatea-common-and-the-arcade"
       },
       "geometry": {
         "type": "Point",
