@@ -4,20 +4,3200 @@
     {
       "type": "Feature",
       "properties": {
-        "CarParkName": "Peterborough St car park",
-        "Address": "53 Peterborough Street",
-        "Access ": "53 Peterborough Street, and also from Salisbury Street ",
-        "ParkingSpaces": 350,
-        "MobilitySpaces": 10,
-        "WilsonParking": "Wilson car park",
-        "Notes": "Motorhome parking available",
-        "electricVehicleSpaces": 1
+        "Car park name": "Wilson off-street parking",
+        "Address": "147-157 Hereford Street",
+        "Entry": "157 Hereford Street",
+        "Parking spaces": 88,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633152,
-          -43.525045
+          172.638063,
+          -43.531722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "176 Hereford Street",
+        "Entry": "185 Manchester Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639334,
+          -43.532137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "140 Lichfield Street",
+        "Entry": "Lichfield, and also from High Street",
+        "Parking spaces": 115,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641093,
+          -43.53435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "211 High Street",
+        "Entry": "127-139 Manchester Street",
+        "Parking spaces": 46,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640037,
+          -43.534655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "200 Madras Street",
+        "Entry": "192 Madras Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642945,
+          -43.535449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "202 Madras Street",
+        "Entry": "241 Tuam Street",
+        "Parking spaces": 159,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642956,
+          -43.535097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "246 Cashel Street",
+        "Entry": "246 Cashel Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643718,
+          -43.533265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "248 Cashel Street",
+        "Entry": "248 Cashel Street, and also from Lichfield Street",
+        "Parking spaces": 131,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643905,
+          -43.533346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "236 Hereford Street",
+        "Entry": "236 Hereford Street",
+        "Parking spaces": 68,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643941,
+          -43.532225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "268-274 Cashel Street",
+        "Entry": "268 Cashel Street",
+        "Parking spaces": 112,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645111,
+          -43.533273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "150 Barbadoes Street",
+        "Entry": "136 Barbadoes Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645938,
+          -43.537358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "471 Moorhouse Avenue",
+        "Entry": "Fitzgerald Avenue",
+        "Parking spaces": 85,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649432,
+          -43.539578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "2 Alfred Street",
+        "Entry": "2 Alfred Street",
+        "Parking spaces": 43,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649033,
+          -43.536981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "255 St Asaph Street",
+        "Entry": "255 St Asaph Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641105,
+          -43.536033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "107-109 Cambridge Terrace",
+        "Entry": "107-109 Cambridge Terrace",
+        "Parking spaces": 53,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632515,
+          -43.531799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "68 St Asaph Street",
+        "Entry": "238 Antigua Street, and also from Acton Street",
+        "Parking spaces": 79,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628908,
+          -43.536966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "196 Antigua Street",
+        "Entry": "196 Antigua Street",
+        "Parking spaces": 61,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628093,
+          -43.539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "101 Moorhouse Avenue",
+        "Entry": "101-103 Moorhouse Avenue",
+        "Parking spaces": 172,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624881,
+          -43.539614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "12 Wilmer Street",
+        "Entry": "12 Wilmer Street",
+        "Parking spaces": 56,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63332,
+          -43.538646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "615 Colombo Street",
+        "Entry": "615 Colombo Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636361,
+          -43.53542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "608-618 Colombo Street",
+        "Entry": "608 Colombo Street, and also from St Asaph Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636837,
+          -43.535933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "96 Tuam Street",
+        "Entry": "96 Tuam Street",
+        "Parking spaces": 58,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631893,
+          -43.535474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "20 Oxford Terrace",
+        "Entry": "35 Tuam Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628655,
+          -43.534763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "508 Selwyn Street",
+        "Entry": "508 Selwyn Street",
+        "Parking spaces": 71,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622011,
+          -43.538025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Worcester Street",
+        "Entry": "74 Worcester Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638376,
+          -43.531031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "148 Gloucester Street",
+        "Entry": "148 Gloucester Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638116,
+          -43.530149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "235 Manchester Street",
+        "Entry": "235 Manchester Street",
+        "Parking spaces": 45,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639472,
+          -43.530314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "772 Colombo Street",
+        "Entry": "107 Armagh Street",
+        "Parking spaces": 230,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636815,
+          -43.528449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "53 Peterborough Street",
+        "Entry": "53 Peterborough Street, and also from Salisbury Street",
+        "Parking spaces": 350,
+        "Mobility spaces": 10,
+        "Electric vehicle spaces": 1,
+        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633007,
+          -43.525259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "58-64 Kilmore Street",
+        "Entry": "58-64 Kilmore Street",
+        "Parking spaces": 125,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632107,
+          -43.527427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "83 Armagh Street",
+        "Entry": "83 Armagh Street",
+        "Parking spaces": 48,
+        "Mobility spaces": 2,
+        "Electric vehicle spaces": "",
+        "Notes": "2 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633854,
+          -43.528537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "335 Durham Street",
+        "Entry": "335 Durham Street",
+        "Parking spaces": 62,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633302,
+          -43.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Armagh Street",
+        "Entry": "74 Armagh Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63234,
+          -43.529005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "321 Manchester Street",
+        "Entry": "161 Kilmore Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639374,
+          -43.526223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "52 Peterborough Street",
+        "Entry": "52 Peterborough Street, and also from Kilmore Street",
+        "Parking spaces": 65,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631724,
+          -43.525687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Hereford Street car park building",
+        "Address": "158 Hereford Street",
+        "Entry": "158 Hereford Street",
+        "Parking spaces": 580,
+        "Mobility spaces": 16,
+        "Electric vehicle spaces": "N/A",
+        "Notes": "16 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638227,
+          -43.532218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "West End car park building",
+        "Address": "48 Hereford Street",
+        "Entry": "Cahel Street",
+        "Parking spaces": 680,
+        "Mobility spaces": 14,
+        "Electric vehicle spaces": 1,
+        "Notes": "14 mobility and 1 electric vehicle space available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631582,
+          -43.532302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "The Crossing car park building",
+        "Address": "71 Lichfield Street",
+        "Entry": "71 Lichfield Street",
+        "Parking spaces": 634,
+        "Mobility spaces": 13,
+        "Electric vehicle spaces": 18,
+        "Notes": "13 mobility and 18 electric vehicle spaces availble",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637739,
+          -43.533951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOOD SPOT off-street parking",
+        "Address": "122 Manchester Street",
+        "Entry": "107 Lichfield Street",
+        "Parking spaces": 70,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639884,
+          -43.533964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOODSPOT off-street parking",
+        "Address": "204 Manchester Street",
+        "Entry": "178 Gloucester st",
+        "Parking spaces": 137,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64001,
+          -43.530014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "147-157 Hereford Street",
+        "Entry": "157 Hereford Street",
+        "Parking spaces": 88,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638063,
+          -43.531722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "176 Hereford Street",
+        "Entry": "185 Manchester Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639334,
+          -43.532137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "140 Lichfield Street",
+        "Entry": "Lichfield, and also from High Street",
+        "Parking spaces": 115,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641093,
+          -43.53435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "211 High Street",
+        "Entry": "127-139 Manchester Street",
+        "Parking spaces": 46,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640037,
+          -43.534655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "200 Madras Street",
+        "Entry": "192 Madras Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642945,
+          -43.535449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "202 Madras Street",
+        "Entry": "241 Tuam Street",
+        "Parking spaces": 159,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642956,
+          -43.535097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "246 Cashel Street",
+        "Entry": "246 Cashel Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643718,
+          -43.533265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "248 Cashel Street",
+        "Entry": "248 Cashel Street, and also from Lichfield Street",
+        "Parking spaces": 131,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643905,
+          -43.533346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "236 Hereford Street",
+        "Entry": "236 Hereford Street",
+        "Parking spaces": 68,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643941,
+          -43.532225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "268-274 Cashel Street",
+        "Entry": "268 Cashel Street",
+        "Parking spaces": 112,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645111,
+          -43.533273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "150 Barbadoes Street",
+        "Entry": "136 Barbadoes Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645938,
+          -43.537358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "471 Moorhouse Avenue",
+        "Entry": "Fitzgerald Avenue",
+        "Parking spaces": 85,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649432,
+          -43.539578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "2 Alfred Street",
+        "Entry": "2 Alfred Street",
+        "Parking spaces": 43,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649033,
+          -43.536981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "255 St Asaph Street",
+        "Entry": "255 St Asaph Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641105,
+          -43.536033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "107-109 Cambridge Terrace",
+        "Entry": "107-109 Cambridge Terrace",
+        "Parking spaces": 53,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632515,
+          -43.531799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "68 St Asaph Street",
+        "Entry": "238 Antigua Street, and also from Acton Street",
+        "Parking spaces": 79,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628908,
+          -43.536966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "196 Antigua Street",
+        "Entry": "196 Antigua Street",
+        "Parking spaces": 61,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628093,
+          -43.539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "101 Moorhouse Avenue",
+        "Entry": "101-103 Moorhouse Avenue",
+        "Parking spaces": 172,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624881,
+          -43.539614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "12 Wilmer Street",
+        "Entry": "12 Wilmer Street",
+        "Parking spaces": 56,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63332,
+          -43.538646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "615 Colombo Street",
+        "Entry": "615 Colombo Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636361,
+          -43.53542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "608-618 Colombo Street",
+        "Entry": "608 Colombo Street, and also from St Asaph Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636837,
+          -43.535933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "96 Tuam Street",
+        "Entry": "96 Tuam Street",
+        "Parking spaces": 58,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631893,
+          -43.535474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "20 Oxford Terrace",
+        "Entry": "35 Tuam Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628655,
+          -43.534763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "508 Selwyn Street",
+        "Entry": "508 Selwyn Street",
+        "Parking spaces": 71,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622011,
+          -43.538025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Worcester Street",
+        "Entry": "74 Worcester Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638376,
+          -43.531031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "148 Gloucester Street",
+        "Entry": "148 Gloucester Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638116,
+          -43.530149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "235 Manchester Street",
+        "Entry": "235 Manchester Street",
+        "Parking spaces": 45,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639472,
+          -43.530314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "772 Colombo Street",
+        "Entry": "107 Armagh Street",
+        "Parking spaces": 230,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636815,
+          -43.528449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "53 Peterborough Street",
+        "Entry": "53 Peterborough Street, and also from Salisbury Street",
+        "Parking spaces": 350,
+        "Mobility spaces": 10,
+        "Electric vehicle spaces": 1,
+        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633007,
+          -43.525259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "58-64 Kilmore Street",
+        "Entry": "58-64 Kilmore Street",
+        "Parking spaces": 125,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632107,
+          -43.527427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "83 Armagh Street",
+        "Entry": "83 Armagh Street",
+        "Parking spaces": 48,
+        "Mobility spaces": 2,
+        "Electric vehicle spaces": "",
+        "Notes": "2 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633854,
+          -43.528537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "335 Durham Street",
+        "Entry": "335 Durham Street",
+        "Parking spaces": 62,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633302,
+          -43.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Armagh Street",
+        "Entry": "74 Armagh Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63234,
+          -43.529005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "321 Manchester Street",
+        "Entry": "161 Kilmore Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639374,
+          -43.526223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "52 Peterborough Street",
+        "Entry": "52 Peterborough Street, and also from Kilmore Street",
+        "Parking spaces": 65,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631724,
+          -43.525687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Hereford Street car park building",
+        "Address": "158 Hereford Street",
+        "Entry": "158 Hereford Street",
+        "Parking spaces": 580,
+        "Mobility spaces": 16,
+        "Electric vehicle spaces": "N/A",
+        "Notes": "16 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638227,
+          -43.532218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "West End car park building",
+        "Address": "48 Hereford Street",
+        "Entry": "Cahel Street",
+        "Parking spaces": 680,
+        "Mobility spaces": 14,
+        "Electric vehicle spaces": 1,
+        "Notes": "14 mobility and 1 electric vehicle space available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631582,
+          -43.532302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "The Crossing car park building",
+        "Address": "71 Lichfield Street",
+        "Entry": "71 Lichfield Street",
+        "Parking spaces": 634,
+        "Mobility spaces": 13,
+        "Electric vehicle spaces": 18,
+        "Notes": "13 mobility and 18 electric vehicle spaces availble",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637739,
+          -43.533951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOOD SPOT off-street parking",
+        "Address": "122 Manchester Street",
+        "Entry": "107 Lichfield Street",
+        "Parking spaces": 70,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639884,
+          -43.533964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOODSPOT off-street parking",
+        "Address": "204 Manchester Street",
+        "Entry": "178 Gloucester st",
+        "Parking spaces": 137,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64001,
+          -43.530014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "147-157 Hereford Street",
+        "Entry": "157 Hereford Street",
+        "Parking spaces": 88,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638063,
+          -43.531722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "176 Hereford Street",
+        "Entry": "185 Manchester Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639334,
+          -43.532137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "140 Lichfield Street",
+        "Entry": "Lichfield, and also from High Street",
+        "Parking spaces": 115,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641093,
+          -43.53435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "211 High Street",
+        "Entry": "127-139 Manchester Street",
+        "Parking spaces": 46,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640037,
+          -43.534655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "200 Madras Street",
+        "Entry": "192 Madras Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642945,
+          -43.535449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "202 Madras Street",
+        "Entry": "241 Tuam Street",
+        "Parking spaces": 159,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642956,
+          -43.535097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "246 Cashel Street",
+        "Entry": "246 Cashel Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643718,
+          -43.533265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "248 Cashel Street",
+        "Entry": "248 Cashel Street, and also from Lichfield Street",
+        "Parking spaces": 131,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643905,
+          -43.533346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "236 Hereford Street",
+        "Entry": "236 Hereford Street",
+        "Parking spaces": 68,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643941,
+          -43.532225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "268-274 Cashel Street",
+        "Entry": "268 Cashel Street",
+        "Parking spaces": 112,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645111,
+          -43.533273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "150 Barbadoes Street",
+        "Entry": "136 Barbadoes Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645938,
+          -43.537358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "471 Moorhouse Avenue",
+        "Entry": "Fitzgerald Avenue",
+        "Parking spaces": 85,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649432,
+          -43.539578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "2 Alfred Street",
+        "Entry": "2 Alfred Street",
+        "Parking spaces": 43,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649033,
+          -43.536981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "255 St Asaph Street",
+        "Entry": "255 St Asaph Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641105,
+          -43.536033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "107-109 Cambridge Terrace",
+        "Entry": "107-109 Cambridge Terrace",
+        "Parking spaces": 53,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632515,
+          -43.531799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "68 St Asaph Street",
+        "Entry": "238 Antigua Street, and also from Acton Street",
+        "Parking spaces": 79,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628908,
+          -43.536966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "196 Antigua Street",
+        "Entry": "196 Antigua Street",
+        "Parking spaces": 61,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628093,
+          -43.539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "101 Moorhouse Avenue",
+        "Entry": "101-103 Moorhouse Avenue",
+        "Parking spaces": 172,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624881,
+          -43.539614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "12 Wilmer Street",
+        "Entry": "12 Wilmer Street",
+        "Parking spaces": 56,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63332,
+          -43.538646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "615 Colombo Street",
+        "Entry": "615 Colombo Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636361,
+          -43.53542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "608-618 Colombo Street",
+        "Entry": "608 Colombo Street, and also from St Asaph Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636837,
+          -43.535933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "96 Tuam Street",
+        "Entry": "96 Tuam Street",
+        "Parking spaces": 58,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631893,
+          -43.535474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "20 Oxford Terrace",
+        "Entry": "35 Tuam Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628655,
+          -43.534763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "508 Selwyn Street",
+        "Entry": "508 Selwyn Street",
+        "Parking spaces": 71,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622011,
+          -43.538025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Worcester Street",
+        "Entry": "74 Worcester Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638376,
+          -43.531031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "148 Gloucester Street",
+        "Entry": "148 Gloucester Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638116,
+          -43.530149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "235 Manchester Street",
+        "Entry": "235 Manchester Street",
+        "Parking spaces": 45,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639472,
+          -43.530314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "772 Colombo Street",
+        "Entry": "107 Armagh Street",
+        "Parking spaces": 230,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636815,
+          -43.528449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "53 Peterborough Street",
+        "Entry": "53 Peterborough Street, and also from Salisbury Street",
+        "Parking spaces": 350,
+        "Mobility spaces": 10,
+        "Electric vehicle spaces": 1,
+        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633007,
+          -43.525259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "58-64 Kilmore Street",
+        "Entry": "58-64 Kilmore Street",
+        "Parking spaces": 125,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632107,
+          -43.527427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "83 Armagh Street",
+        "Entry": "83 Armagh Street",
+        "Parking spaces": 48,
+        "Mobility spaces": 2,
+        "Electric vehicle spaces": "",
+        "Notes": "2 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633854,
+          -43.528537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "335 Durham Street",
+        "Entry": "335 Durham Street",
+        "Parking spaces": 62,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633302,
+          -43.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Armagh Street",
+        "Entry": "74 Armagh Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63234,
+          -43.529005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "321 Manchester Street",
+        "Entry": "161 Kilmore Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639374,
+          -43.526223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "52 Peterborough Street",
+        "Entry": "52 Peterborough Street, and also from Kilmore Street",
+        "Parking spaces": 65,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631724,
+          -43.525687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Hereford Street car park building",
+        "Address": "158 Hereford Street",
+        "Entry": "158 Hereford Street",
+        "Parking spaces": 580,
+        "Mobility spaces": 16,
+        "Electric vehicle spaces": "N/A",
+        "Notes": "16 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638227,
+          -43.532218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "West End car park building",
+        "Address": "48 Hereford Street",
+        "Entry": "Cahel Street",
+        "Parking spaces": 680,
+        "Mobility spaces": 14,
+        "Electric vehicle spaces": 1,
+        "Notes": "14 mobility and 1 electric vehicle space available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631582,
+          -43.532302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "The Crossing car park building",
+        "Address": "71 Lichfield Street",
+        "Entry": "71 Lichfield Street",
+        "Parking spaces": 634,
+        "Mobility spaces": 13,
+        "Electric vehicle spaces": 18,
+        "Notes": "13 mobility and 18 electric vehicle spaces availble",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637739,
+          -43.533951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOOD SPOT off-street parking",
+        "Address": "122 Manchester Street",
+        "Entry": "107 Lichfield Street",
+        "Parking spaces": 70,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639884,
+          -43.533964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOODSPOT off-street parking",
+        "Address": "204 Manchester Street",
+        "Entry": "178 Gloucester st",
+        "Parking spaces": 137,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64001,
+          -43.530014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "147-157 Hereford Street",
+        "Entry": "157 Hereford Street",
+        "Parking spaces": 88,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638063,
+          -43.531722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "176 Hereford Street",
+        "Entry": "185 Manchester Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639334,
+          -43.532137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "140 Lichfield Street",
+        "Entry": "Lichfield, and also from High Street",
+        "Parking spaces": 115,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641093,
+          -43.53435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "211 High Street",
+        "Entry": "127-139 Manchester Street",
+        "Parking spaces": 46,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.640037,
+          -43.534655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "200 Madras Street",
+        "Entry": "192 Madras Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642945,
+          -43.535449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "202 Madras Street",
+        "Entry": "241 Tuam Street",
+        "Parking spaces": 159,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642956,
+          -43.535097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "246 Cashel Street",
+        "Entry": "246 Cashel Street",
+        "Parking spaces": 44,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643718,
+          -43.533265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "248 Cashel Street",
+        "Entry": "248 Cashel Street, and also from Lichfield Street",
+        "Parking spaces": 131,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643905,
+          -43.533346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "236 Hereford Street",
+        "Entry": "236 Hereford Street",
+        "Parking spaces": 68,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643941,
+          -43.532225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "268-274 Cashel Street",
+        "Entry": "268 Cashel Street",
+        "Parking spaces": 112,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645111,
+          -43.533273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "150 Barbadoes Street",
+        "Entry": "136 Barbadoes Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645938,
+          -43.537358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "471 Moorhouse Avenue",
+        "Entry": "Fitzgerald Avenue",
+        "Parking spaces": 85,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649432,
+          -43.539578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "2 Alfred Street",
+        "Entry": "2 Alfred Street",
+        "Parking spaces": 43,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.649033,
+          -43.536981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "255 St Asaph Street",
+        "Entry": "255 St Asaph Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641105,
+          -43.536033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "107-109 Cambridge Terrace",
+        "Entry": "107-109 Cambridge Terrace",
+        "Parking spaces": 53,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632515,
+          -43.531799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "68 St Asaph Street",
+        "Entry": "238 Antigua Street, and also from Acton Street",
+        "Parking spaces": 79,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628908,
+          -43.536966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "196 Antigua Street",
+        "Entry": "196 Antigua Street",
+        "Parking spaces": 61,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628093,
+          -43.539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "101 Moorhouse Avenue",
+        "Entry": "101-103 Moorhouse Avenue",
+        "Parking spaces": 172,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624881,
+          -43.539614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "12 Wilmer Street",
+        "Entry": "12 Wilmer Street",
+        "Parking spaces": 56,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63332,
+          -43.538646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "615 Colombo Street",
+        "Entry": "615 Colombo Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636361,
+          -43.53542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "608-618 Colombo Street",
+        "Entry": "608 Colombo Street, and also from St Asaph Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636837,
+          -43.535933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "96 Tuam Street",
+        "Entry": "96 Tuam Street",
+        "Parking spaces": 58,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631893,
+          -43.535474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "20 Oxford Terrace",
+        "Entry": "35 Tuam Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.628655,
+          -43.534763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "508 Selwyn Street",
+        "Entry": "508 Selwyn Street",
+        "Parking spaces": 71,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622011,
+          -43.538025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Worcester Street",
+        "Entry": "74 Worcester Street",
+        "Parking spaces": 50,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638376,
+          -43.531031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "148 Gloucester Street",
+        "Entry": "148 Gloucester Street",
+        "Parking spaces": 40,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638116,
+          -43.530149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "235 Manchester Street",
+        "Entry": "235 Manchester Street",
+        "Parking spaces": 45,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639472,
+          -43.530314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "772 Colombo Street",
+        "Entry": "107 Armagh Street",
+        "Parking spaces": 230,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636815,
+          -43.528449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "53 Peterborough Street",
+        "Entry": "53 Peterborough Street, and also from Salisbury Street",
+        "Parking spaces": 350,
+        "Mobility spaces": 10,
+        "Electric vehicle spaces": 1,
+        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633007,
+          -43.525259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "58-64 Kilmore Street",
+        "Entry": "58-64 Kilmore Street",
+        "Parking spaces": 125,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.632107,
+          -43.527427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "83 Armagh Street",
+        "Entry": "83 Armagh Street",
+        "Parking spaces": 48,
+        "Mobility spaces": 2,
+        "Electric vehicle spaces": "",
+        "Notes": "2 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633854,
+          -43.528537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "335 Durham Street",
+        "Entry": "335 Durham Street",
+        "Parking spaces": 62,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633302,
+          -43.52678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "74 Armagh Street",
+        "Entry": "74 Armagh Street",
+        "Parking spaces": 80,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63234,
+          -43.529005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "321 Manchester Street",
+        "Entry": "161 Kilmore Street",
+        "Parking spaces": 60,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639374,
+          -43.526223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Wilson off-street parking",
+        "Address": "52 Peterborough Street",
+        "Entry": "52 Peterborough Street, and also from Kilmore Street",
+        "Parking spaces": 65,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631724,
+          -43.525687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "Hereford Street car park building",
+        "Address": "158 Hereford Street",
+        "Entry": "158 Hereford Street",
+        "Parking spaces": 580,
+        "Mobility spaces": 16,
+        "Electric vehicle spaces": "N/A",
+        "Notes": "16 mobility spaces available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638227,
+          -43.532218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "West End car park building",
+        "Address": "48 Hereford Street",
+        "Entry": "Cahel Street",
+        "Parking spaces": 680,
+        "Mobility spaces": 14,
+        "Electric vehicle spaces": 1,
+        "Notes": "14 mobility and 1 electric vehicle space available",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631582,
+          -43.532302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "The Crossing car park building",
+        "Address": "71 Lichfield Street",
+        "Entry": "71 Lichfield Street",
+        "Parking spaces": 634,
+        "Mobility spaces": 13,
+        "Electric vehicle spaces": 18,
+        "Notes": "13 mobility and 18 electric vehicle spaces availble",
+        "Charges apply": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.637739,
+          -43.533951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOOD SPOT off-street parking",
+        "Address": "122 Manchester Street",
+        "Entry": "107 Lichfield Street",
+        "Parking spaces": 70,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639884,
+          -43.533964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Car park name": "GOODSPOT off-street parking",
+        "Address": "204 Manchester Street",
+        "Entry": "178 Gloucester st",
+        "Parking spaces": 137,
+        "Mobility spaces": "",
+        "Electric vehicle spaces": "",
+        "Notes": "",
+        "Charges apply": "https://www.facebook.com/GoodSpotNZ/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64001,
+          -43.530014
         ]
       }
     }
