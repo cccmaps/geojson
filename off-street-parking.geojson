@@ -208,7 +208,8 @@
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
         "Promotion": "",
-        "MobilitySpaces": 16
+        "MobilitySpaces": 16,
+        "oid": 1368
       }
     },
     {
@@ -238,7 +239,8 @@
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
         "Promotion": "",
-        "MobilitySpaces": "14 (1 electric vehicle)"
+        "MobilitySpaces": "14 (1 electric vehicle)",
+        "oid": 1367
       }
     },
     {
@@ -271,7 +273,8 @@
         "HoursOfOperation": "",
         "Provider": "Wilson Parking",
         "Promotion": "",
-        "MobilitySpaces": 13
+        "MobilitySpaces": 13,
+        "oid": 1361
       }
     },
     {
@@ -301,7 +304,8 @@
         "monthly": "",
         "Provider": "Laneways",
         "Promotion": "",
-        "MobilitySpaces": 8
+        "MobilitySpaces": 8,
+        "oid": ""
       }
     },
     {
@@ -334,7 +338,8 @@
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "26 (no mobility concessions)"
+        "MobilitySpaces": "26 (no mobility concessions)",
+        "oid": -100
       }
     },
     {
@@ -412,7 +417,8 @@
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": "14 (1 electric vehicle)",
-        "address": "Hereford Street, between Montreal Street and Cambridge Tce"
+        "address": "Hereford Street, between Montreal Street and Cambridge Tce",
+        "oid": ""
       },
       "geometry": {
         "type": "Point",
