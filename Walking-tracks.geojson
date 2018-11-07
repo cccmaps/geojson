@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "RouteData2",
+  "name": "dbo.vwRoute",
   "features": [
     {
       "type": "Feature",
@@ -4014,7 +4014,7 @@
         "drvRouteDistance": "1.2 km",
         "Comment": "",
         "Description": "This freshwater wetland reserve is one of the few remaining original wetlands that were once common around Christchurch. Explore the wetland on the boardwalk and tracks that circle the reserve and pass by pools, flaxes and grasses.",
-        "InternetURL": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/otukaikino-wildlife-management-reserve/things-to-do/otukaikino-walk/ ",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -5725,7 +5725,7 @@
         "DogRestrictionStartMonth": "",
         "DogRestrictionFinishDay": "",
         "DogRestrictionFinishMonth": "",
-        "RouteName": "Te Rauakaaka Track",
+        "RouteName": "Te Ruakaakau Track",
         "RouteSegmentName": "",
         "RouteTravelTime": 60,
         "RouteDistance": 5200,
@@ -5733,7 +5733,7 @@
         "drvRouteDistance": "5.2 km",
         "Comment": "",
         "Description": "Te Rauakaaka is a section of the Waimakariri Regional Park that offers significant saltmarsh and wetland habitats. The semi wild setting offers riverside scenery and the Southern Alps off to the west. For a longer walk, connect up to the Templars Island Trail at the end of the Te Rauakaaka Track.",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/te-rauakaaka/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -6674,7 +6674,7 @@
         "drvRouteDistance": "11 km",
         "Comment": "",
         "Description": "Walk along this shared trail through regenerating native vegetation and exotic plantings by the river. There are many bird species to be spied on the braided Waimakariri River such as bittern, marsh crake and spotted crake as well as water fowl. The 11 km trail has multiple access points including Whites Crossing picnic area, Lorimas Road, Haul Road and Coutts Island Road.",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/templars-island/ ",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -6743,7 +6743,7 @@
         "drvRouteDistance": "2 km",
         "Comment": "",
         "Description": "A great alternative track if you don't have the time for the 11 km Mcleans Forest Track. From the car park, head along the shared track to the right, watching out for cyclists. This winding and pleasant trail heads through established pine and takes you down a wide shingle path that is a bit rough underfoot. From there, follow a shared use dirt path past fields of livestock and climb onto the stopbank. Head left to meet the last section of the walking track along the stopbank and back down to th",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -6820,7 +6820,7 @@
         "drvRouteDistance": "2 km",
         "Comment": "",
         "Description": "A great alternative track if you don't have the time for the 11 km Mcleans Forest Track. From the car park, head along the shared track to the right, watching out for cyclists. This winding and pleasant trail heads through established pine and takes you down a wide shingle path that is a bit rough underfoot. From there, follow a shared use dirt path past fields of livestock and climb onto the stopbank. Head left to meet the last section of the walking track along the stopbank and back down to th",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -7160,7 +7160,7 @@
         "drvRouteDistance": "1 km",
         "Comment": "",
         "Description": "This walk heads out to the Waimakariri River for great vistas of the surrounding landscape. Take care as the latter section of the walk is a shared track with cyclists who are often travelling at pace. The walk is 1 km one way. ",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -7305,7 +7305,7 @@
         "drvRouteDistance": "1 km",
         "Comment": "",
         "Description": "This walk heads out to the Waimakariri River for great vistas of the surrounding landscape. Take care as the latter section of the walk is a shared track with cyclists who are often travelling at pace. The walk is 1 km one way. ",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -8238,7 +8238,7 @@
         "drvRouteDistance": "11 km",
         "Comment": "",
         "Description": "This well marked walking track begins on a dedicated trail next to the cycle track. The trail winds through young pine plantings before climbing a stopbank. Look out for cyclists while walking along the bank. Drop off down a signposted track  and head through more pine and scrub. The shingle track here can be a little rough underfoot. Follow the track over the stopbank again and head into a woodland pine forest. This trail loops around the woods and crosses the cycle track where you will need to",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -9004,7 +9004,7 @@
         "drvRouteDistance": "11 km",
         "Comment": "",
         "Description": "Kaiapoi Island consists of 18.5 km of shared use walking and cycling tracks with three possible entrances: Wrights Road, Taylors Road, or the cyclist/pedestrian only entrance at Raven Quay in Kaiapoi. A full 18.5 km track can be done from any of these entrances and will take you along the banks of the Waimakariri River and loop through a willow forest. For a shorter ride, start from Wrights Road for an 8.5 km track that utilises the loop through  willow forest and along the river from the larger",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/kaiapoi-island/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -17412,7 +17412,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "The first part of this track through Cass Peak Reserve is currently closed due to the earthquakes. Walk carefully south along the side of the Summit Road for about 1km until you reach a cattle grid marking the point where you can access the track. Continue south until arriving at the slopes of Coopers Knob/ Omawete, the highest point on the Port Hills and breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahururi Reserve. ",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010791594"
@@ -29169,395 +29169,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6247722,
-            -43.6331039
-          ],
-          [
-            172.6247569,
-            -43.6330993
-          ],
-          [
-            172.6247225,
-            -43.6331188
-          ],
-          [
-            172.6246483,
-            -43.633165
-          ],
-          [
-            172.6245992,
-            -43.6332362
-          ],
-          [
-            172.6245736,
-            -43.6332983
-          ],
-          [
-            172.6245695,
-            -43.6333749
-          ],
-          [
-            172.6246015,
-            -43.6334444
-          ],
-          [
-            172.6246221,
-            -43.6334766
-          ],
-          [
-            172.6246613,
-            -43.633552
-          ],
-          [
-            172.6246969,
-            -43.6336169
-          ],
-          [
-            172.6247244,
-            -43.633687
-          ],
-          [
-            172.6247633,
-            -43.6338128
-          ],
-          [
-            172.6247682,
-            -43.6339039
-          ],
-          [
-            172.6247651,
-            -43.6339543
-          ],
-          [
-            172.6247691,
-            -43.6340446
-          ],
-          [
-            172.6247685,
-            -43.6341448
-          ],
-          [
-            172.6247658,
-            -43.634296
-          ],
-          [
-            172.6247607,
-            -43.6343817
-          ],
-          [
-            172.6247648,
-            -43.6344479
-          ],
-          [
-            172.6247513,
-            -43.6345944
-          ],
-          [
-            172.6247366,
-            -43.6346239
-          ],
-          [
-            172.6246458,
-            -43.6346922
-          ],
-          [
-            172.6245746,
-            -43.6347159
-          ],
-          [
-            172.6244203,
-            -43.6347663
-          ],
-          [
-            172.6243054,
-            -43.6347839
-          ],
-          [
-            172.624192,
-            -43.6348089
-          ],
-          [
-            172.6240966,
-            -43.6348266
-          ],
-          [
-            172.6240306,
-            -43.6348406
-          ],
-          [
-            172.6236965,
-            -43.6349176
-          ],
-          [
-            172.6235444,
-            -43.6349467
-          ],
-          [
-            172.6232721,
-            -43.6350064
-          ],
-          [
-            172.6230808,
-            -43.6350607
-          ],
-          [
-            172.6229487,
-            -43.6351063
-          ],
-          [
-            172.6227223,
-            -43.6351579
-          ],
-          [
-            172.6226455,
-            -43.6351741
-          ],
-          [
-            172.6225176,
-            -43.6351965
-          ],
-          [
-            172.622368,
-            -43.6352387
-          ],
-          [
-            172.622154,
-            -43.6352911
-          ],
-          [
-            172.6218013,
-            -43.6353722
-          ],
-          [
-            172.6216734,
-            -43.6354044
-          ],
-          [
-            172.6215687,
-            -43.6354238
-          ],
-          [
-            172.6214589,
-            -43.6354538
-          ],
-          [
-            172.6213712,
-            -43.63548
-          ],
-          [
-            172.6212834,
-            -43.6355149
-          ],
-          [
-            172.6212122,
-            -43.6355457
-          ],
-          [
-            172.6210542,
-            -43.6356088
-          ],
-          [
-            172.6209669,
-            -43.6356478
-          ],
-          [
-            172.6208605,
-            -43.6357009
-          ],
-          [
-            172.620797,
-            -43.6357343
-          ],
-          [
-            172.6207293,
-            -43.6357734
-          ],
-          [
-            172.6206957,
-            -43.6357995
-          ],
-          [
-            172.6206495,
-            -43.6358532
-          ],
-          [
-            172.6206396,
-            -43.6358658
-          ],
-          [
-            172.6206188,
-            -43.6359103
-          ],
-          [
-            172.620608,
-            -43.6359798
-          ],
-          [
-            172.6206066,
-            -43.6360445
-          ],
-          [
-            172.6206226,
-            -43.6361164
-          ],
-          [
-            172.620656,
-            -43.6362197
-          ],
-          [
-            172.6206812,
-            -43.6363107
-          ],
-          [
-            172.620688,
-            -43.636375
-          ],
-          [
-            172.6207026,
-            -43.6365119
-          ],
-          [
-            172.6207058,
-            -43.6365748
-          ],
-          [
-            172.6207341,
-            -43.6366538
-          ],
-          [
-            172.6207591,
-            -43.636698
-          ],
-          [
-            172.6208343,
-            -43.6367783
-          ],
-          [
-            172.6209241,
-            -43.6368261
-          ],
-          [
-            172.6210197,
-            -43.6368578
-          ],
-          [
-            172.6210989,
-            -43.63687
-          ],
-          [
-            172.6211674,
-            -43.6368744
-          ],
-          [
-            172.6213075,
-            -43.63687
-          ],
-          [
-            172.6214522,
-            -43.6368633
-          ],
-          [
-            172.6216,
-            -43.6368657
-          ],
-          [
-            172.6216608,
-            -43.6368625
-          ],
-          [
-            172.6217771,
-            -43.6368726
-          ],
-          [
-            172.6218593,
-            -43.6368935
-          ],
-          [
-            172.6219076,
-            -43.6369146
-          ],
-          [
-            172.6219784,
-            -43.6369559
-          ],
-          [
-            172.6220737,
-            -43.6370344
-          ],
-          [
-            172.6221304,
-            -43.6371053
-          ],
-          [
-            172.6221927,
-            -43.6371952
-          ],
-          [
-            172.6222647,
-            -43.6372905
-          ],
-          [
-            172.6223531,
-            -43.6373973
-          ],
-          [
-            172.6224288,
-            -43.6374918
-          ],
-          [
-            172.6224829,
-            -43.6375649
-          ],
-          [
-            172.6225576,
-            -43.6376505
-          ],
-          [
-            172.6225723,
-            -43.6376872
-          ],
-          [
-            172.6225798,
-            -43.6377107
-          ]
-        ]
-      },
-      "properties": {
-        "RouteID": 238,
-        "RouteServiceStatus": "Open",
-        "RouteLandOwnership": "CCC",
-        "RouteTraffic": "Walk",
-        "WalkClassification": "Walking Track",
-        "MountainBikeClassification": "",
-        "RouteHierarchy": "Primary",
-        "RouteSharedUse": "No ",
-        "RouteWarning": "On road be aware of traffic",
-        "RouteArea": "Port Hills",
-        "RoutePlace": "Ahuriri",
-        "RouteDogRestriction": "On Lead",
-        "DogRestrictionStartDay": "",
-        "DogRestrictionStartMonth": "",
-        "DogRestrictionFinishDay": "",
-        "DogRestrictionFinishMonth": "",
-        "RouteName": "Crater Rim Walkway",
-        "RouteSegmentName": "Sign of the Bellbird to Ahuriri Reserve ",
-        "RouteTravelTime": 90,
-        "RouteDistance": 4000,
-        "drvRouteTravelTime": "1 hour 30 minutes",
-        "drvRouteDistance": "4 km",
-        "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
-        "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
-        "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
-        "TrackSAPEquipmentID": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.6225798,
             -43.6377107
           ],
@@ -29614,7 +29225,7 @@
         "RouteTraffic": "Walk",
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
-        "RouteHierarchy": "Primary",
+        "RouteHierarchy": "Connector",
         "RouteSharedUse": "No ",
         "RouteWarning": "",
         "RouteArea": "Port Hills",
@@ -29631,7 +29242,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": ""
@@ -55279,7 +54890,7 @@
       },
       "properties": {
         "RouteID": 234,
-        "RouteServiceStatus": "Closed",
+        "RouteServiceStatus": "Open",
         "RouteLandOwnership": "CCC",
         "RouteTraffic": "Walk",
         "WalkClassification": "Walking Track",
@@ -55301,7 +54912,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010156220"
@@ -55446,7 +55057,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010156220"
@@ -82091,7 +81702,7 @@
         "drvRouteDistance": "2 km",
         "Comment": "",
         "Description": "A great alternative track if you don't have the time for the 11 km Mcleans Forest Track. From the car park, head along the shared track to the right, watching out for cyclists. This winding and pleasant trail heads through established pine and takes you down a wide shingle path that is a bit rough underfoot. From there, follow a shared use dirt path past fields of livestock and climb onto the stopbank. Head left to meet the last section of the walking track along the stopbank and back down to th",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -82148,7 +81759,7 @@
         "drvRouteDistance": "2 km",
         "Comment": "",
         "Description": "A great alternative track if you don't have the time for the 11 km Mcleans Forest Track. From the car park, head along the shared track to the right, watching out for cyclists. This winding and pleasant trail heads through established pine and takes you down a wide shingle path that is a bit rough underfoot. From there, follow a shared use dirt path past fields of livestock and climb onto the stopbank. Head left to meet the last section of the walking track along the stopbank and back down to th",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -82369,7 +81980,7 @@
         "drvRouteDistance": "11 km",
         "Comment": "",
         "Description": "This well marked walking track begins on a dedicated trail next to the cycle track. The trail winds through young pine plantings before climbing a stopbank. Look out for cyclists while walking along the bank. Drop off down a signposted track  and head through more pine and scrub. The shingle track here can be a little rough underfoot. Follow the track over the stopbank again and head into a woodland pine forest. This trail loops around the woods and crosses the cycle track where you will need to",
-        "InternetURL": "https://ecan.govt.nz/your-region/living-here/regional-parks/waimakariri-river-regional-park/mcleans-forest/",
+        "InternetURL": "",
         "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
@@ -131730,7 +131341,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010156220"
@@ -133416,7 +133027,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -133465,7 +133076,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -133562,7 +133173,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -133651,7 +133262,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -136777,7 +136388,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -137538,7 +137149,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010791594"
@@ -143913,7 +143524,7 @@
       },
       "properties": {
         "RouteID": 229,
-        "RouteServiceStatus": "Closed",
+        "RouteServiceStatus": "Open",
         "RouteLandOwnership": "CCC",
         "RouteTraffic": "Walk",
         "WalkClassification": "Walking Track",
@@ -143935,7 +143546,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -147811,7 +147422,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": "IE000000000010153524"
@@ -147923,7 +147534,7 @@
         "RouteTraffic": "Walk",
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
-        "RouteHierarchy": "Primary",
+        "RouteHierarchy": "Connector",
         "RouteSharedUse": "No ",
         "RouteWarning": "",
         "RouteArea": "Port Hills",
@@ -147940,7 +147551,7 @@
         "drvRouteTravelTime": "1 hour 30 minutes",
         "drvRouteDistance": "4 km",
         "Comment": "",
-        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve. ",
+        "Description": "Past the Sign of the Bellbird the track quickly heads into lovely second growth native forest where you can enjoy well established fuschia, totara and broadleaf forest. Continue south until arriving at the slopes of Omawete/Coopers Knob, the highest point of the Port Hills and a site of breathtaking views. A descent through native bush brings you to the end of the Crater Rim Walkway at a car park opposite Ahuriri Reserve.",
         "InternetURL": "https://www.ccc.govt.nz/crater-rim-sign-of-the-bellbird-to-ahuriri/",
         "PhotoURL": "http://www.ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/_resampled/ResizedImageWzYwMCwyODdd-Gibraltar-1500.jpg",
         "TrackSAPEquipmentID": ""
