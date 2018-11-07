@@ -570,7 +570,7 @@
         "Name": "Wilson off-street parking",
         "Parking-spaces": 350,
         "Electric": 1,
-        "Mobility": 10,
+        "Mobility": "Yes",
         "Charges": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
       },
       "geometry": {
@@ -610,7 +610,7 @@
         "Name": "Wilson off-street parking",
         "Parking-spaces": 48,
         "Electric": "",
-        "Mobility": 2,
+        "Mobility": "Yes",
         "Charges": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
       },
       "geometry": {
