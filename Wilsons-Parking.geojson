@@ -709,7 +709,7 @@
         "Address": "122 Manchester Street",
         "Entry": "107 Lichfield Street",
         "Notes": "",
-        "Name": "GOOD SPOT off-street parking",
+        "Name": "Good Spot off-street parking",
         "Parking-spaces": 70,
         "Electric": "",
         "Mobility": "",
@@ -729,7 +729,7 @@
         "Address": "204 Manchester Street",
         "Entry": "178 Gloucester st",
         "Notes": "",
-        "Name": "GOODSPOT off-street parking",
+        "Name": "Good Spot off-street parking",
         "Parking-spaces": 137,
         "Electric": "",
         "Mobility": "",
@@ -740,6 +740,41 @@
         "coordinates": [
           172.64001,
           -43.530014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "105 Worcester Street",
+        "Entry": "105 Worcester Street",
+        "Name": "Council off-street parking",
+        "Parking-spaces": 40,
+        "Charges": "",
+        "Notes": "$2 per hour (9am-5pm, Mon-Sun), Text park not available, 24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63851642608643,
+          -43.530815853519755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "Botanic Gardens",
+        "Name": "Botanic Gardens car park",
+        "Notes": "P180 (8am-6pm), Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept 6.30pm. Sept-Oct 8.30pm, Free",
+        "Entry": "Armagh Street",
+        "Parking-spaces": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6217794418335,
+          -43.52873508238173
         ]
       }
     }
