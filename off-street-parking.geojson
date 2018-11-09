@@ -71,7 +71,7 @@
       "properties": {
         "name": "Botanic Gardens car park",
         "description": "Botanic Gardens car park",
-        "type": "Council off-street parking",
+        "type": "Council off-street parking site",
         "address": "Armagh Street entrance",
         "spaces": "272 (Mon-Sun) + 12 staff spaces which can be used weekends only.",
         "hourlyrate": "Free",
@@ -101,7 +101,7 @@
       "properties": {
         "name": "Worcester St car park",
         "description": "Worcester St car park",
-        "type": "Council off-street parking",
+        "type": "Council off-street parking site",
         "address": "105 Worcester Street",
         "spaces": 40,
         "hourlyrate": "$2 (9am-5pm, Mon-Sun)",
@@ -132,7 +132,7 @@
       "properties": {
         "name": "Art Gallery car park building",
         "description": "Art Gallery car park building",
-        "type": "Council off-street parking",
+        "type": "Council off-street parking building",
         "address": "49 Gloucester St, Cnr Montreal & Gloucester St's",
         "spaces": 105,
         "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
@@ -196,7 +196,7 @@
       },
       "properties": {
         "name": "Hereford St car park building",
-        "type": "Other off-street parking",
+        "type": "Other off-street parking building",
         "description": "Hereford St car park building",
         "spaces": "580 ",
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz\">Wilson Parking info</a>",
@@ -229,7 +229,7 @@
       "properties": {
         "name": "West End car park building",
         "description": "West End car park building",
-        "type": "Other off-street parking",
+        "type": "Other off-street parking building",
         "address": "Hereford Street, between Montreal Street and Cambridge Tce",
         "spaces": "680 (1 electric vehicle spaces)",
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"http://www.wilsonparking.co.nz/park/3080_The-West-End-Carpark_48-Hereford-Street\">Wilson Parking info</a>",
@@ -262,7 +262,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "type": "Other off-street parking",
+        "type": "Other off-street parking building",
         "address": "71 Lichfield Street",
         "name": "The Crossing car park building",
         "description": "The Crossing car park building",
@@ -296,7 +296,7 @@
       "properties": {
         "name": "Laneways (Innovation) car park building",
         "description": "Laneways car park building",
-        "type": "Other off-street parking",
+        "type": "Other off-street parking building",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
         "hourlyrate": "<a title=\"Laneways car park info\" href=\"http://innovationcarpark.co.nz/\">Laneways car park info</a>",
@@ -331,7 +331,7 @@
         "marker-symbol": "",
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
-        "type": "Council off-street parking",
+        "type": "Council off-street parking building",
         "spaces": 805,
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
