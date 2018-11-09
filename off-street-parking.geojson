@@ -64,6 +64,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          172.621642,
+          -43.528537
+        ]
+      },
+      "properties": {
+        "name": "Botanic Gardens car park",
+        "description": "Botanic Gardens car park",
+        "type": "Council off-street parking",
+        "address": "Armagh Street entrance",
+        "spaces": "272 (Mon-Sun) + 12 staff spaces which can be used weekends only.",
+        "hourlyrate": "Free",
+        "alldayrate": null,
+        "timelimit": "P180 (8am-6pm)",
+        "nightrate": null,
+        "monthly": null,
+        "metered": null,
+        "p180": null,
+        "PleaseNote": "Gates close: Nov-Feb 9pm, March 8.30pm, April-Sept (Daylight Savings) 6.30pm. Sept-Oct (Daylight savings) 8.30pm.",
+        "Access": "Armagh St",
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "MobilitySpaces": "5 (1 at entry)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638372,
+          -43.530629
+        ]
+      },
+      "properties": {
+        "name": "Worcester St car park",
+        "description": "Worcester St car park",
+        "type": "Council off-street parking",
+        "address": "105 Worcester Street",
+        "spaces": 40,
+        "hourlyrate": "$2 (9am-5pm, Mon-Sun)",
+        "alldayrate": "N/A",
+        "timelimit": "N/A",
+        "nightrate": "",
+        "monthly": "N/A",
+        "metered": "Yes",
+        "p180": "N/A",
+        "Access": "Worcester St",
+        "PleaseNote": "Text park not available.",
+        "HoursOfOperation": "24 hours",
+        "Provider": "Christchurch City Council",
+        "Promotion": "",
+        "MobilitySpaces": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           172.631484,
           -43.530034
         ]
