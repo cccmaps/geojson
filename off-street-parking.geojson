@@ -85,7 +85,8 @@
         "Access": "Armagh St",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "MobilitySpaces": "5 (1 at entry)"
+        "MobilitySpaces": "5 (1 at entry)",
+        "Multi-level-building": ""
       }
     },
     {
@@ -115,7 +116,8 @@
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
         "Promotion": "",
-        "MobilitySpaces": 0
+        "MobilitySpaces": 0,
+        "Multi-level-building": ""
       }
     },
     {
@@ -145,7 +147,8 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "5 (no mobility concessions)"
+        "MobilitySpaces": "5 (no mobility concessions)",
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -178,7 +181,8 @@
         "Access": "Gloucester St",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "5 (no mobility concessions)"
+        "MobilitySpaces": "5 (no mobility concessions)",
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -209,7 +213,8 @@
         "Provider": "Wilson Parking",
         "Promotion": "",
         "MobilitySpaces": 16,
-        "oid": 1368
+        "oid": 1368,
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -240,7 +245,8 @@
         "Provider": "Wilson Parking",
         "Promotion": "",
         "MobilitySpaces": 14,
-        "oid": 1367
+        "oid": 1367,
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -274,7 +280,8 @@
         "Provider": "Wilson Parking",
         "Promotion": "",
         "MobilitySpaces": 13,
-        "oid": 1361
+        "oid": 1361,
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -305,7 +312,8 @@
         "Provider": "Laneways",
         "Promotion": "",
         "MobilitySpaces": 8,
-        "oid": ""
+        "oid": "",
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -339,7 +347,8 @@
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
         "MobilitySpaces": "26 (no mobility concessions)",
-        "oid": -100
+        "oid": -100,
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -369,7 +378,8 @@
         "monthly": "",
         "Provider": "Christchurch City Council",
         "Promotion": "hr free",
-        "MobilitySpaces": "26 (no mobility concessions)"
+        "MobilitySpaces": "26 (no mobility concessions)",
+        "Multi-level-building": "Yes"
       }
     },
     {
@@ -381,7 +391,8 @@
         "spaces": "",
         "MobilitySpaces": 16,
         "Promotion": "",
-        "address": "158 Hereford Street"
+        "address": "158 Hereford Street",
+        "Multi-level-building": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +410,8 @@
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 13,
-        "address": "71 Lichfield Street"
+        "address": "71 Lichfield Street",
+        "Multi-level-building": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -418,7 +430,8 @@
         "spaces": "",
         "MobilitySpaces": 14,
         "address": "Hereford Street, between Montreal Street and Cambridge Tce",
-        "oid": ""
+        "oid": "",
+        "Multi-level-building": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -436,7 +449,8 @@
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8,
-        "address": "Corner of Lichfield Street and Madras Street"
+        "address": "Corner of Lichfield Street and Madras Street",
+        "Multi-level-building": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +467,8 @@
         "description": "Lichfield Street car park building",
         "type": "Off-street motorcycle parking",
         "spaces": 81,
-        "address": "33 Lichfield Street"
+        "address": "33 Lichfield Street",
+        "Multi-level-building": "Yes"
       },
       "geometry": {
         "type": "Point",
