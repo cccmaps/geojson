@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Dump station",
-        "Name": "Lincoln dump station",
-        "Address": "Edward Street",
-        "Price": "Free",
+        "Type": "",
+        "Name": "",
+        "Address": "",
         "Phone": "",
         "Website": "",
         "Facilities": "",
-        "Campground": "No",
-        "Dumpstation": "Yes"
+        "Campground": "",
+        "Dumpstation": "",
+        "campground-price": ""
       },
       "geometry": {
         "type": "Point",
@@ -28,11 +28,11 @@
         "Type": "Campground",
         "Name": "Leithfield Beach Holiday Park ",
         "Address": "18 Lucas Dr, Leithfield 7481",
-        "Price": "From $15",
         "Phone": "03 314 8518",
         "Website": "http://leithfieldbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $15"
       },
       "geometry": {
         "type": "Point",
@@ -48,12 +48,13 @@
         "Type": "Campground / dump station",
         "Name": "Waikuku Beach Holiday Park",
         "Address": "1 Domain Rd, Waikuku Beach 7402",
-        "Price": "From $15",
         "Phone": "03 312 7600",
         "Website": "http://www.waikukubeachholidaypark.com/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $15",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -69,11 +70,11 @@
         "Type": "Campground",
         "Name": "Rangiora Leigh Holiday Park ",
         "Address": "433 Dixons Rd, Waimakariri, Loburn 7472",
-        "Price": "From $27 ",
         "Phone": "027 4340 315",
         "Website": "https://www.aa.co.nz/travel/listing/rangiora/rangiora-leigh-holiday-park/89116",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $27 "
       },
       "geometry": {
         "type": "Point",
@@ -89,12 +90,13 @@
         "Type": "Campground / dump station",
         "Name": "Rangiora Eco Holiday Park ",
         "Address": "337 Lehmans Rd, Rangiora 7471",
-        "Price": "From $18",
         "Phone": "03 313 5759",
         "Website": "http://www.rangioraecoholidaypark.co.nz/",
         "Facilities": "Dump station, laundry, kitchen, swimming pool and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $18",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -110,12 +112,13 @@
         "Type": "Campground / dump station",
         "Name": "Woodend Beach Holiday Park",
         "Address": "14 Woodend Beach Rd, Woodend 7691",
-        "Price": "From $15",
         "Phone": "03 312 7643",
         "Website": "https://www.woodendbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $15",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -131,11 +134,11 @@
         "Type": "Campground",
         "Name": "Kairaki Beach Holiday Park",
         "Address": "50B Featherston Ave, Kairaki 7630",
-        "Price": "From $16",
         "Phone": "03 327 7335",
         "Website": "",
         "Facilities": "Dump station, large vehicle access, caravan power, kitchen and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $16"
       },
       "geometry": {
         "type": "Point",
@@ -151,12 +154,13 @@
         "Type": "Campground / dump station",
         "Name": "Blue Skies ",
         "Address": "12 Williams St, Kaiapoi 8011",
-        "Price": "From $12",
         "Phone": "03 327 8007",
         "Website": "http://www.blueskies.org.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit accepted and more ",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $12",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -172,12 +176,13 @@
         "Type": "Campground / dump station",
         "Name": "Riverlands Holiday Park and Motels ",
         "Address": "45 Doubledays Rd, Kaiapoi 7691",
-        "Price": "From $15",
         "Phone": "03 327 5511",
         "Website": "http://riverlandspark.co.nz/",
         "Facilities": "Suitable for any vehicle type, credit card and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $15",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -193,11 +198,12 @@
         "Type": "Campground",
         "Name": "Spencer Beach Holiday Park ",
         "Address": "100 Heyders Rd, Spencerville, Christchurch 8083",
-        "Price": "From $16",
         "Phone": "03 329 8721",
         "Website": "http://spencerbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $16",
+        "dumpstation-price": ""
       },
       "geometry": {
         "type": "Point",
@@ -213,11 +219,11 @@
         "Type": "Campground",
         "Name": "219 on Johns Motels & Holiday Park ",
         "Address": "219 Johns Rd, Belfast, Christchurch 8051",
-        "Price": "",
         "Phone": "03 323 8640",
         "Website": "https://219onjohns.co.nz/",
         "Facilities": "Suitable for any vehicle, dump station, caravan power, credit and EFTPOS",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": ""
       },
       "geometry": {
         "type": "Point",
@@ -233,12 +239,13 @@
         "Type": "Campground / dump station",
         "Name": "North South Holiday Park ",
         "Address": "530 Sawyers Arms Rd, Harewood, Christchurch 8051",
-        "Price": "From $42",
         "Phone": "03 359 5993",
         "Website": "https://www.northsouth.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $42",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -254,12 +261,13 @@
         "Type": "Campground / dump station",
         "Name": "Christchurch TOP 10 Holiday Park",
         "Address": "39 Meadow St, Papanui, Christchurch 8052",
-        "Price": "",
         "Phone": "03 352 9176",
         "Website": "https://www.christchurchtop10.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -275,11 +283,11 @@
         "Type": "Campground",
         "Name": "Amber Kiwi Holiday Park & Motels ",
         "Address": "308 Blenheim Rd, Middleton, Christchurch 8041",
-        "Price": "From $42",
         "Phone": "0800 348 308",
         "Website": "https://amberpark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $42"
       },
       "geometry": {
         "type": "Point",
@@ -295,11 +303,11 @@
         "Type": "Campground",
         "Name": "Christchurch Kiwi Holiday Park & Motels ",
         "Address": "5 Kidbrooke St, Bromley, Christchurch 8062",
-        "Price": "From $25",
         "Phone": "03 384 9490",
         "Website": "http://www.christchurchkiwiholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $25"
       },
       "geometry": {
         "type": "Point",
@@ -315,12 +323,13 @@
         "Type": "Campground / dump station",
         "Name": "South Brighton Holiday Park",
         "Address": "59 Halsey St, South New Brighton, New Brighton South 8062",
-        "Price": "From $20",
         "Phone": "03 388 9844",
         "Website": "https://southbrightonholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $20",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -336,11 +345,11 @@
         "Type": "Campground",
         "Name": "Awaroa / Godley Head Doc Campsite ",
         "Address": "8081, Sumner, Christchurch",
-        "Price": "From $13 ",
         "Phone": "03 379 4082",
         "Website": "https://www.doc.govt.nz/godley-head-campsite",
         "Facilities": "Suitable only for self-contained vehicles, public toilet, water fountain, general rubbish bin, wheelchair accessible ",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $13 "
       },
       "geometry": {
         "type": "Point",
@@ -356,11 +365,11 @@
         "Type": "Campground",
         "Name": "Little Akaloa Wilderness Campsite ",
         "Address": "Little Akaloa Road ",
-        "Price": "From $15",
         "Phone": "",
         "Website": "",
         "Facilities": "Suitable for any vehicle type, public toilet, water fountain ",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $15"
       },
       "geometry": {
         "type": "Point",
@@ -376,11 +385,13 @@
         "Type": "Campground",
         "Name": "Okains Bay Camping Ground ",
         "Address": "1357 Okains Bay Rd, Okains Bay 7583",
-        "Price": "From $12",
         "Phone": "03 304 8789",
         "Website": "https://okainsbaycamp.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $12",
+        "Dumpstation": "Yes",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -396,11 +407,13 @@
         "Type": "Campground",
         "Name": "Duvauchelle Holiday Park",
         "Address": "19a Seafield Rd, Duvauchelle 7581",
-        "Price": "From $25",
         "Phone": "03 304 5777",
         "Website": "http://duvauchelleholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, boat ramp, credit and EFTPOS and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $25",
+        "Dumpstation": "Yes",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -416,12 +429,13 @@
         "Type": "Campground / dump station",
         "Name": "Akaroa TOP 10 Holiday Park ",
         "Address": "96 Morgans Rd, Akaroa 7542",
-        "Price": "From $40",
         "Phone": "03 304 7471",
         "Website": "http://www.akaroa-holidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, boat ramp, credit and EFTPOS and more",
         "Campground": "Yes",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "From $40",
+        "dumpstation-price": "Free for paid guest only"
       },
       "geometry": {
         "type": "Point",
@@ -437,11 +451,12 @@
         "Type": "Campground",
         "Name": "Onuku Farm Hostel Van Park ",
         "Address": "89 Hamiltons Rd, Akaroa - Onuku 7520",
-        "Price": "From $15",
         "Phone": "03 304 7066",
         "Website": "http://onuku.co.nz/home/",
         "Facilities": "Suitable for any vehicle type, free Wi-Fi, credit accepted and more ",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $15",
+        "dumpstation-price": ""
       },
       "geometry": {
         "type": "Point",
@@ -457,11 +472,11 @@
         "Type": "Campground",
         "Name": "Little River Campground ",
         "Address": "287 Okuti Valley Rd, Little River 7591",
-        "Price": "From $15",
         "Phone": "03 325 1014",
         "Website": "http://www.littlerivercampground.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $15"
       },
       "geometry": {
         "type": "Point",
@@ -477,11 +492,11 @@
         "Type": "Campground",
         "Name": "Waihora Park Reserve Campsite ",
         "Address": "130 Park Rd, Motukarara 7672",
-        "Price": "From $10",
         "Phone": "03 329 7818",
         "Website": "",
         "Facilities": "Suitable for any vehicle type, general rubbish bin, BBQ and more",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $10"
       },
       "geometry": {
         "type": "Point",
@@ -497,11 +512,11 @@
         "Type": "Campground",
         "Name": "Orton Bradley Park",
         "Address": "Charteris Bay 8971",
-        "Price": "From $20",
         "Phone": "03 329 4730",
         "Website": "http://www.ortonbradley.nz/camping/",
         "Facilities": "",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": "From $20"
       },
       "geometry": {
         "type": "Point",
@@ -517,11 +532,11 @@
         "Type": "Campground",
         "Name": "Wainui Park Camping ",
         "Address": "\n95 Wainui Valley Road, Akaroa 7582",
-        "Price": "",
         "Phone": "03 304-8460",
         "Website": "http://www.ymcachch.org.nz/accommodation-facilities/wainui-park-camp/facilities/",
         "Facilities": "Toilets, showers, kitchen, BBQ and more ",
-        "Campground": "Yes"
+        "Campground": "Yes",
+        "campground-price": ""
       },
       "geometry": {
         "type": "Point",
@@ -537,12 +552,12 @@
         "Type": "Dump station",
         "Name": "Darfield PDS",
         "Address": "68-90 North Terrace, Darfield 7510",
-        "Price": "Free",
         "Phone": "027 523 4723",
         "Website": "",
         "Facilities": "Dump station located at eastern end of Darfield Domain. No potable water.",
         "Campground": "No",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -558,12 +573,12 @@
         "Type": "Dump station",
         "Name": "BP Connect Rolleston PDS",
         "Address": "Cnr Main South Rd & Tennyson St, Rolleston",
-        "Price": "Free",
         "Phone": "",
         "Website": "",
         "Facilities": "",
         "Campground": "No",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -579,12 +594,12 @@
         "Type": "Dump station",
         "Name": "Kowhai Pass Domain Springfield PDS",
         "Address": "Domain Rd, Springfield",
-        "Price": "Free",
         "Phone": "",
         "Website": "",
         "Facilities": "",
         "Campground": "No",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -600,12 +615,12 @@
         "Type": "Dump station",
         "Name": "BP Marshlands PDS",
         "Address": "Cnr Prestons & Marshland Rd, Christchurch",
-        "Price": "Free",
         "Phone": "",
         "Website": "",
         "Facilities": "",
         "Campground": "No",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -621,12 +636,12 @@
         "Type": "Dump station",
         "Name": "BP Russley Road PDS",
         "Address": "661 Russley Rd, Harewood, Christchurch",
-        "Price": "Free",
         "Phone": "",
         "Website": "",
         "Facilities": "",
         "Campground": "No",
-        "Dumpstation": "Yes"
+        "Dumpstation": "Yes",
+        "campground-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -642,10 +657,10 @@
         "Name": "Pigeon Bay Camping Ground ",
         "Type": "Campground",
         "Address": "Wharf Road, Pigeon Bay",
-        "Price": "From $15",
         "Facilities": "Suitable for any vehicle type and more",
         "Campground": "Yes",
-        "Dumpstation": ""
+        "Dumpstation": "",
+        "campground-price": "From $15"
       },
       "geometry": {
         "type": "Point",
