@@ -722,6 +722,25 @@
           -43.530014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "99-105 Victoria Street",
+        "Entry": "99-105 Victoria Street",
+        "Name": "Wilson off-street parking",
+        "Notes": "Hours of operation 5pm-6am",
+        "Parking-spaces": 86,
+        "Electric": "",
+        "Charges": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6302981376648,
+          -43.52429521576226
+        ]
+      }
     }
   ]
 }
