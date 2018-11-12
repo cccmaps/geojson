@@ -404,26 +404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "608-618 Colombo Street",
-        "Entry": "608 Colombo Street, and also from St Asaph Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 40,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.636837,
-          -43.535933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "96 Tuam Street",
         "Entry": "96 Tuam Street",
         "Notes": "",
