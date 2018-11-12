@@ -1,5 +1,4 @@
 {
-  "name": "Reprojected",
   "type": "FeatureCollection",
   "features": [
     {
@@ -3388,7 +3387,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -3420,7 +3418,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 5177,
@@ -4367,7 +4366,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -4414,7 +4412,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 5489,
@@ -11891,7 +11890,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -11923,7 +11921,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 17882,
@@ -11987,7 +11986,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -12019,7 +12017,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 17884,
@@ -12397,7 +12396,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -12429,7 +12427,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 17895,
@@ -13923,7 +13922,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "LineString",
@@ -13970,7 +13968,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       },
       "properties": {
         "ParkingZoneID": 18264,
@@ -19714,8 +19713,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "ParkingZoneID": 20158,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 3,
         "Configuration": "Parallel",
         "RestrictedByUse": "Mobility parking",
         "RestrictedByUseCode": "DP",
@@ -19724,10 +19726,10 @@
         "RestrictedByDuration": 120,
         "Revenue": "Not metered",
         "RestrictedByTimeOfDay": "Not restricted",
-        "ParkingDailyRate": null,
-        "ParkingHourlyRate": null,
-        "MeterHoursOfOperation": null,
-        "ObservationDate": "20180806",
+        "ParkingDailyRate": "null",
+        "ParkingHourlyRate": "null",
+        "MeterHoursOfOperation": "null",
+        "ObservationDate": 20180806,
         "Geometry_XLO": 1569903.6989979772,
         "Geometry_YLO": 5179708.957844603,
         "Geometry_XHI": 1569903.824851993,
