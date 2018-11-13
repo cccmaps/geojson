@@ -547,11 +547,11 @@
         "Address": "53 Peterborough Street",
         "Entry": "53 Peterborough Street, and also from Salisbury Street",
         "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
-        "Name": "Wilson off-street parking",
+        "Name": "Peterborough Street off-street parking",
         "Parking-spaces": 350,
         "Electric": 1,
         "Mobility": "Yes",
-        "Charges": "http://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
+        "Charges": "https://christchurchcasino.co.nz/faqs/",
         "Mobility-Parking-Spaces": 10
       },
       "geometry": {
@@ -609,7 +609,7 @@
         "Address": "335 Durham Street",
         "Entry": "335 Durham Street",
         "Notes": "",
-        "Name": "Wilson off-street parking",
+        "Name": "Wilson of6f-street parking",
         "Parking-spaces": 62,
         "Electric": "",
         "Mobility": "",
