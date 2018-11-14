@@ -391,7 +391,7 @@
         "Campground": "Yes",
         "campground-price": "From $12",
         "Dumpstation": "Yes",
-        "dumpstation-price": "Free for paid guest only"
+        "dumpstation-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -413,7 +413,7 @@
         "Campground": "Yes",
         "campground-price": "From $25",
         "Dumpstation": "Yes",
-        "dumpstation-price": "Free for paid guest only"
+        "dumpstation-price": "Free"
       },
       "geometry": {
         "type": "Point",
@@ -435,7 +435,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $40",
-        "dumpstation-price": "Free for paid guest only"
+        "dumpstation-price": "Free"
       },
       "geometry": {
         "type": "Point",
