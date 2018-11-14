@@ -3515,7 +3515,9 @@
       "id": "WsPressureZone.131",
       "properties": {
         "WsPressureZoneID": 131,
-        "ZoneName": "Brooklands/Kainga"
+        "ZoneName": "Brooklands/Kainga",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -14864,7 +14866,8 @@
       "properties": {
         "WsPressureZoneID": 450,
         "ZoneName": "Mt Pleasant 5",
-        "DesignSource-kpa": ""
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -16988,7 +16991,9 @@
       "id": "WsPressureZone.459",
       "properties": {
         "WsPressureZoneID": 459,
-        "ZoneName": "Moncks Spur 2"
+        "ZoneName": "Moncks Spur 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -18345,7 +18350,9 @@
       "id": "WsPressureZone.480",
       "properties": {
         "WsPressureZoneID": 480,
-        "ZoneName": "Mt Pleasant 4"
+        "ZoneName": "Mt Pleasant 4",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -20834,7 +20841,9 @@
       "id": "WsPressureZone.492",
       "properties": {
         "WsPressureZoneID": 492,
-        "ZoneName": "Mt Pleasant 2"
+        "ZoneName": "Mt Pleasant 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -22729,7 +22738,9 @@
       "id": "WsPressureZone.517",
       "properties": {
         "WsPressureZoneID": 517,
-        "ZoneName": "Murray Aynsley 2"
+        "ZoneName": "Murray Aynsley 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -24561,7 +24572,9 @@
       "id": "WsPressureZone.536",
       "properties": {
         "WsPressureZoneID": 536,
-        "ZoneName": "Major Aitken 2"
+        "ZoneName": "Major Aitken 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -30792,7 +30805,9 @@
       "id": "WsPressureZone.596",
       "properties": {
         "WsPressureZoneID": 596,
-        "ZoneName": "Kennedys Bush"
+        "ZoneName": "Kennedys Bush",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -31280,7 +31295,9 @@
       "id": "WsPressureZone.598",
       "properties": {
         "WsPressureZoneID": 598,
-        "ZoneName": "Morgans Valley"
+        "ZoneName": "Morgans Valley",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -32151,7 +32168,9 @@
       "id": "WsPressureZone.601",
       "properties": {
         "WsPressureZoneID": 601,
-        "ZoneName": "Richmond Hill Break Pressure"
+        "ZoneName": "Richmond Hill Break Pressure",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -32650,7 +32669,9 @@
       "id": "WsPressureZone.609",
       "properties": {
         "WsPressureZoneID": 609,
-        "ZoneName": "Westmorland 2"
+        "ZoneName": "Westmorland 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -33801,7 +33822,9 @@
       "id": "WsPressureZone.610",
       "properties": {
         "WsPressureZoneID": 610,
-        "ZoneName": "Morgans Valley Booster"
+        "ZoneName": "Morgans Valley Booster",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -34793,7 +34816,8 @@
       "properties": {
         "WsPressureZoneID": 611,
         "ZoneName": "La Mar",
-        "DesignSource-kpa": ""
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -35044,7 +35068,9 @@
       "id": "WsPressureZone.621",
       "properties": {
         "WsPressureZoneID": 621,
-        "ZoneName": "Moncks Spur 3"
+        "ZoneName": "Moncks Spur 3",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -46937,7 +46963,9 @@
       "id": "WsPressureZone.630",
       "properties": {
         "WsPressureZoneID": 630,
-        "ZoneName": "BF Birdlings Flat"
+        "ZoneName": "BF Birdlings Flat",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -47152,7 +47180,9 @@
       "id": "WsPressureZone.631",
       "properties": {
         "WsPressureZoneID": 631,
-        "ZoneName": "LR Little River"
+        "ZoneName": "LR Little River",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -49455,7 +49485,9 @@
       "id": "WsPressureZone.632",
       "properties": {
         "WsPressureZoneID": 632,
-        "ZoneName": "TK Takamatua"
+        "ZoneName": "TK Takamatua",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -50414,7 +50446,9 @@
       "id": "WsPressureZone.633",
       "properties": {
         "WsPressureZoneID": 633,
-        "ZoneName": "PB Pigeon Bay"
+        "ZoneName": "PB Pigeon Bay",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -51765,7 +51799,9 @@
       "id": "WsPressureZone.634",
       "properties": {
         "WsPressureZoneID": 634,
-        "ZoneName": "WN Wainui Valley"
+        "ZoneName": "WN Wainui Valley",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53380,7 +53416,9 @@
       "id": "WsPressureZone.635",
       "properties": {
         "WsPressureZoneID": 635,
-        "ZoneName": "WN Warnerville"
+        "ZoneName": "WN Warnerville",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53547,7 +53585,9 @@
       "id": "WsPressureZone.636",
       "properties": {
         "WsPressureZoneID": 636,
-        "ZoneName": "DV Duvauchelle High Level"
+        "ZoneName": "DV Duvauchelle High Level",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53778,7 +53818,9 @@
       "id": "WsPressureZone.637",
       "properties": {
         "WsPressureZoneID": 637,
-        "ZoneName": "AK Akaroa Low Level"
+        "ZoneName": "AK Akaroa Low Level",
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -56905,7 +56947,9 @@
       "id": "WsPressureZone.638",
       "properties": {
         "WsPressureZoneID": 638,
-        "ZoneName": "AK Langlois 2"
+        "ZoneName": "AK Langlois 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57016,7 +57060,9 @@
       "id": "WsPressureZone.639",
       "properties": {
         "WsPressureZoneID": 639,
-        "ZoneName": "AK Watson 3"
+        "ZoneName": "AK Watson 3",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57151,7 +57197,9 @@
       "id": "WsPressureZone.640",
       "properties": {
         "WsPressureZoneID": 640,
-        "ZoneName": "AK Watson 2"
+        "ZoneName": "AK Watson 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57598,7 +57646,9 @@
       "id": "WsPressureZone.641",
       "properties": {
         "WsPressureZoneID": 641,
-        "ZoneName": "AK Lighthouse 2"
+        "ZoneName": "AK Lighthouse 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -58465,7 +58515,9 @@
       "id": "WsPressureZone.642",
       "properties": {
         "WsPressureZoneID": 642,
-        "ZoneName": "DH Diamond Harbour High Level"
+        "ZoneName": "DH Diamond Harbour High Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -60344,7 +60396,9 @@
       "id": "WsPressureZone.643",
       "properties": {
         "WsPressureZoneID": 643,
-        "ZoneName": "DH Diamond Harbour Mid Level"
+        "ZoneName": "DH Diamond Harbour Mid Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -70911,7 +70965,9 @@
       "id": "WsPressureZone.646",
       "properties": {
         "WsPressureZoneID": 646,
-        "ZoneName": "LY Hylton Heights (Private)"
+        "ZoneName": "LY Hylton Heights (Private)",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -71090,7 +71146,9 @@
       "id": "WsPressureZone.647",
       "properties": {
         "WsPressureZoneID": 647,
-        "ZoneName": "LY Buxtons 2"
+        "ZoneName": "LY Buxtons 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -71233,7 +71291,9 @@
       "id": "WsPressureZone.648",
       "properties": {
         "WsPressureZoneID": 648,
-        "ZoneName": "LY Lyttelton High Level"
+        "ZoneName": "LY Lyttelton High Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -73756,7 +73816,9 @@
       "id": "WsPressureZone.654",
       "properties": {
         "WsPressureZoneID": 654,
-        "ZoneName": "DV Duvauchelle"
+        "ZoneName": "DV Duvauchelle",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -77467,7 +77529,9 @@
       "id": "WsPressureZone.661",
       "properties": {
         "WsPressureZoneID": 661,
-        "ZoneName": "Port Hills"
+        "ZoneName": "Port Hills",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -90810,7 +90874,9 @@
       "id": "WsPressureZone.702",
       "properties": {
         "WsPressureZoneID": 702,
-        "ZoneName": "Clifton 4"
+        "ZoneName": "Clifton 4",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -120977,7 +121043,8 @@
       "properties": {
         "WsPressureZoneID": 750,
         "ZoneName": "Worsley 2",
-        "DesignSprinkler-kpa": ""
+        "DesignSprinkler-kpa": "not available",
+        "DesignSource-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -122180,7 +122247,9 @@
       "id": "WsPressureZone.769",
       "properties": {
         "WsPressureZoneID": 769,
-        "ZoneName": "LY Lyttelton Low Level"
+        "ZoneName": "LY Lyttelton Low Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -130025,7 +130094,9 @@
       "id": "WsPressureZone.773",
       "properties": {
         "WsPressureZoneID": 773,
-        "ZoneName": "LY Lyttelton Mid Level"
+        "ZoneName": "LY Lyttelton Mid Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -141458,7 +141529,9 @@
       "id": "WsPressureZone.775",
       "properties": {
         "WsPressureZoneID": 775,
-        "ZoneName": "LY Rapaki"
+        "ZoneName": "LY Rapaki",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -147580,7 +147653,9 @@
       "id": "WsPressureZone.800",
       "properties": {
         "WsPressureZoneID": 800,
-        "ZoneName": "GB Governors Bay Low Level"
+        "ZoneName": "GB Governors Bay Low Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -150399,7 +150474,9 @@
       "id": "WsPressureZone.801",
       "properties": {
         "WsPressureZoneID": 801,
-        "ZoneName": "GB Governors Bay Mid Level"
+        "ZoneName": "GB Governors Bay Mid Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -154055,7 +154132,9 @@
       "id": "WsPressureZone.802",
       "properties": {
         "WsPressureZoneID": 802,
-        "ZoneName": "GB Governors Bay High Level"
+        "ZoneName": "GB Governors Bay High Level",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -154636,7 +154715,9 @@
       "id": "WsPressureZone.803",
       "properties": {
         "WsPressureZoneID": 803,
-        "ZoneName": "GB Ernest Adams 2"
+        "ZoneName": "GB Ernest Adams 2",
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -154984,7 +155065,8 @@
       "properties": {
         "WsPressureZoneID": 806,
         "ZoneName": "GB The Terrace 2",
-        "DesignSource-kpa": ""
+        "DesignSource-kpa": "not available",
+        "DesignSprinkler-kpa": "not available"
       },
       "geometry": {
         "type": "Polygon",
