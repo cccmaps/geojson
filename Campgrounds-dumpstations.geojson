@@ -32,7 +32,8 @@
         "Website": "http://leithfieldbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "campground-price": "From $15"
+        "campground-price": "From $15",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +75,8 @@
         "Website": "https://www.aa.co.nz/travel/listing/rangiora/rangiora-leigh-holiday-park/89116",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "campground-price": "From $27 "
+        "campground-price": "From $27 ",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +140,8 @@
         "Website": "",
         "Facilities": "Dump station, large vehicle access, caravan power, kitchen and more",
         "Campground": "Yes",
-        "campground-price": "From $16"
+        "campground-price": "From $16",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -203,7 +206,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $16",
-        "dumpstation-price": ""
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -223,7 +226,9 @@
         "Website": "https://219onjohns.co.nz/",
         "Facilities": "Suitable for any vehicle, dump station, caravan power, credit and EFTPOS",
         "Campground": "Yes",
-        "campground-price": ""
+        "campground-price": "",
+        "Dumpstation": "",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +292,8 @@
         "Website": "https://amberpark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "campground-price": "From $42"
+        "campground-price": "From $42",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +313,8 @@
         "Website": "http://www.christchurchkiwiholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
-        "campground-price": "From $25"
+        "campground-price": "From $25",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -349,7 +356,8 @@
         "Website": "https://www.doc.govt.nz/godley-head-campsite",
         "Facilities": "Suitable only for self-contained vehicles, public toilet, water fountain, general rubbish bin, wheelchair accessible ",
         "Campground": "Yes",
-        "campground-price": "From $13 "
+        "campground-price": "From $13 ",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +377,8 @@
         "Website": "",
         "Facilities": "Suitable for any vehicle type, public toilet, water fountain ",
         "Campground": "Yes",
-        "campground-price": "From $15"
+        "campground-price": "From $15",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +465,7 @@
         "Facilities": "Suitable for any vehicle type, free Wi-Fi, credit accepted and more ",
         "Campground": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": ""
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -476,7 +485,8 @@
         "Website": "http://www.littlerivercampground.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
         "Campground": "Yes",
-        "campground-price": "From $15"
+        "campground-price": "From $15",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -496,7 +506,8 @@
         "Website": "",
         "Facilities": "Suitable for any vehicle type, general rubbish bin, BBQ and more",
         "Campground": "Yes",
-        "campground-price": "From $10"
+        "campground-price": "From $10",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +527,8 @@
         "Website": "http://www.ortonbradley.nz/camping/",
         "Facilities": "",
         "Campground": "Yes",
-        "campground-price": "From $20"
+        "campground-price": "From $20",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -536,7 +548,8 @@
         "Website": "http://www.ymcachch.org.nz/accommodation-facilities/wainui-park-camp/facilities/",
         "Facilities": "Toilets, showers, kitchen, BBQ and more ",
         "Campground": "Yes",
-        "campground-price": ""
+        "campground-price": "",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -557,7 +570,8 @@
         "Facilities": "Dump station located at eastern end of Darfield Domain. No potable water.",
         "Campground": "No",
         "Dumpstation": "Yes",
-        "campground-price": "Free"
+        "campground-price": "Free",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -578,7 +592,8 @@
         "Facilities": "",
         "Campground": "No",
         "Dumpstation": "Yes",
-        "campground-price": "Free"
+        "campground-price": "Free",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -599,7 +614,8 @@
         "Facilities": "",
         "Campground": "No",
         "Dumpstation": "Yes",
-        "campground-price": "Free"
+        "campground-price": "Free",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +636,8 @@
         "Facilities": "",
         "Campground": "No",
         "Dumpstation": "Yes",
-        "campground-price": "Free"
+        "campground-price": "Free",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -641,7 +658,8 @@
         "Facilities": "",
         "Campground": "No",
         "Dumpstation": "Yes",
-        "campground-price": "Free"
+        "campground-price": "Free",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
@@ -660,7 +678,8 @@
         "Facilities": "Suitable for any vehicle type and more",
         "Campground": "Yes",
         "Dumpstation": "",
-        "campground-price": "From $15"
+        "campground-price": "From $15",
+        "dumpstation-price": " "
       },
       "geometry": {
         "type": "Point",
