@@ -121043,8 +121043,8 @@
       "properties": {
         "WsPressureZoneID": 750,
         "ZoneName": "Worsley 2",
-        "DesignSprinkler-kpa": "not available",
-        "DesignSource-kpa": "not available"
+        "DesignSprinkler-kpa": 300,
+        "DesignSource-kpa": 700
       },
       "geometry": {
         "type": "Polygon",
