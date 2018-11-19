@@ -12,7 +12,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +34,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $27 ",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +77,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $18",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +99,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -120,7 +120,7 @@
         "Facilities": "Dump station, large vehicle access, caravan power, kitchen and more",
         "Campground": "Yes",
         "campground-price": "From $16",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +142,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $12",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +164,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +185,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $16",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -206,7 +206,7 @@
         "Facilities": "Suitable for any vehicle, dump station, caravan power, credit and EFTPOS",
         "Campground": "Yes",
         "campground-price": "",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -228,7 +228,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $42",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -250,7 +250,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +271,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $42",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +292,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "campground-price": "From $25",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +314,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $20",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -335,7 +335,7 @@
         "Facilities": "Suitable only for self-contained vehicles, public toilet, water fountain, general rubbish bin, wheelchair accessible ",
         "Campground": "Yes",
         "campground-price": "From $13 ",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use "
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +356,7 @@
         "Facilities": "Suitable for any vehicle type, public toilet, water fountain ",
         "Campground": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -378,7 +378,7 @@
         "Campground": "Yes",
         "campground-price": "From $12",
         "Dumpstation": "Yes",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "Free for public use "
       },
       "geometry": {
         "type": "Point",
@@ -400,7 +400,7 @@
         "Campground": "Yes",
         "campground-price": "From $25",
         "Dumpstation": "Yes",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "Free for public use "
       },
       "geometry": {
         "type": "Point",
@@ -422,7 +422,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $40",
-        "dumpstation-price": "Free for paid guests only"
+        "dumpstation-price": "Free for public use "
       },
       "geometry": {
         "type": "Point",
@@ -443,7 +443,7 @@
         "Facilities": "Suitable for any vehicle type, free Wi-Fi, credit accepted and more ",
         "Campground": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -464,7 +464,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
         "Campground": "Yes",
         "campground-price": "From $15",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +485,7 @@
         "Facilities": "Suitable for any vehicle type, general rubbish bin, BBQ and more",
         "Campground": "Yes",
         "campground-price": "From $10",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -506,7 +506,7 @@
         "Facilities": "",
         "Campground": "Yes",
         "campground-price": "From $20",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -527,7 +527,7 @@
         "Facilities": "Toilets, showers, kitchen, BBQ and more ",
         "Campground": "Yes",
         "campground-price": "",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +549,7 @@
         "Campground": "No",
         "Dumpstation": "Yes",
         "campground-price": "Free",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -571,7 +571,7 @@
         "Campground": "No",
         "Dumpstation": "Yes",
         "campground-price": "Free",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -593,7 +593,7 @@
         "Campground": "No",
         "Dumpstation": "Yes",
         "campground-price": "Free",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +615,7 @@
         "Campground": "No",
         "Dumpstation": "Yes",
         "campground-price": "Free",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +637,7 @@
         "Campground": "No",
         "Dumpstation": "Yes",
         "campground-price": "Free",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +657,7 @@
         "Campground": "Yes",
         "Dumpstation": "",
         "campground-price": "From $15",
-        "dumpstation-price": "Free"
+        "dumpstation-price": "Free for public use"
       },
       "geometry": {
         "type": "Point",
