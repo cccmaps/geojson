@@ -204,7 +204,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "150 Barbadoes Street",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "140 Barbadoes Street",
         "Entry": "136 Barbadoes Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
@@ -216,16 +219,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.645938,
-          -43.537358
+          172.645985,
+          -43.537912
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "471 Moorhouse Avenue",
-        "Entry": "Fitzgerald Avenue",
+        "Entry": "471 Moorhouse Avenue",
         "Notes": "",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 85,
@@ -244,6 +250,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "2 Alfred Street",
         "Entry": "2 Alfred Street",
         "Notes": "",
@@ -364,6 +373,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "12 Wilmer Street",
         "Entry": "12 Wilmer Street",
         "Notes": "",
@@ -376,8 +388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.63332,
-          -43.538646
+          172.631451,
+          -43.53848
         ]
       }
     },
@@ -464,8 +476,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "74 Worcester Street",
-        "Entry": "74 Worcester Street",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "78 Worcester Street",
+        "Entry": "78 Worcester Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 50,
@@ -476,14 +491,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.638376,
-          -43.531031
+          172.634266,
+          -43.531058
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "148 Gloucester Street",
         "Entry": "148 Gloucester Street",
         "Notes": "",
@@ -585,6 +603,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "83 Armagh Street",
         "Entry": "83 Armagh Street",
         "Notes": "2 mobility spaces available",
@@ -606,10 +627,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "335 Durham Street",
         "Entry": "335 Durham Street",
         "Notes": "",
-        "Name": "Wilson of6f-street parking",
+        "Name": "Wilson off-street parking",
         "Parking-spaces": 62,
         "Electric": "",
         "Mobility": "",
