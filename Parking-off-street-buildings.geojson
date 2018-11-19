@@ -294,14 +294,14 @@
         ]
       },
       "properties": {
-        "name": "Laneways (Innovation) car park building",
-        "description": "Laneways car park building",
+        "name": "SALT District car park building",
+        "description": "SALT District car park building",
         "type": "Other off-street parking building",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
-        "hourlyrate": "<a title=\"Laneways car park info\" href=\"http://innovationcarpark.co.nz/\">Laneways car park info</a>",
-        "alldayrate": "<a title=\"Laneways car park info\" href=\"http://innovationcarpark.co.nz/\">Laneways car park info</a>",
-        "timelimit": "<a title=\"Laneways car park info\" href=\"http://innovationcarpark.co.nz/\">Laneways car park info</a>",
+        "hourlyrate": "<a title=\"SALT District car park building\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">SALT District parking info</a>",
+        "alldayrate": "<a title=\"SALT District car park building\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">SALT District parking info</a>",
+        "timelimit": "<a title=\"SALT District car park building\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">SALT District parking info</a>",
         "Access": "Lichfield Street",
         "PleaseNote": "",
         "metered": "",
@@ -444,8 +444,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Laneways (Innovation) car park building",
-        "description": "Laneways (Innovation) car park building",
+        "name": "SALT District car park building",
+        "description": "SALT District car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8,
