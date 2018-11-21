@@ -924,7 +924,7 @@
       "properties": {
         "Name": "Madras Street",
         "Direction": "One-way travelling from Moorhouse Avenue to Bealey Avenue",
-        "Traffic-direction": "North"
+        "Type": "North"
       },
       "geometry": {
         "type": "Point",
@@ -939,8 +939,7 @@
       "properties": {
         "Name": "Barbadoes Street",
         "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue",
-        "Type": "",
-        "Traffic-direction": "South"
+        "Type": "South"
       },
       "geometry": {
         "type": "Point",
@@ -955,7 +954,7 @@
       "properties": {
         "Name": "Kilmore Street",
         "Direction": "One-way travelling from Madras Street to Montreal Street",
-        "Traffic-direction": "West"
+        "Type": "West"
       },
       "geometry": {
         "type": "Point",
@@ -970,7 +969,7 @@
       "properties": {
         "Name": "Salisbury Street",
         "Direction": "One-way travelling from Montreal Street to Barbadoes Street",
-        "Traffic-direction": "East"
+        "Type": "East"
       },
       "geometry": {
         "type": "Point",
@@ -985,7 +984,7 @@
       "properties": {
         "Name": "Durham Street",
         "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue",
-        "Traffic-direction": "South"
+        "Type": "South"
       },
       "geometry": {
         "type": "Point",
@@ -1000,7 +999,7 @@
       "properties": {
         "Name": "Montreal Street",
         "Direction": "One-way travelling from Moorhouse Avenue to Bealey Avenue",
-        "Traffic-direction": "North"
+        "Type": "North"
       },
       "geometry": {
         "type": "Point",
@@ -1015,7 +1014,7 @@
       "properties": {
         "Name": "Tuam Street",
         "Direction": "One-way travelling from Riccarton Avenue to Fitzgerald Avenue",
-        "Traffic-direction": "East"
+        "Type": "East"
       },
       "geometry": {
         "type": "Point",
@@ -1030,7 +1029,7 @@
       "properties": {
         "Name": "St Asaph Street",
         "Direction": "One-way travelling from Fitzgerald Avenue to Hagley Avenue",
-        "Traffic-direction": "West"
+        "Type": "West"
       },
       "geometry": {
         "type": "Point",
