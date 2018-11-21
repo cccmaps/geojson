@@ -4,27 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Kilmore Street",
-        "Type": "One-way",
-        "Direction": "One-way travelling from Madras Street to Montreal Street"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.65046834945676,
-            -43.52656867055067
-          ],
-          [
-            172.63077020645142,
-            -43.52659978653166
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Tuam Street",
         "Type": "One-way",
         "Direction": "One-way travelling from Riccarton Avenue to Fitzgerald Avenue"
@@ -759,31 +738,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Salisbury Street",
-        "Type": "One-way",
-        "Direction": "One-way travelling from Montreal Street to Barbadoes Street"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63059854507446,
-            -43.52442162909934
-          ],
-          [
-            172.6378083229065,
-            -43.5243749534365
-          ],
-          [
-            172.64568328857422,
-            -43.52435939487419
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Barbadoes Street",
         "Type": "One-way",
         "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue"
@@ -1036,6 +990,88 @@
         "coordinates": [
           172.63806581497192,
           -43.536361633030815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Salisbury Street",
+        "Type": "One-way",
+        "Direction": "One-way travelling from Montreal Street to Barbadoes Street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6278841495514,
+            -43.52441384982471
+          ],
+          [
+            172.63671398162842,
+            -43.5243749534365
+          ],
+          [
+            172.64567255973813,
+            -43.52435161559153
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kilmore Street",
+        "Type": "One-way",
+        "Direction": "One-way travelling from Madras Street to Montreal Street"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.62827575206757,
+            -43.52652588605059
+          ],
+          [
+            172.62880146503448,
+            -43.5266075655244
+          ],
+          [
+            172.63077020645142,
+            -43.52658422854317
+          ],
+          [
+            172.63671398162842,
+            -43.52655700205366
+          ],
+          [
+            172.6372879743576,
+            -43.52657256004917
+          ],
+          [
+            172.63787806034088,
+            -43.52658033904543
+          ],
+          [
+            172.63876855373383,
+            -43.52658422854317
+          ],
+          [
+            172.63965368270874,
+            -43.52656867055067
+          ],
+          [
+            172.64384865760803,
+            -43.52656089155291
+          ],
+          [
+            172.64657378196716,
+            -43.52653755455363
+          ],
+          [
+            172.6504361629486,
+            -43.526545333554395
+          ]
         ]
       }
     }
