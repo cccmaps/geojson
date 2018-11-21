@@ -6,7 +6,7 @@
       "properties": {
         "Name": "Kilmore Street",
         "Type": "One-way",
-        "Direction": "West"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -27,7 +27,7 @@
       "properties": {
         "Name": "Tuam Street",
         "Type": "One-way",
-        "Direction": "East"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -52,7 +52,7 @@
       "properties": {
         "Name": "St Asaph Street",
         "Type": "One-way",
-        "Direction": "West"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -85,7 +85,7 @@
       "properties": {
         "Name": "Montreal Street",
         "Type": "One-way",
-        "Direction": "North"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -182,7 +182,7 @@
       "properties": {
         "Name": "Durham Street",
         "Type": "One-way",
-        "Direction": "South"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -761,7 +761,7 @@
       "properties": {
         "Name": "Salisbury Street",
         "Type": "One-way",
-        "Direction": "East"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -786,7 +786,7 @@
       "properties": {
         "Name": "Barbadoes Street",
         "Type": "One-way",
-        "Direction": "South"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -839,7 +839,7 @@
       "properties": {
         "Name": "Madras Street",
         "Type": "One-way",
-        "Direction": "North"
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -922,14 +922,112 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Barbadoes East",
+        "Name": "Madras Street",
+        "Direction": "North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6431941986084,
+          -43.53087808108379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barbadoes Street",
+        "Direction": "South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64568328857422,
+          -43.53087808108379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kilmore Street",
+        "Direction": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63808727264404,
+          -43.52656089155291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Salisbury Street",
         "Direction": "East"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.64564037322998,
-          -43.52972686075607
+          172.63793706893918,
+          -43.524390511994795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Durham Street",
+        "Direction": "South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63285160064697,
+          -43.53088585952479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Montreal Street",
+        "Direction": "North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63063073158264,
+          -43.53090919484173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tuam Street",
+        "Direction": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63807654380798,
+          -43.53530385189623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Asaph Street",
+        "Direction": "West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63806581497192,
+          -43.536361633030815
         ]
       }
     }
