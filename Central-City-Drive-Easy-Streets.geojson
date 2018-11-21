@@ -918,6 +918,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barbadoes East",
+        "Direction": "East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64564037322998,
+          -43.52972686075607
+        ]
+      }
     }
   ]
 }
