@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Kilmore Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "West"
       },
       "geometry": {
         "type": "LineString",
@@ -25,7 +26,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Tuam Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "East"
       },
       "geometry": {
         "type": "LineString",
@@ -49,7 +51,8 @@
       "type": "Feature",
       "properties": {
         "Name": "St Asaph Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "West"
       },
       "geometry": {
         "type": "LineString",
@@ -81,7 +84,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Montreal Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "North"
       },
       "geometry": {
         "type": "LineString",
@@ -177,7 +181,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Durham Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "South"
       },
       "geometry": {
         "type": "LineString",
@@ -273,7 +278,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Riccarton Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -393,7 +399,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Bealey Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -453,7 +460,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Harper Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -485,7 +493,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Deans Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -541,7 +550,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Moorhouse Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -629,7 +639,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Fitzgerald Avenue",
-        "Type": "Two-way"
+        "Type": "Two-way",
+        "Direction": ""
       },
       "geometry": {
         "type": "LineString",
@@ -749,7 +760,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Salisbury Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "East"
       },
       "geometry": {
         "type": "LineString",
@@ -773,7 +785,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Barbadoes Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "South"
       },
       "geometry": {
         "type": "LineString",
@@ -825,7 +838,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Madras Street",
-        "Type": "One-way"
+        "Type": "One-way",
+        "Direction": "North"
       },
       "geometry": {
         "type": "LineString",
