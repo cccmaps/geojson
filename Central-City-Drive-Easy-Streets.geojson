@@ -6,7 +6,7 @@
       "properties": {
         "Name": "Kilmore Street",
         "Type": "One-way",
-        "Direction": "One-way from Madras Street to Montreal Street"
+        "Direction": "One-way travelling from Madras Street to Montreal Street"
       },
       "geometry": {
         "type": "LineString",
@@ -27,7 +27,7 @@
       "properties": {
         "Name": "Tuam Street",
         "Type": "One-way",
-        "Direction": "One-way from Riccarton Avenue to Fitzgerald Avenue"
+        "Direction": "One-way travelling from Riccarton Avenue to Fitzgerald Avenue"
       },
       "geometry": {
         "type": "LineString",
@@ -52,7 +52,7 @@
       "properties": {
         "Name": "St Asaph Street",
         "Type": "One-way",
-        "Direction": "One-way from Fitzgerald Avenue to Hagley Avenue"
+        "Direction": "One-way travelling from Fitzgerald Avenue to Hagley Avenue"
       },
       "geometry": {
         "type": "LineString",
@@ -85,7 +85,7 @@
       "properties": {
         "Name": "Montreal Street",
         "Type": "One-way",
-        "Direction": "One-way from Moorhouse Avenue to Bealey Avenue"
+        "Direction": "One-way travelling from Moorhouse Avenue to Bealey Avenue"
       },
       "geometry": {
         "type": "LineString",
@@ -182,7 +182,7 @@
       "properties": {
         "Name": "Durham Street ",
         "Type": "One-way",
-        "Direction": "One-way from Bealey Avenue to Moorhouse Avenue"
+        "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue"
       },
       "geometry": {
         "type": "LineString",
@@ -761,7 +761,7 @@
       "properties": {
         "Name": "Salisbury Street",
         "Type": "One-way",
-        "Direction": "One-way from Montreal Street to Barbadoes Street"
+        "Direction": "One-way travelling from Montreal Street to Barbadoes Street"
       },
       "geometry": {
         "type": "LineString",
@@ -786,7 +786,7 @@
       "properties": {
         "Name": "Barbadoes Street",
         "Type": "One-way",
-        "Direction": "One-way from Bealey Avenue to Moorhouse Avenue"
+        "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue"
       },
       "geometry": {
         "type": "LineString",
@@ -839,7 +839,7 @@
       "properties": {
         "Name": "Madras Street",
         "Type": "One-way",
-        "Direction": "One-way from Moorhouse Avenue to Bealey Avenue"
+        "Direction": "One-way travelling from Moorhouse Avenue to Bealey Avenue"
       },
       "geometry": {
         "type": "LineString",
