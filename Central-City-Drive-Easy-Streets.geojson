@@ -1115,6 +1115,140 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tūranga (Central Library)",
+        "Type": "Amazing-place",
+        "Direction": "The central library on the edge of Cathedral Square opened on 12 October. At nearly 10,000 square metres, Tūranga is the largest public library in the South Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63716459274292,
+          -43.53004189282686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City Promenade",
+        "Type": "Amazing-track",
+        "Direction": "The 2km promenade follows the Avon River from the Christchurch Hospital through to the Margaret Mahy Family Playground and is designed to give people improved access to the river and make it a feature of the central city."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.62762129306793,
+            -43.53437438918737
+          ],
+          [
+            172.63052344322202,
+            -43.5348216219861
+          ],
+          [
+            172.63134956359863,
+            -43.53479051024658
+          ],
+          [
+            172.63300716876984,
+            -43.53378325900768
+          ],
+          [
+            172.63360798358917,
+            -43.53327379348022
+          ],
+          [
+            172.6338654756546,
+            -43.53262820502638
+          ],
+          [
+            172.6339083909988,
+            -43.53051638246984
+          ],
+          [
+            172.63426780700684,
+            -43.530038003552065
+          ],
+          [
+            172.63490080833435,
+            -43.52931070475734
+          ],
+          [
+            172.63509392738342,
+            -43.528793422737536
+          ],
+          [
+            172.6352173089981,
+            -43.52817890148982
+          ],
+          [
+            172.63554453849792,
+            -43.52793386911982
+          ],
+          [
+            172.6361507177353,
+            -43.52760715774474
+          ],
+          [
+            172.63655304908752,
+            -43.52741268584799
+          ],
+          [
+            172.63672471046448,
+            -43.52765772033519
+          ],
+          [
+            172.6374113559723,
+            -43.52763827319003
+          ],
+          [
+            172.6381516456604,
+            -43.52815556511651
+          ],
+          [
+            172.63958394527435,
+            -43.52832280892569
+          ],
+          [
+            172.6399165391922,
+            -43.52831891954004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City Promenade",
+        "Type": "Amazing-place",
+        "Direction": "The central library on the edge of Cathedral Square opened on 12 October. At nearly 10,000 square metres, Tūranga is the largest public library in the South Island."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6338815689087,
+          -43.53157035840348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "EntX Entertainment Central",
+        "Type": "Amazing-place",
+        "Direction": "With a state-of-the-art HOYTS cinema complex upstairs and diverse groundfloor dining precinct, never before have we had an entertainment destination venue like this so centrally located."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63637602329254,
+          -43.53462717335072
+        ]
+      }
     }
   ]
 }
