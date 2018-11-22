@@ -161,7 +161,7 @@
       "properties": {
         "Name": "Durham Street ",
         "Type": "One-way",
-        "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue"
+        "Direction": "One-way travelling from Bealey Avenue to Moorhouse Avenue. Two-way between Tuam Street and Lichfield Street for easy parking on Lichfield."
       },
       "geometry": {
         "type": "LineString",
@@ -1071,47 +1071,6 @@
           [
             172.6504361629486,
             -43.526545333554395
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Durham Street ",
-        "Type": "Two-way",
-        "Direction": "Two-way between Tuam Street and Lichfield Street for easy parking on Lichfield"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.63351947069168,
-            -43.53422077367818
-          ],
-          [
-            172.63358384370804,
-            -43.53434327721711
-          ],
-          [
-            172.6336133480072,
-            -43.534463836012456
-          ],
-          [
-            172.63362139463425,
-            -43.53461356192277
-          ],
-          [
-            172.63362675905225,
-            -43.53481384405273
-          ],
-          [
-            172.6336321234703,
-            -43.53501218104046
-          ],
-          [
-            172.63362675905225,
-            -43.53532912997064
           ]
         ]
       }
