@@ -786,7 +786,7 @@
       "properties": {
         "PSID": 1067,
         "PumpStationName": "Kainga",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": "",
         "Above-wellheads": 1,
         "Abandoned": "n/a",
