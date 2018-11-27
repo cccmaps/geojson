@@ -576,7 +576,7 @@
       "properties": {
         "PSID": 1073,
         "PumpStationName": "Farrington",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 4,
         "Abandoned": "n/a",
@@ -936,7 +936,7 @@
       "properties": {
         "PSID": 1083,
         "PumpStationName": "Mairehau",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 1,
         "Above-wellheads": "",
         "Abandoned": "n/a",
@@ -1359,7 +1359,7 @@
       "properties": {
         "PSID": 1089,
         "PumpStationName": "Tara",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "0.5 parts per million",
         "Below-wellheads": 1,
         "Above-wellheads": "",
         "Abandoned": "n/a",
