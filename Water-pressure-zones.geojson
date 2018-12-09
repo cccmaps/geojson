@@ -8,7 +8,8 @@
         "WsPressureZoneID": 59,
         "ZoneName": "Rocky",
         "DesignSource-kpa": 800,
-        "DesignSprinkler-kpa": 350
+        "DesignSprinkler-kpa": 350,
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -3517,7 +3518,8 @@
         "WsPressureZoneID": 131,
         "ZoneName": "Brooklands/Kainga",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Kainga"
       },
       "geometry": {
         "type": "Polygon",
@@ -6158,7 +6160,8 @@
         "WsPressureZoneID": 141,
         "ZoneName": "Riccarton",
         "DesignSource-kpa": 450,
-        "DesignSprinkler-kpa": 350
+        "DesignSprinkler-kpa": 350,
+        "Water-use-zone": "Riccarton"
       },
       "geometry": {
         "type": "Polygon",
@@ -7355,7 +7358,8 @@
         "WsPressureZoneID": 203,
         "ZoneName": "Parklands",
         "DesignSource-kpa": 420,
-        "DesignSprinkler-kpa": 320
+        "DesignSprinkler-kpa": 320,
+        "Water-use-zone": "Parklands"
       },
       "geometry": {
         "type": "Polygon",
@@ -9800,7 +9804,8 @@
         "WsPressureZoneID": 350,
         "ZoneName": "Sutherlands 1",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 200
+        "DesignSprinkler-kpa": 200,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -11201,7 +11206,8 @@
         "WsPressureZoneID": 379,
         "ZoneName": "Ocean View 2",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -12114,7 +12120,8 @@
         "WsPressureZoneID": 430,
         "ZoneName": "Ferrymead",
         "DesignSource-kpa": 500,
-        "DesignSprinkler-kpa": 400
+        "DesignSprinkler-kpa": 400,
+        "Water-use-zone": "Ferrymead"
       },
       "geometry": {
         "type": "Polygon",
@@ -14867,7 +14874,8 @@
         "WsPressureZoneID": 450,
         "ZoneName": "Mt Pleasant 5",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -15780,7 +15788,8 @@
         "WsPressureZoneID": 455,
         "ZoneName": "Upper Balmoral",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -16993,7 +17002,8 @@
         "WsPressureZoneID": 459,
         "ZoneName": "Moncks Spur 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -18352,7 +18362,8 @@
         "WsPressureZoneID": 480,
         "ZoneName": "Mt Pleasant 4",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -20843,7 +20854,8 @@
         "WsPressureZoneID": 492,
         "ZoneName": "Mt Pleasant 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -22740,7 +22752,8 @@
         "WsPressureZoneID": 517,
         "ZoneName": "Murray Aynsley 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -23605,7 +23618,8 @@
         "WsPressureZoneID": 521,
         "ZoneName": "Huntsbury 4",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -24574,7 +24588,8 @@
         "WsPressureZoneID": 536,
         "ZoneName": "Major Aitken 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -25306,7 +25321,8 @@
         "WsPressureZoneID": 559,
         "ZoneName": "Victoria Park",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -26079,7 +26095,8 @@
         "WsPressureZoneID": 584,
         "ZoneName": "Halswell 2",
         "DesignSource-kpa": 540,
-        "DesignSprinkler-kpa": 280
+        "DesignSprinkler-kpa": 280,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -26824,7 +26841,8 @@
         "WsPressureZoneID": 590,
         "ZoneName": "Sutherlands 2",
         "DesignSource-kpa": 540,
-        "DesignSprinkler-kpa": 280
+        "DesignSprinkler-kpa": 280,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -27217,7 +27235,8 @@
         "WsPressureZoneID": 592,
         "ZoneName": "West",
         "DesignSource-kpa": 450,
-        "DesignSprinkler-kpa": 350
+        "DesignSprinkler-kpa": 350,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -30602,7 +30621,8 @@
         "WsPressureZoneID": 595,
         "ZoneName": "Burkes Track 1",
         "DesignSource-kpa": 540,
-        "DesignSprinkler-kpa": 280
+        "DesignSprinkler-kpa": 280,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -30807,7 +30827,8 @@
         "WsPressureZoneID": 596,
         "ZoneName": "Kennedys Bush",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -31160,7 +31181,8 @@
         "WsPressureZoneID": 597,
         "ZoneName": "Burkes Track 2",
         "DesignSource-kpa": 540,
-        "DesignSprinkler-kpa": 280
+        "DesignSprinkler-kpa": 280,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -31297,7 +31319,8 @@
         "WsPressureZoneID": 598,
         "ZoneName": "Morgans Valley",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -32170,7 +32193,8 @@
         "WsPressureZoneID": 601,
         "ZoneName": "Richmond Hill Break Pressure",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -32671,7 +32695,8 @@
         "WsPressureZoneID": 609,
         "ZoneName": "Westmorland 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -33824,7 +33849,8 @@
         "WsPressureZoneID": 610,
         "ZoneName": "Morgans Valley Booster",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -34817,7 +34843,8 @@
         "WsPressureZoneID": 611,
         "ZoneName": "La Mar",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -35070,7 +35097,8 @@
         "WsPressureZoneID": 621,
         "ZoneName": "Moncks Spur 3",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -37338,7 +37366,8 @@
         "WsPressureZoneID": 625,
         "ZoneName": "Northwest",
         "DesignSource-kpa": 400,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Northwest"
       },
       "geometry": {
         "type": "Polygon",
@@ -46965,7 +46994,8 @@
         "WsPressureZoneID": 630,
         "ZoneName": "BF Birdlings Flat",
         "DesignSprinkler-kpa": "not available",
-        "DesignSource-kpa": "not available"
+        "DesignSource-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -47182,7 +47212,8 @@
         "WsPressureZoneID": 631,
         "ZoneName": "LR Little River",
         "DesignSprinkler-kpa": "not available",
-        "DesignSource-kpa": "not available"
+        "DesignSource-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -71148,7 +71179,8 @@
         "WsPressureZoneID": 647,
         "ZoneName": "LY Buxtons 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -77531,7 +77563,8 @@
         "WsPressureZoneID": 661,
         "ZoneName": "Port Hills",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -77896,7 +77929,8 @@
         "WsPressureZoneID": 664,
         "ZoneName": "Takahe",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -79757,7 +79791,8 @@
         "WsPressureZoneID": 687,
         "ZoneName": "McCormacks Bay",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 350
+        "DesignSprinkler-kpa": 350,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -85104,7 +85139,8 @@
         "WsPressureZoneID": 690,
         "ZoneName": "Mt Pleasant 3",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -87877,7 +87913,8 @@
         "WsPressureZoneID": 692,
         "ZoneName": "Maffeys",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -90876,7 +90913,8 @@
         "WsPressureZoneID": 702,
         "ZoneName": "Clifton 4",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -93178,7 +93216,8 @@
         "WsPressureZoneID": 712,
         "ZoneName": "Clifton 2",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -95069,7 +95108,8 @@
         "WsPressureZoneID": 716,
         "ZoneName": "Clifton 3",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -98252,7 +98292,8 @@
         "WsPressureZoneID": 731,
         "ZoneName": "Huntsbury 3",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -101583,7 +101624,8 @@
         "WsPressureZoneID": 733,
         "ZoneName": "Hackthorne",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -106142,7 +106184,8 @@
         "WsPressureZoneID": 739,
         "ZoneName": "Central",
         "DesignSource-kpa": 550,
-        "DesignSprinkler-kpa": 450
+        "DesignSprinkler-kpa": 450,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -117913,7 +117956,8 @@
         "WsPressureZoneID": 744,
         "ZoneName": "Scarborough 2",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "Polygon",
@@ -119560,7 +119604,8 @@
         "WsPressureZoneID": 748,
         "ZoneName": "Scarborough 3",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -121044,7 +121089,8 @@
         "WsPressureZoneID": 750,
         "ZoneName": "Worsley 2",
         "DesignSprinkler-kpa": 300,
-        "DesignSource-kpa": 700
+        "DesignSource-kpa": 700,
+        "Water-use-zone": "West"
       },
       "geometry": {
         "type": "Polygon",
@@ -122249,7 +122295,8 @@
         "WsPressureZoneID": 769,
         "ZoneName": "LY Lyttelton Low Level",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -130096,7 +130143,8 @@
         "WsPressureZoneID": 773,
         "ZoneName": "LY Lyttelton Mid Level",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -141531,7 +141579,8 @@
         "WsPressureZoneID": 775,
         "ZoneName": "LY Rapaki",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -144056,7 +144105,8 @@
         "WsPressureZoneID": 788,
         "ZoneName": "Huntsbury 2",
         "DesignSource-kpa": 700,
-        "DesignSprinkler-kpa": 300
+        "DesignSprinkler-kpa": 300,
+        "Water-use-zone": "Central"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -147655,7 +147705,8 @@
         "WsPressureZoneID": 800,
         "ZoneName": "GB Governors Bay Low Level",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -150476,7 +150527,8 @@
         "WsPressureZoneID": 801,
         "ZoneName": "GB Governors Bay Mid Level",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -154134,7 +154186,8 @@
         "WsPressureZoneID": 802,
         "ZoneName": "GB Governors Bay High Level",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -154717,7 +154770,8 @@
         "WsPressureZoneID": 803,
         "ZoneName": "GB Ernest Adams 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -155066,7 +155120,8 @@
         "WsPressureZoneID": 806,
         "ZoneName": "GB The Terrace 2",
         "DesignSource-kpa": "not available",
-        "DesignSprinkler-kpa": "not available"
+        "DesignSprinkler-kpa": "not available",
+        "Water-use-zone": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -155179,7 +155234,8 @@
         "WsPressureZoneID": 807,
         "ZoneName": "Rawhiti",
         "DesignSource-kpa": 500,
-        "DesignSprinkler-kpa": 400
+        "DesignSprinkler-kpa": 400,
+        "Water-use-zone": "Rawhiti"
       },
       "geometry": {
         "type": "Polygon",
