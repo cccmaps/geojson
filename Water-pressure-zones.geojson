@@ -9,7 +9,7 @@
         "ZoneName": "Rocky",
         "DesignSource-kpa": 800,
         "DesignSprinkler-kpa": 350,
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -34870,7 +34870,7 @@
         "ZoneName": "La Mar",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -47024,7 +47024,7 @@
         "ZoneName": "BF Birdlings Flat",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -47243,7 +47243,7 @@
         "ZoneName": "LR Little River",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -49550,7 +49550,8 @@
         "ZoneName": "TK Takamatua",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -50512,7 +50513,8 @@
         "ZoneName": "PB Pigeon Bay",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -51866,7 +51868,8 @@
         "ZoneName": "WN Wainui Valley",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53484,7 +53487,8 @@
         "ZoneName": "WN Warnerville",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53654,7 +53658,8 @@
         "ZoneName": "DV Duvauchelle High Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -53888,7 +53893,8 @@
         "ZoneName": "AK Akaroa Low Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57018,7 +57024,8 @@
         "ZoneName": "AK Langlois 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57132,7 +57139,8 @@
         "ZoneName": "AK Watson 3",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57270,7 +57278,8 @@
         "ZoneName": "AK Watson 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -57720,7 +57729,8 @@
         "ZoneName": "AK Lighthouse 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -58590,7 +58600,8 @@
         "ZoneName": "DH Diamond Harbour High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -60472,7 +60483,8 @@
         "ZoneName": "DH Diamond Harbour Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -71042,7 +71054,8 @@
         "ZoneName": "LY Hylton Heights (Private)",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -71224,7 +71237,7 @@
         "ZoneName": "LY Buxtons 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -71371,7 +71384,8 @@
         "ZoneName": "LY Lyttelton High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -73897,7 +73911,8 @@
         "ZoneName": "DV Duvauchelle",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No"
+        "Water-use-map": "No",
+        "Water-use-zone": "not available"
       },
       "geometry": {
         "type": "Polygon",
@@ -77611,7 +77626,7 @@
         "ZoneName": "Port Hills",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -122357,7 +122372,7 @@
         "ZoneName": "LY Lyttelton Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -130206,7 +130221,7 @@
         "ZoneName": "LY Lyttelton Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -141643,7 +141658,7 @@
         "ZoneName": "LY Rapaki",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -147771,7 +147786,7 @@
         "ZoneName": "GB Governors Bay Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -150594,7 +150609,7 @@
         "ZoneName": "GB Governors Bay Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -154254,7 +154269,7 @@
         "ZoneName": "GB Governors Bay High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -154839,7 +154854,7 @@
         "ZoneName": "GB Ernest Adams 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
@@ -155190,7 +155205,7 @@
         "ZoneName": "GB The Terrace 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "",
+        "Water-use-zone": "not available",
         "Water-use-map": "No"
       },
       "geometry": {
