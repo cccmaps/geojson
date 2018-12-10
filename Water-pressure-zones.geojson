@@ -9,7 +9,7 @@
         "ZoneName": "Rocky",
         "DesignSource-kpa": 800,
         "DesignSprinkler-kpa": 350,
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -3521,7 +3521,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Kainga",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiYTliNGRlOGQtZjYxNi00M2FiLTk1ODEtMmNkOThiNzY5Y2JiIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -6164,7 +6165,8 @@
         "DesignSource-kpa": 450,
         "DesignSprinkler-kpa": 350,
         "WaterUseTitle": "Riccarton",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiY2IyMjU0NTktNzFkYi00YWIyLTkyNTctOTk1ZThjZWUzNjc1IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -7363,7 +7365,8 @@
         "DesignSource-kpa": 420,
         "DesignSprinkler-kpa": 320,
         "WaterUseTitle": "Parklands",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNzdhZmI1YjctYzljMi00MTI0LThhMWMtNzZmOTAyMmY5Yzk5IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -9810,7 +9813,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 200,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -11213,7 +11217,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -12128,7 +12133,8 @@
         "DesignSource-kpa": 500,
         "DesignSprinkler-kpa": 400,
         "WaterUseTitle": "Ferrymead",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzBiZDgtMzgwOS00YmQzLTg2NmItMWIxM2Y4NTBiNTMzIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -14883,7 +14889,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -15798,7 +15805,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -17013,7 +17021,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -18374,7 +18383,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -20867,7 +20877,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -22766,7 +22777,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -23633,7 +23645,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -24604,7 +24617,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -25338,7 +25352,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -26113,7 +26128,8 @@
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -26860,7 +26876,8 @@
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -27255,7 +27272,8 @@
         "DesignSource-kpa": 450,
         "DesignSprinkler-kpa": 350,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -30642,7 +30660,8 @@
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -30849,7 +30868,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -31204,7 +31224,8 @@
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -31343,7 +31364,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -32218,7 +32240,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -32721,7 +32744,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -33876,7 +33900,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -34870,7 +34895,7 @@
         "ZoneName": "La Mar",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -35126,7 +35151,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -37396,7 +37422,8 @@
         "DesignSource-kpa": 400,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Northwest",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiODI2Y2RjODAtYjg2MC00MzYwLWJmYmYtMTFkZThjNWM5MWJiIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -47024,7 +47051,7 @@
         "ZoneName": "BF Birdlings Flat",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -47243,7 +47270,7 @@
         "ZoneName": "LR Little River",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -49550,7 +49577,7 @@
         "ZoneName": "TK Takamatua",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -50513,7 +50540,7 @@
         "ZoneName": "PB Pigeon Bay",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -51868,7 +51895,7 @@
         "ZoneName": "WN Wainui Valley",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -53487,7 +53514,7 @@
         "ZoneName": "WN Warnerville",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -53658,7 +53685,7 @@
         "ZoneName": "DV Duvauchelle High Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -53893,7 +53920,7 @@
         "ZoneName": "AK Akaroa Low Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -57024,7 +57051,7 @@
         "ZoneName": "AK Langlois 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -57139,7 +57166,7 @@
         "ZoneName": "AK Watson 3",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -57278,7 +57305,7 @@
         "ZoneName": "AK Watson 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -57729,7 +57756,7 @@
         "ZoneName": "AK Lighthouse 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -58600,7 +58627,7 @@
         "ZoneName": "DH Diamond Harbour High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -60483,7 +60510,7 @@
         "ZoneName": "DH Diamond Harbour Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -71054,7 +71081,7 @@
         "ZoneName": "LY Hylton Heights (Private)",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -71237,7 +71264,7 @@
         "ZoneName": "LY Buxtons 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -71384,8 +71411,9 @@
         "ZoneName": "LY Lyttelton High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
-        "WaterUseMap": "No"
+        "WaterUseTitle": "",
+        "WaterUseMap": "No",
+        "BIDashboard": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -73911,7 +73939,7 @@
         "ZoneName": "DV Duvauchelle",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -77626,7 +77654,7 @@
         "ZoneName": "Port Hills",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -77994,7 +78022,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -79857,7 +79886,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 350,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -85206,7 +85236,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -87981,7 +88012,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -90982,7 +91014,8 @@
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -93286,7 +93319,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -95179,7 +95213,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -98364,7 +98399,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -101697,7 +101733,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -106258,7 +106295,8 @@
         "DesignSource-kpa": 550,
         "DesignSprinkler-kpa": 450,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -118031,7 +118069,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -119680,7 +119719,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -121166,7 +121206,8 @@
         "DesignSprinkler-kpa": 300,
         "DesignSource-kpa": 700,
         "WaterUseTitle": "West",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
@@ -122372,8 +122413,9 @@
         "ZoneName": "LY Lyttelton Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
-        "WaterUseMap": "No"
+        "WaterUseTitle": "",
+        "WaterUseMap": "No",
+        "BIDashboard": ""
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -130221,7 +130263,7 @@
         "ZoneName": "LY Lyttelton Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -141658,7 +141700,7 @@
         "ZoneName": "LY Rapaki",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -144186,7 +144228,8 @@
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
         "WaterUseTitle": "Central",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -147786,7 +147829,7 @@
         "ZoneName": "GB Governors Bay Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -150609,7 +150652,7 @@
         "ZoneName": "GB Governors Bay Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -154269,7 +154312,7 @@
         "ZoneName": "GB Governors Bay High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -154854,7 +154897,7 @@
         "ZoneName": "GB Ernest Adams 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -155205,7 +155248,7 @@
         "ZoneName": "GB The Terrace 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "not available",
+        "WaterUseTitle": "",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -155321,7 +155364,8 @@
         "DesignSource-kpa": 500,
         "DesignSprinkler-kpa": 400,
         "WaterUseTitle": "Rawhiti",
-        "WaterUseMap": "Yes"
+        "WaterUseMap": "Yes",
+        "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNTg1NDZlMDYtZmMwYy00YmZmLThkZDgtOGNmMzBkZjNhNTZkIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D"
       },
       "geometry": {
         "type": "Polygon",
