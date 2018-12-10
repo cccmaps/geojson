@@ -3523,7 +3523,8 @@
         "WaterUseTitle": "Kainga/Brooklands",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiYTliNGRlOGQtZjYxNi00M2FiLTk1ODEtMmNkOThiNzY5Y2JiIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Kainga"
+        "SectionID": "Kainga",
+        "TargetWaterUse": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -6168,7 +6169,8 @@
         "WaterUseTitle": "Riccarton",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiY2IyMjU0NTktNzFkYi00YWIyLTkyNTctOTk1ZThjZWUzNjc1IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Riccarton"
+        "SectionID": "Riccarton",
+        "TargetWaterUse": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -7369,7 +7371,8 @@
         "WaterUseTitle": "Parklands",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNzdhZmI1YjctYzljMi00MTI0LThhMWMtNzZmOTAyMmY5Yzk5IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Parklands"
+        "SectionID": "Parklands",
+        "TargetWaterUse": 7
       },
       "geometry": {
         "type": "Polygon",
@@ -9818,7 +9821,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -11223,7 +11227,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -12140,7 +12145,8 @@
         "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiYjQ5MzBiZDgtMzgwOS00YmQzLTg2NmItMWIxM2Y4NTBiNTMzIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Ferrymead"
+        "SectionID": "Ferrymead",
+        "TargetWaterUse": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -14897,7 +14903,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -15814,7 +15821,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -17031,7 +17039,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -18394,7 +18403,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -20889,7 +20899,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -22790,7 +22801,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -23659,7 +23671,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -24632,7 +24645,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -25368,7 +25382,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -26145,7 +26160,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -26894,7 +26910,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -27291,7 +27308,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -30680,7 +30698,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -30889,7 +30908,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -31246,7 +31266,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -31387,7 +31408,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -32264,7 +32286,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -32769,7 +32792,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -33926,7 +33950,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -35178,7 +35203,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -37450,7 +37476,8 @@
         "WaterUseTitle": "Northwest",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiODI2Y2RjODAtYjg2MC00MzYwLWJmYmYtMTFkZThjNWM5MWJiIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Northwest"
+        "SectionID": "Northwest",
+        "TargetWaterUse": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -78051,7 +78078,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -79916,7 +79944,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -85267,7 +85296,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -88044,7 +88074,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -91047,7 +91078,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -93353,7 +93385,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -95248,7 +95281,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -98435,7 +98469,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -101770,7 +101805,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -106333,7 +106369,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -118108,7 +118145,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "Polygon",
@@ -119759,7 +119797,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -121247,7 +121286,8 @@
         "WaterUseTitle": "West",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiMjE2MGY5NTctZDFmZi00ZTM2LWE4YTUtNWNiN2E1ZjkwOGEwIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "West"
+        "SectionID": "West",
+        "TargetWaterUse": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -144270,7 +144310,8 @@
         "WaterUseTitle": "Central",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central"
+        "SectionID": "Central",
+        "TargetWaterUse": 55
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -155407,7 +155448,8 @@
         "WaterUseTitle": "Rawhiti",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNTg1NDZlMDYtZmMwYy00YmZmLThkZDgtOGNmMzBkZjNhNTZkIiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Rawhiti"
+        "SectionID": "Rawhiti",
+        "TargetWaterUse": 11
       },
       "geometry": {
         "type": "Polygon",
