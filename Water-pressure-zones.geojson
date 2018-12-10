@@ -9,8 +9,8 @@
         "ZoneName": "Rocky",
         "DesignSource-kpa": 800,
         "DesignSprinkler-kpa": 350,
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -3520,8 +3520,8 @@
         "ZoneName": "Brooklands/Kainga",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Kainga",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Kainga",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -6163,8 +6163,8 @@
         "ZoneName": "Riccarton",
         "DesignSource-kpa": 450,
         "DesignSprinkler-kpa": 350,
-        "Water-use-zone": "Riccarton",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Riccarton",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -7362,8 +7362,8 @@
         "ZoneName": "Parklands",
         "DesignSource-kpa": 420,
         "DesignSprinkler-kpa": 320,
-        "Water-use-zone": "Parklands",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Parklands",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -9809,8 +9809,8 @@
         "ZoneName": "Sutherlands 1",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 200,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -11212,8 +11212,8 @@
         "ZoneName": "Ocean View 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -12127,8 +12127,8 @@
         "ZoneName": "Ferrymead",
         "DesignSource-kpa": 500,
         "DesignSprinkler-kpa": 400,
-        "Water-use-zone": "Ferrymead",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Ferrymead",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -14882,8 +14882,8 @@
         "ZoneName": "Mt Pleasant 5",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -15797,8 +15797,8 @@
         "ZoneName": "Upper Balmoral",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -17012,8 +17012,8 @@
         "ZoneName": "Moncks Spur 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -18373,8 +18373,8 @@
         "ZoneName": "Mt Pleasant 4",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -20866,8 +20866,8 @@
         "ZoneName": "Mt Pleasant 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -22765,8 +22765,8 @@
         "ZoneName": "Murray Aynsley 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -23632,8 +23632,8 @@
         "ZoneName": "Huntsbury 4",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -24603,8 +24603,8 @@
         "ZoneName": "Major Aitken 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -25337,8 +25337,8 @@
         "ZoneName": "Victoria Park",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -26112,8 +26112,8 @@
         "ZoneName": "Halswell 2",
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -26859,8 +26859,8 @@
         "ZoneName": "Sutherlands 2",
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -27254,8 +27254,8 @@
         "ZoneName": "West",
         "DesignSource-kpa": 450,
         "DesignSprinkler-kpa": 350,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -30641,8 +30641,8 @@
         "ZoneName": "Burkes Track 1",
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -30848,8 +30848,8 @@
         "ZoneName": "Kennedys Bush",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -31203,8 +31203,8 @@
         "ZoneName": "Burkes Track 2",
         "DesignSource-kpa": 540,
         "DesignSprinkler-kpa": 280,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -31342,8 +31342,8 @@
         "ZoneName": "Morgans Valley",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -32217,8 +32217,8 @@
         "ZoneName": "Richmond Hill Break Pressure",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -32720,8 +32720,8 @@
         "ZoneName": "Westmorland 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -33875,8 +33875,8 @@
         "ZoneName": "Morgans Valley Booster",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -34870,8 +34870,8 @@
         "ZoneName": "La Mar",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -35125,8 +35125,8 @@
         "ZoneName": "Moncks Spur 3",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -37395,8 +37395,8 @@
         "ZoneName": "Northwest",
         "DesignSource-kpa": 400,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Northwest",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Northwest",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -47024,8 +47024,8 @@
         "ZoneName": "BF Birdlings Flat",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -47243,8 +47243,8 @@
         "ZoneName": "LR Little River",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -49550,8 +49550,8 @@
         "ZoneName": "TK Takamatua",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -50513,8 +50513,8 @@
         "ZoneName": "PB Pigeon Bay",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -51868,8 +51868,8 @@
         "ZoneName": "WN Wainui Valley",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -53487,8 +53487,8 @@
         "ZoneName": "WN Warnerville",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -53658,8 +53658,8 @@
         "ZoneName": "DV Duvauchelle High Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -53893,8 +53893,8 @@
         "ZoneName": "AK Akaroa Low Level",
         "DesignSprinkler-kpa": "not available",
         "DesignSource-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -57024,8 +57024,8 @@
         "ZoneName": "AK Langlois 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -57139,8 +57139,8 @@
         "ZoneName": "AK Watson 3",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -57278,8 +57278,8 @@
         "ZoneName": "AK Watson 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -57729,8 +57729,8 @@
         "ZoneName": "AK Lighthouse 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -58600,8 +58600,8 @@
         "ZoneName": "DH Diamond Harbour High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -60483,8 +60483,8 @@
         "ZoneName": "DH Diamond Harbour Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -71054,8 +71054,8 @@
         "ZoneName": "LY Hylton Heights (Private)",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -71237,8 +71237,8 @@
         "ZoneName": "LY Buxtons 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -71384,8 +71384,8 @@
         "ZoneName": "LY Lyttelton High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -73911,8 +73911,8 @@
         "ZoneName": "DV Duvauchelle",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-map": "No",
-        "Water-use-zone": "not available"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -77626,8 +77626,8 @@
         "ZoneName": "Port Hills",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -77993,8 +77993,8 @@
         "ZoneName": "Takahe",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -79856,8 +79856,8 @@
         "ZoneName": "McCormacks Bay",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 350,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -85205,8 +85205,8 @@
         "ZoneName": "Mt Pleasant 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -87980,8 +87980,8 @@
         "ZoneName": "Maffeys",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -90981,8 +90981,8 @@
         "ZoneName": "Clifton 4",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -93285,8 +93285,8 @@
         "ZoneName": "Clifton 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -95178,8 +95178,8 @@
         "ZoneName": "Clifton 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -98363,8 +98363,8 @@
         "ZoneName": "Huntsbury 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -101696,8 +101696,8 @@
         "ZoneName": "Hackthorne",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -106257,8 +106257,8 @@
         "ZoneName": "Central",
         "DesignSource-kpa": 550,
         "DesignSprinkler-kpa": 450,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -118030,8 +118030,8 @@
         "ZoneName": "Scarborough 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -119679,8 +119679,8 @@
         "ZoneName": "Scarborough 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -121165,8 +121165,8 @@
         "ZoneName": "Worsley 2",
         "DesignSprinkler-kpa": 300,
         "DesignSource-kpa": 700,
-        "Water-use-zone": "West",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "West",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
@@ -122372,8 +122372,8 @@
         "ZoneName": "LY Lyttelton Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -130221,8 +130221,8 @@
         "ZoneName": "LY Lyttelton Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -141658,8 +141658,8 @@
         "ZoneName": "LY Rapaki",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -144185,8 +144185,8 @@
         "ZoneName": "Huntsbury 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "Water-use-zone": "Central",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Central",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -147786,8 +147786,8 @@
         "ZoneName": "GB Governors Bay Low Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -150609,8 +150609,8 @@
         "ZoneName": "GB Governors Bay Mid Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "GeometryCollection",
@@ -154269,8 +154269,8 @@
         "ZoneName": "GB Governors Bay High Level",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -154854,8 +154854,8 @@
         "ZoneName": "GB Ernest Adams 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -155205,8 +155205,8 @@
         "ZoneName": "GB The Terrace 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "Water-use-zone": "not available",
-        "Water-use-map": "No"
+        "WaterUseTitle": "not available",
+        "WaterUseMap": "No"
       },
       "geometry": {
         "type": "Polygon",
@@ -155320,8 +155320,8 @@
         "ZoneName": "Rawhiti",
         "DesignSource-kpa": 500,
         "DesignSprinkler-kpa": 400,
-        "Water-use-zone": "Rawhiti",
-        "Water-use-map": "Yes"
+        "WaterUseTitle": "Rawhiti",
+        "WaterUseMap": "Yes"
       },
       "geometry": {
         "type": "Polygon",
