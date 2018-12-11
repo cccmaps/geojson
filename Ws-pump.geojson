@@ -246,7 +246,7 @@
       "properties": {
         "PSID": 1007,
         "PumpStationName": "Blighs ",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 1,
         "Abandoned": "n/a",
@@ -1389,7 +1389,7 @@
       "properties": {
         "PSID": 1078,
         "PumpStationName": "Thompsons",
-        "ChlorinationDose": "1 part per million",
+        "ChlorinationDose": "none",
         "Below-wellheads": 1,
         "Above-wellheads": 1,
         "Abandoned": "n/a",
