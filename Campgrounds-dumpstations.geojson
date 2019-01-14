@@ -653,6 +653,8 @@
         "Name": "Pigeon Bay Camping Ground ",
         "Type": "Campground",
         "Address": "Wharf Road, Pigeon Bay",
+        "Phone": "",
+        "Website": "",
         "Facilities": "Suitable for any vehicle type and more",
         "Campground": "Yes",
         "Dumpstation": "",
