@@ -288,6 +288,58 @@
         "url": "https://ccc.govt.nz/christchurch-and-banks-peninsula-beaches/",
         "Description": "A popular recreational beach, Waimairi is good for swimming and kite surfing. Neighbouring Broad Park offers a playground and grassy picnic areas for when the golden sandy beach gets too hot. "
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Beach",
+        "Name": "North Beach",
+        "Lifeguard patrol": "",
+        "Address": "Marine Parade, North New Brighton",
+        "url": "",
+        "Description": "North Beach is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. There is car parking and public toilets available."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.726435,
+          -43.493707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Beach",
+        "Name": "South Brighton",
+        "Address": "Marine Parade, South New Brighton",
+        "Description": "South Brighton beach is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. There is car parking and public toilets available.",
+        "url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.736909,
+          -43.521994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Beach",
+        "Name": "Spencer Park",
+        "Address": "Heyders Road, Bottle Lake",
+        "url": "",
+        "Description": "Spencer Park beach is popular for swimming, kayaking, wind and kite surfing and horse riding. Facilities include a car park, toilets and changing facilities."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.713586,
+          -43.431902
+        ]
+      }
     }
   ]
 }
