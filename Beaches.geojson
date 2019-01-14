@@ -312,6 +312,7 @@
       "properties": {
         "SportCode": "Beach",
         "Name": "South Brighton",
+        "Lifeguard patrol": "",
         "Address": "Marine Parade, South New Brighton",
         "Description": "South Brighton beach is part of a vast stretch of straight, sandy coastline popular for a range of activities including swimming, surfing, kite surfing, fishing and walking. There is car parking and public toilets available.",
         "url": ""
@@ -329,6 +330,7 @@
       "properties": {
         "SportCode": "Beach",
         "Name": "Spencer Park",
+        "Lifeguard patrol": "",
         "Address": "Heyders Road, Bottle Lake",
         "url": "",
         "Description": "Spencer Park beach is popular for swimming, kayaking, wind and kite surfing and horse riding. Facilities include a car park, toilets and changing facilities."
