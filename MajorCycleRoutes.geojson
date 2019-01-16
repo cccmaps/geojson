@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "CycleRelatedFeatures_PathsRoadsWays_20180927_1",
+  "name": "CycleRelated_WaysRoadsPaths",
   "crs": {
     "type": "name",
     "properties": {
@@ -23543,8 +23543,8 @@
         "coordinates": [
           [
             [
-              172.6396398,
-              -43.5276632
+              172.6396395,
+              -43.5277282
             ],
             [
               172.6396264,
@@ -23574,12 +23574,12 @@
         "coordinates": [
           [
             [
-              172.6396367,
-              -43.5283768
+              172.6397106,
+              -43.528377
             ],
             [
-              172.6396398,
-              -43.5276632
+              172.6397134,
+              -43.5277284
             ]
           ]
         ]
@@ -23605,12 +23605,12 @@
         "coordinates": [
           [
             [
-              172.6396328,
-              -43.528759
+              172.6397067,
+              -43.5287592
             ],
             [
-              172.6396367,
-              -43.5283768
+              172.6397106,
+              -43.528377
             ]
           ]
         ]
@@ -23636,12 +23636,12 @@
         "coordinates": [
           [
             [
-              172.6396354,
-              -43.5298473
+              172.6397093,
+              -43.5298475
             ],
             [
-              172.6396328,
-              -43.528759
+              172.6397067,
+              -43.5287592
             ]
           ]
         ]
@@ -23667,12 +23667,12 @@
         "coordinates": [
           [
             [
-              172.6396405,
-              -43.5309443
+              172.6397144,
+              -43.5309446
             ],
             [
-              172.6396354,
-              -43.5298473
+              172.6397093,
+              -43.5298475
             ]
           ]
         ]
@@ -23698,12 +23698,12 @@
         "coordinates": [
           [
             [
-              172.6396436,
-              -43.5320291
+              172.6397174,
+              -43.5320293
             ],
             [
-              172.6396405,
-              -43.5309443
+              172.6397144,
+              -43.5309446
             ]
           ]
         ]
@@ -23729,12 +23729,12 @@
         "coordinates": [
           [
             [
-              172.6396445,
-              -43.5331223
+              172.6397184,
+              -43.5331226
             ],
             [
-              172.6396436,
-              -43.5320291
+              172.6397174,
+              -43.5320293
             ]
           ]
         ]
@@ -23760,12 +23760,12 @@
         "coordinates": [
           [
             [
-              172.6396479,
-              -43.5336472
+              172.6397218,
+              -43.5336474
             ],
             [
-              172.6396445,
-              -43.5331223
+              172.6397184,
+              -43.5331226
             ]
           ]
         ]
@@ -23791,12 +23791,12 @@
         "coordinates": [
           [
             [
-              172.6396468,
-              -43.5338363
+              172.6397206,
+              -43.5338366
             ],
             [
-              172.6396479,
-              -43.5336472
+              172.6397218,
+              -43.5336474
             ]
           ]
         ]
@@ -23822,12 +23822,12 @@
         "coordinates": [
           [
             [
-              172.6396445,
-              -43.5342161
+              172.6397184,
+              -43.5342164
             ],
             [
-              172.6396468,
-              -43.5338363
+              172.6397206,
+              -43.5338366
             ]
           ]
         ]
@@ -24592,8 +24592,8 @@
               -43.5270266
             ],
             [
-              172.6436887,
-              -43.5265593
+              172.6434052,
+              -43.5266894
             ]
           ]
         ]
@@ -24603,92 +24603,6 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 718,
-        "ID1": 1108,
-        "ServiceStatus": "In Service",
-        "StreetCentreLineID": 2873,
-        "RoadName": "Manchester Street",
-        "SharedPath_1": 1,
-        "CycleWayName": null,
-        "ID2": 831,
-        "TypeOfPath": "Shared Path",
-        "CyclewayType": null,
-        "ForColour": "2Blue"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              172.6396373,
-              -43.5282443
-            ],
-            [
-              172.6407683,
-              -43.5279191
-            ],
-            [
-              172.6417994,
-              -43.5275577
-            ],
-            [
-              172.6426704,
-              -43.5270266
-            ],
-            [
-              172.6436887,
-              -43.5265593
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 719,
-        "ID1": 1108,
-        "ServiceStatus": "In Service",
-        "StreetCentreLineID": 2871,
-        "RoadName": "Madras Street",
-        "SharedPath_1": 1,
-        "CycleWayName": null,
-        "ID2": 832,
-        "TypeOfPath": "Shared Path",
-        "CyclewayType": null,
-        "ForColour": "2Blue"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              172.6396373,
-              -43.5282443
-            ],
-            [
-              172.6407683,
-              -43.5279191
-            ],
-            [
-              172.6417994,
-              -43.5275577
-            ],
-            [
-              172.6426704,
-              -43.5270266
-            ],
-            [
-              172.6436887,
-              -43.5265593
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 720,
         "ID1": 1109,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5915,
@@ -24719,7 +24633,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 721,
+        "OBJECTID": 719,
         "ID1": 1110,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5916,
@@ -24754,7 +24668,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 722,
+        "OBJECTID": 720,
         "ID1": 1111,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5917,
@@ -24785,7 +24699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 723,
+        "OBJECTID": 721,
         "ID1": 1112,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5918,
@@ -24816,7 +24730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 724,
+        "OBJECTID": 722,
         "ID1": 1113,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5919,
@@ -24847,7 +24761,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 725,
+        "OBJECTID": 723,
         "ID1": 1114,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5920,
@@ -24878,7 +24792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 726,
+        "OBJECTID": 724,
         "ID1": 1115,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5921,
@@ -24909,7 +24823,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 727,
+        "OBJECTID": 725,
         "ID1": 1116,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11731,
@@ -24940,7 +24854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 728,
+        "OBJECTID": 726,
         "ID1": 1117,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5924,
@@ -24971,7 +24885,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 729,
+        "OBJECTID": 727,
         "ID1": 1118,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9522,
@@ -25002,7 +24916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 730,
+        "OBJECTID": 728,
         "ID1": 1119,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9523,
@@ -25033,7 +24947,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 731,
+        "OBJECTID": 729,
         "ID1": 1120,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5926,
@@ -25064,7 +24978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 732,
+        "OBJECTID": 730,
         "ID1": 1121,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5927,
@@ -25095,7 +25009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 733,
+        "OBJECTID": 731,
         "ID1": 1122,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5928,
@@ -25126,7 +25040,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 734,
+        "OBJECTID": 732,
         "ID1": 1123,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5929,
@@ -25165,7 +25079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 735,
+        "OBJECTID": 733,
         "ID1": 1124,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5930,
@@ -25196,7 +25110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 736,
+        "OBJECTID": 734,
         "ID1": 1125,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2893,
@@ -25299,7 +25213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 737,
+        "OBJECTID": 735,
         "ID1": 1126,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2831,
@@ -25338,7 +25252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 738,
+        "OBJECTID": 736,
         "ID1": 1127,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2830,
@@ -25377,7 +25291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 739,
+        "OBJECTID": 737,
         "ID1": 1128,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2829,
@@ -25412,7 +25326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 740,
+        "OBJECTID": 738,
         "ID1": 1129,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2828,
@@ -25443,7 +25357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 741,
+        "OBJECTID": 739,
         "ID1": 1130,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2827,
@@ -25474,7 +25388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 742,
+        "OBJECTID": 740,
         "ID1": 1131,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2826,
@@ -25505,7 +25419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 743,
+        "OBJECTID": 741,
         "ID1": 1132,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2825,
@@ -25536,7 +25450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 744,
+        "OBJECTID": 742,
         "ID1": 1133,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2916,
@@ -25595,7 +25509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 745,
+        "OBJECTID": 743,
         "ID1": 1134,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5849,
@@ -25642,7 +25556,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 746,
+        "OBJECTID": 744,
         "ID1": 1135,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5850,
@@ -25693,7 +25607,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 747,
+        "OBJECTID": 745,
         "ID1": 1136,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5852,
@@ -25764,7 +25678,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 748,
+        "OBJECTID": 746,
         "ID1": 1137,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5853,
@@ -25795,7 +25709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 749,
+        "OBJECTID": 747,
         "ID1": 1138,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5854,
@@ -25834,7 +25748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 750,
+        "OBJECTID": 748,
         "ID1": 1139,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7721,
@@ -25889,7 +25803,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 751,
+        "OBJECTID": 749,
         "ID1": 1140,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2915,
@@ -25948,7 +25862,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 752,
+        "OBJECTID": 750,
         "ID1": 1141,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11552,
@@ -25995,7 +25909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 753,
+        "OBJECTID": 751,
         "ID1": 1142,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11470,
@@ -26186,7 +26100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 754,
+        "OBJECTID": 752,
         "ID1": 1142,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12090,
@@ -26377,7 +26291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 755,
+        "OBJECTID": 753,
         "ID1": 1142,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12092,
@@ -26568,7 +26482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 756,
+        "OBJECTID": 754,
         "ID1": 1142,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12794,
@@ -26759,7 +26673,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 757,
+        "OBJECTID": 755,
         "ID1": 1143,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9599,
@@ -26798,7 +26712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 758,
+        "OBJECTID": 756,
         "ID1": 1144,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9598,
@@ -26829,7 +26743,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 759,
+        "OBJECTID": 757,
         "ID1": 1145,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8592,
@@ -26880,7 +26794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 760,
+        "OBJECTID": 758,
         "ID1": 1146,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12263,
@@ -26927,7 +26841,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 761,
+        "OBJECTID": 759,
         "ID1": 1146,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 460,
@@ -26974,7 +26888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 762,
+        "OBJECTID": 760,
         "ID1": 1147,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8640,
@@ -27013,7 +26927,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 763,
+        "OBJECTID": 761,
         "ID1": 1148,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8829,
@@ -27044,7 +26958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 764,
+        "OBJECTID": 762,
         "ID1": 1149,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8828,
@@ -27075,7 +26989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 765,
+        "OBJECTID": 763,
         "ID1": 1150,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8827,
@@ -27106,7 +27020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 766,
+        "OBJECTID": 764,
         "ID1": 1151,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8826,
@@ -27137,7 +27051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 767,
+        "OBJECTID": 765,
         "ID1": 1152,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8824,
@@ -27168,7 +27082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 768,
+        "OBJECTID": 766,
         "ID1": 1153,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8825,
@@ -27199,7 +27113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 769,
+        "OBJECTID": 767,
         "ID1": 1154,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8117,
@@ -27230,7 +27144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 770,
+        "OBJECTID": 768,
         "ID1": 1155,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8822,
@@ -27265,7 +27179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 771,
+        "OBJECTID": 769,
         "ID1": 1156,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8821,
@@ -27296,7 +27210,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 772,
+        "OBJECTID": 770,
         "ID1": 1157,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8820,
@@ -27331,7 +27245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 773,
+        "OBJECTID": 771,
         "ID1": 1158,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8819,
@@ -27370,7 +27284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 774,
+        "OBJECTID": 772,
         "ID1": 1159,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8818,
@@ -27401,7 +27315,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 775,
+        "OBJECTID": 773,
         "ID1": 1160,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8817,
@@ -27432,7 +27346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 776,
+        "OBJECTID": 774,
         "ID1": 1161,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8816,
@@ -27463,7 +27377,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 777,
+        "OBJECTID": 775,
         "ID1": 1162,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11353,
@@ -27498,7 +27412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 778,
+        "OBJECTID": 776,
         "ID1": 1162,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11354,
@@ -27533,7 +27447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 779,
+        "OBJECTID": 777,
         "ID1": 1163,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8831,
@@ -27568,7 +27482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 780,
+        "OBJECTID": 778,
         "ID1": 1164,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8832,
@@ -27603,7 +27517,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 781,
+        "OBJECTID": 779,
         "ID1": 1165,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8833,
@@ -27634,7 +27548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 782,
+        "OBJECTID": 780,
         "ID1": 1166,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8834,
@@ -27665,7 +27579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 783,
+        "OBJECTID": 781,
         "ID1": 1167,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5174,
@@ -27716,7 +27630,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 784,
+        "OBJECTID": 782,
         "ID1": 1168,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5177,
@@ -27763,7 +27677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 785,
+        "OBJECTID": 783,
         "ID1": 1169,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5175,
@@ -27806,7 +27720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 786,
+        "OBJECTID": 784,
         "ID1": 1170,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5176,
@@ -27857,7 +27771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 787,
+        "OBJECTID": 785,
         "ID1": 1171,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5179,
@@ -27912,7 +27826,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 788,
+        "OBJECTID": 786,
         "ID1": 1172,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 86,
@@ -27951,7 +27865,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 789,
+        "OBJECTID": 787,
         "ID1": 1173,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5180,
@@ -27982,7 +27896,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 790,
+        "OBJECTID": 788,
         "ID1": 1174,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5184,
@@ -28013,7 +27927,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 791,
+        "OBJECTID": 789,
         "ID1": 1175,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5181,
@@ -28044,7 +27958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 792,
+        "OBJECTID": 790,
         "ID1": 1176,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5215,
@@ -28083,7 +27997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 793,
+        "OBJECTID": 791,
         "ID1": 1177,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8639,
@@ -28174,7 +28088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 794,
+        "OBJECTID": 792,
         "ID1": 1178,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8637,
@@ -28297,7 +28211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 795,
+        "OBJECTID": 793,
         "ID1": 1180,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8126,
@@ -28328,7 +28242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 796,
+        "OBJECTID": 794,
         "ID1": 1181,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8660,
@@ -28359,7 +28273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 797,
+        "OBJECTID": 795,
         "ID1": 1182,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8656,
@@ -28390,7 +28304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 798,
+        "OBJECTID": 796,
         "ID1": 1183,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8653,
@@ -28421,7 +28335,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 799,
+        "OBJECTID": 797,
         "ID1": 1184,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8699,
@@ -28456,7 +28370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 800,
+        "OBJECTID": 798,
         "ID1": 1185,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8650,
@@ -28487,7 +28401,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 801,
+        "OBJECTID": 799,
         "ID1": 1186,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 82,
@@ -28518,7 +28432,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 802,
+        "OBJECTID": 800,
         "ID1": 1187,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8647,
@@ -28549,7 +28463,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 803,
+        "OBJECTID": 801,
         "ID1": 1188,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 81,
@@ -28580,7 +28494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 804,
+        "OBJECTID": 802,
         "ID1": 1189,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8644,
@@ -28615,7 +28529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 805,
+        "OBJECTID": 803,
         "ID1": 1190,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4978,
@@ -28654,7 +28568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 806,
+        "OBJECTID": 804,
         "ID1": 1191,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5079,
@@ -28685,7 +28599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 807,
+        "OBJECTID": 805,
         "ID1": 1192,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5080,
@@ -28716,7 +28630,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 808,
+        "OBJECTID": 806,
         "ID1": 1193,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5066,
@@ -28747,7 +28661,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 809,
+        "OBJECTID": 807,
         "ID1": 1194,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8752,
@@ -28778,7 +28692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 810,
+        "OBJECTID": 808,
         "ID1": 1195,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8643,
@@ -28809,7 +28723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 811,
+        "OBJECTID": 809,
         "ID1": 1196,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4472,
@@ -28860,7 +28774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 812,
+        "OBJECTID": 810,
         "ID1": 1197,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4696,
@@ -28891,7 +28805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 813,
+        "OBJECTID": 811,
         "ID1": 1198,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4701,
@@ -28922,7 +28836,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 814,
+        "OBJECTID": 812,
         "ID1": 1199,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4700,
@@ -28953,7 +28867,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 815,
+        "OBJECTID": 813,
         "ID1": 1200,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4711,
@@ -28984,7 +28898,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 816,
+        "OBJECTID": 814,
         "ID1": 1201,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4973,
@@ -29015,7 +28929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 817,
+        "OBJECTID": 815,
         "ID1": 1202,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4727,
@@ -29046,7 +28960,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 818,
+        "OBJECTID": 816,
         "ID1": 1203,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4717,
@@ -29081,7 +28995,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 819,
+        "OBJECTID": 817,
         "ID1": 1204,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4964,
@@ -29132,7 +29046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 820,
+        "OBJECTID": 818,
         "ID1": 1205,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9196,
@@ -29163,7 +29077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 821,
+        "OBJECTID": 819,
         "ID1": 1206,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4975,
@@ -29194,7 +29108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 822,
+        "OBJECTID": 820,
         "ID1": 1207,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 688,
@@ -29225,7 +29139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 823,
+        "OBJECTID": 821,
         "ID1": 1208,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8509,
@@ -29292,7 +29206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 824,
+        "OBJECTID": 822,
         "ID1": 1209,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8901,
@@ -29351,7 +29265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 825,
+        "OBJECTID": 823,
         "ID1": 1210,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8846,
@@ -29394,7 +29308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 826,
+        "OBJECTID": 824,
         "ID1": 1211,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8845,
@@ -29429,7 +29343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 827,
+        "OBJECTID": 825,
         "ID1": 1212,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8844,
@@ -29460,7 +29374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 828,
+        "OBJECTID": 826,
         "ID1": 1213,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8843,
@@ -29499,7 +29413,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 829,
+        "OBJECTID": 827,
         "ID1": 1214,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8842,
@@ -29530,7 +29444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 830,
+        "OBJECTID": 828,
         "ID1": 1215,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8840,
@@ -29561,7 +29475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 831,
+        "OBJECTID": 829,
         "ID1": 1216,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8839,
@@ -29592,7 +29506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 832,
+        "OBJECTID": 830,
         "ID1": 1217,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8838,
@@ -29623,7 +29537,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 833,
+        "OBJECTID": 831,
         "ID1": 1218,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11786,
@@ -29654,7 +29568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 834,
+        "OBJECTID": 832,
         "ID1": 1219,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11784,
@@ -29685,7 +29599,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 835,
+        "OBJECTID": 833,
         "ID1": 1220,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 690,
@@ -29720,7 +29634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 836,
+        "OBJECTID": 834,
         "ID1": 1221,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 691,
@@ -29771,7 +29685,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 837,
+        "OBJECTID": 835,
         "ID1": 1222,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9412,
@@ -29810,7 +29724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 838,
+        "OBJECTID": 836,
         "ID1": 1223,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 692,
@@ -29853,7 +29767,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 839,
+        "OBJECTID": 837,
         "ID1": 1224,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9411,
@@ -29884,7 +29798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 840,
+        "OBJECTID": 838,
         "ID1": 1225,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 693,
@@ -29915,7 +29829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 841,
+        "OBJECTID": 839,
         "ID1": 1226,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 694,
@@ -29946,7 +29860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 842,
+        "OBJECTID": 840,
         "ID1": 1227,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 695,
@@ -29981,7 +29895,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 843,
+        "OBJECTID": 841,
         "ID1": 1228,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 696,
@@ -30040,7 +29954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 844,
+        "OBJECTID": 842,
         "ID1": 1229,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5264,
@@ -30083,7 +29997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 845,
+        "OBJECTID": 843,
         "ID1": 1230,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5265,
@@ -30114,7 +30028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 846,
+        "OBJECTID": 844,
         "ID1": 1231,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5266,
@@ -30177,7 +30091,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 847,
+        "OBJECTID": 845,
         "ID1": 1232,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5267,
@@ -30216,7 +30130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 848,
+        "OBJECTID": 846,
         "ID1": 1233,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5268,
@@ -30247,7 +30161,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 849,
+        "OBJECTID": 847,
         "ID1": 1234,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5269,
@@ -30278,7 +30192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 850,
+        "OBJECTID": 848,
         "ID1": 1235,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5203,
@@ -30317,7 +30231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 851,
+        "OBJECTID": 849,
         "ID1": 1236,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 548,
@@ -30348,7 +30262,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 852,
+        "OBJECTID": 850,
         "ID1": 1237,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5204,
@@ -30383,7 +30297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 853,
+        "OBJECTID": 851,
         "ID1": 1238,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5205,
@@ -30414,7 +30328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 854,
+        "OBJECTID": 852,
         "ID1": 1239,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5206,
@@ -30445,7 +30359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 855,
+        "OBJECTID": 853,
         "ID1": 1240,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5207,
@@ -30476,7 +30390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 856,
+        "OBJECTID": 854,
         "ID1": 1241,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 564,
@@ -30511,7 +30425,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 857,
+        "OBJECTID": 855,
         "ID1": 1242,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5209,
@@ -30558,7 +30472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 858,
+        "OBJECTID": 856,
         "ID1": 1243,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5210,
@@ -30597,7 +30511,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 859,
+        "OBJECTID": 857,
         "ID1": 1244,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5208,
@@ -30628,7 +30542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 860,
+        "OBJECTID": 858,
         "ID1": 1245,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5354,
@@ -30648,7 +30562,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 861,
+        "OBJECTID": 859,
         "ID1": 1246,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5236,
@@ -30679,7 +30593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 862,
+        "OBJECTID": 860,
         "ID1": 1247,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5237,
@@ -30710,7 +30624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 863,
+        "OBJECTID": 861,
         "ID1": 1248,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7921,
@@ -30741,7 +30655,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 864,
+        "OBJECTID": 862,
         "ID1": 1249,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7920,
@@ -30788,7 +30702,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 865,
+        "OBJECTID": 863,
         "ID1": 1250,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8063,
@@ -30823,7 +30737,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 866,
+        "OBJECTID": 864,
         "ID1": 1251,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7912,
@@ -30854,7 +30768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 867,
+        "OBJECTID": 865,
         "ID1": 1252,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7907,
@@ -30885,7 +30799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 868,
+        "OBJECTID": 866,
         "ID1": 1253,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7902,
@@ -30916,7 +30830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 869,
+        "OBJECTID": 867,
         "ID1": 1254,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7901,
@@ -30947,7 +30861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 870,
+        "OBJECTID": 868,
         "ID1": 1255,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5238,
@@ -30978,7 +30892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 871,
+        "OBJECTID": 869,
         "ID1": 1256,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5239,
@@ -31009,7 +30923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 872,
+        "OBJECTID": 870,
         "ID1": 1257,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1454,
@@ -31040,7 +30954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 873,
+        "OBJECTID": 871,
         "ID1": 1258,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6175,
@@ -31075,7 +30989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 874,
+        "OBJECTID": 872,
         "ID1": 1259,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1493,
@@ -31142,7 +31056,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 875,
+        "OBJECTID": 873,
         "ID1": 1260,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1492,
@@ -31173,7 +31087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 876,
+        "OBJECTID": 874,
         "ID1": 1261,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1495,
@@ -31204,7 +31118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 877,
+        "OBJECTID": 875,
         "ID1": 1262,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1496,
@@ -31235,7 +31149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 878,
+        "OBJECTID": 876,
         "ID1": 1263,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1491,
@@ -31278,7 +31192,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 879,
+        "OBJECTID": 877,
         "ID1": 1264,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1494,
@@ -31309,7 +31223,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 880,
+        "OBJECTID": 878,
         "ID1": 1265,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1497,
@@ -31340,7 +31254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 881,
+        "OBJECTID": 879,
         "ID1": 1266,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1498,
@@ -31407,7 +31321,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 882,
+        "OBJECTID": 880,
         "ID1": 1267,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1499,
@@ -31446,7 +31360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 883,
+        "OBJECTID": 881,
         "ID1": 1268,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1500,
@@ -31485,7 +31399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 884,
+        "OBJECTID": 882,
         "ID1": 1269,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6209,
@@ -31516,7 +31430,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 885,
+        "OBJECTID": 883,
         "ID1": 1270,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6208,
@@ -31547,7 +31461,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 886,
+        "OBJECTID": 884,
         "ID1": 1271,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8993,
@@ -31582,7 +31496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 887,
+        "OBJECTID": 885,
         "ID1": 1272,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6206,
@@ -31633,7 +31547,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 888,
+        "OBJECTID": 886,
         "ID1": 1273,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6207,
@@ -31664,7 +31578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 889,
+        "OBJECTID": 887,
         "ID1": 1274,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6205,
@@ -31743,7 +31657,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 890,
+        "OBJECTID": 888,
         "ID1": 1275,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7596,
@@ -31774,7 +31688,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 891,
+        "OBJECTID": 889,
         "ID1": 1276,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7622,
@@ -31805,7 +31719,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 892,
+        "OBJECTID": 890,
         "ID1": 1277,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7621,
@@ -31848,7 +31762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 893,
+        "OBJECTID": 891,
         "ID1": 1278,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2887,
@@ -31879,7 +31793,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 894,
+        "OBJECTID": 892,
         "ID1": 1279,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7735,
@@ -31914,7 +31828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 895,
+        "OBJECTID": 893,
         "ID1": 1280,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12723,
@@ -31945,7 +31859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 896,
+        "OBJECTID": 894,
         "ID1": 1281,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7734,
@@ -32008,7 +31922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 897,
+        "OBJECTID": 895,
         "ID1": 1282,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7733,
@@ -32067,7 +31981,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 898,
+        "OBJECTID": 896,
         "ID1": 1283,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7731,
@@ -32122,7 +32036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 899,
+        "OBJECTID": 897,
         "ID1": 1284,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7730,
@@ -32161,7 +32075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 900,
+        "OBJECTID": 898,
         "ID1": 1285,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2782,
@@ -32212,7 +32126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 901,
+        "OBJECTID": 899,
         "ID1": 1286,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2781,
@@ -32243,7 +32157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 902,
+        "OBJECTID": 900,
         "ID1": 1287,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7629,
@@ -32274,7 +32188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 903,
+        "OBJECTID": 901,
         "ID1": 1288,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7610,
@@ -32305,7 +32219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 904,
+        "OBJECTID": 902,
         "ID1": 1289,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7608,
@@ -32336,7 +32250,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 905,
+        "OBJECTID": 903,
         "ID1": 1290,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7607,
@@ -32367,7 +32281,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 906,
+        "OBJECTID": 904,
         "ID1": 1291,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7595,
@@ -32398,7 +32312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 907,
+        "OBJECTID": 905,
         "ID1": 1292,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7590,
@@ -32429,7 +32343,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 908,
+        "OBJECTID": 906,
         "ID1": 1293,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7589,
@@ -32468,7 +32382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 909,
+        "OBJECTID": 907,
         "ID1": 1294,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6221,
@@ -32519,7 +32433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 910,
+        "OBJECTID": 908,
         "ID1": 1295,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6222,
@@ -32574,7 +32488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 911,
+        "OBJECTID": 909,
         "ID1": 1296,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6223,
@@ -32637,7 +32551,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 912,
+        "OBJECTID": 910,
         "ID1": 1297,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11501,
@@ -32688,7 +32602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 913,
+        "OBJECTID": 911,
         "ID1": 1298,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6226,
@@ -32763,7 +32677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 914,
+        "OBJECTID": 912,
         "ID1": 1299,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6225,
@@ -32858,7 +32772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 915,
+        "OBJECTID": 913,
         "ID1": 1300,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11565,
@@ -32889,7 +32803,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 916,
+        "OBJECTID": 914,
         "ID1": 1301,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2621,
@@ -32932,7 +32846,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 917,
+        "OBJECTID": 915,
         "ID1": 1302,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1769,
@@ -32948,6 +32862,26 @@
         "type": "MultiLineString",
         "coordinates": [
           [
+            [
+              172.6696947,
+              -43.5544567
+            ],
+            [
+              172.6699984,
+              -43.5547426
+            ],
+            [
+              172.6702123,
+              -43.5550022
+            ],
+            [
+              172.6704291,
+              -43.5553074
+            ],
+            [
+              172.670508,
+              -43.5554014
+            ],
             [
               172.6705966,
               -43.5554769
@@ -32967,7 +32901,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 918,
+        "OBJECTID": 916,
         "ID1": 1303,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7268,
@@ -33010,7 +32944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 919,
+        "OBJECTID": 917,
         "ID1": 1304,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7293,
@@ -33041,7 +32975,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 920,
+        "OBJECTID": 918,
         "ID1": 1305,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7461,
@@ -33072,7 +33006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 921,
+        "OBJECTID": 919,
         "ID1": 1306,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7462,
@@ -33107,7 +33041,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 922,
+        "OBJECTID": 920,
         "ID1": 1307,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9258,
@@ -33142,7 +33076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 923,
+        "OBJECTID": 921,
         "ID1": 1308,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7463,
@@ -33185,7 +33119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 924,
+        "OBJECTID": 922,
         "ID1": 1309,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9863,
@@ -33232,7 +33166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 925,
+        "OBJECTID": 923,
         "ID1": 1310,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9862,
@@ -33283,7 +33217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 926,
+        "OBJECTID": 924,
         "ID1": 1311,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7305,
@@ -33314,7 +33248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 927,
+        "OBJECTID": 925,
         "ID1": 1312,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1771,
@@ -33349,7 +33283,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 928,
+        "OBJECTID": 926,
         "ID1": 1313,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1772,
@@ -33380,7 +33314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 929,
+        "OBJECTID": 927,
         "ID1": 1314,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6213,
@@ -33495,7 +33429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 930,
+        "OBJECTID": 928,
         "ID1": 1315,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6212,
@@ -33542,7 +33476,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 931,
+        "OBJECTID": 929,
         "ID1": 1316,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6211,
@@ -33605,7 +33539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 932,
+        "OBJECTID": 930,
         "ID1": 1317,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6210,
@@ -33640,7 +33574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 933,
+        "OBJECTID": 931,
         "ID1": 1318,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2633,
@@ -33671,7 +33605,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 934,
+        "OBJECTID": 932,
         "ID1": 1319,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2632,
@@ -33710,7 +33644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 935,
+        "OBJECTID": 933,
         "ID1": 1320,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1358,
@@ -33749,7 +33683,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 936,
+        "OBJECTID": 934,
         "ID1": 1321,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1366,
@@ -33796,7 +33730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 937,
+        "OBJECTID": 935,
         "ID1": 1321,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1362,
@@ -33843,7 +33777,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 938,
+        "OBJECTID": 936,
         "ID1": 1321,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1359,
@@ -33890,7 +33824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 939,
+        "OBJECTID": 937,
         "ID1": 1321,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1364,
@@ -33937,7 +33871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 940,
+        "OBJECTID": 938,
         "ID1": 1321,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1365,
@@ -33984,7 +33918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 941,
+        "OBJECTID": 939,
         "ID1": 1322,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9599,
@@ -34023,7 +33957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 942,
+        "OBJECTID": 940,
         "ID1": 1323,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8759,
@@ -34066,7 +34000,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 943,
+        "OBJECTID": 941,
         "ID1": 1324,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8767,
@@ -34109,7 +34043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 944,
+        "OBJECTID": 942,
         "ID1": 1325,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8144,
@@ -34140,7 +34074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 945,
+        "OBJECTID": 943,
         "ID1": 1326,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3125,
@@ -34183,7 +34117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 946,
+        "OBJECTID": 944,
         "ID1": 1327,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2762,
@@ -34218,7 +34152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 947,
+        "OBJECTID": 945,
         "ID1": 1328,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3129,
@@ -34285,7 +34219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 948,
+        "OBJECTID": 946,
         "ID1": 1329,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3135,
@@ -34384,7 +34318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 949,
+        "OBJECTID": 947,
         "ID1": 1330,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2729,
@@ -34415,7 +34349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 950,
+        "OBJECTID": 948,
         "ID1": 1331,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2731,
@@ -34466,7 +34400,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 951,
+        "OBJECTID": 949,
         "ID1": 1332,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2742,
@@ -34533,7 +34467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 952,
+        "OBJECTID": 950,
         "ID1": 1333,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2743,
@@ -34580,7 +34514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 953,
+        "OBJECTID": 951,
         "ID1": 1334,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2739,
@@ -34639,7 +34573,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 954,
+        "OBJECTID": 952,
         "ID1": 1335,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8158,
@@ -34738,7 +34672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 955,
+        "OBJECTID": 953,
         "ID1": 1336,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8945,
@@ -34801,7 +34735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 956,
+        "OBJECTID": 954,
         "ID1": 1337,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8946,
@@ -34852,7 +34786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 957,
+        "OBJECTID": 955,
         "ID1": 1338,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3121,
@@ -34883,7 +34817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 958,
+        "OBJECTID": 956,
         "ID1": 1339,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3123,
@@ -34922,7 +34856,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 959,
+        "OBJECTID": 957,
         "ID1": 1340,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2561,
@@ -34965,7 +34899,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 960,
+        "OBJECTID": 958,
         "ID1": 1341,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2564,
@@ -35040,7 +34974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 961,
+        "OBJECTID": 959,
         "ID1": 1342,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2566,
@@ -35071,7 +35005,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 962,
+        "OBJECTID": 960,
         "ID1": 1343,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7969,
@@ -35102,7 +35036,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 963,
+        "OBJECTID": 961,
         "ID1": 1344,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7971,
@@ -35145,7 +35079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 964,
+        "OBJECTID": 962,
         "ID1": 1345,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8898,
@@ -35180,7 +35114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 965,
+        "OBJECTID": 963,
         "ID1": 1346,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2745,
@@ -35211,7 +35145,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 966,
+        "OBJECTID": 964,
         "ID1": 1347,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2757,
@@ -35242,7 +35176,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 967,
+        "OBJECTID": 965,
         "ID1": 1348,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2761,
@@ -35277,7 +35211,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 968,
+        "OBJECTID": 966,
         "ID1": 1349,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2759,
@@ -35308,7 +35242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 969,
+        "OBJECTID": 967,
         "ID1": 1350,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2767,
@@ -35351,7 +35285,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 970,
+        "OBJECTID": 968,
         "ID1": 1351,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2770,
@@ -35398,7 +35332,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 971,
+        "OBJECTID": 969,
         "ID1": 1352,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3136,
@@ -35429,7 +35363,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 972,
+        "OBJECTID": 970,
         "ID1": 1353,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7572,
@@ -35464,7 +35398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 973,
+        "OBJECTID": 971,
         "ID1": 1354,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7574,
@@ -35507,7 +35441,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 974,
+        "OBJECTID": 972,
         "ID1": 1355,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7576,
@@ -35554,7 +35488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 975,
+        "OBJECTID": 973,
         "ID1": 1356,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8159,
@@ -35601,7 +35535,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 976,
+        "OBJECTID": 974,
         "ID1": 1357,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3124,
@@ -35648,7 +35582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 977,
+        "OBJECTID": 975,
         "ID1": 1358,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7960,
@@ -35679,7 +35613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 978,
+        "OBJECTID": 976,
         "ID1": 1359,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8938,
@@ -35742,7 +35676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 979,
+        "OBJECTID": 977,
         "ID1": 1360,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8937,
@@ -35949,7 +35883,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 980,
+        "OBJECTID": 978,
         "ID1": 1361,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7974,
@@ -35984,7 +35918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 981,
+        "OBJECTID": 979,
         "ID1": 1362,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7985,
@@ -36019,7 +35953,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 982,
+        "OBJECTID": 980,
         "ID1": 1363,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7979,
@@ -36050,7 +35984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 983,
+        "OBJECTID": 981,
         "ID1": 1364,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3348,
@@ -36081,7 +36015,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 984,
+        "OBJECTID": 982,
         "ID1": 1365,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3350,
@@ -36116,7 +36050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 985,
+        "OBJECTID": 983,
         "ID1": 1366,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3349,
@@ -36171,7 +36105,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 986,
+        "OBJECTID": 984,
         "ID1": 1367,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2535,
@@ -36238,7 +36172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 987,
+        "OBJECTID": 985,
         "ID1": 1368,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4675,
@@ -36273,7 +36207,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 988,
+        "OBJECTID": 986,
         "ID1": 1369,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3408,
@@ -36304,7 +36238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 989,
+        "OBJECTID": 987,
         "ID1": 1370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3406,
@@ -36339,7 +36273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 990,
+        "OBJECTID": 988,
         "ID1": 1371,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7377,
@@ -36394,7 +36328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 991,
+        "OBJECTID": 989,
         "ID1": 1372,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7375,
@@ -36425,7 +36359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 992,
+        "OBJECTID": 990,
         "ID1": 1373,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7373,
@@ -36468,7 +36402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 993,
+        "OBJECTID": 991,
         "ID1": 1374,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 480,
@@ -36535,7 +36469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 994,
+        "OBJECTID": 992,
         "ID1": 1382,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2632,
@@ -36564,16 +36498,48 @@
               -43.5526634
             ],
             [
-              172.6848667,
-              -43.5531402
+              172.6848352,
+              -43.5531345
             ],
             [
-              172.6850583,
-              -43.5533072
+              172.6849313,
+              -43.5532479
             ],
             [
-              172.6853171,
-              -43.5534028
+              172.6850464,
+              -43.5533392
+            ],
+            [
+              172.6851267,
+              -43.5534034
+            ],
+            [
+              172.685262,
+              -43.5534567
+            ],
+            [
+              172.6855338,
+              -43.5536307
+            ],
+            [
+              172.6859413,
+              -43.5539685
+            ],
+            [
+              172.6863796,
+              -43.5542622
+            ],
+            [
+              172.6867467,
+              -43.5545269
+            ],
+            [
+              172.6871848,
+              -43.5547622
+            ],
+            [
+              172.6875289,
+              -43.5544078
             ]
           ]
         ]
@@ -36582,7 +36548,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 995,
+        "OBJECTID": 993,
         "ID1": 1384,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1572,
@@ -36613,7 +36579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 996,
+        "OBJECTID": 994,
         "ID1": 1385,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1638,
@@ -36716,7 +36682,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 997,
+        "OBJECTID": 995,
         "ID1": 1386,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1631,
@@ -36759,7 +36725,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 998,
+        "OBJECTID": 996,
         "ID1": 1390,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4251,
@@ -36958,7 +36924,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 999,
+        "OBJECTID": 997,
         "ID1": 1390,
         "ServiceStatus": "Proposed",
         "StreetCentreLineID": 12164,
@@ -37157,7 +37123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1000,
+        "OBJECTID": 998,
         "ID1": 1391,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 91,
@@ -37200,7 +37166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1001,
+        "OBJECTID": 999,
         "ID1": 1392,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8933,
@@ -37243,7 +37209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1002,
+        "OBJECTID": 1000,
         "ID1": 1393,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11105,
@@ -37286,7 +37252,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1003,
+        "OBJECTID": 1001,
         "ID1": 1394,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4167,
@@ -37381,7 +37347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1004,
+        "OBJECTID": 1002,
         "ID1": 1395,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11104,
@@ -37448,7 +37414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1005,
+        "OBJECTID": 1003,
         "ID1": 1396,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8365,
@@ -37575,7 +37541,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1006,
+        "OBJECTID": 1004,
         "ID1": 1397,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8363,
@@ -37758,7 +37724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1007,
+        "OBJECTID": 1005,
         "ID1": 1398,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2839,
@@ -37805,7 +37771,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1008,
+        "OBJECTID": 1006,
         "ID1": 1398,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2840,
@@ -37852,7 +37818,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1009,
+        "OBJECTID": 1007,
         "ID1": 52,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -37883,7 +37849,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1010,
+        "OBJECTID": 1008,
         "ID1": 144,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -37914,7 +37880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1011,
+        "OBJECTID": 1009,
         "ID1": 196,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -37961,7 +37927,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1012,
+        "OBJECTID": 1010,
         "ID1": 197,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -37992,7 +37958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1013,
+        "OBJECTID": 1011,
         "ID1": 198,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38023,7 +37989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1014,
+        "OBJECTID": 1012,
         "ID1": 199,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38054,7 +38020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1015,
+        "OBJECTID": 1013,
         "ID1": 219,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38085,7 +38051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1016,
+        "OBJECTID": 1014,
         "ID1": 220,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38116,7 +38082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1017,
+        "OBJECTID": 1015,
         "ID1": 221,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38147,7 +38113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1018,
+        "OBJECTID": 1016,
         "ID1": 222,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38178,7 +38144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1019,
+        "OBJECTID": 1017,
         "ID1": 223,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38209,7 +38175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1020,
+        "OBJECTID": 1018,
         "ID1": 224,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38244,7 +38210,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1021,
+        "OBJECTID": 1019,
         "ID1": 225,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38275,7 +38241,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1022,
+        "OBJECTID": 1020,
         "ID1": 226,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38306,7 +38272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1023,
+        "OBJECTID": 1021,
         "ID1": 229,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38337,7 +38303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1024,
+        "OBJECTID": 1022,
         "ID1": 230,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38368,7 +38334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1025,
+        "OBJECTID": 1023,
         "ID1": 231,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38399,7 +38365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1026,
+        "OBJECTID": 1024,
         "ID1": 232,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38430,7 +38396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1027,
+        "OBJECTID": 1025,
         "ID1": 233,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38461,7 +38427,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1028,
+        "OBJECTID": 1026,
         "ID1": 234,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38492,7 +38458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1029,
+        "OBJECTID": 1027,
         "ID1": 235,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38523,7 +38489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1030,
+        "OBJECTID": 1028,
         "ID1": 236,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38554,7 +38520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1031,
+        "OBJECTID": 1029,
         "ID1": 239,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38585,7 +38551,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1032,
+        "OBJECTID": 1030,
         "ID1": 240,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38616,7 +38582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1033,
+        "OBJECTID": 1031,
         "ID1": 241,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38647,7 +38613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1034,
+        "OBJECTID": 1032,
         "ID1": 250,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38682,7 +38648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1035,
+        "OBJECTID": 1033,
         "ID1": 267,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38717,7 +38683,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1036,
+        "OBJECTID": 1034,
         "ID1": 268,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38748,7 +38714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1037,
+        "OBJECTID": 1035,
         "ID1": 271,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38779,7 +38745,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1038,
+        "OBJECTID": 1036,
         "ID1": 294,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38810,7 +38776,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1039,
+        "OBJECTID": 1037,
         "ID1": 297,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38841,7 +38807,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1040,
+        "OBJECTID": 1038,
         "ID1": 298,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38872,7 +38838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1041,
+        "OBJECTID": 1039,
         "ID1": 299,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38903,7 +38869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1042,
+        "OBJECTID": 1040,
         "ID1": 326,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38934,7 +38900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1043,
+        "OBJECTID": 1041,
         "ID1": 327,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38965,7 +38931,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1044,
+        "OBJECTID": 1042,
         "ID1": 328,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -38996,7 +38962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1045,
+        "OBJECTID": 1043,
         "ID1": 329,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39027,7 +38993,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1046,
+        "OBJECTID": 1044,
         "ID1": 330,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39058,7 +39024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1047,
+        "OBJECTID": 1045,
         "ID1": 335,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39089,7 +39055,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1048,
+        "OBJECTID": 1046,
         "ID1": 336,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39120,7 +39086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1049,
+        "OBJECTID": 1047,
         "ID1": 337,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39151,7 +39117,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1050,
+        "OBJECTID": 1048,
         "ID1": 338,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39182,7 +39148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1051,
+        "OBJECTID": 1049,
         "ID1": 339,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39213,7 +39179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1052,
+        "OBJECTID": 1050,
         "ID1": 340,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39244,7 +39210,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1053,
+        "OBJECTID": 1051,
         "ID1": 341,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39275,7 +39241,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1054,
+        "OBJECTID": 1052,
         "ID1": 342,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39306,7 +39272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1055,
+        "OBJECTID": 1053,
         "ID1": 343,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39337,7 +39303,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1056,
+        "OBJECTID": 1054,
         "ID1": 344,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39368,7 +39334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1057,
+        "OBJECTID": 1055,
         "ID1": 345,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39399,7 +39365,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1058,
+        "OBJECTID": 1056,
         "ID1": 346,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39430,7 +39396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1059,
+        "OBJECTID": 1057,
         "ID1": 347,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39461,7 +39427,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1060,
+        "OBJECTID": 1058,
         "ID1": 348,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39492,7 +39458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1061,
+        "OBJECTID": 1059,
         "ID1": 349,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39523,7 +39489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1062,
+        "OBJECTID": 1060,
         "ID1": 350,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39554,7 +39520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1063,
+        "OBJECTID": 1061,
         "ID1": 351,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39585,7 +39551,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1064,
+        "OBJECTID": 1062,
         "ID1": 352,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39616,7 +39582,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1065,
+        "OBJECTID": 1063,
         "ID1": 353,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39647,7 +39613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1066,
+        "OBJECTID": 1064,
         "ID1": 354,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39678,7 +39644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1067,
+        "OBJECTID": 1065,
         "ID1": 355,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39709,7 +39675,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1068,
+        "OBJECTID": 1066,
         "ID1": 356,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39740,7 +39706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1069,
+        "OBJECTID": 1067,
         "ID1": 357,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39771,7 +39737,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1070,
+        "OBJECTID": 1068,
         "ID1": 358,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39802,7 +39768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1071,
+        "OBJECTID": 1069,
         "ID1": 359,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39833,7 +39799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1072,
+        "OBJECTID": 1070,
         "ID1": 360,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39864,7 +39830,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1073,
+        "OBJECTID": 1071,
         "ID1": 361,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39895,7 +39861,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1074,
+        "OBJECTID": 1072,
         "ID1": 362,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39926,7 +39892,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1075,
+        "OBJECTID": 1073,
         "ID1": 363,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39957,7 +39923,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1076,
+        "OBJECTID": 1074,
         "ID1": 364,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -39988,7 +39954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1077,
+        "OBJECTID": 1075,
         "ID1": 365,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40019,7 +39985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1078,
+        "OBJECTID": 1076,
         "ID1": 366,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40050,7 +40016,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1079,
+        "OBJECTID": 1077,
         "ID1": 367,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40081,7 +40047,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1080,
+        "OBJECTID": 1078,
         "ID1": 368,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40112,7 +40078,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1081,
+        "OBJECTID": 1079,
         "ID1": 369,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40143,7 +40109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1082,
+        "OBJECTID": 1080,
         "ID1": 370,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40174,7 +40140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1083,
+        "OBJECTID": 1081,
         "ID1": 371,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40205,7 +40171,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1084,
+        "OBJECTID": 1082,
         "ID1": 372,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40236,7 +40202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1085,
+        "OBJECTID": 1083,
         "ID1": 373,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40267,7 +40233,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1086,
+        "OBJECTID": 1084,
         "ID1": 374,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40298,7 +40264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1087,
+        "OBJECTID": 1085,
         "ID1": 375,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40329,7 +40295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1088,
+        "OBJECTID": 1086,
         "ID1": 376,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40360,7 +40326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1089,
+        "OBJECTID": 1087,
         "ID1": 381,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40391,7 +40357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1090,
+        "OBJECTID": 1088,
         "ID1": 382,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40422,7 +40388,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1091,
+        "OBJECTID": 1089,
         "ID1": 383,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40453,7 +40419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1092,
+        "OBJECTID": 1090,
         "ID1": 384,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40484,7 +40450,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1093,
+        "OBJECTID": 1091,
         "ID1": 385,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40515,7 +40481,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1094,
+        "OBJECTID": 1092,
         "ID1": 386,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40546,7 +40512,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1095,
+        "OBJECTID": 1093,
         "ID1": 387,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40577,7 +40543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1096,
+        "OBJECTID": 1094,
         "ID1": 388,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40608,7 +40574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1097,
+        "OBJECTID": 1095,
         "ID1": 389,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40639,7 +40605,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1098,
+        "OBJECTID": 1096,
         "ID1": 390,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40670,7 +40636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1099,
+        "OBJECTID": 1097,
         "ID1": 393,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40701,7 +40667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1100,
+        "OBJECTID": 1098,
         "ID1": 394,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40732,7 +40698,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1101,
+        "OBJECTID": 1099,
         "ID1": 395,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40763,7 +40729,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1102,
+        "OBJECTID": 1100,
         "ID1": 396,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40794,7 +40760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1103,
+        "OBJECTID": 1101,
         "ID1": 397,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40825,7 +40791,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1104,
+        "OBJECTID": 1102,
         "ID1": 398,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40856,7 +40822,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1105,
+        "OBJECTID": 1103,
         "ID1": 401,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40887,7 +40853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1106,
+        "OBJECTID": 1104,
         "ID1": 402,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40918,7 +40884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1107,
+        "OBJECTID": 1105,
         "ID1": 403,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40949,7 +40915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1108,
+        "OBJECTID": 1106,
         "ID1": 404,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -40980,7 +40946,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1109,
+        "OBJECTID": 1107,
         "ID1": 405,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41011,7 +40977,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1110,
+        "OBJECTID": 1108,
         "ID1": 406,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41042,7 +41008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1111,
+        "OBJECTID": 1109,
         "ID1": 407,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41073,7 +41039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1112,
+        "OBJECTID": 1110,
         "ID1": 408,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41104,7 +41070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1113,
+        "OBJECTID": 1111,
         "ID1": 409,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41135,7 +41101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1114,
+        "OBJECTID": 1112,
         "ID1": 410,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41166,7 +41132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1115,
+        "OBJECTID": 1113,
         "ID1": 411,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41197,7 +41163,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1116,
+        "OBJECTID": 1114,
         "ID1": 412,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41228,7 +41194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1117,
+        "OBJECTID": 1115,
         "ID1": 415,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41259,7 +41225,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1118,
+        "OBJECTID": 1116,
         "ID1": 416,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41290,7 +41256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1119,
+        "OBJECTID": 1117,
         "ID1": 417,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41321,7 +41287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1120,
+        "OBJECTID": 1118,
         "ID1": 418,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41352,7 +41318,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1121,
+        "OBJECTID": 1119,
         "ID1": 419,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41383,7 +41349,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1122,
+        "OBJECTID": 1120,
         "ID1": 420,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41414,7 +41380,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1123,
+        "OBJECTID": 1121,
         "ID1": 421,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41445,7 +41411,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1124,
+        "OBJECTID": 1122,
         "ID1": 422,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41476,7 +41442,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1125,
+        "OBJECTID": 1123,
         "ID1": 423,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41507,7 +41473,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1126,
+        "OBJECTID": 1124,
         "ID1": 424,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41538,7 +41504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1127,
+        "OBJECTID": 1125,
         "ID1": 425,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41569,7 +41535,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1128,
+        "OBJECTID": 1126,
         "ID1": 426,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41600,7 +41566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1129,
+        "OBJECTID": 1127,
         "ID1": 430,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41631,7 +41597,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1130,
+        "OBJECTID": 1128,
         "ID1": 431,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41662,7 +41628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1131,
+        "OBJECTID": 1129,
         "ID1": 434,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41693,7 +41659,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1132,
+        "OBJECTID": 1130,
         "ID1": 435,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41724,7 +41690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1133,
+        "OBJECTID": 1131,
         "ID1": 436,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41755,7 +41721,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1134,
+        "OBJECTID": 1132,
         "ID1": 437,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41786,7 +41752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1135,
+        "OBJECTID": 1133,
         "ID1": 438,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41817,7 +41783,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1136,
+        "OBJECTID": 1134,
         "ID1": 439,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41848,7 +41814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1137,
+        "OBJECTID": 1135,
         "ID1": 440,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41879,7 +41845,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1138,
+        "OBJECTID": 1136,
         "ID1": 441,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41910,7 +41876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1139,
+        "OBJECTID": 1137,
         "ID1": 443,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41941,7 +41907,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1140,
+        "OBJECTID": 1138,
         "ID1": 444,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -41972,7 +41938,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1141,
+        "OBJECTID": 1139,
         "ID1": 445,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42003,7 +41969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1142,
+        "OBJECTID": 1140,
         "ID1": 446,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42034,7 +42000,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1143,
+        "OBJECTID": 1141,
         "ID1": 450,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42065,7 +42031,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1144,
+        "OBJECTID": 1142,
         "ID1": 451,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42096,7 +42062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1145,
+        "OBJECTID": 1143,
         "ID1": 453,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42127,7 +42093,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1146,
+        "OBJECTID": 1144,
         "ID1": 454,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42158,7 +42124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1147,
+        "OBJECTID": 1145,
         "ID1": 455,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42189,7 +42155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1148,
+        "OBJECTID": 1146,
         "ID1": 456,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42220,7 +42186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1149,
+        "OBJECTID": 1147,
         "ID1": 476,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42251,7 +42217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1150,
+        "OBJECTID": 1148,
         "ID1": 477,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42282,7 +42248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1151,
+        "OBJECTID": 1149,
         "ID1": 478,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42313,7 +42279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1152,
+        "OBJECTID": 1150,
         "ID1": 479,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42344,7 +42310,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1153,
+        "OBJECTID": 1151,
         "ID1": 484,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42375,7 +42341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1154,
+        "OBJECTID": 1152,
         "ID1": 510,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42406,7 +42372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1155,
+        "OBJECTID": 1153,
         "ID1": 515,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42437,7 +42403,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1156,
+        "OBJECTID": 1154,
         "ID1": 566,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42468,7 +42434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1157,
+        "OBJECTID": 1155,
         "ID1": 583,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42499,7 +42465,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1158,
+        "OBJECTID": 1156,
         "ID1": 584,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42530,7 +42496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1159,
+        "OBJECTID": 1157,
         "ID1": 623,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42561,7 +42527,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1160,
+        "OBJECTID": 1158,
         "ID1": 630,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42636,7 +42602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1161,
+        "OBJECTID": 1159,
         "ID1": 642,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42695,7 +42661,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1162,
+        "OBJECTID": 1160,
         "ID1": 652,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42726,7 +42692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1163,
+        "OBJECTID": 1161,
         "ID1": 653,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42757,7 +42723,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1164,
+        "OBJECTID": 1162,
         "ID1": 660,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42820,7 +42786,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1165,
+        "OBJECTID": 1163,
         "ID1": 664,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42887,7 +42853,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1166,
+        "OBJECTID": 1164,
         "ID1": 665,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42922,7 +42888,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1167,
+        "OBJECTID": 1165,
         "ID1": 683,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42953,7 +42919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1168,
+        "OBJECTID": 1166,
         "ID1": 686,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -42984,7 +42950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1169,
+        "OBJECTID": 1167,
         "ID1": 687,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43019,7 +42985,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1170,
+        "OBJECTID": 1168,
         "ID1": 688,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43054,7 +43020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1171,
+        "OBJECTID": 1169,
         "ID1": 692,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43085,7 +43051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1172,
+        "OBJECTID": 1170,
         "ID1": 693,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43116,7 +43082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1173,
+        "OBJECTID": 1171,
         "ID1": 696,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43147,7 +43113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1174,
+        "OBJECTID": 1172,
         "ID1": 709,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43178,7 +43144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1175,
+        "OBJECTID": 1173,
         "ID1": 715,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43209,7 +43175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1176,
+        "OBJECTID": 1174,
         "ID1": 719,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43240,7 +43206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1177,
+        "OBJECTID": 1175,
         "ID1": 729,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43271,7 +43237,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1178,
+        "OBJECTID": 1176,
         "ID1": 754,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43306,7 +43272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1179,
+        "OBJECTID": 1177,
         "ID1": 755,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43341,7 +43307,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1180,
+        "OBJECTID": 1178,
         "ID1": 756,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43372,7 +43338,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1181,
+        "OBJECTID": 1179,
         "ID1": 757,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43407,7 +43373,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1182,
+        "OBJECTID": 1180,
         "ID1": 758,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43438,7 +43404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1183,
+        "OBJECTID": 1181,
         "ID1": 759,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43469,7 +43435,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1184,
+        "OBJECTID": 1182,
         "ID1": 760,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43500,7 +43466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1185,
+        "OBJECTID": 1183,
         "ID1": 761,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43531,7 +43497,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1186,
+        "OBJECTID": 1184,
         "ID1": 762,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43562,7 +43528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1187,
+        "OBJECTID": 1185,
         "ID1": 763,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43593,7 +43559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1188,
+        "OBJECTID": 1186,
         "ID1": 764,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43624,7 +43590,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1189,
+        "OBJECTID": 1187,
         "ID1": 768,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43655,7 +43621,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1190,
+        "OBJECTID": 1188,
         "ID1": 769,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43734,7 +43700,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1191,
+        "OBJECTID": 1189,
         "ID1": 770,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43769,7 +43735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1192,
+        "OBJECTID": 1190,
         "ID1": 771,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43798,8 +43764,32 @@
               -43.5353625
             ],
             [
-              172.6251905,
-              -43.5352592
+              172.6258079,
+              -43.5350339
+            ],
+            [
+              172.6260703,
+              -43.5350322
+            ],
+            [
+              172.6263693,
+              -43.5348152
+            ],
+            [
+              172.6266424,
+              -43.5346397
+            ],
+            [
+              172.6269646,
+              -43.5344675
+            ],
+            [
+              172.6271879,
+              -43.5343844
+            ],
+            [
+              172.6275691,
+              -43.5343757
             ]
           ]
         ]
@@ -43808,7 +43798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1193,
+        "OBJECTID": 1191,
         "ID1": 772,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43847,7 +43837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1194,
+        "OBJECTID": 1192,
         "ID1": 773,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43878,7 +43868,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1195,
+        "OBJECTID": 1193,
         "ID1": 788,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43909,7 +43899,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1196,
+        "OBJECTID": 1194,
         "ID1": 789,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43944,7 +43934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1197,
+        "OBJECTID": 1195,
         "ID1": 790,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -43975,7 +43965,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1198,
+        "OBJECTID": 1196,
         "ID1": 791,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44006,7 +43996,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1199,
+        "OBJECTID": 1197,
         "ID1": 792,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44037,7 +44027,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1200,
+        "OBJECTID": 1198,
         "ID1": 793,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44068,7 +44058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1201,
+        "OBJECTID": 1199,
         "ID1": 794,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44099,7 +44089,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1202,
+        "OBJECTID": 1200,
         "ID1": 796,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44130,7 +44120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1203,
+        "OBJECTID": 1201,
         "ID1": 797,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44161,7 +44151,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1204,
+        "OBJECTID": 1202,
         "ID1": 798,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44196,7 +44186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1205,
+        "OBJECTID": 1203,
         "ID1": 799,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44227,7 +44217,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1206,
+        "OBJECTID": 1204,
         "ID1": 802,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44258,7 +44248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1207,
+        "OBJECTID": 1205,
         "ID1": 1046,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44297,7 +44287,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1208,
+        "OBJECTID": 1206,
         "ID1": 1179,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44364,7 +44354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1209,
+        "OBJECTID": 1207,
         "ID1": 1376,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44403,7 +44393,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1210,
+        "OBJECTID": 1208,
         "ID1": 1377,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44424,8 +44414,28 @@
               -43.5510417
             ],
             [
+              172.6819002,
+              -43.5510983
+            ],
+            [
+              172.6821228,
+              -43.5511827
+            ],
+            [
+              172.6824152,
+              -43.5513944
+            ],
+            [
+              172.6827781,
+              -43.5516468
+            ],
+            [
               172.6830126,
               -43.5517572
+            ],
+            [
+              172.6833629,
+              -43.5514078
             ],
             [
               172.6833897,
@@ -44438,7 +44448,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1211,
+        "OBJECTID": 1209,
         "ID1": 1378,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44481,7 +44491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1212,
+        "OBJECTID": 1210,
         "ID1": 1379,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44516,7 +44526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1213,
+        "OBJECTID": 1211,
         "ID1": 1380,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44559,7 +44569,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1214,
+        "OBJECTID": 1212,
         "ID1": 1383,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44576,8 +44586,8 @@
         "coordinates": [
           [
             [
-              172.6856499,
-              -43.5531158
+              172.6857644,
+              -43.5530704
             ],
             [
               172.6859382,
@@ -44596,16 +44606,20 @@
               -43.5537165
             ],
             [
-              172.687068,
-              -43.554126
+              172.6868707,
+              -43.5540062
+            ],
+            [
+              172.6870727,
+              -43.5541492
             ],
             [
               172.6873425,
               -43.5543029
             ],
             [
-              172.6875609,
-              -43.554412
+              172.6875501,
+              -43.5544198
             ]
           ]
         ]
@@ -44614,7 +44628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1215,
+        "OBJECTID": 1213,
         "ID1": 1388,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44657,7 +44671,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1216,
+        "OBJECTID": 1214,
         "ID1": 1389,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44716,7 +44730,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1217,
+        "OBJECTID": 1215,
         "ID1": 1401,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44759,7 +44773,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1218,
+        "OBJECTID": 1216,
         "ID1": 1403,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44806,7 +44820,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1219,
+        "OBJECTID": 1217,
         "ID1": 1404,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44849,7 +44863,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1220,
+        "OBJECTID": 1218,
         "ID1": 1405,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44916,7 +44930,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1221,
+        "OBJECTID": 1219,
         "ID1": 1406,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44955,7 +44969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1222,
+        "OBJECTID": 1220,
         "ID1": 1407,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -44998,7 +45012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1223,
+        "OBJECTID": 1221,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -45089,7 +45103,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1224,
+        "OBJECTID": 1222,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -45168,7 +45182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1225,
+        "OBJECTID": 1223,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -45215,7 +45229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1226,
+        "OBJECTID": 1224,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7890,
@@ -45246,7 +45260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1227,
+        "OBJECTID": 1225,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7873,
@@ -45277,7 +45291,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1228,
+        "OBJECTID": 1226,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8066,
@@ -45308,7 +45322,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1229,
+        "OBJECTID": 1227,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 563,
@@ -45347,7 +45361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1230,
+        "OBJECTID": 1228,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5232,
@@ -45402,7 +45416,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1231,
+        "OBJECTID": 1229,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5214,
@@ -45453,7 +45467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1232,
+        "OBJECTID": 1230,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5213,
@@ -45484,7 +45498,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1233,
+        "OBJECTID": 1231,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5212,
@@ -45539,7 +45553,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1234,
+        "OBJECTID": 1232,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5211,
@@ -45578,7 +45592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1235,
+        "OBJECTID": 1233,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5200,
@@ -45617,7 +45631,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1236,
+        "OBJECTID": 1234,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5199,
@@ -45652,7 +45666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1237,
+        "OBJECTID": 1235,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5198,
@@ -45687,7 +45701,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1238,
+        "OBJECTID": 1236,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 5197,
@@ -45726,7 +45740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1239,
+        "OBJECTID": 1237,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1570,
@@ -45817,7 +45831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1240,
+        "OBJECTID": 1238,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1571,
@@ -45868,7 +45882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1241,
+        "OBJECTID": 1239,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1572,
@@ -45923,7 +45937,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1242,
+        "OBJECTID": 1240,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7270,
@@ -45954,7 +45968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1243,
+        "OBJECTID": 1241,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7278,
@@ -45985,7 +45999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1244,
+        "OBJECTID": 1242,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 7288,
@@ -46040,7 +46054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1245,
+        "OBJECTID": 1243,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8875,
@@ -46095,7 +46109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1246,
+        "OBJECTID": 1244,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2449,
@@ -46126,7 +46140,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1247,
+        "OBJECTID": 1245,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2447,
@@ -46157,7 +46171,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1248,
+        "OBJECTID": 1246,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2442,
@@ -46188,7 +46202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1249,
+        "OBJECTID": 1247,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8909,
@@ -46219,7 +46233,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1250,
+        "OBJECTID": 1248,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11574,
@@ -46250,7 +46264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1251,
+        "OBJECTID": 1249,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11575,
@@ -46281,7 +46295,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1252,
+        "OBJECTID": 1250,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12731,
@@ -46312,7 +46326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1253,
+        "OBJECTID": 1251,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 2440,
@@ -46355,7 +46369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1254,
+        "OBJECTID": 1252,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6384,
@@ -46394,7 +46408,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1255,
+        "OBJECTID": 1253,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6383,
@@ -46433,7 +46447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1256,
+        "OBJECTID": 1254,
         "ID1": 27,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6382,
@@ -46476,7 +46490,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1257,
+        "OBJECTID": 1255,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -46539,7 +46553,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1258,
+        "OBJECTID": 1256,
         "ID1": 1387,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -46582,7 +46596,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1259,
+        "OBJECTID": 1257,
         "ID1": 1387,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -46641,7 +46655,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1260,
+        "OBJECTID": 1258,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -46658,12 +46672,20 @@
         "coordinates": [
           [
             [
-              172.6397684,
-              -43.5287588
+              172.6400417,
+              -43.5287912
             ],
             [
-              172.6397553,
-              -43.5342151
+              172.6402028,
+              -43.5290901
+            ],
+            [
+              172.6405316,
+              -43.5291482
+            ],
+            [
+              172.6405194,
+              -43.5342328
             ]
           ]
         ]
@@ -46672,7 +46694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1261,
+        "OBJECTID": 1259,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -46735,7 +46757,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1262,
+        "OBJECTID": 1260,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 937,
@@ -46770,7 +46792,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1263,
+        "OBJECTID": 1261,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 932,
@@ -46893,7 +46915,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1264,
+        "OBJECTID": 1262,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 931,
@@ -46932,7 +46954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1265,
+        "OBJECTID": 1263,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 930,
@@ -46975,7 +46997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1266,
+        "OBJECTID": 1264,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 928,
@@ -47010,7 +47032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1267,
+        "OBJECTID": 1265,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11226,
@@ -47057,7 +47079,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1268,
+        "OBJECTID": 1266,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 926,
@@ -47096,7 +47118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1269,
+        "OBJECTID": 1267,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -47127,7 +47149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1270,
+        "OBJECTID": 1268,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8078,
@@ -47174,7 +47196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1271,
+        "OBJECTID": 1269,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1455,
@@ -47209,7 +47231,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1272,
+        "OBJECTID": 1270,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12099,
@@ -47252,7 +47274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1273,
+        "OBJECTID": 1271,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12728,
@@ -47283,7 +47305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1274,
+        "OBJECTID": 1272,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9865,
@@ -47318,7 +47340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1275,
+        "OBJECTID": 1273,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9866,
@@ -47349,7 +47371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1276,
+        "OBJECTID": 1274,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12949,
@@ -47412,7 +47434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1277,
+        "OBJECTID": 1275,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12605,
@@ -47451,7 +47473,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1278,
+        "OBJECTID": 1276,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12464,
@@ -47510,7 +47532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1279,
+        "OBJECTID": 1277,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12790,
@@ -47553,7 +47575,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1280,
+        "OBJECTID": 1278,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8635,
@@ -47656,7 +47678,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1281,
+        "OBJECTID": 1279,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12463,
@@ -47691,7 +47713,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1282,
+        "OBJECTID": 1280,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12902,
@@ -47730,7 +47752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1283,
+        "OBJECTID": 1281,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4928,
@@ -47761,7 +47783,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1284,
+        "OBJECTID": 1282,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12299,
@@ -47792,7 +47814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1285,
+        "OBJECTID": 1283,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11632,
@@ -47823,7 +47845,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1286,
+        "OBJECTID": 1284,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11631,
@@ -47854,7 +47876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1287,
+        "OBJECTID": 1285,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4954,
@@ -47905,7 +47927,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1288,
+        "OBJECTID": 1286,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 3633,
@@ -47936,7 +47958,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1289,
+        "OBJECTID": 1287,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4939,
@@ -47967,7 +47989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1290,
+        "OBJECTID": 1288,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4949,
@@ -47998,7 +48020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1291,
+        "OBJECTID": 1289,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12512,
@@ -48029,7 +48051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1292,
+        "OBJECTID": 1290,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12513,
@@ -48060,7 +48082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1293,
+        "OBJECTID": 1291,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12514,
@@ -48091,7 +48113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1294,
+        "OBJECTID": 1292,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12515,
@@ -48122,7 +48144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1295,
+        "OBJECTID": 1293,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12516,
@@ -48161,7 +48183,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1296,
+        "OBJECTID": 1294,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12376,
@@ -48192,7 +48214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1297,
+        "OBJECTID": 1295,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12635,
@@ -48223,7 +48245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1298,
+        "OBJECTID": 1296,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12620,
@@ -48270,7 +48292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1299,
+        "OBJECTID": 1297,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12636,
@@ -48317,7 +48339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1300,
+        "OBJECTID": 1298,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12637,
@@ -48348,7 +48370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1301,
+        "OBJECTID": 1299,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12621,
@@ -48407,7 +48429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1302,
+        "OBJECTID": 1300,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12374,
@@ -48458,7 +48480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1303,
+        "OBJECTID": 1301,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12375,
@@ -48497,7 +48519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1304,
+        "OBJECTID": 1302,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12373,
@@ -48552,7 +48574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1305,
+        "OBJECTID": 1303,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11630,
@@ -48591,7 +48613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1306,
+        "OBJECTID": 1304,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11629,
@@ -48626,7 +48648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1307,
+        "OBJECTID": 1305,
         "ID1": 370,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 11621,
@@ -48665,7 +48687,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1308,
+        "OBJECTID": 1306,
         "ID1": null,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -48696,7 +48718,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1309,
+        "OBJECTID": 1307,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12085,
@@ -48771,7 +48793,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1310,
+        "OBJECTID": 1308,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4814,
@@ -48822,7 +48844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1311,
+        "OBJECTID": 1309,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4862,
@@ -48861,7 +48883,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1312,
+        "OBJECTID": 1310,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4816,
@@ -48940,7 +48962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1313,
+        "OBJECTID": 1311,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 12695,
@@ -48979,7 +49001,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1314,
+        "OBJECTID": 1312,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4812,
@@ -49030,7 +49052,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1315,
+        "OBJECTID": 1313,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4813,
@@ -49093,7 +49115,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1316,
+        "OBJECTID": 1314,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9493,
@@ -49136,7 +49158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1317,
+        "OBJECTID": 1315,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 9494,
@@ -49167,7 +49189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1318,
+        "OBJECTID": 1316,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 4873,
@@ -49206,7 +49228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1319,
+        "OBJECTID": 1317,
         "ID1": null,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -49253,7 +49275,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1320,
+        "OBJECTID": 1318,
         "ID1": null,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -49324,7 +49346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1321,
+        "OBJECTID": 1319,
         "ID1": null,
         "ServiceStatus": null,
         "StreetCentreLineID": null,
@@ -49355,7 +49377,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1322,
+        "OBJECTID": 1320,
         "ID1": 1397,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8363,
@@ -49538,7 +49560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1323,
+        "OBJECTID": 1321,
         "ID1": 1396,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8365,
@@ -49617,7 +49639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1324,
+        "OBJECTID": 1322,
         "ID1": null,
         "ServiceStatus": "In service",
         "StreetCentreLineID": null,
@@ -49652,7 +49674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1325,
+        "OBJECTID": 1323,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1666,
@@ -49711,7 +49733,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1326,
+        "OBJECTID": 1324,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1665,
@@ -49830,7 +49852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1327,
+        "OBJECTID": 1325,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6480,
@@ -49921,7 +49943,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1328,
+        "OBJECTID": 1326,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6481,
@@ -50016,7 +50038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1329,
+        "OBJECTID": 1327,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 8850,
@@ -50055,7 +50077,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1330,
+        "OBJECTID": 1328,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6512,
@@ -50126,7 +50148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1331,
+        "OBJECTID": 1329,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6513,
@@ -50193,7 +50215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1332,
+        "OBJECTID": 1330,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6514,
@@ -50244,7 +50266,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1333,
+        "OBJECTID": 1331,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6515,
@@ -50299,7 +50321,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1334,
+        "OBJECTID": 1332,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6516,
@@ -50338,7 +50360,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1335,
+        "OBJECTID": 1333,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6517,
@@ -50417,7 +50439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1336,
+        "OBJECTID": 1334,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6518,
@@ -50484,7 +50506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1337,
+        "OBJECTID": 1335,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6519,
@@ -50563,7 +50585,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1338,
+        "OBJECTID": 1336,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6520,
@@ -50630,7 +50652,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1339,
+        "OBJECTID": 1337,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6521,
@@ -50693,7 +50715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1340,
+        "OBJECTID": 1338,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1773,
@@ -50772,7 +50794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1341,
+        "OBJECTID": 1339,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1774,
@@ -50823,7 +50845,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1342,
+        "OBJECTID": 1340,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1775,
@@ -50906,7 +50928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1343,
+        "OBJECTID": 1341,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1776,
@@ -51061,7 +51083,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1344,
+        "OBJECTID": 1342,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6539,
@@ -51112,7 +51134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1345,
+        "OBJECTID": 1343,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6540,
@@ -51143,7 +51165,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1346,
+        "OBJECTID": 1344,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6541,
@@ -51174,7 +51196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1347,
+        "OBJECTID": 1345,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6542,
@@ -51205,7 +51227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1348,
+        "OBJECTID": 1346,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6543,
@@ -51236,7 +51258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1349,
+        "OBJECTID": 1347,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6544,
@@ -51271,7 +51293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1350,
+        "OBJECTID": 1348,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6545,
@@ -51302,7 +51324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1351,
+        "OBJECTID": 1349,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 6546,
@@ -51349,7 +51371,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1352,
+        "OBJECTID": 1350,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51452,7 +51474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1353,
+        "OBJECTID": 1351,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1323,
@@ -51483,7 +51505,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1354,
+        "OBJECTID": 1352,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1322,
@@ -51514,7 +51536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1355,
+        "OBJECTID": 1353,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1320,
@@ -51545,7 +51567,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1356,
+        "OBJECTID": 1354,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1321,
@@ -51576,7 +51598,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1357,
+        "OBJECTID": 1355,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1319,
@@ -51619,7 +51641,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1358,
+        "OBJECTID": 1356,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": 1251,
@@ -51650,7 +51672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1359,
+        "OBJECTID": 1357,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51693,7 +51715,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1360,
+        "OBJECTID": 1358,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51740,7 +51762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1361,
+        "OBJECTID": 1359,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51783,7 +51805,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1362,
+        "OBJECTID": 1360,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51822,7 +51844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1363,
+        "OBJECTID": 1361,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -51897,7 +51919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1364,
+        "OBJECTID": 1362,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -52104,7 +52126,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1365,
+        "OBJECTID": 1363,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -52271,325 +52293,7 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1366,
-        "ID1": null,
-        "ServiceStatus": "In Service",
-        "StreetCentreLineID": null,
-        "RoadName": null,
-        "SharedPath_1": 1,
-        "CycleWayName": "Heathcote River Trail",
-        "ID2": 1564,
-        "TypeOfPath": "Shared Path",
-        "CyclewayType": "HRT",
-        "ForColour": "2Blue"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              172.6392104,
-              -43.56517
-            ],
-            [
-              172.6392009,
-              -43.5652315
-            ],
-            [
-              172.6391182,
-              -43.5652977
-            ],
-            [
-              172.6391042,
-              -43.5653575
-            ],
-            [
-              172.6391186,
-              -43.5656268
-            ],
-            [
-              172.6391748,
-              -43.5657816
-            ],
-            [
-              172.6391905,
-              -43.5658298
-            ],
-            [
-              172.6391488,
-              -43.5659145
-            ],
-            [
-              172.6391276,
-              -43.5660258
-            ],
-            [
-              172.6390948,
-              -43.5661553
-            ],
-            [
-              172.639028,
-              -43.5662515
-            ],
-            [
-              172.6388916,
-              -43.5665004
-            ],
-            [
-              172.6387969,
-              -43.5666597
-            ],
-            [
-              172.6387551,
-              -43.5667825
-            ],
-            [
-              172.6386938,
-              -43.5670899
-            ],
-            [
-              172.6385948,
-              -43.5672076
-            ],
-            [
-              172.6385734,
-              -43.5673371
-            ],
-            [
-              172.6385025,
-              -43.5675137
-            ],
-            [
-              172.6384809,
-              -43.5676106
-            ],
-            [
-              172.6384834,
-              -43.567971
-            ],
-            [
-              172.6384699,
-              -43.5681525
-            ],
-            [
-              172.6385858,
-              -43.5683565
-            ],
-            [
-              172.6388433,
-              -43.568743
-            ],
-            [
-              172.6390174,
-              -43.5689511
-            ],
-            [
-              172.6391935,
-              -43.5691975
-            ],
-            [
-              172.6394339,
-              -43.5694678
-            ],
-            [
-              172.639665,
-              -43.569724
-            ],
-            [
-              172.6397535,
-              -43.5698427
-            ],
-            [
-              172.6397937,
-              -43.5699957
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 1367,
-        "ID1": null,
-        "ServiceStatus": "In Service",
-        "StreetCentreLineID": null,
-        "RoadName": null,
-        "SharedPath_1": 1,
-        "CycleWayName": "Heathcote River Trail",
-        "ID2": 1565,
-        "TypeOfPath": "Shared Path",
-        "CyclewayType": "HRT",
-        "ForColour": "2Blue"
-      },
-      "geometry": {
-        "type": "MultiLineString",
-        "coordinates": [
-          [
-            [
-              172.6397937,
-              -43.5699957
-            ],
-            [
-              172.6397671,
-              -43.5700641
-            ],
-            [
-              172.6397238,
-              -43.5701007
-            ],
-            [
-              172.639869,
-              -43.5701298
-            ],
-            [
-              172.6399844,
-              -43.5701884
-            ],
-            [
-              172.6404762,
-              -43.5703611
-            ],
-            [
-              172.6409794,
-              -43.5704872
-            ],
-            [
-              172.6414779,
-              -43.5705631
-            ],
-            [
-              172.6419716,
-              -43.5706184
-            ],
-            [
-              172.6422611,
-              -43.5706309
-            ],
-            [
-              172.6423745,
-              -43.5706214
-            ],
-            [
-              172.6425186,
-              -43.570621
-            ],
-            [
-              172.6427134,
-              -43.5705992
-            ],
-            [
-              172.6429922,
-              -43.5705347
-            ],
-            [
-              172.6433611,
-              -43.5704516
-            ],
-            [
-              172.6436277,
-              -43.57037
-            ],
-            [
-              172.6439687,
-              -43.5702099
-            ],
-            [
-              172.6440777,
-              -43.570117
-            ],
-            [
-              172.6443148,
-              -43.5700103
-            ],
-            [
-              172.6445765,
-              -43.5699287
-            ],
-            [
-              172.6448235,
-              -43.5698255
-            ],
-            [
-              172.6449475,
-              -43.5696969
-            ],
-            [
-              172.6450615,
-              -43.5695862
-            ],
-            [
-              172.6453046,
-              -43.5693075
-            ],
-            [
-              172.6455544,
-              -43.5687278
-            ],
-            [
-              172.6456945,
-              -43.5683699
-            ],
-            [
-              172.6458141,
-              -43.5681373
-            ],
-            [
-              172.6458298,
-              -43.5679797
-            ],
-            [
-              172.6458357,
-              -43.5678185
-            ],
-            [
-              172.6459702,
-              -43.5675609
-            ],
-            [
-              172.6460002,
-              -43.5674858
-            ],
-            [
-              172.6460005,
-              -43.5674499
-            ],
-            [
-              172.6460655,
-              -43.5672889
-            ],
-            [
-              172.6460958,
-              -43.5671636
-            ],
-            [
-              172.6461465,
-              -43.5669129
-            ],
-            [
-              172.6461918,
-              -43.5667518
-            ],
-            [
-              172.6463166,
-              -43.5664763
-            ],
-            [
-              172.6463765,
-              -43.5663439
-            ],
-            [
-              172.6464112,
-              -43.5663189
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "OBJECTID": 1368,
+        "OBJECTID": 1364,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
@@ -52636,14 +52340,445 @@
     {
       "type": "Feature",
       "properties": {
+        "OBJECTID": 1365,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1569,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6275691,
+              -43.5343757
+            ],
+            [
+              172.6283854,
+              -43.5345046
+            ],
+            [
+              172.6295095,
+              -43.5346961
+            ],
+            [
+              172.6304373,
+              -43.534811
+            ],
+            [
+              172.6306083,
+              -43.5348248
+            ],
+            [
+              172.6307937,
+              -43.5348479
+            ],
+            [
+              172.6312244,
+              -43.5347956
+            ],
+            [
+              172.6316746,
+              -43.5345824
+            ],
+            [
+              172.6321899,
+              -43.5342596
+            ],
+            [
+              172.6324765,
+              -43.534167
+            ],
+            [
+              172.6332877,
+              -43.5341448
+            ],
+            [
+              172.6334666,
+              -43.5340582
+            ],
+            [
+              172.6335088,
+              -43.5339606
+            ],
+            [
+              172.6335957,
+              -43.5333228
+            ],
+            [
+              172.6337644,
+              -43.5327572
+            ],
+            [
+              172.6337973,
+              -43.5325937
+            ],
+            [
+              172.6337863,
+              -43.5322886
+            ],
+            [
+              172.6337579,
+              -43.5307016
+            ],
+            [
+              172.633877,
+              -43.5303262
+            ],
+            [
+              172.6342237,
+              -43.5299382
+            ],
+            [
+              172.6347127,
+              -43.5293805
+            ],
+            [
+              172.6348934,
+              -43.5289964
+            ],
+            [
+              172.6350575,
+              -43.5286958
+            ],
+            [
+              172.6351628,
+              -43.528567
+            ],
+            [
+              172.6351615,
+              -43.5283724
+            ],
+            [
+              172.6351547,
+              -43.5282998
+            ],
+            [
+              172.6353482,
+              -43.5280687
+            ],
+            [
+              172.6355267,
+              -43.5278923
+            ],
+            [
+              172.6356801,
+              -43.5278575
+            ],
+            [
+              172.635887,
+              -43.5278157
+            ],
+            [
+              172.6360556,
+              -43.52768
+            ],
+            [
+              172.636433,
+              -43.5276051
+            ],
+            [
+              172.6374409,
+              -43.5276043
+            ],
+            [
+              172.6378506,
+              -43.5279769
+            ],
+            [
+              172.6381634,
+              -43.5281076
+            ],
+            [
+              172.6389926,
+              -43.5282355
+            ],
+            [
+              172.6396373,
+              -43.5282443
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1366,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1571,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6397974,
+              -43.5277364
+            ],
+            [
+              172.6383986,
+              -43.5276641
+            ],
+            [
+              172.6383225,
+              -43.5276575
+            ],
+            [
+              172.6382744,
+              -43.5276473
+            ],
+            [
+              172.6382275,
+              -43.5276323
+            ],
+            [
+              172.6381792,
+              -43.5276096
+            ],
+            [
+              172.638123,
+              -43.5275761
+            ],
+            [
+              172.6380751,
+              -43.5275385
+            ],
+            [
+              172.6375973,
+              -43.5271034
+            ],
+            [
+              172.637517,
+              -43.5270302
+            ],
+            [
+              172.6374223,
+              -43.5269594
+            ],
+            [
+              172.6373838,
+              -43.5269365
+            ],
+            [
+              172.6373372,
+              -43.5269161
+            ],
+            [
+              172.637284,
+              -43.5268993
+            ],
+            [
+              172.6372292,
+              -43.526884
+            ],
+            [
+              172.6371769,
+              -43.5268746
+            ],
+            [
+              172.63714,
+              -43.5268713
+            ],
+            [
+              172.6370958,
+              -43.5268701
+            ],
+            [
+              172.637028,
+              -43.5268713
+            ],
+            [
+              172.636905,
+              -43.5268782
+            ],
+            [
+              172.6367712,
+              -43.5268884
+            ],
+            [
+              172.6366177,
+              -43.5268999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1367,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1572,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6323429,
+              -43.5342102
+            ],
+            [
+              172.6325324,
+              -43.5340424
+            ],
+            [
+              172.6327725,
+              -43.5338658
+            ],
+            [
+              172.6329828,
+              -43.5337404
+            ],
+            [
+              172.6331302,
+              -43.5336203
+            ],
+            [
+              172.6332814,
+              -43.5334995
+            ],
+            [
+              172.6335127,
+              -43.5333589
+            ],
+            [
+              172.6336034,
+              -43.5332969
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1368,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1575,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6397974,
+              -43.5277364
+            ],
+            [
+              172.6404739,
+              -43.5277116
+            ],
+            [
+              172.6420401,
+              -43.5269292
+            ],
+            [
+              172.6424963,
+              -43.5267249
+            ],
+            [
+              172.6425109,
+              -43.5267253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "OBJECTID": 1369,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1577,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6429037,
+              -43.5264488
+            ],
+            [
+              172.6437164,
+              -43.5262545
+            ],
+            [
+              172.6441483,
+              -43.5259964
+            ],
+            [
+              172.6446419,
+              -43.5256848
+            ],
+            [
+              172.6449149,
+              -43.5252651
+            ],
+            [
+              172.6451986,
+              -43.5251139
+            ],
+            [
+              172.6455711,
+              -43.5250305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1370,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Heathcote River Trail",
-        "ID2": 1567,
+        "ID2": 1579,
         "TypeOfPath": "Shared Path",
         "CyclewayType": "HRT",
         "ForColour": "2Blue"
@@ -52821,96 +52956,20 @@
               -43.5557133
             ],
             [
-              172.6667757,
-              -43.5554265
+              172.6667162,
+              -43.555416
             ],
             [
-              172.6667631,
-              -43.5552559
+              172.6667084,
+              -43.5552599
             ],
             [
               172.666654,
               -43.5551323
             ],
             [
-              172.666638,
-              -43.5548493
-            ],
-            [
-              172.6666793,
-              -43.554691
-            ],
-            [
-              172.6666763,
-              -43.5545996
-            ],
-            [
-              172.6666303,
-              -43.5544877
-            ],
-            [
-              172.6665966,
-              -43.5543873
-            ],
-            [
-              172.6665078,
-              -43.5542401
-            ],
-            [
-              172.6664005,
-              -43.5541165
-            ],
-            [
-              172.6663847,
-              -43.5541068
-            ],
-            [
-              172.6662275,
-              -43.5541019
-            ],
-            [
-              172.6660992,
-              -43.5541143
-            ],
-            [
-              172.6659959,
-              -43.5540642
-            ],
-            [
-              172.6659994,
-              -43.5540514
-            ],
-            [
-              172.6661778,
-              -43.5538884
-            ],
-            [
-              172.6662294,
-              -43.5537621
-            ],
-            [
-              172.6662937,
-              -43.553577
-            ],
-            [
-              172.6663469,
-              -43.55348
-            ],
-            [
-              172.6665181,
-              -43.5533438
-            ],
-            [
-              172.666874,
-              -43.553152
-            ],
-            [
-              172.666969,
-              -43.5531216
-            ],
-            [
-              172.6671489,
-              -43.5529854
+              172.6666399,
+              -43.5548826
             ]
           ]
         ]
@@ -52919,14 +52978,136 @@
     {
       "type": "Feature",
       "properties": {
-        "OBJECTID": 1370,
+        "OBJECTID": 1371,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1580,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6693084,
+              -43.5544991
+            ],
+            [
+              172.6694852,
+              -43.5545368
+            ],
+            [
+              172.669591,
+              -43.5546029
+            ],
+            [
+              172.6699428,
+              -43.5550216
+            ],
+            [
+              172.6701696,
+              -43.5552654
+            ],
+            [
+              172.6702833,
+              -43.5553373
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1372,
+        "ID1": null,
+        "ServiceStatus": null,
+        "StreetCentreLineID": null,
+        "RoadName": null,
+        "SharedPath_1": 1,
+        "CycleWayName": null,
+        "ID2": 1581,
+        "TypeOfPath": "Shared Path",
+        "CyclewayType": null,
+        "ForColour": "2Blue"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              172.6842097,
+              -43.5518788
+            ],
+            [
+              172.6844909,
+              -43.5521647
+            ],
+            [
+              172.6846036,
+              -43.5522594
+            ],
+            [
+              172.6847634,
+              -43.5523747
+            ],
+            [
+              172.6849701,
+              -43.552528
+            ],
+            [
+              172.6851745,
+              -43.5526743
+            ],
+            [
+              172.685292,
+              -43.5527518
+            ],
+            [
+              172.6854708,
+              -43.5528381
+            ],
+            [
+              172.6854919,
+              -43.552857
+            ],
+            [
+              172.685549,
+              -43.5529691
+            ],
+            [
+              172.6855858,
+              -43.5529948
+            ],
+            [
+              172.6856719,
+              -43.553042
+            ],
+            [
+              172.6857644,
+              -43.5530704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1373,
         "ID1": null,
         "ServiceStatus": "In Service",
         "StreetCentreLineID": null,
         "RoadName": null,
         "SharedPath_1": 1,
         "CycleWayName": "Heathcote River Trail",
-        "ID2": 1568,
+        "ID2": 1583,
         "TypeOfPath": "Shared Path",
         "CyclewayType": "HRT",
         "ForColour": "2Blue"
@@ -52936,8 +53117,8 @@
         "coordinates": [
           [
             [
-              172.6875609,
-              -43.554412
+              172.6875501,
+              -43.5544198
             ],
             [
               172.6877371,
@@ -52948,80 +53129,12 @@
               -43.5548495
             ],
             [
-              172.6885383,
-              -43.5549073
+              172.6885103,
+              -43.5549031
             ],
             [
-              172.688635,
-              -43.5549232
-            ],
-            [
-              172.6888535,
-              -43.5549499
-            ],
-            [
-              172.688997,
-              -43.554919
-            ],
-            [
-              172.6892199,
-              -43.5548022
-            ],
-            [
-              172.6893563,
-              -43.5547765
-            ],
-            [
-              172.6894474,
-              -43.5547667
-            ],
-            [
-              172.6895227,
-              -43.5547499
-            ],
-            [
-              172.6896106,
-              -43.5547154
-            ],
-            [
-              172.6897651,
-              -43.5546548
-            ],
-            [
-              172.6898549,
-              -43.5546451
-            ],
-            [
-              172.6899975,
-              -43.5546291
-            ],
-            [
-              172.6901128,
-              -43.5545925
-            ],
-            [
-              172.6902711,
-              -43.5545348
-            ],
-            [
-              172.6904137,
-              -43.5545103
-            ],
-            [
-              172.6906149,
-              -43.5544747
-            ],
-            [
-              172.6907243,
-              -43.554458
-            ],
-            [
-              172.6908287,
-              -43.5544448
-            ],
-            [
-              172.6909215,
-              -43.5544287
+              172.6885908,
+              -43.5549122
             ]
           ]
         ]
