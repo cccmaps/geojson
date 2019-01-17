@@ -1765,7 +1765,7 @@
         "ms_type": "Undercover Cycle Park",
         "ms_subtype": "Undercover",
         "capacity": "100",
-        "Notes": null
+        "Notes": "Bus exchange"
       },
       "geometry": {
         "type": "Point",
@@ -4918,8 +4918,8 @@
         "road_id": null,
         "ms_type": "Undercover Cycle Park",
         "ms_subtype": "Undercover",
-        "capacity": "92",
-        "Notes": null
+        "capacity": 96,
+        "Notes": "Lichfield Street parking building"
       },
       "geometry": {
         "type": "Point",
