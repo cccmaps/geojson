@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "dfgfdgfg",
+        "Status": "Open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6260280609131,
+          -43.5210453296496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "dfgfdg",
+        "Status": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6303195953369,
+          -43.52950905984384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "dfgfdgdfg",
+        "Status": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61744499206543,
+          -43.53946486913872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Status": "Closed",
+        "Name": "dsfdffd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63374209403992,
+          -43.52877008660198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": 4353445,
+        "Status": "Open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63295888900757,
+          -43.532099284034295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "wererer",
+        "Status": "Open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60871171951294,
+          -43.5453909063691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "sdfd",
+        "Status": "Open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59581565856934,
+          -43.5303180306961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "df",
+        "Status": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6457691192627,
+          -43.549667867870994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "sdf",
+        "Status": "Open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61049270629883,
+          -43.55252937447482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "sdfdf",
+        "Status": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65907287597656,
+          -43.52341031498545
+        ]
+      }
+    }
+  ]
+}
