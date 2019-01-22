@@ -332,7 +332,7 @@
         "name": "Lichfield Street car park building",
         "description": "Lichfield Street car park building",
         "type": "Council off-street parking building",
-        "spaces": 805,
+        "spaces": "805 (81 free motorcycle parks - no ticket required)",
         "address": "33 Lichfield Street",
         "hourlyrate": "$2.80 per hour or part thereof (6am-6pm Mon-Sun)",
         "alldayrate": "$10 (max 24hr period)",
