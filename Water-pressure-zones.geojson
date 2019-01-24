@@ -11220,11 +11220,16 @@
       "type": "Feature",
       "id": "WsPressureZone.379",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 379,
         "ZoneName": "Ocean View 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -14900,14 +14905,13 @@
         "ZoneName": "Mt Pleasant 5",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -15807,18 +15811,24 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
       "type": "Feature",
       "id": "WsPressureZone.455",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 455,
         "ZoneName": "Upper Balmoral",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -18400,14 +18410,13 @@
         "ZoneName": "Mt Pleasant 4",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -20885,18 +20894,24 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
       "type": "Feature",
       "id": "WsPressureZone.492",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 492,
         "ZoneName": "Mt Pleasant 2",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -23675,7 +23690,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -24631,7 +24645,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -24649,7 +24664,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -25368,7 +25382,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -31401,11 +31416,16 @@
       "type": "Feature",
       "id": "WsPressureZone.598",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 598,
         "ZoneName": "Morgans Valley",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -33943,11 +33963,16 @@
       "type": "Feature",
       "id": "WsPressureZone.610",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 610,
         "ZoneName": "Morgans Valley Booster",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -34941,11 +34966,16 @@
       "type": "Feature",
       "id": "WsPressureZone.611",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 611,
         "ZoneName": "La Mar",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "No"
       },
       "geometry": {
@@ -35207,7 +35237,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -37462,7 +37491,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -77712,7 +77742,6 @@
         "WaterUseMap": "No"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -78064,7 +78093,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -78082,7 +78112,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -79930,18 +79959,24 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
       "type": "Feature",
       "id": "WsPressureZone.687",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 687,
         "ZoneName": "McCormacks Bay",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 350,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -85293,14 +85328,13 @@
         "ZoneName": "Mt Pleasant 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -88060,7 +88094,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -88071,14 +88106,13 @@
         "ZoneName": "Maffeys",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -91064,7 +91098,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -91075,14 +91110,13 @@
         "ZoneName": "Clifton 4",
         "DesignSource-kpa": "not available",
         "DesignSprinkler-kpa": "not available",
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -93371,7 +93405,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -93389,7 +93424,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -95267,7 +95301,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -95278,14 +95313,13 @@
         "ZoneName": "Clifton 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -98455,7 +98489,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -98473,7 +98508,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -101791,7 +101825,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -106373,7 +106408,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -118131,18 +118165,24 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
       "type": "Feature",
       "id": "WsPressureZone.744",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "WsPressureZoneID": 744,
         "ZoneName": "Scarborough 2",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
         "SectionID": "Central",
@@ -119794,14 +119834,13 @@
         "ZoneName": "Scarborough 3",
         "DesignSource-kpa": 700,
         "DesignSprinkler-kpa": 300,
-        "WaterUseTitle": "Central",
+        "WaterUseTitle": "Ferrymead",
         "WaterUseMap": "Yes",
         "BIDashboard": "https://app.powerbi.com/view?r=eyJrIjoiNWFhNTE4Y2EtMDFjOC00OTIwLTg1YzQtY2E3NTY3NDllYTM0IiwidCI6IjQ1Yzk3ZTRlLWJkOGQtNGRkYy1iZDZlLTJkNjJkYWEyYTAxMSIsImMiOjEwfQ%3D%3D",
-        "SectionID": "Central",
+        "SectionID": "Ferrymead",
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -121272,7 +121311,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -122498,7 +122538,6 @@
         "BIDashboard": ""
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -130332,7 +130371,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -141784,7 +141824,6 @@
         "WaterUseMap": "No"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -144296,7 +144335,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -144314,7 +144354,6 @@
         "TargetWaterUse": 55
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -147900,7 +147939,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -147915,7 +147955,6 @@
         "WaterUseMap": "No"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -150723,7 +150762,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
@@ -150738,7 +150778,6 @@
         "WaterUseMap": "No"
       },
       "geometry": {
-        "type": "GeometryCollection",
         "geometries": [
           {
             "type": "Polygon",
@@ -154383,7 +154422,8 @@
               ]
             ]
           }
-        ]
+        ],
+        "type": "GeometryCollection"
       }
     },
     {
