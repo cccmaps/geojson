@@ -246,7 +246,7 @@
       "properties": {
         "PSID": 1007,
         "PumpStationName": "Blighs ",
-        "ChlorinationDose": "none",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 1,
         "Above-wellheads": 1,
         "Abandoned": "n/a",
@@ -876,7 +876,7 @@
       "properties": {
         "PSID": 1023,
         "PumpStationName": "Lake Terrace",
-        "ChlorinationDose": "none",
+        "ChlorinationDose": "1 part per million",
         "Below-wellheads": 1,
         "Above-wellheads": 2,
         "Abandoned": "n/a",
