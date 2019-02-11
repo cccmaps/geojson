@@ -798,6 +798,24 @@
         "year": "Unknown",
         "long-description": "One of the earliest mills in Christchurch, opened in 1854 once stood 500m down stream from this sculpture. "
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Kiheru Wai ō Tahu   The Canoe Bailer of Tahu",
+        "type": "Sculpture",
+        "Artist": "Lewis Tamihana Gardiner",
+        "primary-media": "Bronze",
+        "year": 2017,
+        "short-description": "Kei Arapawa te ihu, Kei Motu Pohue te kei, Ko Rakiura te punga o te waka a Māui, Ka rite anō Te Kiheru Wai ō Tahu.  The prow is at Arapawa (Marlborough Sounds), The stern is at Motu Pohue (Bluff), Rakiura (Stewart Island) is the anchor stone of Māui’s vessel, Again, ready is The Canoe Bailer of Tahu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6383849978447,
+          -43.53321156838803
+        ]
+      }
     }
   ]
 }
