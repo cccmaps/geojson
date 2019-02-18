@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Caution",
+        "descriptio": "a",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "Status": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6641798,
+            -43.5677522
+          ],
+          [
+            172.664094,
+            -43.5690737
+          ],
+          [
+            172.6638579,
+            -43.571188
+          ],
+          [
+            172.6647377,
+            -43.5735044
+          ],
+          [
+            172.6661754,
+            -43.5744216
+          ],
+          [
+            172.667377,
+            -43.5754943
+          ],
+          [
+            172.6698446,
+            -43.5768001
+          ],
+          [
+            172.6742435,
+            -43.5793183
+          ],
+          [
+            172.6753378,
+            -43.5814634
+          ],
+          [
+            172.6758742,
+            -43.5846187
+          ],
+          [
+            172.6758528,
+            -43.5875407
+          ],
+          [
+            172.6758528,
+            -43.59038489999998
+          ],
+          [
+            172.6749516,
+            -43.5917214
+          ],
+          [
+            172.6746511,
+            -43.5932911
+          ],
+          [
+            172.67364260000002,
+            -43.594037
+          ],
+          [
+            172.67364260000002,
+            -43.5945032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Restricted at high tide",
+        "descriptio": "a",
+        "timestamp": "null",
+        "begin": "null",
+        "end": "null",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Status": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7426505,
+          -43.5654939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "Closed",
+        "descriptio": "a",
+        "Status": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.74177074432373,
+            -43.53845769597806
+          ],
+          [
+            172.74064421653748,
+            -43.53875323888124
+          ],
+          [
+            172.7403438091278,
+            -43.538764905018745
+          ],
+          [
+            172.73923337459564,
+            -43.53832936768746
+          ],
+          [
+            172.7391904592514,
+            -43.538271036556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Restricted to residents only",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "descriptio": "a",
+        "Status": 4
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.7364706993103,
+            -43.5320137228497
+          ],
+          [
+            172.73913145065308,
+            -43.538142707868126
+          ]
+        ]
+      }
+    }
+  ]
+}
