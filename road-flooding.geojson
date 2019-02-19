@@ -149,7 +149,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "descriptio": "a",
-        "Status": 4
+        "Status": 4,
+        "end": ""
       },
       "geometry": {
         "type": "LineString",
@@ -162,6 +163,27 @@
             172.73913145065308,
             -43.538142707868126
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Name": "DO NOT DELETE",
+        "descriptio": "DO NOT DELETE",
+        "timestamp": "DO NOT DELETE",
+        "begin": "DO NOT DELETE",
+        "end": "DO NOT DELETE",
+        "Status": "DO NOT DELETE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64310836791992,
+          -43.54008705264582
         ]
       }
     }
