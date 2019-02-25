@@ -87,7 +87,7 @@
         "PumpStationName": "Averill ",
         "Zone": "Central",
         "NumberOfWells": 2,
-        "Improvements": "Interim below ground repairs to two wells.",
+        "Improvements": "Interim below ground repairs to two wells",
         "StartDate": "1/04/2019",
         "FinishDate": "26/04/2019",
         "Status": "Planning",
@@ -767,7 +767,7 @@
         "PumpStationName": "Aston Drive",
         "Zone": "Rawhiti",
         "NumberOfWells": 2,
-        "Improvements": "Interim below ground repairs to two wells.",
+        "Improvements": "Interim below ground repairs to two wells",
         "StartDate": "1/04/2019",
         "FinishDate": "26/04/2019",
         "Status": "Planning",
@@ -1038,6 +1038,26 @@
         "coordinates": [
           172.5388,
           -43.5567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Gardiners",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "New pump station commissioned",
+        "StartDate": "",
+        "FinishDate": "1/01/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "3.70%"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5893,
+          -43.4697
         ]
       }
     }
