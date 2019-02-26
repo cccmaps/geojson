@@ -642,7 +642,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Planning",
         "PercetangeContribution": "12%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
