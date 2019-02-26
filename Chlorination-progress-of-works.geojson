@@ -638,8 +638,8 @@
         "Zone": "Central",
         "NumberOfWells": 6,
         "Improvements": "UV disinfection",
-        "StartDate": "5/06/2018",
-        "FinishDate": "1/07/2019",
+        "StartDate": "1/04/2019",
+        "FinishDate": "30/06/2019",
         "Status": "Planning",
         "PercetangeContribution": "12%",
         "ChlorinationDose": "1 part per million"
@@ -870,7 +870,7 @@
         "NumberOfWells": 4,
         "Improvements": "Interim below ground repairs to three well heads",
         "StartDate": "22/04/2019",
-        "FinishDate": "30/04/2019",
+        "FinishDate": "14/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.00%",
         "ChlorinationDose": "1 part per million"
