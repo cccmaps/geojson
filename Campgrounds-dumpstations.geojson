@@ -349,27 +349,6 @@
       "type": "Feature",
       "properties": {
         "Type": "Campground",
-        "Name": "Little Akaloa Wilderness Campsite ",
-        "Address": "Little Akaloa Road ",
-        "Phone": "",
-        "Website": "",
-        "Facilities": "Suitable for any vehicle type, public toilet, water fountain ",
-        "Campground": "Yes",
-        "campground-price": "From $15",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.989315,
-          -43.675121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Campground",
         "Name": "Okains Bay Camping Ground ",
         "Address": "1357 Okains Bay Rd, Okains Bay 7583",
         "Phone": "03 304 8789",
