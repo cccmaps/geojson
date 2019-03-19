@@ -3,594 +3,236 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Planting",
+        "Date": "Sunday 25 August 2019",
+        "Time": "10.30am to 12.30pm",
+        "Name": "Otukaikino community planting day",
+        "Address": "Otukaikino River Reserve",
+        "Notes": "Join Council rangers and Trees for Canterbury in a community planting day",
+        "Meet": "Meet at the Roto Kohatu Reserve (airport end) of Sawyers Arms Road. Follow signs from entrance car park to meeting point.",
+        "Contact": "Arthur Adcock",
+        "contact-phone": "027 226 7801",
+        "contact-email": "",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/plains-and-wetlands-volunteer-days/",
+        "What-to-bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.Some tools are available for use."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.697881,
-          -43.552926
+          172.571845,
+          -43.466609
         ]
-      },
-      "properties": {
-        "Park": "Charlesworth Reserve",
-        "Activities": "Planting and weeding, waterway clean-ups, education",
-        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
-        "Contact": "info@estuary.org.nz",
-        "External website URL": "http://www.estuary.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/charlesworth-volunteer-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Planting",
+        "Date": "Sunday 5 May 2019",
+        "Time": "10.30am to 12.30pm",
+        "Name": "Styx Mill community planting day",
+        "Address": "Styx Mill Conservation Reserve",
+        "Notes": "A free BBQ will follow the planting event.",
+        "Meet": "Meet in the Hussey Road car-park and look for the signs directing you to the planting site. ",
+        "Contact": "John Parry",
+        "contact-phone": "03 941 7550 or 027 475 4750",
+        "contact-email": "john.parry@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/plains-and-wetlands-volunteer-days/",
+        "What-to-bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.\n\nSome tools are available for use."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.727226,
-          -43.559637
+          172.601997,
+          -43.463952
         ]
-      },
-      "properties": {
-        "Park": "McCormacks Bay",
-        "Activities": "Planting and weeding",
-        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
-        "Contact": "Myles Richardson; mylsie@outlook.co.nz.",
-        "External website URL": "http://www.estuary.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mccormacks-bay-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "Reoccuring",
+        "Type": "Working bees",
+        "Date": "Monthly on Saturday mornings",
+        "Time": "10am to midday",
+        "Name": "Thistledown Reserve Restoration Project",
+        "Address": "Thistledown Reserve, Thistledown Place (off Hargood Street)",
+        "Notes": "Tasks include planting, pruning, weeding and mulching. ",
+        "Meet": "Meet at the end of Thistledown Place (off Hargood Street).",
+        "Contact": "Tanya Jenkins",
+        "contact-phone": "",
+        "contact-email": "tanya.jenkins.nz@gmail.com",
+        "URL": "https://ccc.govt.nz/assets/Documents/Parks-Gardens/Get-involved-with-parks/2019-Thistledown-Reserve.pdf",
+        "What-to-bring": "Tools and gloves will be provided but please wear sneakers or gumboots as there are several muddy and wet areas we will be working in. "
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.683739,
-          -43.546188
+          172.68317,
+          -43.546142
         ]
-      },
-      "properties": {
-        "Park": "Thistledown Reserve",
-        "Activities": "Planting and weeding",
-        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
-        "Contact": "info@estuary.org.nz",
-        "External website URL": "http://www.estuary.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/thistledown-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "Reoccuring",
+        "Type": "Bird monitoring",
+        "Date": "First Saturday of each month",
+        "Time": "9am",
+        "Name": "Styx Mill Bird Monitoring Programme",
+        "Address": "Styx Mill Conservation Reserve",
+        "Notes": "On the first Saturday of each month, those wishing to participate in the bird monitoring programme meet at the Styx Mill Conservation Reserve on Styx Mill Road at 9am to record the number of individual water bird species using a moving transect method (instruction provided on the day).Two locations are covered during each session to compile a long-term data set for the reserves: The Styx Mill Conservation Reserve andThe 303 Radcliffe Road ReserveData collected is submitted to eBird, and may be explored by anyone with an interest in New Zealand's bird populations.",
+        "Meet": "Meet at Styx Mill Conservation Reserve, Styx Mill Rd Public Car Park",
+        "Contact": "Antony Shadbolt",
+        "contact-phone": "027 683 8618",
+        "contact-email": "antony.shadbolt@ccc.govt.nz",
+        "URL": "https://www.thestyx.org.nz/bird-monitoring-programme",
+        "What-to-bring": "Sturdy outdoor clothing and footwear for muddy and wet conditions.You could also bring binoculars, camera, phone, paper and pen."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.733204,
-          -43.527868
+          172.609005,
+          -43.467217
         ]
-      },
-      "properties": {
-        "Park": "South Brighton Park ",
-        "Activities": "Weeding, watering, mulching, pruning and collecting litter",
-        "Community Group": "Avon-Heathcote Estuary Ihutai Trust",
-        "Contact": "info@estuary.org.nz",
-        "External website URL": "http://www.estuary.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/southbrigthon-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "Reoccuring",
+        "Type": "Working bees",
+        "Date": "Every Sunday",
+        "Time": "30 September to 31 March: 3pm to 5pm. 1 April to 29 September: 2pm to 4pm",
+        "Name": "Charlesworth Reserve volunteer days",
+        "Address": "Charlesworth Wetland",
+        "Notes": "Come join the ranger team and the Avon-Heathcote Ihutai Estuary Trust every Sunday for our regular working bees, or turn up to one of our large public planting days with Trees for Canterbury.",
+        "Meet": "Meet at the Charlesworth Wetland car park, located on Charlesworth Street, Brookhaven.",
+        "Contact": "Andrew Crossland",
+        "contact-phone": "027 434 1155",
+        "contact-email": "Andrew.crossland@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/charlesworth-reserve-volunteer-days/",
+        "What-to-bring": "Appropriate clothing for any weather: sunhat, warm jacket and raincoat. Sturdy footwear or gumboots. Personal work gloves. Tools, sunscreen and gloves are supplied."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.671244,
-          -43.500141
+          172.697678,
+          -43.55279
         ]
-      },
-      "properties": {
-        "Park": "Horseshoe Lake",
-        "Activities": "Planting, weeding, watering, maintenance",
-        "Community Group": "Avon-Otakaro Forest Park",
-        "Contact": "info@aofp.co.nz",
-        "External website URL": "https://www.aofp.co.nz/get-involved",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/horseshoe-lake-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Maintenance",
+        "Date": "Saturday 23 February",
+        "Time": "12.45pm to 3.15pm",
+        "Name": "Port Hills Reserves volunteer day",
+        "Address": "Marleys Hill",
+        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
+        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
+        "Contact": "Di Carter",
+        "contact-phone": "03 941 7572 or 027 201 5653",
+        "contact-email": "Parks.Volunteers@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
+        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.69829,
-          -43.558909
+          172.643834,
+          -43.590906
         ]
-      },
-      "properties": {
-        "Park": "Calder Green ",
-        "Activities": "Saltmarsh estuary restoration, lizard monitoring, bird surveys",
-        "Community Group": "Forest and Bird (North Canterbury)",
-        "Contact": "zip.gail@xtra.co.nz",
-        "External website URL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/caldersgreen-lizardgarden-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Maintenance",
+        "Date": "Saturday 2 March 2019",
+        "Time": "12.45pm to 3.15pm",
+        "Name": "Port Hills Reserves volunteer day",
+        "Address": "Dry Bush",
+        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
+        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
+        "Contact": "Di Carter",
+        "contact-phone": "03 941 7572 or 027 201 5653",
+        "contact-email": "Parks.Volunteers@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
+        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.741247,
-          -43.593284
+          172.643834,
+          -43.590906
         ]
-      },
-      "properties": {
-        "Park": "Mahoe-Nui Reserve, Port Hills ",
-        "Activities": "Bush restoration and bird monitoring",
-        "Community Group": "Forest and Bird (North Canterbury)",
-        "Contact": "Vicky Southworth; vickysouthworth@gmail.com",
-        "External website URL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/mahoe-nui-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Maintenance",
+        "Date": "Saturday 9 March 2019",
+        "Time": "12.45pm to 3.15pm",
+        "Name": "Port Hills Reserves volunteer day",
+        "Address": "Bowenvale Reserve, Huntsbury",
+        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
+        "Meet": "Meet at 20 Swanton Drive.",
+        "Contact": "Di Carter",
+        "contact-phone": "03 941 7572 or 027 201 5653",
+        "contact-email": "Parks.Volunteers@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
+        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.664575,
-          -43.542047
+          172.651879,
+          -43.576299
         ]
-      },
-      "properties": {
-        "Park": "Edmonds Factory Garden",
-        "Activities": "Gardening, fundraising, weddings",
-        "Community Group": "Friends of the Edmonds Factory Garden",
-        "Contact": "jenny.hoskin@gmail.com",
-        "External website URL": "http://www.cinch.org.nz/categories/a-z/f/311/entries/4379",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/edmonds-250.jpg"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Display": "yes",
+        "Frequency": "One-off",
+        "Type": "Maintenance",
+        "Date": "Saturday 16 March 2019",
+        "Time": "12.45pm to 3.15pm",
+        "Name": "Port Hills Reserves volunteer day",
+        "Address": "Eastside",
+        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
+        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
+        "Contact": "Di Carter",
+        "contact-phone": "03 941 7572 or 027 201 5653",
+        "contact-email": "Parks.Volunteers@ccc.govt.nz",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
+        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.620547,
-          -43.529087
+          172.643834,
+          -43.590906
         ]
-      },
-      "properties": {
-        "Park": "Christchurch Botanic Gardens",
-        "Activities": "Gardening, tour guiding and talks, plant propagation",
-        "Community Group": "Friends of the Christchurch Botanic Gardens",
-        "Contact": "Jeanette Christenson - Chair j-christensen@clear.net.nz",
-        "External website URL": "http://www.friendschchbotanicgardens.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/friends-of-bot-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.95979,
-          -43.812972
-        ]
-      },
-      "properties": {
-        "Park": "Garden of Tane",
-        "Activities": "Projects, planting, weeding, maintenance",
-        "Community Group": "Garden of Tane Reserve Management Committee",
-        "Contact": "",
-        "External website URL": "http://www.gardenoftane.co.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/garden-tane-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60399,
-          -43.461835
-        ]
-      },
-      "properties": {
-        "Park": "Styx River sites",
-        "Activities": "Water monitoring, bird monitoring, planting, education ",
-        "Community Group": "Styx Living Laboratory Trust",
-        "Contact": "Antony.shadbolt@ccc.govt.nz",
-        "External website URL": "https://www.thestyx.org.nz/styx",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/styx-lab-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.614168,
-          -43.663324
-        ]
-      },
-      "properties": {
-        "Park": "Port Hills",
-        "Activities": "Planting, restoration, reserve management",
-        "Community Group": "Summit Road Society",
-        "Contact": "secretary@summitroadsociety.org.nz",
-        "External website URL": "http://www.summitroadsociety.org.nz/",
-        "PhotoURL": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.678222,
-          -43.550331
-        ]
-      },
-      "properties": {
-        "Park": "Laura Kent Reserve ",
-        "Activities": "Maintenance, planting",
-        "Community Group": "Laura Kent Working Group",
-        "Contact": "",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/laura-kent-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.758103,
-          -43.566666
-        ]
-      },
-      "properties": {
-        "Park": "Sumner beach",
-        "Activities": "Dune management, bush restoration",
-        "Community Group": "Sumner Environment Group",
-        "Contact": "vickysouthworth@gmail.com",
-        "External website URL": "https://www.facebook.com/SumnerEnvironment/?fref=ts",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/sumner-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.697837,
-          -43.48473
-        ]
-      },
-      "properties": {
-        "Park": "Travis Wetland ",
-        "Activities": "Planting, weed busting",
-        "Community Group": "Travis Wetland Trust",
-        "Contact": "info@traviswetland.org.nz",
-        "External website URL": "http://traviswetland.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/travis-group-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.617426,
-          -43.572125
-        ]
-      },
-      "properties": {
-        "Park": "Ashgrove Reserve",
-        "Activities": "Planting, weeding, mulching",
-        "Community Group": "Lowe Cashmere Residents Association",
-        "Contact": "Suebye.bye@gmail.com",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ashgrove-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.613993,
-          -43.57881
-        ]
-      },
-      "properties": {
-        "Park": "Cashmere Stream",
-        "Activities": "Water quality monitoring",
-        "Community Group": "Cashmere Stream Care Group",
-        "Contact": "cashmerestreamcaregroup@gmail.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.682597,
-          -43.551769
-        ]
-      },
-      "properties": {
-        "Park": "Radley Park",
-        "Activities": "Community food hub in Roimata/Woolston; fruit trees",
-        "Community Group": "Roimata Food Commons",
-        "Contact": "",
-        "External website URL": "https://www.facebook.com/roimatafoodcommons/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Radley-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.634051,
-          -43.563484
-        ]
-      },
-      "properties": {
-        "Park": "Ernle Clarke Reserve",
-        "Activities": "Planting and weed control, bird monitoring",
-        "Community Group": "Friends of Ernle Clarke Reserve",
-        "Contact": "alice@caverock.net.nz",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ernle-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.662605,
-          -43.562475
-        ]
-      },
-      "properties": {
-        "Park": "King George V Reserve",
-        "Activities": "Maintenance ",
-        "Community Group": "King George V Working Group",
-        "Contact": "",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/KingGeorgeV-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.639278,
-          -43.560848
-        ]
-      },
-      "properties": {
-        "Park": "Heathcote River",
-        "Activities": "Advocacy and networking for river restoration",
-        "Community Group": "Ōpāwaho Heathcote River Network",
-        "Contact": "opawahoheathcote@gmail.com ",
-        "External website URL": "http://www.ohr.co.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Opawaho-river-network-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.724193,
-          -43.567342
-        ]
-      },
-      "properties": {
-        "Park": "Drayton Reserve",
-        "Activities": "Maintenance, planting",
-        "Community Group": "Drayton Reserve Volunteers",
-        "Contact": "ecosolutions@xtra.co.nz",
-        "External website URL": "https://www.draytonreservevolunteers.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Drayton-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.691251,
-          -43.57086
-        ]
-      },
-      "properties": {
-        "Park": "Duncan Park",
-        "Activities": "Maintenance, planting",
-        "Community Group": "Duncan Park Volunteers",
-        "Contact": "Amanda.black@ccc.govt.nz ",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/duncan-park-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.656724,
-          -43.462007
-        ]
-      },
-      "properties": {
-        "Park": "Roanga Medicinal Gardens",
-        "Activities": "Maintenance, planting, cultural harvest",
-        "Community Group": "Roanga Practitioners ",
-        "Contact": "antony.shadbolt@ccc.govt.nz",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.719643,
-          -43.502601
-        ]
-      },
-      "properties": {
-        "Park": "Rawhiti Domain",
-        "Activities": "Planting, advocating for nature play and butterflies",
-        "Community Group": "Guardians of Rawhiti Domain",
-        "Contact": "guardiansofrawhiti@gmail.com",
-        "External website URL": "https://www.facebook.com/GuardiansofRawhiti/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/rawhiti-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.687842,
-          -43.475911
-        ]
-      },
-      "properties": {
-        "Park": "Titirangi Reserve ",
-        "Activities": "Maintenance, planting",
-        "Community Group": "Friends of Titirangi Reserve ",
-        "Contact": "",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/titirangi-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.81553,
-          -43.786307
-        ]
-      },
-      "properties": {
-        "Park": "Okuti Valley ",
-        "Activities": "Maintenance, planting, restoration",
-        "Community Group": "Little River Wairewa Community Trust",
-        "Contact": "",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.660946,
-          -43.569603
-        ]
-      },
-      "properties": {
-        "Park": "Mt Vernon Farm Park",
-        "Activities": "Track maintenance, development ,planting ",
-        "Community Group": "Port Hills Park Board Trust",
-        "Contact": "christie.burrows@ccc.govt.nz",
-        "External website URL": "",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.54834,
-          -43.662575
-        ]
-      },
-      "properties": {
-        "Park": "Multiple sites around Banks Peninsula ",
-        "Activities": "Restoration, planting, maintenance, tui project",
-        "Community Group": "Banks Peninsula Conservation Trust",
-        "Contact": "enquiries@bpct.org.nz",
-        "External website URL": "http://www.bpct.org.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/banks-peninsula-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.617836,
-          -43.576392
-        ]
-      },
-      "properties": {
-        "Park": "Old Stone House    ",
-        "Activities": "Community facility management",
-        "Community Group": "Cracroft Community Centre Incorporated",
-        "Contact": "Cracroft Community Centre Incorporated",
-        "External website URL": "https://www.theoldstonehouse.co.nz/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/stonehouse-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630508,
-          -43.513497
-        ]
-      },
-      "properties": {
-        "Park": "Abberley Park ",
-        "Activities": "Community facility management, gardening, heritage rose pruning",
-        "Community Group": "Friends of Abberley Park",
-        "Contact": "Patricia Wallace - patricia.t.wallace@gmail.com",
-        "External website URL": "https://www.facebook.com/Friends-of-Abberley-Park-1067633789987213/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/abberleyroses-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.66032,
-          -43.51981
-        ]
-      },
-      "properties": {
-        "Park": "Avebury Park",
-        "Activities": "Community facility management, gardening",
-        "Community Group": "Avebury Community Garden",
-        "Contact": "admin@aveburyhouse.co.nz",
-        "External website URL": "http://www.aveburyhouse.co.nz/richmond-community-garden.html",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/avebury-250.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.609021,
-          -43.523538
-        ]
-      },
-      "properties": {
-        "Park": "Mona Vale and the Christchurch Botanic Gardens",
-        "Activities": "Rose pruning and maintenance",
-        "Community Group": "Heritage Rose Society",
-        "Contact": "rosepeople@paradise.net.nz ",
-        "External website URL": "http://www.nzroses.org.nz/canterbury/",
-        "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Heritage-Roses.jpg"
       }
     }
   ]
