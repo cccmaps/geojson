@@ -96,7 +96,7 @@
         "FinishDate": "26/04/2019",
         "Status": "Planning",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "Standby chlorine (high water use only)"
       },
       "geometry": {
         "type": "Point",
@@ -151,27 +151,6 @@
     {
       "type": "Feature",
       "properties": {
-        "PumpStationName": "Bexley",
-        "Zone": "Rawhiti",
-        "NumberOfWells": 2,
-        "Improvements": "Replace with Ben Rarere pump station",
-        "StartDate": "",
-        "FinishDate": "",
-        "Status": "Work in progress",
-        "PercetangeContribution": "0.00%",
-        "ChlorinationDose": "1 part per million"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.7146,
-          -43.5112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "PumpStationName": "Blighs ",
         "Zone": "Central",
         "NumberOfWells": 2,
@@ -180,7 +159,7 @@
         "FinishDate": "13/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.10%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +285,7 @@
         "FinishDate": "14/06/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "50.60%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -327,34 +306,13 @@
         "FinishDate": "31/05/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.00%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.5707,
           -43.5712
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Dyers",
-        "Zone": "Lyttelton",
-        "NumberOfWells": 1,
-        "Improvements": "Considering relocation",
-        "StartDate": "To be announced",
-        "FinishDate": "",
-        "Status": "Planning",
-        "PercetangeContribution": "0.00%",
-        "ChlorinationDose": "1 part per million"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6981,
-          -43.5445
         ]
       }
     },
@@ -369,7 +327,7 @@
         "FinishDate": "11/10/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +453,7 @@
         "FinishDate": "17/05/2019",
         "Status": "Planning",
         "PercetangeContribution": "5.50%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +726,7 @@
         "FinishDate": "30/04/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -978,7 +936,7 @@
         "FinishDate": "26/07/2019",
         "Status": "Planning",
         "PercetangeContribution": "1.50%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1041,7 @@
         "FinishDate": "10/05/2019",
         "Status": "Planning",
         "PercetangeContribution": "44%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
