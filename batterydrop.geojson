@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "EcoDrop Metro Place Recycling Centre",
+        "Site Address": "40 Metro Place (off Dyers Road)",
+        "Site Type": "EcoDrop",
+        "Collection Site Hours": "Mon to Sun 7am to 4:30pm. Closed on Good Friday, ANZAC Day, Christmas Day, Boxing Day and New Year's Day.",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707698,
+          -43.537508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "EcoDrop Parkhouse Recycling Centre",
+        "Site Address": "25 Parkhouse Road",
+        "Site Type": "EcoDrop",
+        "Collection Site Hours": "Mon to Sun 7am to 4:30pm. Closed on: Good Friday, ANZAC Day, Christmas Day, Boxing Day and New Year's Day.",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.562378,
+          -43.544104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "Bunnings Tower Junction",
+        "Site Address": "64 Blenheim Road",
+        "Site Type": "Hardware Store",
+        "Collection Site Hours": "Mon to Fri 7am to 9pm, Sat to Sun 7am to 7pm.",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608257,
+          -43.538501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "EcoDrop Styx Mill Recycling Centre",
+        "Site Address": "76 Styx Mill Road (off Main North Road)",
+        "Site Type": "EcoDrop",
+        "Collection Site Hours": "Mon to Sun 7am to 4:30pm. Closed on: Good Friday, ANZAC Day, Christmas Day, Boxing Day and New Year's Day.",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612676,
+          -43.466976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "Mitre 10 Papanui",
+        "Site Address": "54 Harewood Road",
+        "Site Type": "Hardware Store",
+        "Collection Site Hours": "Mon to Fri  7am to 7pm, Sat to Sun 8am to 6pm",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605291,
+          -43.494739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site Name": "New World Durham Street",
+        "Site Address": "175 Durham Street",
+        "Site Type": "Supermarket",
+        "Collection Site Hours": "This site will start collecting batteries later in May 2019.",
+        "Before You Visit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
+        "On Site": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
+        "For Further Information": "www.ccc.govt.nz/BatteryRecycling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633296,
+          -43.539293
+        ]
+      }
+    }
+  ]
+}
