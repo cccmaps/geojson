@@ -9654,7 +9654,7 @@
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
         "RouteHierarchy": "Primary",
-        "RouteSharedUse": "",
+        "RouteSharedUse": "No",
         "RouteWarning": "",
         "RouteArea": "City Centre",
         "RoutePlace": "",
