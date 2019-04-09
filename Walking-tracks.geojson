@@ -19609,6 +19609,1138 @@
         "type": "LineString",
         "coordinates": [
           [
+            172.6476029,
+            -43.5624764
+          ],
+          [
+            172.6474242,
+            -43.5623918
+          ],
+          [
+            172.6473057,
+            -43.5622849
+          ],
+          [
+            172.6472675,
+            -43.5621648
+          ],
+          [
+            172.6473328,
+            -43.5619585
+          ],
+          [
+            172.6473322,
+            -43.5616771
+          ],
+          [
+            172.6473135,
+            -43.5613506
+          ],
+          [
+            172.6472596,
+            -43.5611689
+          ],
+          [
+            172.6472877,
+            -43.5610658
+          ],
+          [
+            172.6474073,
+            -43.5609779
+          ],
+          [
+            172.6475472,
+            -43.5609333
+          ],
+          [
+            172.6477785,
+            -43.5609307
+          ],
+          [
+            172.6478208,
+            -43.5609253
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1179,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "No ",
+        "RouteWarning": "",
+        "RouteArea": "Plains and Wetlands",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "Heathcote River Trail",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 180,
+        "RouteDistance": 14500,
+        "drvRouteTravelTime": "3 hours ",
+        "drvRouteDistance": "14.5 km",
+        "Comment": "",
+        "Description": "Follow the Heathcote River from the base of the Port Hills all the way out to the sea. The river meanders through numerous parks and reserves making it an attractive walk or ride through the eastern city. Create a walk out of your favourite section or set a challenge to complete the entire length. Many sections are shared use so watch out for cyclists who may be sharing the path with you.",
+        "InternetURL": "",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6478208,
+            -43.5609253
+          ],
+          [
+            172.6479136,
+            -43.5609134
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1180,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "No ",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "Plains and Wetlands",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "Heathcote River Trail",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 180,
+        "RouteDistance": 14500,
+        "drvRouteTravelTime": "3 hours ",
+        "drvRouteDistance": "14.5 km",
+        "Comment": "",
+        "Description": "Follow the Heathcote River from the base of the Port Hills all the way out to the sea. The river meanders through numerous parks and reserves making it an attractive walk or ride through the eastern city. Create a walk out of your favourite section or set a challenge to complete the entire length. Many sections are shared use so watch out for cyclists who may be sharing the path with you.",
+        "InternetURL": "",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6101157,
+            -43.4668615
+          ],
+          [
+            172.6103191,
+            -43.4668169
+          ],
+          [
+            172.6104324,
+            -43.4667624
+          ],
+          [
+            172.610571,
+            -43.4666806
+          ],
+          [
+            172.6106719,
+            -43.4666079
+          ],
+          [
+            172.610844,
+            -43.4665049
+          ],
+          [
+            172.6110201,
+            -43.4664354
+          ],
+          [
+            172.6111751,
+            -43.4664116
+          ],
+          [
+            172.6113549,
+            -43.4664122
+          ],
+          [
+            172.6115847,
+            -43.4664495
+          ],
+          [
+            172.6117769,
+            -43.4664837
+          ],
+          [
+            172.6119692,
+            -43.4665087
+          ],
+          [
+            172.6120737,
+            -43.4665151
+          ],
+          [
+            172.6121906,
+            -43.4665521
+          ],
+          [
+            172.6122908,
+            -43.4665829
+          ],
+          [
+            172.6124078,
+            -43.4665924
+          ],
+          [
+            172.6126128,
+            -43.4665992
+          ],
+          [
+            172.6128555,
+            -43.4665787
+          ],
+          [
+            172.6130983,
+            -43.466543
+          ],
+          [
+            172.6132532,
+            -43.4665283
+          ],
+          [
+            172.6133953,
+            -43.4665379
+          ],
+          [
+            172.6134872,
+            -43.4665565
+          ],
+          [
+            172.6136163,
+            -43.4666544
+          ],
+          [
+            172.613716,
+            -43.4667553
+          ],
+          [
+            172.6138408,
+            -43.4668654
+          ],
+          [
+            172.6140366,
+            -43.4670001
+          ],
+          [
+            172.6142115,
+            -43.4671104
+          ],
+          [
+            172.6143867,
+            -43.4671993
+          ],
+          [
+            172.6145118,
+            -43.4672546
+          ],
+          [
+            172.614612,
+            -43.4672884
+          ],
+          [
+            172.6146704,
+            -43.467313
+          ],
+          [
+            172.6147078,
+            -43.4673436
+          ],
+          [
+            172.6147999,
+            -43.4673348
+          ],
+          [
+            172.6148962,
+            -43.467329
+          ],
+          [
+            172.6150508,
+            -43.4673447
+          ],
+          [
+            172.6152138,
+            -43.4673727
+          ],
+          [
+            172.6153348,
+            -43.4674219
+          ],
+          [
+            172.6152796,
+            -43.4675405
+          ],
+          [
+            172.6153713,
+            -43.4676017
+          ],
+          [
+            172.6155176,
+            -43.4676205
+          ],
+          [
+            172.6160794,
+            -43.4674122
+          ],
+          [
+            172.6162935,
+            -43.467291
+          ],
+          [
+            172.6167009,
+            -43.4670304
+          ],
+          [
+            172.6168435,
+            -43.466973
+          ],
+          [
+            172.6169652,
+            -43.4669033
+          ],
+          [
+            172.6170115,
+            -43.4668578
+          ],
+          [
+            172.6169324,
+            -43.4667905
+          ],
+          [
+            172.616866,
+            -43.4667171
+          ],
+          [
+            172.6165246,
+            -43.4664692
+          ],
+          [
+            172.6165248,
+            -43.4664357
+          ],
+          [
+            172.6164707,
+            -43.4663898
+          ],
+          [
+            172.6164501,
+            -43.4663441
+          ],
+          [
+            172.6163876,
+            -43.4662951
+          ],
+          [
+            172.6160544,
+            -43.4660746
+          ],
+          [
+            172.6159169,
+            -43.4659919
+          ],
+          [
+            172.6158089,
+            -43.4658758
+          ],
+          [
+            172.6157262,
+            -43.4657232
+          ],
+          [
+            172.6157104,
+            -43.4655738
+          ],
+          [
+            172.615762,
+            -43.4653486
+          ],
+          [
+            172.6157628,
+            -43.4652267
+          ],
+          [
+            172.6157257,
+            -43.4651413
+          ],
+          [
+            172.6155228,
+            -43.4648146
+          ],
+          [
+            172.6154899,
+            -43.46472
+          ],
+          [
+            172.6154531,
+            -43.464592
+          ],
+          [
+            172.6153993,
+            -43.4645034
+          ],
+          [
+            172.6153452,
+            -43.4644515
+          ],
+          [
+            172.6153164,
+            -43.4643843
+          ],
+          [
+            172.6151551,
+            -43.4640944
+          ],
+          [
+            172.615052,
+            -43.4638625
+          ],
+          [
+            172.6148619,
+            -43.4634932
+          ],
+          [
+            172.6147755,
+            -43.4632705
+          ],
+          [
+            172.6146936,
+            -43.462996
+          ],
+          [
+            172.6146648,
+            -43.4629198
+          ],
+          [
+            172.6146063,
+            -43.4629074
+          ],
+          [
+            172.6145437,
+            -43.4628919
+          ],
+          [
+            172.6144811,
+            -43.4628704
+          ],
+          [
+            172.6143772,
+            -43.4627604
+          ],
+          [
+            172.6142941,
+            -43.4626839
+          ],
+          [
+            172.6141816,
+            -43.4626135
+          ],
+          [
+            172.6140233,
+            -43.4625094
+          ],
+          [
+            172.61389,
+            -43.4624267
+          ],
+          [
+            172.6137107,
+            -43.4623407
+          ],
+          [
+            172.6135105,
+            -43.4622578
+          ],
+          [
+            172.6133895,
+            -43.4621965
+          ],
+          [
+            172.6133064,
+            -43.4621231
+          ],
+          [
+            172.6132689,
+            -43.4620986
+          ],
+          [
+            172.613177,
+            -43.4620769
+          ],
+          [
+            172.6130097,
+            -43.4620703
+          ],
+          [
+            172.6129177,
+            -43.46207
+          ],
+          [
+            172.6127674,
+            -43.4620238
+          ],
+          [
+            172.6126673,
+            -43.461993
+          ],
+          [
+            172.6125922,
+            -43.4619653
+          ],
+          [
+            172.612475,
+            -43.4619771
+          ],
+          [
+            172.6123283,
+            -43.4620223
+          ],
+          [
+            172.6121649,
+            -43.4620674
+          ],
+          [
+            172.6116791,
+            -43.4621572
+          ],
+          [
+            172.6115073,
+            -43.4622114
+          ],
+          [
+            172.6113099,
+            -43.4623387
+          ],
+          [
+            172.6112089,
+            -43.4624359
+          ],
+          [
+            172.6110122,
+            -43.4624596
+          ],
+          [
+            172.6108487,
+            -43.4625199
+          ],
+          [
+            172.6106426,
+            -43.4626898
+          ],
+          [
+            172.6105209,
+            -43.4627595
+          ],
+          [
+            172.6104455,
+            -43.4627775
+          ],
+          [
+            172.6103243,
+            -43.4627649
+          ],
+          [
+            172.6101031,
+            -43.4626819
+          ],
+          [
+            172.6097403,
+            -43.4625222
+          ],
+          [
+            172.6095816,
+            -43.4624791
+          ],
+          [
+            172.6093183,
+            -43.4624477
+          ],
+          [
+            172.6090842,
+            -43.4624347
+          ],
+          [
+            172.6089044,
+            -43.4624249
+          ],
+          [
+            172.6086579,
+            -43.4623815
+          ],
+          [
+            172.6085036,
+            -43.4623109
+          ],
+          [
+            172.6084119,
+            -43.4622648
+          ],
+          [
+            172.6082949,
+            -43.462237
+          ],
+          [
+            172.6080942,
+            -43.4622302
+          ],
+          [
+            172.6079396,
+            -43.4622053
+          ],
+          [
+            172.6078518,
+            -43.4621959
+          ],
+          [
+            172.6076971,
+            -43.4621893
+          ],
+          [
+            172.6076386,
+            -43.4621921
+          ],
+          [
+            172.6074961,
+            -43.4622343
+          ],
+          [
+            172.6073576,
+            -43.4623008
+          ],
+          [
+            172.6071565,
+            -43.4623489
+          ],
+          [
+            172.6065333,
+            -43.4623498
+          ],
+          [
+            172.6062282,
+            -43.4623244
+          ],
+          [
+            172.605781,
+            -43.4622649
+          ],
+          [
+            172.6053213,
+            -43.4622024
+          ],
+          [
+            172.6050623,
+            -43.4621619
+          ],
+          [
+            172.6047868,
+            -43.4620726
+          ],
+          [
+            172.6045114,
+            -43.4619772
+          ],
+          [
+            172.6044196,
+            -43.4619434
+          ],
+          [
+            172.6043569,
+            -43.4619432
+          ],
+          [
+            172.6041181,
+            -43.4619972
+          ],
+          [
+            172.6039717,
+            -43.4619967
+          ],
+          [
+            172.6037419,
+            -43.4619624
+          ],
+          [
+            172.6036792,
+            -43.4619622
+          ],
+          [
+            172.6033273,
+            -43.4620432
+          ],
+          [
+            172.6033063,
+            -43.4620614
+          ],
+          [
+            172.6031754,
+            -43.4622407
+          ],
+          [
+            172.6030284,
+            -43.4623346
+          ],
+          [
+            172.6030114,
+            -43.4623833
+          ],
+          [
+            172.6029943,
+            -43.4624411
+          ],
+          [
+            172.6028427,
+            -43.4625899
+          ],
+          [
+            172.6027124,
+            -43.46269
+          ],
+          [
+            172.6026622,
+            -43.4627276
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1181,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Connector",
+        "RouteSharedUse": "",
+        "RouteWarning": "",
+        "RouteArea": "",
+        "RoutePlace": "",
+        "RouteDogRestriction": "",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "",
+        "RouteSegmentName": "",
+        "RouteTravelTime": "",
+        "RouteDistance": "",
+        "drvRouteTravelTime": "",
+        "drvRouteDistance": "",
+        "Comment": "",
+        "Description": "",
+        "InternetURL": "",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6286665,
+            -43.4651118
+          ],
+          [
+            172.6286444,
+            -43.4650378
+          ],
+          [
+            172.6286015,
+            -43.4649939
+          ],
+          [
+            172.6285566,
+            -43.4649609
+          ],
+          [
+            172.6285079,
+            -43.4649361
+          ],
+          [
+            172.6284123,
+            -43.4649071
+          ],
+          [
+            172.6282679,
+            -43.4648807
+          ],
+          [
+            172.6282191,
+            -43.4648737
+          ],
+          [
+            172.6281309,
+            -43.4648597
+          ],
+          [
+            172.628071,
+            -43.4648349
+          ],
+          [
+            172.6280318,
+            -43.4648033
+          ],
+          [
+            172.6279889,
+            -43.4647512
+          ],
+          [
+            172.6279723,
+            -43.4647019
+          ],
+          [
+            172.6279708,
+            -43.4646376
+          ],
+          [
+            172.6279655,
+            -43.4645801
+          ],
+          [
+            172.6279432,
+            -43.4645513
+          ],
+          [
+            172.6278926,
+            -43.4645238
+          ],
+          [
+            172.6278232,
+            -43.4645112
+          ],
+          [
+            172.6277443,
+            -43.464511
+          ],
+          [
+            172.6276654,
+            -43.4645217
+          ],
+          [
+            172.6275262,
+            -43.4645527
+          ],
+          [
+            172.6274171,
+            -43.4645838
+          ],
+          [
+            172.6273344,
+            -43.4645999
+          ],
+          [
+            172.6272592,
+            -43.4646052
+          ],
+          [
+            172.6271861,
+            -43.4645967
+          ],
+          [
+            172.6271111,
+            -43.4645719
+          ],
+          [
+            172.62707,
+            -43.4645403
+          ],
+          [
+            172.6270404,
+            -43.4644636
+          ],
+          [
+            172.6270029,
+            -43.4644566
+          ],
+          [
+            172.6269052,
+            -43.464459
+          ],
+          [
+            172.6268507,
+            -43.4644684
+          ],
+          [
+            172.6268055,
+            -43.4644847
+          ],
+          [
+            172.6267508,
+            -43.4645324
+          ],
+          [
+            172.6266696,
+            -43.464595
+          ],
+          [
+            172.6266149,
+            -43.4646318
+          ],
+          [
+            172.6265641,
+            -43.4646508
+          ],
+          [
+            172.6265284,
+            -43.4646507
+          ],
+          [
+            172.6264872,
+            -43.4646396
+          ],
+          [
+            172.6264106,
+            -43.464575
+          ],
+          [
+            172.6263769,
+            -43.4645503
+          ],
+          [
+            172.6263563,
+            -43.4645489
+          ],
+          [
+            172.6263035,
+            -43.4645843
+          ],
+          [
+            172.6261921,
+            -43.4646755
+          ],
+          [
+            172.6261015,
+            -43.4647518
+          ],
+          [
+            172.6260655,
+            -43.4648023
+          ],
+          [
+            172.6260238,
+            -43.4648583
+          ],
+          [
+            172.6259331,
+            -43.4649537
+          ],
+          [
+            172.6258652,
+            -43.4650041
+          ],
+          [
+            172.6257654,
+            -43.4650517
+          ],
+          [
+            172.6256111,
+            -43.4650895
+          ],
+          [
+            172.6254343,
+            -43.465134
+          ],
+          [
+            172.6252707,
+            -43.4651677
+          ],
+          [
+            172.6251898,
+            -43.4651907
+          ],
+          [
+            172.6251446,
+            -43.4652247
+          ],
+          [
+            172.625086,
+            -43.4652752
+          ],
+          [
+            172.6250427,
+            -43.465301
+          ],
+          [
+            172.6249637,
+            -43.4653172
+          ],
+          [
+            172.6248924,
+            -43.4653156
+          ],
+          [
+            172.6247498,
+            -43.4652918
+          ],
+          [
+            172.6245883,
+            -43.4652872
+          ],
+          [
+            172.624316,
+            -43.4652877
+          ],
+          [
+            172.6242146,
+            -43.4652778
+          ],
+          [
+            172.6240965,
+            -43.4652473
+          ],
+          [
+            172.6240103,
+            -43.4652101
+          ],
+          [
+            172.6239506,
+            -43.4651593
+          ],
+          [
+            172.6238945,
+            -43.4651126
+          ],
+          [
+            172.6238232,
+            -43.4651
+          ],
+          [
+            172.6238007,
+            -43.4651054
+          ],
+          [
+            172.6237817,
+            -43.4651327
+          ],
+          [
+            172.6237247,
+            -43.4652338
+          ],
+          [
+            172.6236718,
+            -43.4652897
+          ],
+          [
+            172.6235908,
+            -43.4653332
+          ],
+          [
+            172.6235343,
+            -43.4653521
+          ],
+          [
+            172.623508,
+            -43.4653548
+          ],
+          [
+            172.6234368,
+            -43.4653327
+          ],
+          [
+            172.6233619,
+            -43.4653037
+          ],
+          [
+            172.6232906,
+            -43.4652884
+          ],
+          [
+            172.6232568,
+            -43.4652883
+          ],
+          [
+            172.6232097,
+            -43.4653114
+          ],
+          [
+            172.6230985,
+            -43.4653781
+          ],
+          [
+            172.6230514,
+            -43.4654053
+          ],
+          [
+            172.6229799,
+            -43.4654242
+          ],
+          [
+            172.6229235,
+            -43.4654254
+          ],
+          [
+            172.6228859,
+            -43.4654293
+          ],
+          [
+            172.622852,
+            -43.4654538
+          ],
+          [
+            172.6228365,
+            -43.4655304
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1182,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "Plains and Wetlands",
+        "RoutePlace": "",
+        "RouteDogRestriction": "Under Effective Control",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "Styx River Esplanade Reserve",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 800,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "800 m",
+        "Comment": "",
+        "Description": "A walking track follows along the river’s edge from the playground to the springs, past ponds and through native plantings. Allow approximately 30 minutes to explore and return.",
+        "InternetURL": "https://ccc.govt.nz/styx-river-esplanade-reserve/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1NSwzODBd/Redwood-springs-1125.jpg",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             172.6869729,
             -43.4819503
           ],
@@ -45179,6 +46311,547 @@
         "Description": "The track starts beside the Governors Bay jetty at the end of Jetty Road.  It's a gentle stroll around the harbour foreshore along a wide, gravelled track and is suitable for all ages and fitness levels.",
         "InternetURL": "https://ccc.govt.nz/governors-bay-foreshore-track/",
         "PhotoURL": "https://ccc.govt.nz/assets/Uploads/governorsbay300.jpg",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6238119,
+            -43.4651027
+          ],
+          [
+            172.6237408,
+            -43.4650669
+          ],
+          [
+            172.6235626,
+            -43.4650376
+          ],
+          [
+            172.6234538,
+            -43.4650072
+          ],
+          [
+            172.6233565,
+            -43.4649535
+          ],
+          [
+            172.6232855,
+            -43.4648944
+          ],
+          [
+            172.6232258,
+            -43.4648259
+          ],
+          [
+            172.6231793,
+            -43.4647669
+          ],
+          [
+            172.6231531,
+            -43.4647504
+          ],
+          [
+            172.6231305,
+            -43.4647517
+          ],
+          [
+            172.6231078,
+            -43.464779
+          ],
+          [
+            172.6230645,
+            -43.4648062
+          ],
+          [
+            172.6229893,
+            -43.46481
+          ],
+          [
+            172.6229462,
+            -43.4647962
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1183,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "Plains and Wetlands",
+        "RoutePlace": "Styx Mill",
+        "RouteDogRestriction": "",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "Styx River Esplanade Reserve",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 800,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "800 m",
+        "Comment": "",
+        "Description": "A walking track follows along the river’s edge from the playground to the springs, past ponds and through native plantings. Allow approximately 30 minutes to explore and return.",
+        "InternetURL": "https://ccc.govt.nz/styx-river-esplanade-reserve/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1NSwzODBd/Redwood-springs-1125.jpg",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6282435,
+            -43.4648772
+          ],
+          [
+            172.6282643,
+            -43.4648574
+          ],
+          [
+            172.6283057,
+            -43.464837
+          ],
+          [
+            172.6283454,
+            -43.4647975
+          ],
+          [
+            172.6283757,
+            -43.4647579
+          ],
+          [
+            172.6284022,
+            -43.4647306
+          ],
+          [
+            172.6284286,
+            -43.4647143
+          ],
+          [
+            172.6284587,
+            -43.4646952
+          ],
+          [
+            172.6285095,
+            -43.464679
+          ],
+          [
+            172.6285527,
+            -43.464675
+          ],
+          [
+            172.6286109,
+            -43.4646848
+          ],
+          [
+            172.6286409,
+            -43.4646958
+          ],
+          [
+            172.6286822,
+            -43.4646932
+          ],
+          [
+            172.6287367,
+            -43.4646838
+          ],
+          [
+            172.6287763,
+            -43.4646648
+          ],
+          [
+            172.6288121,
+            -43.4646471
+          ],
+          [
+            172.6288272,
+            -43.4646226
+          ],
+          [
+            172.6288369,
+            -43.4645816
+          ],
+          [
+            172.628809,
+            -43.464535
+          ],
+          [
+            172.6287848,
+            -43.4645007
+          ],
+          [
+            172.6287738,
+            -43.4644596
+          ],
+          [
+            172.6287666,
+            -43.4644104
+          ],
+          [
+            172.6287537,
+            -43.4643583
+          ],
+          [
+            172.628741,
+            -43.4643008
+          ],
+          [
+            172.6287112,
+            -43.4642556
+          ],
+          [
+            172.6286776,
+            -43.4642227
+          ],
+          [
+            172.6286122,
+            -43.4641609
+          ],
+          [
+            172.6285468,
+            -43.4641197
+          ],
+          [
+            172.6284905,
+            -43.4641058
+          ],
+          [
+            172.628438,
+            -43.4640974
+          ],
+          [
+            172.628376,
+            -43.4640986
+          ],
+          [
+            172.6283365,
+            -43.4641026
+          ],
+          [
+            172.6283008,
+            -43.4641161
+          ],
+          [
+            172.6282839,
+            -43.4641147
+          ],
+          [
+            172.6282727,
+            -43.4640955
+          ],
+          [
+            172.6282151,
+            -43.4640023
+          ],
+          [
+            172.6281722,
+            -43.4639557
+          ],
+          [
+            172.6280935,
+            -43.463928
+          ],
+          [
+            172.6279979,
+            -43.4638922
+          ],
+          [
+            172.6279079,
+            -43.4638755
+          ],
+          [
+            172.6278159,
+            -43.4638724
+          ],
+          [
+            172.6277163,
+            -43.4638844
+          ],
+          [
+            172.6276241,
+            -43.463906
+          ],
+          [
+            172.627419,
+            -43.4639696
+          ],
+          [
+            172.6271593,
+            -43.4640563
+          ],
+          [
+            172.6269541,
+            -43.4641418
+          ],
+          [
+            172.6268354,
+            -43.4642044
+          ],
+          [
+            172.6266846,
+            -43.4642969
+          ],
+          [
+            172.6265542,
+            -43.4644237
+          ],
+          [
+            172.6264468,
+            -43.4644835
+          ],
+          [
+            172.6263563,
+            -43.4645489
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1184,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "Plains and Wetlands",
+        "RoutePlace": "Styx Mill",
+        "RouteDogRestriction": "",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "Styx River Esplanade Reserve",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 800,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "800 m",
+        "Comment": "",
+        "Description": "A walking track follows along the river’s edge from the playground to the springs, past ponds and through native plantings. Allow approximately 30 minutes to explore and return.",
+        "InternetURL": "https://ccc.govt.nz/styx-river-esplanade-reserve/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/ImagesNov/_resampled/ResizedImageWzg1NSwzODBd/Redwood-springs-1125.jpg",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.627554,
+            -43.5341142
+          ],
+          [
+            172.6278656,
+            -43.5342271
+          ],
+          [
+            172.6284655,
+            -43.5344665
+          ],
+          [
+            172.6288937,
+            -43.5345798
+          ],
+          [
+            172.6294014,
+            -43.5346628
+          ],
+          [
+            172.6303421,
+            -43.5348151
+          ],
+          [
+            172.6304819,
+            -43.5348325
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1185,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6304819,
+            -43.5348325
+          ],
+          [
+            172.6307521,
+            -43.5348503
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1186,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6307521,
+            -43.5348503
+          ],
+          [
+            172.6308407,
+            -43.5348574
+          ],
+          [
+            172.6310272,
+            -43.5348512
+          ],
+          [
+            172.6311485,
+            -43.5348381
+          ],
+          [
+            172.6312978,
+            -43.5348148
+          ],
+          [
+            172.6314989,
+            -43.5347171
+          ],
+          [
+            172.6317655,
+            -43.5345653
+          ],
+          [
+            172.6322007,
+            -43.5342886
+          ],
+          [
+            172.632341,
+            -43.5342145
+          ],
+          [
+            172.6325331,
+            -43.5341849
+          ],
+          [
+            172.6327304,
+            -43.5341916
+          ],
+          [
+            172.6328671,
+            -43.5341909
+          ],
+          [
+            172.6331419,
+            -43.5342028
+          ],
+          [
+            172.6333527,
+            -43.5342183
+          ],
+          [
+            172.6334203,
+            -43.5341926
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1187,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
         "TrackSAPEquipmentID": ""
       }
     },
@@ -157378,6 +159051,665 @@
         "type": "LineString",
         "coordinates": [
           [
+            172.6334203,
+            -43.5341926
+          ],
+          [
+            172.6335929,
+            -43.534111
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1188,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6335929,
+            -43.534111
+          ],
+          [
+            172.6336244,
+            -43.5332214
+          ],
+          [
+            172.6337106,
+            -43.5328351
+          ],
+          [
+            172.6337639,
+            -43.5325063
+          ],
+          [
+            172.6337708,
+            -43.5321366
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1189,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6337708,
+            -43.5321366
+          ],
+          [
+            172.6337766,
+            -43.5319535
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1190,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6337766,
+            -43.5319535
+          ],
+          [
+            172.6338284,
+            -43.5318077
+          ],
+          [
+            172.6338293,
+            -43.5311702
+          ],
+          [
+            172.6338295,
+            -43.5310311
+          ],
+          [
+            172.6338113,
+            -43.5308411
+          ],
+          [
+            172.6338179,
+            -43.5305189
+          ],
+          [
+            172.6338514,
+            -43.53038
+          ],
+          [
+            172.6340533,
+            -43.5301263
+          ],
+          [
+            172.6342549,
+            -43.5299438
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1191,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.636553,
+            -43.5276109
+          ],
+          [
+            172.6367722,
+            -43.527598
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1197,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6367722,
+            -43.527598
+          ],
+          [
+            172.6374107,
+            -43.5276068
+          ],
+          [
+            172.6375364,
+            -43.527631
+          ],
+          [
+            172.6377865,
+            -43.5279065
+          ],
+          [
+            172.6380185,
+            -43.5280802
+          ],
+          [
+            172.6383677,
+            -43.5281593
+          ],
+          [
+            172.6387633,
+            -43.5282589
+          ],
+          [
+            172.6391126,
+            -43.5283075
+          ],
+          [
+            172.639504,
+            -43.5283291
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1198,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6342549,
+            -43.5299438
+          ],
+          [
+            172.6343675,
+            -43.529822
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1192,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6343675,
+            -43.529822
+          ],
+          [
+            172.6346147,
+            -43.529613
+          ],
+          [
+            172.6346972,
+            -43.5295072
+          ],
+          [
+            172.6347763,
+            -43.5293925
+          ],
+          [
+            172.6348243,
+            -43.5293113
+          ],
+          [
+            172.6349747,
+            -43.528854
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1193,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6349747,
+            -43.528854
+          ],
+          [
+            172.6350268,
+            -43.5287117
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1194,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "On road be aware of traffic",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6350268,
+            -43.5287117
+          ],
+          [
+            172.6351489,
+            -43.5285662
+          ],
+          [
+            172.6351564,
+            -43.5284311
+          ],
+          [
+            172.6351556,
+            -43.5283193
+          ],
+          [
+            172.6352079,
+            -43.5282119
+          ],
+          [
+            172.6353177,
+            -43.5281036
+          ],
+          [
+            172.6353991,
+            -43.5280413
+          ],
+          [
+            172.63556,
+            -43.527945
+          ],
+          [
+            172.6356751,
+            -43.527876
+          ],
+          [
+            172.6358291,
+            -43.5278262
+          ],
+          [
+            172.6359256,
+            -43.5277785
+          ],
+          [
+            172.636028,
+            -43.5277078
+          ],
+          [
+            172.6361287,
+            -43.5276621
+          ],
+          [
+            172.6362596,
+            -43.5276302
+          ],
+          [
+            172.6364205,
+            -43.5276171
+          ],
+          [
+            172.636553,
+            -43.5276109
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1195,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.636553,
+            -43.5276109
+          ],
+          [
+            172.6365281,
+            -43.5286486
+          ],
+          [
+            172.6364673,
+            -43.5286891
+          ],
+          [
+            172.636071,
+            -43.5286981
+          ],
+          [
+            172.6358798,
+            -43.5287246
+          ],
+          [
+            172.6357259,
+            -43.5287343
+          ],
+          [
+            172.6352831,
+            -43.5287295
+          ],
+          [
+            172.6350201,
+            -43.5287299
+          ]
+        ]
+      },
+      "properties": {
+        "RouteID": 1196,
+        "RouteServiceStatus": "Open",
+        "RouteLandOwnership": "CCC",
+        "RouteTraffic": "Walk",
+        "WalkClassification": "Walking Track",
+        "MountainBikeClassification": "",
+        "RouteHierarchy": "Primary",
+        "RouteSharedUse": "Yes",
+        "RouteWarning": "",
+        "RouteArea": "City Centre",
+        "RoutePlace": "",
+        "RouteDogRestriction": "On Lead",
+        "DogRestrictionStartDay": "",
+        "DogRestrictionStartMonth": "",
+        "DogRestrictionFinishDay": "",
+        "DogRestrictionFinishMonth": "",
+        "RouteName": "City Promenade",
+        "RouteSegmentName": "",
+        "RouteTravelTime": 30,
+        "RouteDistance": 2000,
+        "drvRouteTravelTime": "30 minutes",
+        "drvRouteDistance": "2 km",
+        "Comment": "",
+        "Description": "Starting from the hospital, Oxford Terrace has become a broad, paved area for pedestrians and cyclists. With native plantings and riverside beauty to one side, and cafes, bars, attractions to the other, this walk is the perfect way to get to know Christchurch’s city centre a little better. The promenade finishes at the other end of Oxford Terrace, past the Margaret Mahy playground.",
+        "InternetURL": "https://ccc.govt.nz/city-promenade/",
+        "PhotoURL": "",
+        "TrackSAPEquipmentID": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             172.6787716,
             -43.5476614
           ],
@@ -159113,140 +161445,6 @@
         "RouteHierarchy": "Primary",
         "RouteSharedUse": "No ",
         "RouteWarning": "",
-        "RouteArea": "Plains and Wetlands",
-        "RoutePlace": "",
-        "RouteDogRestriction": "On Lead",
-        "DogRestrictionStartDay": "",
-        "DogRestrictionStartMonth": "",
-        "DogRestrictionFinishDay": "",
-        "DogRestrictionFinishMonth": "",
-        "RouteName": "Heathcote River Trail",
-        "RouteSegmentName": "",
-        "RouteTravelTime": 180,
-        "RouteDistance": 14500,
-        "drvRouteTravelTime": "3 hours ",
-        "drvRouteDistance": "14.5 km",
-        "Comment": "",
-        "Description": "Follow the Heathcote River from the base of the Port Hills all the way out to the sea. The river meanders through numerous parks and reserves making it an attractive walk or ride through the eastern city. Create a walk out of your favourite section or set a challenge to complete the entire length. Many sections are shared use so watch out for cyclists who may be sharing the path with you.",
-        "InternetURL": "",
-        "PhotoURL": "",
-        "TrackSAPEquipmentID": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6476029,
-            -43.5624764
-          ],
-          [
-            172.6474242,
-            -43.5623918
-          ],
-          [
-            172.6473057,
-            -43.5622849
-          ],
-          [
-            172.6472675,
-            -43.5621648
-          ],
-          [
-            172.6473328,
-            -43.5619585
-          ],
-          [
-            172.6473322,
-            -43.5616771
-          ],
-          [
-            172.6473135,
-            -43.5613506
-          ],
-          [
-            172.6472596,
-            -43.5611689
-          ],
-          [
-            172.6472877,
-            -43.5610658
-          ],
-          [
-            172.6474073,
-            -43.5609779
-          ],
-          [
-            172.6475472,
-            -43.5609333
-          ],
-          [
-            172.6477785,
-            -43.5609307
-          ],
-          [
-            172.6478208,
-            -43.5609253
-          ]
-        ]
-      },
-      "properties": {
-        "RouteID": 1179,
-        "RouteServiceStatus": "Open",
-        "RouteLandOwnership": "CCC",
-        "RouteTraffic": "Walk",
-        "WalkClassification": "Walking Track",
-        "MountainBikeClassification": "",
-        "RouteHierarchy": "Primary",
-        "RouteSharedUse": "No ",
-        "RouteWarning": "",
-        "RouteArea": "Plains and Wetlands",
-        "RoutePlace": "",
-        "RouteDogRestriction": "On Lead",
-        "DogRestrictionStartDay": "",
-        "DogRestrictionStartMonth": "",
-        "DogRestrictionFinishDay": "",
-        "DogRestrictionFinishMonth": "",
-        "RouteName": "Heathcote River Trail",
-        "RouteSegmentName": "",
-        "RouteTravelTime": 180,
-        "RouteDistance": 14500,
-        "drvRouteTravelTime": "3 hours ",
-        "drvRouteDistance": "14.5 km",
-        "Comment": "",
-        "Description": "Follow the Heathcote River from the base of the Port Hills all the way out to the sea. The river meanders through numerous parks and reserves making it an attractive walk or ride through the eastern city. Create a walk out of your favourite section or set a challenge to complete the entire length. Many sections are shared use so watch out for cyclists who may be sharing the path with you.",
-        "InternetURL": "",
-        "PhotoURL": "",
-        "TrackSAPEquipmentID": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6478208,
-            -43.5609253
-          ],
-          [
-            172.6479136,
-            -43.5609134
-          ]
-        ]
-      },
-      "properties": {
-        "RouteID": 1180,
-        "RouteServiceStatus": "Open",
-        "RouteLandOwnership": "CCC",
-        "RouteTraffic": "Walk",
-        "WalkClassification": "Walking Track",
-        "MountainBikeClassification": "",
-        "RouteHierarchy": "Primary",
-        "RouteSharedUse": "No ",
-        "RouteWarning": "On road be aware of traffic",
         "RouteArea": "Plains and Wetlands",
         "RoutePlace": "",
         "RouteDogRestriction": "On Lead",
