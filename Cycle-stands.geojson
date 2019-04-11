@@ -14,7 +14,7 @@
         "latitude": -43.53378896,
         "longitude": 172.628013,
         "road_id": "CAMBRIDGE TCE 1 ROLLESTON-MONTREAL",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "12",
         "Notes": null
@@ -33,7 +33,7 @@
         "latitude": -43.52893533,
         "longitude": 172.6276834,
         "road_id": "ROLLESTON AVE",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -52,7 +52,7 @@
         "latitude": -43.5304885,
         "longitude": 172.6274172,
         "road_id": "ROLLESTON AVE",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -71,7 +71,7 @@
         "latitude": -43.5308652,
         "longitude": 172.6292248,
         "road_id": "WORCESTER ST 1 BOULEVARD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -90,7 +90,7 @@
         "latitude": -43.53098941,
         "longitude": 172.6300437,
         "road_id": "WORCESTER ST 1 BOULEVARD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -109,7 +109,7 @@
         "latitude": -43.52563238,
         "longitude": 172.6325524,
         "road_id": "VICTORIA ST",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "10",
         "Notes": null
@@ -128,7 +128,7 @@
         "latitude": -43.52977361,
         "longitude": 172.6386289,
         "road_id": "GLOUCESTER ST 1 WEST FITZGERALD AVE",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -147,7 +147,7 @@
         "latitude": -43.53070451,
         "longitude": 172.6378883,
         "road_id": "COLOMBO ST 3 HEREFORD TO GLOUCESTER",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -166,7 +166,7 @@
         "latitude": -43.53520854,
         "longitude": 172.6408426,
         "road_id": "TUAM ST 2 WEST FITZGERALD AVE",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -185,7 +185,7 @@
         "latitude": -43.53378764,
         "longitude": 172.6389375,
         "road_id": "HIGH ST 3 MANCHESTER ST TO CTY MALL",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -204,7 +204,7 @@
         "latitude": -43.54203692,
         "longitude": 172.6365641,
         "road_id": "COLOMBO ST 2 BROUGHAM TO HEREFORD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -223,7 +223,7 @@
         "latitude": -43.5441692,
         "longitude": 172.6367665,
         "road_id": "COLOMBO ST 2 BROUGHAM TO HEREFORD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "2",
         "Notes": null
@@ -242,7 +242,7 @@
         "latitude": -43.53321382,
         "longitude": 172.6304487,
         "road_id": "CASHEL ST 1 ROLLESTON AVE TO DURHAM",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -261,7 +261,7 @@
         "latitude": -43.53087822,
         "longitude": 172.6322802,
         "road_id": "WORCESTER ST 1 BOULEVARD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Coral",
         "capacity": "2",
         "Notes": null
@@ -280,7 +280,7 @@
         "latitude": -43.53352918,
         "longitude": 172.6365369,
         "road_id": "COLOMBO ST 2 BROUGHAM TO HEREFORD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -299,7 +299,7 @@
         "latitude": -43.53452387,
         "longitude": 172.6367257,
         "road_id": "COLOMBO ST 2 BROUGHAM TO HEREFORD",
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -318,7 +318,7 @@
         "latitude": -43.5319545,
         "longitude": 172.6313521,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "20",
         "Notes": null
@@ -337,7 +337,7 @@
         "latitude": -43.53255557,
         "longitude": 172.6319856,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "13",
         "Notes": null
@@ -356,7 +356,7 @@
         "latitude": -43.53238156,
         "longitude": 172.6321962,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -375,7 +375,7 @@
         "latitude": -43.53298338,
         "longitude": 172.632051,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -394,7 +394,7 @@
         "latitude": -43.53318254,
         "longitude": 172.631723,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -413,7 +413,7 @@
         "latitude": -43.53146177,
         "longitude": 172.6301433,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "11",
         "Notes": null
@@ -432,7 +432,7 @@
         "latitude": -43.53100517,
         "longitude": 172.6284306,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -451,7 +451,7 @@
         "latitude": -43.53123739,
         "longitude": 172.6274511,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "20",
         "Notes": null
@@ -470,7 +470,7 @@
         "latitude": -43.53130009,
         "longitude": 172.6274547,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "14",
         "Notes": null
@@ -489,7 +489,7 @@
         "latitude": -43.53203656,
         "longitude": 172.6274576,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "4",
         "Notes": null
@@ -508,7 +508,7 @@
         "latitude": -43.53259052,
         "longitude": 172.6274894,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "4",
         "Notes": null
@@ -527,7 +527,7 @@
         "latitude": -43.53410459,
         "longitude": 172.631244,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -546,7 +546,7 @@
         "latitude": -43.53317793,
         "longitude": 172.63208,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -565,7 +565,7 @@
         "latitude": -43.53217415,
         "longitude": 172.6282656,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "16",
         "Notes": null
@@ -584,7 +584,7 @@
         "latitude": -43.53106792,
         "longitude": 172.6318193,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "9",
         "Notes": null
@@ -603,7 +603,7 @@
         "latitude": -43.53098074,
         "longitude": 172.6321817,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -622,7 +622,7 @@
         "latitude": -43.53107763,
         "longitude": 172.6327817,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -641,7 +641,7 @@
         "latitude": -43.53084843,
         "longitude": 172.6310937,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -660,7 +660,7 @@
         "latitude": -43.53008312,
         "longitude": 172.6311015,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -679,7 +679,7 @@
         "latitude": -43.53001887,
         "longitude": 172.6313691,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -698,7 +698,7 @@
         "latitude": -43.52912304,
         "longitude": 172.6334833,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -717,7 +717,7 @@
         "latitude": -43.52869566,
         "longitude": 172.6369103,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "16",
         "Notes": null
@@ -736,7 +736,7 @@
         "latitude": -43.52888798,
         "longitude": 172.6385274,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -755,7 +755,7 @@
         "latitude": -43.52869671,
         "longitude": 172.6403878,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "20",
         "Notes": null
@@ -774,7 +774,7 @@
         "latitude": -43.52782338,
         "longitude": 172.6422619,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "20",
         "Notes": null
@@ -793,7 +793,7 @@
         "latitude": -43.52979055,
         "longitude": 172.6386921,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "8",
         "Notes": null
@@ -812,7 +812,7 @@
         "latitude": -43.52974898,
         "longitude": 172.6371079,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "9",
         "Notes": null
@@ -831,7 +831,7 @@
         "latitude": -43.53030174,
         "longitude": 172.6368223,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "10",
         "Notes": null
@@ -850,7 +850,7 @@
         "latitude": -43.53102269,
         "longitude": 172.6351024,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -869,7 +869,7 @@
         "latitude": -43.5313866,
         "longitude": 172.6327525,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -888,7 +888,7 @@
         "latitude": -43.532126,
         "longitude": 172.6322397,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -907,7 +907,7 @@
         "latitude": -43.53207713,
         "longitude": 172.6339264,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "4",
         "Notes": null
@@ -926,7 +926,7 @@
         "latitude": -43.53210739,
         "longitude": 172.635487,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -945,7 +945,7 @@
         "latitude": -43.53223516,
         "longitude": 172.6366919,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -964,7 +964,7 @@
         "latitude": -43.53219636,
         "longitude": 172.6365525,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -983,7 +983,7 @@
         "latitude": -43.53227222,
         "longitude": 172.6369159,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "12",
         "Notes": null
@@ -1002,7 +1002,7 @@
         "latitude": -43.53278075,
         "longitude": 172.6376166,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "10",
         "Notes": null
@@ -1021,7 +1021,7 @@
         "latitude": -43.53254484,
         "longitude": 172.6365488,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "10",
         "Notes": null
@@ -1040,7 +1040,7 @@
         "latitude": -43.5326748,
         "longitude": 172.6365732,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "4",
         "Notes": null
@@ -1059,7 +1059,7 @@
         "latitude": -43.5330684,
         "longitude": 172.6363448,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "10",
         "Notes": null
@@ -1078,7 +1078,7 @@
         "latitude": -43.53308687,
         "longitude": 172.6362701,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Repair Station",
         "capacity": "0",
         "Notes": null
@@ -1097,7 +1097,7 @@
         "latitude": -43.533152,
         "longitude": 172.634025,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "9",
         "Notes": null
@@ -1116,7 +1116,7 @@
         "latitude": -43.53297739,
         "longitude": 172.6338817,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1135,7 +1135,7 @@
         "latitude": -43.53263708,
         "longitude": 172.6330667,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1154,7 +1154,7 @@
         "latitude": -43.53327239,
         "longitude": 172.6383195,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -1173,7 +1173,7 @@
         "latitude": -43.53415995,
         "longitude": 172.6388268,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1192,7 +1192,7 @@
         "latitude": -43.53426095,
         "longitude": 172.6393591,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1211,7 +1211,7 @@
         "latitude": -43.534844,
         "longitude": 172.639556,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1230,7 +1230,7 @@
         "latitude": -43.535173,
         "longitude": 172.639559,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1249,7 +1249,7 @@
         "latitude": -43.53597,
         "longitude": 172.639571,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1268,7 +1268,7 @@
         "latitude": -43.536251,
         "longitude": 172.640035,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "44",
         "Notes": null
@@ -1287,7 +1287,7 @@
         "latitude": -43.535513,
         "longitude": 172.639849,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "6",
         "Notes": null
@@ -1306,7 +1306,7 @@
         "latitude": -43.5373,
         "longitude": 172.639554,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -1325,7 +1325,7 @@
         "latitude": -43.537474,
         "longitude": 172.640736,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "20",
         "Notes": null
@@ -1344,7 +1344,7 @@
         "latitude": -43.53804848,
         "longitude": 172.640108,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "7",
         "Notes": null
@@ -1363,7 +1363,7 @@
         "latitude": -43.53808909,
         "longitude": 172.6419473,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "3",
         "Notes": null
@@ -1382,7 +1382,7 @@
         "latitude": -43.537735,
         "longitude": 172.640759,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "12",
         "Notes": null
@@ -1401,7 +1401,7 @@
         "latitude": -43.53902691,
         "longitude": 172.6419949,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -1420,7 +1420,7 @@
         "latitude": -43.53912096,
         "longitude": 172.6424616,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "12",
         "Notes": null
@@ -1439,7 +1439,7 @@
         "latitude": -43.54012698,
         "longitude": 172.6405033,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "12",
         "Notes": null
@@ -1458,7 +1458,7 @@
         "latitude": -43.53920554,
         "longitude": 172.6379297,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "13",
         "Notes": null
@@ -1477,7 +1477,7 @@
         "latitude": -43.53938685,
         "longitude": 172.6375478,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -1496,7 +1496,7 @@
         "latitude": -43.53945,
         "longitude": 172.636145,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "14",
         "Notes": null
@@ -1515,7 +1515,7 @@
         "latitude": -43.53801667,
         "longitude": 172.635839,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "13",
         "Notes": null
@@ -1534,7 +1534,7 @@
         "latitude": -43.538034,
         "longitude": 172.635118,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -1553,7 +1553,7 @@
         "latitude": -43.5368282,
         "longitude": 172.6363841,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "9",
         "Notes": null
@@ -1572,7 +1572,7 @@
         "latitude": -43.5364581,
         "longitude": 172.6367726,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1591,7 +1591,7 @@
         "latitude": -43.536442,
         "longitude": 172.636403,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1610,7 +1610,7 @@
         "latitude": -43.535786,
         "longitude": 172.636425,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1629,7 +1629,7 @@
         "latitude": -43.5359181,
         "longitude": 172.6353803,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1648,7 +1648,7 @@
         "latitude": -43.535924,
         "longitude": 172.635134,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1667,7 +1667,7 @@
         "latitude": -43.53588591,
         "longitude": 172.6348149,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -1686,7 +1686,7 @@
         "latitude": -43.53489454,
         "longitude": 172.6367324,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1705,7 +1705,7 @@
         "latitude": -43.535354,
         "longitude": 172.636929,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -1724,7 +1724,7 @@
         "latitude": -43.535578,
         "longitude": 172.638173,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -1743,7 +1743,7 @@
         "latitude": -43.53538073,
         "longitude": 172.6384062,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "18",
         "Notes": null
@@ -1762,7 +1762,7 @@
         "latitude": -43.535153,
         "longitude": 172.63681,
         "road_id": null,
-        "ms_type": "Undercover Cycle Park",
+        "ms_type": "Undercover cycle stand",
         "ms_subtype": "Undercover",
         "capacity": "100",
         "Notes": "Bus exchange"
@@ -1781,7 +1781,7 @@
         "latitude": -43.535358,
         "longitude": 172.635457,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "4",
         "Notes": null
@@ -1800,7 +1800,7 @@
         "latitude": -43.53535927,
         "longitude": 172.6349437,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1819,7 +1819,7 @@
         "latitude": -43.534267,
         "longitude": 172.637248,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "10",
         "Notes": null
@@ -1838,7 +1838,7 @@
         "latitude": -43.535354,
         "longitude": 172.637605,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -1857,7 +1857,7 @@
         "latitude": -43.52634308,
         "longitude": 172.6455354,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -1876,7 +1876,7 @@
         "latitude": -43.525697,
         "longitude": 172.6314962,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -1895,7 +1895,7 @@
         "latitude": -43.52532702,
         "longitude": 172.635995,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "15",
         "Notes": null
@@ -1914,7 +1914,7 @@
         "latitude": -43.52412601,
         "longitude": 172.6302665,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "9",
         "Notes": null
@@ -1933,7 +1933,7 @@
         "latitude": -43.52672547,
         "longitude": 172.6339003,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -1952,7 +1952,7 @@
         "latitude": -43.52677019,
         "longitude": 172.6339741,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "5",
         "Notes": null
@@ -1971,7 +1971,7 @@
         "latitude": -43.53148378,
         "longitude": 172.6397464,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "16",
         "Notes": null
@@ -1990,7 +1990,7 @@
         "latitude": -43.53118253,
         "longitude": 172.639753,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2009,7 +2009,7 @@
         "latitude": -43.53083393,
         "longitude": 172.6397437,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2028,7 +2028,7 @@
         "latitude": -43.53016958,
         "longitude": 172.639813,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2047,7 +2047,7 @@
         "latitude": -43.52896602,
         "longitude": 172.6397971,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "12",
         "Notes": null
@@ -2066,7 +2066,7 @@
         "latitude": -43.52830033,
         "longitude": 172.6394901,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2085,7 +2085,7 @@
         "latitude": -43.53853065,
         "longitude": 172.6428743,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "19",
         "Notes": null
@@ -2104,7 +2104,7 @@
         "latitude": -43.5383175,
         "longitude": 172.6433785,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "10",
         "Notes": null
@@ -2123,7 +2123,7 @@
         "latitude": -43.53800087,
         "longitude": 172.6432367,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "70",
         "Notes": null
@@ -2142,7 +2142,7 @@
         "latitude": -43.53357322,
         "longitude": 172.6425567,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2161,7 +2161,7 @@
         "latitude": -43.5350403,
         "longitude": 172.6406633,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -2180,7 +2180,7 @@
         "latitude": -43.52558333,
         "longitude": 172.6289988,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "3",
         "Notes": null
@@ -2199,7 +2199,7 @@
         "latitude": -43.52418951,
         "longitude": 172.6299707,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "9",
         "Notes": null
@@ -2218,7 +2218,7 @@
         "latitude": -43.52360847,
         "longitude": 172.6294259,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "31",
         "Notes": null
@@ -2237,7 +2237,7 @@
         "latitude": -43.52169304,
         "longitude": 172.6294505,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "9",
         "Notes": null
@@ -2256,7 +2256,7 @@
         "latitude": -43.5233146,
         "longitude": 172.6296884,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -2275,7 +2275,7 @@
         "latitude": -43.52472788,
         "longitude": 172.6314604,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "2",
         "Notes": null
@@ -2294,7 +2294,7 @@
         "latitude": -43.524568,
         "longitude": 172.631499,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "10",
         "Notes": null
@@ -2313,7 +2313,7 @@
         "latitude": -43.5253351,
         "longitude": 172.6314649,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -2332,7 +2332,7 @@
         "latitude": -43.52491044,
         "longitude": 172.6304359,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "2",
         "Notes": null
@@ -2351,7 +2351,7 @@
         "latitude": -43.52691493,
         "longitude": 172.6337933,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "7",
         "Notes": null
@@ -2370,7 +2370,7 @@
         "latitude": -43.52671611,
         "longitude": 172.6341278,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -2389,7 +2389,7 @@
         "latitude": -43.52723894,
         "longitude": 172.6336811,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -2408,7 +2408,7 @@
         "latitude": -43.52810386,
         "longitude": 172.6336739,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "3",
         "Notes": null
@@ -2427,7 +2427,7 @@
         "latitude": -43.52476044,
         "longitude": 172.6364502,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "11",
         "Notes": null
@@ -2446,7 +2446,7 @@
         "latitude": -43.52764071,
         "longitude": 172.64197,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "20",
         "Notes": null
@@ -2465,7 +2465,7 @@
         "latitude": -43.52605415,
         "longitude": 172.6378737,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -2484,7 +2484,7 @@
         "latitude": -43.52679418,
         "longitude": 172.6384381,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "16",
         "Notes": null
@@ -2503,7 +2503,7 @@
         "latitude": -43.52705235,
         "longitude": 172.6379457,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "24",
         "Notes": null
@@ -2522,7 +2522,7 @@
         "latitude": -43.52607393,
         "longitude": 172.6363117,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -2541,7 +2541,7 @@
         "latitude": -43.52541167,
         "longitude": 172.6345841,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "12",
         "Notes": null
@@ -2560,7 +2560,7 @@
         "latitude": -43.52555882,
         "longitude": 172.635051,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -2579,7 +2579,7 @@
         "latitude": -43.53488255,
         "longitude": 172.6413757,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2598,7 +2598,7 @@
         "latitude": -43.53492966,
         "longitude": 172.6415551,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2617,7 +2617,7 @@
         "latitude": -43.53479375,
         "longitude": 172.6405867,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "7",
         "Notes": null
@@ -2636,7 +2636,7 @@
         "latitude": -43.53495652,
         "longitude": 172.641284,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -2655,7 +2655,7 @@
         "latitude": -43.53527638,
         "longitude": 172.6412866,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2674,7 +2674,7 @@
         "latitude": -43.535346,
         "longitude": 172.639821,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2693,7 +2693,7 @@
         "latitude": -43.53522294,
         "longitude": 172.641491,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2712,7 +2712,7 @@
         "latitude": -43.5360214,
         "longitude": 172.6425161,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "12",
         "Notes": null
@@ -2731,7 +2731,7 @@
         "latitude": -43.5361791,
         "longitude": 172.642232,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "6",
         "Notes": null
@@ -2750,7 +2750,7 @@
         "latitude": -43.53616281,
         "longitude": 172.6422125,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Repair Station",
         "capacity": "0",
         "Notes": null
@@ -2769,7 +2769,7 @@
         "latitude": -43.53630038,
         "longitude": 172.6422065,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2788,7 +2788,7 @@
         "latitude": -43.53584174,
         "longitude": 172.6412913,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "24",
         "Notes": null
@@ -2807,7 +2807,7 @@
         "latitude": -43.536449,
         "longitude": 172.639059,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2826,7 +2826,7 @@
         "latitude": -43.53643911,
         "longitude": 172.6380734,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2845,7 +2845,7 @@
         "latitude": -43.53638786,
         "longitude": 172.6353365,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2864,7 +2864,7 @@
         "latitude": -43.5364744,
         "longitude": 172.6290695,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -2883,7 +2883,7 @@
         "latitude": -43.5366,
         "longitude": 172.629002,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "2",
         "Notes": null
@@ -2902,7 +2902,7 @@
         "latitude": -43.53829121,
         "longitude": 172.6279133,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -2921,7 +2921,7 @@
         "latitude": -43.537518,
         "longitude": 172.630991,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -2940,7 +2940,7 @@
         "latitude": -43.537198,
         "longitude": 172.637223,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -2959,7 +2959,7 @@
         "latitude": -43.53425475,
         "longitude": 172.6358609,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -2978,7 +2978,7 @@
         "latitude": -43.534269,
         "longitude": 172.634926,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "12",
         "Notes": null
@@ -2997,7 +2997,7 @@
         "latitude": -43.534149,
         "longitude": 172.634614,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "4",
         "Notes": null
@@ -3016,7 +3016,7 @@
         "latitude": -43.535009,
         "longitude": 172.631234,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -3035,7 +3035,7 @@
         "latitude": -43.5315565,
         "longitude": 172.6007506,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "4",
         "Notes": null
@@ -3054,7 +3054,7 @@
         "latitude": -43.53079179,
         "longitude": 172.5962847,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "14",
         "Notes": null
@@ -3073,7 +3073,7 @@
         "latitude": -43.53072127,
         "longitude": 172.5971203,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "19",
         "Notes": null
@@ -3092,7 +3092,7 @@
         "latitude": -43.53010592,
         "longitude": 172.5973185,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -3111,7 +3111,7 @@
         "latitude": -43.52957542,
         "longitude": 172.5997116,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "9",
         "Notes": null
@@ -3130,7 +3130,7 @@
         "latitude": -43.52990747,
         "longitude": 172.600421,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "4",
         "Notes": null
@@ -3149,7 +3149,7 @@
         "latitude": -43.53018944,
         "longitude": 172.600193,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -3168,7 +3168,7 @@
         "latitude": -43.53045051,
         "longitude": 172.6003469,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "4",
         "Notes": null
@@ -3187,7 +3187,7 @@
         "latitude": -43.54265665,
         "longitude": 172.5319895,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "2",
         "Notes": null
@@ -3206,7 +3206,7 @@
         "latitude": -43.54270915,
         "longitude": 172.5311399,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "6",
         "Notes": null
@@ -3225,7 +3225,7 @@
         "latitude": -43.54278983,
         "longitude": 172.5301532,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "8",
         "Notes": null
@@ -3244,7 +3244,7 @@
         "latitude": -43.54234241,
         "longitude": 172.5300482,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "8",
         "Notes": null
@@ -3263,7 +3263,7 @@
         "latitude": -43.54247,
         "longitude": 172.5273405,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "20",
         "Notes": null
@@ -3282,7 +3282,7 @@
         "latitude": -43.54151635,
         "longitude": 172.5242946,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "6",
         "Notes": null
@@ -3301,7 +3301,7 @@
         "latitude": -43.54203911,
         "longitude": 172.5242842,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "16",
         "Notes": null
@@ -3320,7 +3320,7 @@
         "latitude": -43.54207508,
         "longitude": 172.5235248,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -3339,7 +3339,7 @@
         "latitude": -43.5312478,
         "longitude": 172.630152,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -3358,7 +3358,7 @@
         "latitude": -43.53090044,
         "longitude": 172.6296068,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -3377,7 +3377,7 @@
         "latitude": -43.53028862,
         "longitude": 172.5750949,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -3396,7 +3396,7 @@
         "latitude": -43.53140155,
         "longitude": 172.5772272,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "6",
         "Notes": null
@@ -3415,7 +3415,7 @@
         "latitude": -43.53138441,
         "longitude": 172.5748666,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -3434,7 +3434,7 @@
         "latitude": -43.53081658,
         "longitude": 172.5739258,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -3453,7 +3453,7 @@
         "latitude": -43.53104381,
         "longitude": 172.5736084,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -3472,7 +3472,7 @@
         "latitude": -43.53242743,
         "longitude": 172.5726528,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "30",
         "Notes": null
@@ -3491,7 +3491,7 @@
         "latitude": -43.53161314,
         "longitude": 172.5746809,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": null,
         "capacity": "10",
         "Notes": null
@@ -3510,7 +3510,7 @@
         "latitude": -43.53044249,
         "longitude": 172.5748968,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -3529,7 +3529,7 @@
         "latitude": -43.55608663,
         "longitude": 172.6200518,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "8",
         "Notes": null
@@ -3548,7 +3548,7 @@
         "latitude": -43.55650746,
         "longitude": 172.618301,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -3567,7 +3567,7 @@
         "latitude": -43.55577926,
         "longitude": 172.6213251,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "10",
         "Notes": null
@@ -3586,7 +3586,7 @@
         "latitude": -43.55646543,
         "longitude": 172.6207686,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "6",
         "Notes": null
@@ -3605,7 +3605,7 @@
         "latitude": -43.55638281,
         "longitude": 172.6197621,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "10",
         "Notes": null
@@ -3624,7 +3624,7 @@
         "latitude": -43.55595737,
         "longitude": 172.6215468,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -3643,7 +3643,7 @@
         "latitude": -43.53282388,
         "longitude": 172.675482,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -3662,7 +3662,7 @@
         "latitude": -43.53351589,
         "longitude": 172.6750153,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "7",
         "Notes": null
@@ -3681,7 +3681,7 @@
         "latitude": -43.5337186,
         "longitude": 172.6738703,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -3700,7 +3700,7 @@
         "latitude": -43.53328522,
         "longitude": 172.672328,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "16",
         "Notes": null
@@ -3719,7 +3719,7 @@
         "latitude": -43.53310267,
         "longitude": 172.6719284,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -3738,7 +3738,7 @@
         "latitude": -43.53257522,
         "longitude": 172.6746488,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "0",
         "Notes": null
@@ -3757,7 +3757,7 @@
         "latitude": -43.50738894,
         "longitude": 172.6635572,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -3776,7 +3776,7 @@
         "latitude": -43.50607628,
         "longitude": 172.6635035,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "56",
         "Notes": null
@@ -3795,7 +3795,7 @@
         "latitude": -43.5052451,
         "longitude": 172.6632796,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -3814,7 +3814,7 @@
         "latitude": -43.49175661,
         "longitude": 172.6111304,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Standard A Type",
         "capacity": "8",
         "Notes": null
@@ -3833,7 +3833,7 @@
         "latitude": -43.49252304,
         "longitude": 172.6104917,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "9",
         "Notes": null
@@ -3852,7 +3852,7 @@
         "latitude": -43.49171964,
         "longitude": 172.6091385,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "68",
         "Notes": null
@@ -3871,7 +3871,7 @@
         "latitude": -43.49372945,
         "longitude": 172.6097826,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "11",
         "Notes": null
@@ -3890,7 +3890,7 @@
         "latitude": -43.4943684,
         "longitude": 172.6085236,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "16",
         "Notes": null
@@ -3909,7 +3909,7 @@
         "latitude": -43.45976824,
         "longitude": 172.6236241,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "9",
         "Notes": null
@@ -3928,7 +3928,7 @@
         "latitude": -43.45976215,
         "longitude": 172.6234206,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -3947,7 +3947,7 @@
         "latitude": -43.4591406,
         "longitude": 172.6243983,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -3966,7 +3966,7 @@
         "latitude": -43.50722261,
         "longitude": 172.7315338,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "16",
         "Notes": null
@@ -3985,7 +3985,7 @@
         "latitude": -43.50675961,
         "longitude": 172.7309128,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "10",
         "Notes": null
@@ -4004,7 +4004,7 @@
         "latitude": -43.50801461,
         "longitude": 172.7258257,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -4023,7 +4023,7 @@
         "latitude": -43.50792488,
         "longitude": 172.7272788,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -4042,7 +4042,7 @@
         "latitude": -43.5075735,
         "longitude": 172.7281776,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "8",
         "Notes": null
@@ -4061,7 +4061,7 @@
         "latitude": -43.50726492,
         "longitude": 172.7292847,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4080,7 +4080,7 @@
         "latitude": -43.54388053,
         "longitude": 172.6367659,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "2",
         "Notes": null
@@ -4099,7 +4099,7 @@
         "latitude": -43.5424649,
         "longitude": 172.6360947,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "3",
         "Notes": null
@@ -4118,7 +4118,7 @@
         "latitude": -43.56957119,
         "longitude": 172.7598502,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "3",
         "Notes": null
@@ -4137,7 +4137,7 @@
         "latitude": -43.56838985,
         "longitude": 172.7592463,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "12",
         "Notes": null
@@ -4156,7 +4156,7 @@
         "latitude": -43.56837601,
         "longitude": 172.7588866,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -4175,7 +4175,7 @@
         "latitude": -43.56820207,
         "longitude": 172.7586388,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -4194,7 +4194,7 @@
         "latitude": -43.56800409,
         "longitude": 172.758722,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "12",
         "Notes": null
@@ -4213,7 +4213,7 @@
         "latitude": -43.568771,
         "longitude": 172.7598864,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -4232,7 +4232,7 @@
         "latitude": -43.56980682,
         "longitude": 172.7594307,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Pole Mounted Hoop",
         "capacity": "6",
         "Notes": null
@@ -4251,7 +4251,7 @@
         "latitude": -43.57307715,
         "longitude": 172.7699507,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "10",
         "Notes": null
@@ -4270,7 +4270,7 @@
         "latitude": -43.56682807,
         "longitude": 172.7588645,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "10",
         "Notes": null
@@ -4289,7 +4289,7 @@
         "latitude": -43.56686596,
         "longitude": 172.7588044,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Repair Station",
         "capacity": "0",
         "Notes": null
@@ -4308,7 +4308,7 @@
         "latitude": -43.55644696,
         "longitude": 172.7022504,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "6",
         "Notes": null
@@ -4327,7 +4327,7 @@
         "latitude": -43.55603901,
         "longitude": 172.7019168,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "6",
         "Notes": null
@@ -4346,7 +4346,7 @@
         "latitude": -43.55678007,
         "longitude": 172.7004513,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Horseshoe",
         "capacity": "8",
         "Notes": null
@@ -4365,7 +4365,7 @@
         "latitude": -43.55630895,
         "longitude": 172.6989436,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4384,7 +4384,7 @@
         "latitude": -43.56149962,
         "longitude": 172.6385386,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "10",
         "Notes": null
@@ -4403,7 +4403,7 @@
         "latitude": -43.56159218,
         "longitude": 172.6379367,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "18",
         "Notes": null
@@ -4422,7 +4422,7 @@
         "latitude": -43.55756268,
         "longitude": 172.6370694,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4441,7 +4441,7 @@
         "latitude": -43.55704953,
         "longitude": 172.636718,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -4460,7 +4460,7 @@
         "latitude": -43.55776969,
         "longitude": 172.637411,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -4479,7 +4479,7 @@
         "latitude": -43.5512872,
         "longitude": 172.6371093,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -4498,7 +4498,7 @@
         "latitude": -43.55176371,
         "longitude": 172.637056,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4517,7 +4517,7 @@
         "latitude": -43.55230923,
         "longitude": 172.6374442,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -4536,7 +4536,7 @@
         "latitude": -43.55312785,
         "longitude": 172.6360827,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Lolliepop",
         "capacity": "10",
         "Notes": null
@@ -4555,7 +4555,7 @@
         "latitude": -43.54973566,
         "longitude": 172.6374207,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -4574,7 +4574,7 @@
         "latitude": -43.54934856,
         "longitude": 172.6370694,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "4",
         "Notes": null
@@ -4593,7 +4593,7 @@
         "latitude": -43.51367288,
         "longitude": 172.6364444,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Artistic",
         "capacity": "6",
         "Notes": null
@@ -4612,7 +4612,7 @@
         "latitude": -43.51370108,
         "longitude": 172.6364407,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Repair Station",
         "capacity": "0",
         "Notes": null
@@ -4631,7 +4631,7 @@
         "latitude": -43.51321916,
         "longitude": 172.6363334,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -4650,7 +4650,7 @@
         "latitude": -43.51292909,
         "longitude": 172.6372813,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4669,7 +4669,7 @@
         "latitude": -43.5491041,
         "longitude": 172.6845488,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "18",
         "Notes": null
@@ -4688,7 +4688,7 @@
         "latitude": -43.54921467,
         "longitude": 172.6839983,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "16",
         "Notes": null
@@ -4707,7 +4707,7 @@
         "latitude": -43.5493646,
         "longitude": 172.6822324,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -4726,7 +4726,7 @@
         "latitude": -43.54901201,
         "longitude": 172.6826247,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4745,7 +4745,7 @@
         "latitude": -43.55622269,
         "longitude": 172.7037266,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "6",
         "Notes": null
@@ -4764,7 +4764,7 @@
         "latitude": -43.55598261,
         "longitude": 172.6964762,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "5",
         "Notes": null
@@ -4783,7 +4783,7 @@
         "latitude": -43.60255631,
         "longitude": 172.7206071,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -4802,7 +4802,7 @@
         "latitude": -43.60263352,
         "longitude": 172.7217487,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "2",
         "Notes": null
@@ -4821,7 +4821,7 @@
         "latitude": -43.54302848,
         "longitude": 172.5234976,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "8",
         "Notes": null
@@ -4840,7 +4840,7 @@
         "latitude": -43.54364723,
         "longitude": 172.5240726,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "10",
         "Notes": null
@@ -4859,7 +4859,7 @@
         "latitude": -43.54364893,
         "longitude": 172.5244769,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "10",
         "Notes": null
@@ -4878,7 +4878,7 @@
         "latitude": -43.54306883,
         "longitude": 172.525122,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Staple",
         "capacity": "4",
         "Notes": null
@@ -4897,7 +4897,7 @@
         "latitude": -43.54250719,
         "longitude": 172.5216975,
         "road_id": null,
-        "ms_type": "Cycle Park",
+        "ms_type": "Cycle stand",
         "ms_subtype": "Wheel Slot Rack",
         "capacity": "14",
         "Notes": null
@@ -4916,7 +4916,7 @@
         "latitude": 0,
         "longitude": 0,
         "road_id": null,
-        "ms_type": "Undercover Cycle Park",
+        "ms_type": "Undercover cycle stand",
         "ms_subtype": "Undercover",
         "capacity": 96,
         "Notes": "Lichfield Street parking building"
