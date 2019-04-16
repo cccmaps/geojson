@@ -114,6 +114,24 @@
           -43.539293
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiteName": " Countdown Ferrymead",
+        "SiteAddress": "999 Ferry Road",
+        "SiteType": "Supermarket",
+        "CollectionHours": "Mon to Sun 7am to 10pm",
+        "BeforeYouVisit": "",
+        "OnSite": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7024683356285,
+          -43.55679611057832
+        ]
+      }
     }
   ]
 }
