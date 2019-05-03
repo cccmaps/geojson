@@ -36757,7 +36757,7 @@
       },
       "properties": {
         "RouteID": 1128,
-        "RouteServiceStatus": "Open",
+        "RouteServiceStatus": "Closed",
         "RouteLandOwnership": "CCC",
         "RouteTraffic": "Mountain Bike",
         "WalkClassification": null,
