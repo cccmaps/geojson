@@ -42,7 +42,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SiteAddress": "64 Blenheim Road",
+        "SiteAddress": "64 Clarence Street",
         "SiteName": "Bunnings Tower Junction",
         "SiteType": "Hardware Store",
         "CollectionHours": "Mon to Sun 7am to 7pm",
@@ -99,7 +99,7 @@
     {
       "type": "Feature",
       "properties": {
-        "SiteAddress": "175 Durham Street",
+        "SiteAddress": "175 Durham Street South",
         "SiteName": "New World Durham Street",
         "SiteType": "Supermarket",
         "CollectionHours": "This site will start collecting batteries later in May 2019.",
