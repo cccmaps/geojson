@@ -45,7 +45,7 @@
         "SiteAddress": "64 Blenheim Road",
         "SiteName": "Bunnings Tower Junction",
         "SiteType": "Hardware Store",
-        "CollectionHours": "Mon to Fri 7am to 9pm, Sat to Sun 7am to 7pm.",
+        "CollectionHours": "Mon to Sun 7am to 7pm",
         "BeforeYouVisit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
         "OnSite": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
         "Info": "www.ccc.govt.nz/BatteryRecycling"
@@ -81,9 +81,9 @@
       "type": "Feature",
       "properties": {
         "SiteAddress": "54 Harewood Road",
-        "SiteName": "Mitre 10 Papanui",
+        "SiteName": "Mitre 10 Mega Papanui",
         "SiteType": "Hardware Store",
-        "CollectionHours": "Mon to Fri  7am to 7pm, Sat to Sun 8am to 6pm",
+        "CollectionHours": "Mon to Fri 7am to 7pm, Sat 7am to 6pm, Sun 8am to 6pm",
         "BeforeYouVisit": "Identify any damaged, rusty or leaking batteries and place them into your red wheelie bin. Keep the remaining unwanted batteries aside for depositing into the Battery Recycling Station.",
         "OnSite": "Place unwanted batteries into the appropriate box. Batteries need to be loose, no bags or packaging.",
         "Info": "www.ccc.govt.nz/BatteryRecycling"
