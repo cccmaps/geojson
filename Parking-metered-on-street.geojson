@@ -14367,7 +14367,7 @@
       },
       "properties": {
         "ParkingZoneID": 18310,
-        "drvParkingSpaces": null,
+        "drvParkingSpaces": 1,
         "Configuration": "Parallel",
         "RestrictedByUse": "Mobility Parking",
         "RestrictedByUseCode": "DP",
