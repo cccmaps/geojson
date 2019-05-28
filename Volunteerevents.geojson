@@ -3,236 +3,200 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Planting",
-        "Date": "Sunday 25 August 2019",
-        "Time": "10.30am to 12.30pm",
-        "Name": "Otukaikino community planting day",
-        "Address": "Otukaikino River Reserve",
-        "Notes": "Join Council rangers and Trees for Canterbury in a community planting day",
-        "Meet": "Meet at the Roto Kohatu Reserve (airport end) of Sawyers Arms road.\n\nFollow signs from entrance car park to meeting point.",
-        "Contact": "Arthur Adcock",
-        "contact-phone": ", 027 226 7801",
-        "contact-email": "",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/plains-and-wetlands-volunteer-days/",
-        "What-to-bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.\n\nSome tools are available for use."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.571845,
-          -43.466609
+          172.57573,
+          -43.599609
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Join one of Halswell Quarry's community planting days to help restore native wetland swales to the park. Hang out with friends, family and like minded folk while doing some good for the environment.",
+        "VolunteerLocation": "Halswell Quarry Park",
+        "URL": "https://ccc.govt.nz/halswell-quarry-park-planting-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Halswell-quarry-volunteers-855.jpg",
+        "What to bring": "Bring clothes and a hat for all weather events, sturdy footwear and work gloves if you have them. Tools, sunscreen and some gloves supplied. "
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Planting",
-        "Date": "Sunday 5 May 2019",
-        "Time": "10.30am to 12.30pm",
-        "Name": "Styx Mill community planting day",
-        "Address": "Styx Mill Conservation Reserve",
-        "Notes": "A free BBQ will follow the planting event.",
-        "Meet": "Meet in the Hussey Road car-park and look for the signs directing you to the planting site. ",
-        "Contact": "John Parry",
-        "contact-phone": ", 03 941 7550 or 027 475 4750",
-        "contact-email": ", john.parry@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/plains-and-wetlands-volunteer-days/",
-        "What-to-bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.\n\nSome tools are available for use."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.601997,
-          -43.463952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "Reccuring",
-        "Type": "Working bees",
-        "Date": "Monthly on Saturday mornings",
-        "Time": "10am to midday",
-        "Name": "Thistledown Reserve Restoration Project",
-        "Address": "Thistledown Reserve, Thistledown Place (off Hargood Street)",
-        "Notes": "Tasks include planting, pruning, weeding and mulching. ",
-        "Meet": "Meet at the end of Thistledown Place (off Hargood Street).",
-        "Contact": "Tanya Jenkins",
-        "contact-phone": "",
-        "contact-email": ", tanya.jenkins.nz@gmail.com",
-        "URL": "https://ccc.govt.nz/assets/Documents/Parks-Gardens/Get-involved-with-parks/2019-Thistledown-Reserve.pdf",
-        "What-to-bring": "Tools and gloves will be provided but please wear sneakers or gumboots as there are several muddy and wet areas we will be working in. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.68317,
-          -43.546142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "Reccuring",
-        "Type": "Bird monitoring",
-        "Date": "First Saturday of each month",
-        "Time": "9am",
-        "Name": "Styx Mill Bird Monitoring Programme",
-        "Address": "Styx Mill Conservation Reserve",
-        "Notes": "On the first Saturday of each month, those wishing to participate in the bird monitoring programme meet at the Styx Mill Conservation Reserve on Styx Mill Road at 9am to record the number of individual water bird species using a moving transect method (instruction provided on the day).\n\nTwo locations are covered during each session to compile a long-term data set for the reserves: \nThe Styx Mill Conservation Reserve and\nThe 303 Radcliffe Road Reserve\n\nData collected is submitted to eBird, and may be explored by anyone with an interest in New Zealand's bird populations.",
-        "Meet": "Meet at Styx Mill Conservation Reserve, Styx Mill Rd Public Car Park",
-        "Contact": "Antony Shadbolt",
-        "contact-phone": ", 027 683 8618",
-        "contact-email": ", antony.shadbolt@ccc.govt.nz",
-        "URL": "https://www.thestyx.org.nz/bird-monitoring-programme",
-        "What-to-bring": "Sturdy outdoor clothing & footwear for muddy & wet conditions\nAnd it would be good to also bring binoculars, camera, phone, paper and pen."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.609005,
-          -43.467217
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "Reccuring",
-        "Type": "Working bees",
-        "Date": "Every Sunday",
-        "Time": "30 September to 31 March: 3pm to 5pm. 1 April to 29 September: 2pm to 4pm",
-        "Name": "Charlesworth Reserve volunteer days",
-        "Address": "Charlesworth Wetland",
-        "Notes": "Come join the ranger team and the Avon-Heathcote Ihutai Estuary Trust every Sunday for our regular working bees, or turn up to one of our large public planting days with Trees for Canterbury.",
-        "Meet": "Meet at the Charlesworth Wetland car park, located on Charlesworth Street, Brookhaven.",
-        "Contact": "Andrew Crossland",
-        "contact-phone": ", 027 434 1155",
-        "contact-email": ", Andrew.crossland@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/charlesworth-reserve-volunteer-days/",
-        "What-to-bring": "Appropriate clothing for any weather: sunhat, warm jacket and raincoat. Sturdy footwear or gumboots. Personal work gloves. Tools, sunscreen and gloves are supplied."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.697678,
           -43.55279
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Head to Charlesworth Reserve for a community planting day or regular working bee.",
+        "VolunteerLocation": "Charlesworth Reserve",
+        "URL": "https://ccc.govt.nz/charlesworth-reserve-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/charlesworth-volunteers-855.jpg",
+        "What to bring": "Bring clothes and a hat for all weather events, sturdy footwear and work gloves if you have them. Tools, sunscreen and some gloves supplied. "
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Maintenance",
-        "Date": "Saturday 23 February",
-        "Time": "12.45pm to 3.15pm",
-        "Name": "Port Hills Reserves volunteer day",
-        "Address": "Marleys Hill",
-        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
-        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
-        "Contact": "Di Carter",
-        "contact-phone": ", 03 941 7572 or 027 201 5653",
-        "contact-email": ", Parks.Volunteers@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
-        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.643834,
-          -43.590906
+          172.571845,
+          -43.466609
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Join Rangers at Roto Kohatu Reserve for a community planting event along the Otukaikino River.",
+        "VolunteerLocation": "Otukaikino River Reserve",
+        "URL": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/planting-855.jpg",
+        "What to bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.  Some tools are available for use.\""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Maintenance",
-        "Date": "Saturday 2 March 2019",
-        "Time": "12.45pm to 3.15pm",
-        "Name": "Port Hills Reserves volunteer day",
-        "Address": "Dry Bush",
-        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
-        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
-        "Contact": "Di Carter",
-        "contact-phone": ", 03 941 7572 or 027 201 5653",
-        "contact-email": ", Parks.Volunteers@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
-        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.643,
-          -43.59
+          172.601997,
+          -43.463952
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Join Rangers at Styx Mill Reserve for their annual community planting day or join the Styx Living Laboratory Trust for bird and water quality monitoring every fortnight.",
+        "VolunteerLocation": "Styx Mill Conservation Reserve",
+        "URL": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/planting-855.jpg",
+        "What to bring": "Gardening gloves, a spade for planting, sturdy footwear and clothing suitable for all weather conditions.  Some tools are available for use.\""
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Maintenance",
-        "Date": "Saturday 9 March 2019",
-        "Time": "12.45pm to 3.15pm",
-        "Name": "Port Hills Reserves volunteer day",
-        "Address": "Bowenvale Reserve, Huntsbury",
-        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
-        "Meet": "Meet at 20 Swanton Drive.",
-        "Contact": "Di Carter",
-        "contact-phone": ", 03 941 7572 or 027 201 5653",
-        "contact-email": ", Parks.Volunteers@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
-        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.651879,
-          -43.576299
+          172.733112,
+          -43.528133
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Help Council Rangers and the Avon Heathcote Estuary Ihutai Trust plant 500 native tree seedlings to beautify the park. ",
+        "VolunteerLocation": "South New Brighton Park",
+        "URL": "https://ccc.govt.nz/coastal-and-beach-parks-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/_resampled/ResizedImageWzgwMCwzNzNd/coastal-volunteers-1500.jpg",
+        "What to bring": "Your own gloves. Tools will be provided."
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Display": "yes",
-        "Frequency": "One-off",
-        "Type": "Maintenance",
-        "Date": "Saturday 16 March 2019",
-        "Time": "12.45pm to 3.15pm",
-        "Name": "Port Hills Reserves volunteer day",
-        "Address": "Eastside",
-        "Notes": "Bring a friend and help us free a tree from weeds. Maintenance is the most critical part of ecological restoration success. Without regular maintenance for the first three years, plants wouldn't survive due to grass competition. ",
-        "Meet": "We will be carpooling from Victoria Park. Meet at the car park behind Victoria Park Visitor Centre no later than 12.45 pm.",
-        "Contact": "Di Carter",
-        "contact-phone": ", 03 941 7572 or 027 201 5653",
-        "contact-email": ", Parks.Volunteers@ccc.govt.nz",
-        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/port-hills-reserves-volunteer-days/",
-        "What-to-bring": "Bring clothes and a hat for all weather events and wear sturdy footwear. Gloves and hedge clippers will be provided or you can bring your own."
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.645,
-          -43.590906
+          172.750509,
+          -43.556931
         ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Help attract native birds back into the Southshore area by planting native plants as a food source.",
+        "VolunteerLocation": "Southshore Spit Reserve",
+        "URL": "https://ccc.govt.nz/coastal-and-beach-parks-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/_resampled/ResizedImageWzgwMCwzNzNd/coastal-volunteers-1500.jpg",
+        "What to bring": "Own gloves and spade if possible. Please wear closed footwear for safety."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643831,
+          -43.590383
+        ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Help restore the Port Hills at community planting and maintenance days.",
+        "VolunteerLocation": "Port Hills Reserves",
+        "URL": "https://ccc.govt.nz/port-hills-reserves-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/porthills-volunteer-855x380.jpg",
+        "What to bring": "Weather appropriate clothes and sturdy shoes. Tools and gloves provided."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.697781,
+          -43.484712
+        ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Bring the family for community planting days and regular working bees at Travis - this important habitat was formed through community volunteering, join the fun!",
+        "VolunteerLocation": "Travis Wetland",
+        "URL": "https://ccc.govt.nz/travis-wetland-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/_resampled/ResizedImageWzg1NSwzOTld/traviswetlandtrust-720.jpg",
+        "What to bring": "Own gloves, sturdy footwear and weather appropriate clothes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69676,
+          -43.499288
+        ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Join Avon-Ōtākaro Forest Park in planting 1500 trees in Brooker Reserve this winter. ",
+        "VolunteerLocation": "Brooker Reserve",
+        "URL": "https://ccc.govt.nz/parks-and-gardens/volunteer-in-parks/volunteer-events/local-parks-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/volunteer-locals-855.jpg",
+        "What to bring": "Weather appropriate clothes and sturdy shoes. Tools and gloves provided."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.728417,
+          -43.558153
+        ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Help out each month at McCormacks Bay with planting, litter removal and weeding.",
+        "VolunteerLocation": "McCormacks Bay",
+        "URL": "https://ccc.govt.nz/coastal-and-beach-parks-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/_resampled/ResizedImageWzgwMCwzNzNd/coastal-volunteers-1500.jpg",
+        "What to bring": "Weather appropriate clothing, sturdy closed toe footwear. Tools and gloves supplied. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.717022,
+          -43.509975
+        ]
+      },
+      "properties": {
+        "Code": "Volunteer locations",
+        "VolunteerActivity": "Help keep Bexley Park tidy. Depending on the season you might plant, weed, mulch, water or collect litter.utumn, winter and spring the work is focused on planting, weeding and mulching. Summer work involves weeding, watering and litter removal.",
+        "VolunteerLocation": "Bexley Park",
+        "URL": "https://ccc.govt.nz/local-parks-volunteer-days/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/volunteer-locals-855.jpg",
+        "What to bring": "Weather appropriate clothing, sturdy closed toe footwear, bottle of water and snacks. Some gloves and spades are provided but bring your own if you can."
       }
     }
   ]
