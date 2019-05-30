@@ -15,8 +15,8 @@
         "Contact": "info@estuary.org.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/charlesworth-volunteer-250.jpg",
         "Organiser": "Christchurch City Council and Avon-Heathcote Estuary Ihutai Trust",
-        "Park-reserve": "Charlesworth Reserve",
-        "External-website-url": "http://www.estuary.org.nz/"
+        "ParkReserve": "Charlesworth Reserve",
+        "ExternalURL": "http://www.estuary.org.nz/"
       }
     },
     {
@@ -33,8 +33,8 @@
         "Contact": "Myles Richardson; mylsie@outlook.co.nz.",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mccormacks-bay-250.jpg",
         "Organiser": "Christchurch City Council and Avon-Heathcote Estuary Ihutai Trust",
-        "Park-reserve": "McCormacks Bay",
-        "External-website-url": "http://www.estuary.org.nz/"
+        "ParkReserve": "McCormacks Bay",
+        "ExternalURL": "http://www.estuary.org.nz/"
       }
     },
     {
@@ -51,8 +51,8 @@
         "Contact": "Tanya Jenkins; tanya.jenkins.nz@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/thistledown-250.jpg",
         "Organiser": "Christchurch City Council and Avon-Heathcote Estuary Ihutai Trust",
-        "Park-reserve": "Thistledown Reserve",
-        "External-website-url": "http://www.estuary.org.nz/"
+        "ParkReserve": "Thistledown Reserve",
+        "ExternalURL": "http://www.estuary.org.nz/"
       }
     },
     {
@@ -69,8 +69,8 @@
         "Contact": "Pieter Borcherds; Pieter.Borcherds@ccc.govt.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/southbrigthon-250.jpg",
         "Organiser": "Christchurch City Council and Avon-Heathcote Estuary Ihutai Trust",
-        "Park-reserve": "South Brighton Park ",
-        "External-website-url": "http://www.estuary.org.nz/"
+        "ParkReserve": "South Brighton Park ",
+        "ExternalURL": "http://www.estuary.org.nz/"
       }
     },
     {
@@ -87,8 +87,8 @@
         "Contact": "info@aofp.co.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/horseshoe-lake-250.jpg",
         "Organiser": "Avon-Otakaro Forest Park",
-        "Park-reserve": "Horseshoe Lake",
-        "External-website-url": "https://www.aofp.co.nz/get-involved"
+        "ParkReserve": "Horseshoe Lake",
+        "ExternalURL": "https://www.aofp.co.nz/get-involved"
       }
     },
     {
@@ -105,8 +105,8 @@
         "Contact": "zip.gail@xtra.co.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/caldersgreen-lizardgarden-250.jpg",
         "Organiser": "Forest and Bird (North Canterbury)",
-        "Park-reserve": "Calder Green ",
-        "External-website-url": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury"
+        "ParkReserve": "Calder Green ",
+        "ExternalURL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury"
       }
     },
     {
@@ -123,8 +123,8 @@
         "Contact": "Vicky Southworth; vickysouthworth@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/mahoe-nui-250.jpg",
         "Organiser": "Forest and Bird (North Canterbury)",
-        "Park-reserve": "Mahoe-Nui Reserve, Port Hills ",
-        "External-website-url": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury"
+        "ParkReserve": "Mahoe-Nui Reserve, Port Hills ",
+        "ExternalURL": "https://www.forestandbird.org.nz/branches/north-canterbury/calder-green-reserve-north-canterbury"
       }
     },
     {
@@ -141,8 +141,8 @@
         "Contact": "jenny.hoskin@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/edmonds-250.jpg",
         "Organiser": "Friends of the Edmonds Factory Garden",
-        "Park-reserve": "Edmonds Factory Garden",
-        "External-website-url": "http://www.cinch.org.nz/categories/a-z/f/311/entries/4379"
+        "ParkReserve": "Edmonds Factory Garden",
+        "ExternalURL": "http://www.cinch.org.nz/categories/a-z/f/311/entries/4379"
       }
     },
     {
@@ -159,8 +159,8 @@
         "Contact": "Jeanette Christenson; jeanette.christensen44@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/friends-of-bot-250.jpg",
         "Organiser": "Friends of the Christchurch Botanic Gardens",
-        "Park-reserve": "Christchurch Botanic Gardens",
-        "External-website-url": "http://www.friendschchbotanicgardens.org.nz/"
+        "ParkReserve": "Christchurch Botanic Gardens",
+        "ExternalURL": "http://www.friendschchbotanicgardens.org.nz/"
       }
     },
     {
@@ -177,8 +177,8 @@
         "Contact": "",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/garden-tane-250.jpg",
         "Organiser": "Garden of Tane Reserve Management Committee",
-        "Park-reserve": "Garden of Tane",
-        "External-website-url": "http://www.gardenoftane.co.nz/"
+        "ParkReserve": "Garden of Tane",
+        "ExternalURL": "http://www.gardenoftane.co.nz/"
       }
     },
     {
@@ -195,8 +195,8 @@
         "Contact": "Antony.shadbolt@ccc.govt.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/styx-lab-250.jpg",
         "Organiser": "Styx Living Laboratory Trust",
-        "Park-reserve": "Styx River sites",
-        "External-website-url": "https://www.thestyx.org.nz/styx"
+        "ParkReserve": "Styx River sites",
+        "ExternalURL": "https://www.thestyx.org.nz/styx"
       }
     },
     {
@@ -213,8 +213,8 @@
         "Contact": "secretary@summitroadsociety.org.nz",
         "PhotoURL": "",
         "Organiser": "Summit Road Society",
-        "Park-reserve": "Omahu Bush",
-        "External-website-url": "http://www.summitroadsociety.org.nz/"
+        "ParkReserve": "Omahu Bush",
+        "ExternalURL": "http://www.summitroadsociety.org.nz/"
       }
     },
     {
@@ -231,8 +231,8 @@
         "Contact": "",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/laura-kent-250.jpg",
         "Organiser": "Laura Kent Working Group",
-        "Park-reserve": "Laura Kent Reserve ",
-        "External-website-url": "http://www.ohr.co.nz/laura-kent-reserve-workgroup-xidc117848.html"
+        "ParkReserve": "Laura Kent Reserve ",
+        "ExternalURL": "http://www.ohr.co.nz/laura-kent-reserve-workgroup-xidc117848.html"
       }
     },
     {
@@ -249,8 +249,8 @@
         "Contact": "vickysouthworth@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/sumner-250.jpg",
         "Organiser": "Sumner Environment Group",
-        "Park-reserve": "Sumner beach",
-        "External-website-url": "https://www.facebook.com/SumnerEnvironment/?fref=ts"
+        "ParkReserve": "Sumner beach",
+        "ExternalURL": "https://www.facebook.com/SumnerEnvironment/?fref=ts"
       }
     },
     {
@@ -267,8 +267,8 @@
         "Contact": "info@traviswetland.org.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/travis-group-250.jpg",
         "Organiser": "Christchurch City Council and Travis Wetland Trust",
-        "Park-reserve": "Travis Wetland ",
-        "External-website-url": "http://traviswetland.org.nz/"
+        "ParkReserve": "Travis Wetland ",
+        "ExternalURL": "http://traviswetland.org.nz/"
       }
     },
     {
@@ -285,8 +285,8 @@
         "Contact": "Suebye.bye@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ashgrove-250.jpg",
         "Organiser": "Lowe Cashmere Residents Association",
-        "Park-reserve": "Ashgrove Reserve",
-        "External-website-url": "https://lowercashmere.org/ashgrove-reserve/"
+        "ParkReserve": "Ashgrove Reserve",
+        "ExternalURL": "https://lowercashmere.org/ashgrove-reserve/"
       }
     },
     {
@@ -302,8 +302,8 @@
         "Activities": "Water quality monitoring",
         "Contact": "cashmerestreamcaregroup@gmail.com",
         "Organiser": "Cashmere Stream Care Group",
-        "Park-reserve": "Cashmere Stream",
-        "External-website-url": "http://www.ohr.co.nz/Cashmere-Stream-Care-Group-xidc115475.html"
+        "ParkReserve": "Cashmere Stream",
+        "ExternalURL": "http://www.ohr.co.nz/Cashmere-Stream-Care-Group-xidc115475.html"
       }
     },
     {
@@ -320,8 +320,8 @@
         "Contact": "Michael Reynolds",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Radley-250.jpg",
         "Organiser": "Roimata Food Commons",
-        "Park-reserve": "Radley Park",
-        "External-website-url": "http://www.ohr.co.nz/roimata-food-commons-trust-xidc118844.html"
+        "ParkReserve": "Radley Park",
+        "ExternalURL": "http://www.ohr.co.nz/roimata-food-commons-trust-xidc118844.html"
       }
     },
     {
@@ -338,8 +338,8 @@
         "Contact": "alice@caverock.net.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ernle-250.jpg",
         "Organiser": "Friends of Ernle Clarke Reserve",
-        "Park-reserve": "Ernle Clarke Reserve",
-        "External-website-url": "http://www.ohr.co.nz/friends-of-ernle-clark-reserve-xidc115485.html"
+        "ParkReserve": "Ernle Clarke Reserve",
+        "ExternalURL": "http://www.ohr.co.nz/friends-of-ernle-clark-reserve-xidc115485.html"
       }
     },
     {
@@ -356,8 +356,8 @@
         "Contact": "",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/KingGeorgeV-250.jpg",
         "Organiser": "King George V Working Group",
-        "Park-reserve": "King George V Reserve",
-        "External-website-url": "http://www.ohr.co.nz/king-george-v-reserve-xidc118856.html"
+        "ParkReserve": "King George V Reserve",
+        "ExternalURL": "http://www.ohr.co.nz/king-george-v-reserve-xidc118856.html"
       }
     },
     {
@@ -374,8 +374,8 @@
         "Contact": "opawahoheathcote@gmail.com ",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Opawaho-river-network-250.jpg",
         "Organiser": "Ōpāwaho Heathcote River Network",
-        "Park-reserve": "Heathcote River",
-        "External-website-url": "http://www.ohr.co.nz/"
+        "ParkReserve": "Heathcote River",
+        "ExternalURL": "http://www.ohr.co.nz/"
       }
     },
     {
@@ -392,8 +392,8 @@
         "Contact": "ecosolutions@xtra.co.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Drayton-250.jpg",
         "Organiser": "Drayton Reserve Volunteers",
-        "Park-reserve": "Drayton Reserve",
-        "External-website-url": "https://www.draytonreservevolunteers.org.nz/"
+        "ParkReserve": "Drayton Reserve",
+        "ExternalURL": "https://www.draytonreservevolunteers.org.nz/"
       }
     },
     {
@@ -410,8 +410,8 @@
         "Contact": "Parks.Volunteers@ccc.govt.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/duncan-park-250.jpg",
         "Organiser": "Christchurch City Council and Duncan Park Volunteers",
-        "Park-reserve": "Duncan Park",
-        "External-website-url": ""
+        "ParkReserve": "Duncan Park",
+        "ExternalURL": ""
       }
     },
     {
@@ -428,8 +428,8 @@
         "Contact": "antony.shadbolt@ccc.govt.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg",
         "Organiser": "Roanga Practitioners ",
-        "Park-reserve": "Roanga Medicinal Gardens",
-        "External-website-url": ""
+        "ParkReserve": "Roanga Medicinal Gardens",
+        "ExternalURL": ""
       }
     },
     {
@@ -446,8 +446,8 @@
         "Contact": "guardiansofrawhiti@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/rawhiti-250.jpg",
         "Organiser": "Guardians of Rawhiti Domain",
-        "Park-reserve": "Rawhiti Domain",
-        "External-website-url": "https://www.facebook.com/GuardiansofRawhiti/"
+        "ParkReserve": "Rawhiti Domain",
+        "ExternalURL": "https://www.facebook.com/GuardiansofRawhiti/"
       }
     },
     {
@@ -464,8 +464,8 @@
         "Contact": "",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/titirangi-250.jpg",
         "Organiser": "Friends of Titirangi Reserve ",
-        "Park-reserve": "Titirangi Reserve ",
-        "External-website-url": ""
+        "ParkReserve": "Titirangi Reserve ",
+        "ExternalURL": ""
       }
     },
     {
@@ -482,8 +482,8 @@
         "Contact": "",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg",
         "Organiser": "Little River Wairewa Community Trust",
-        "Park-reserve": "Okuti Valley ",
-        "External-website-url": "http://littleriver.org.nz/?page_id=10953"
+        "ParkReserve": "Okuti Valley ",
+        "ExternalURL": "http://littleriver.org.nz/?page_id=10953"
       }
     },
     {
@@ -500,8 +500,8 @@
         "Contact": "christie.burrows@ccc.govt.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg",
         "Organiser": "Port Hills Park Board Trust",
-        "Park-reserve": "Mt Vernon Farm Park",
-        "External-website-url": "https://www.mtvernonpark.org.nz"
+        "ParkReserve": "Mt Vernon Farm Park",
+        "ExternalURL": "https://www.mtvernonpark.org.nz"
       }
     },
     {
@@ -518,8 +518,8 @@
         "Contact": "enquiries@bpct.org.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/banks-peninsula-250.jpg",
         "Organiser": "Banks Peninsula Conservation Trust",
-        "Park-reserve": "Multiple sites around Banks Peninsula ",
-        "External-website-url": "http://www.bpct.org.nz/"
+        "ParkReserve": "Multiple sites around Banks Peninsula ",
+        "ExternalURL": "http://www.bpct.org.nz/"
       }
     },
     {
@@ -536,8 +536,8 @@
         "Contact": "Cracroft Community Centre Incorporated",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/stonehouse-250.jpg",
         "Organiser": "Cracroft Community Centre Incorporated",
-        "Park-reserve": "Old Stone House    ",
-        "External-website-url": "https://www.theoldstonehouse.co.nz/"
+        "ParkReserve": "Old Stone House    ",
+        "ExternalURL": "https://www.theoldstonehouse.co.nz/"
       }
     },
     {
@@ -554,8 +554,8 @@
         "Contact": "Patricia Wallace - patricia.t.wallace@gmail.com",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/abberleyroses-250.jpg",
         "Organiser": "Friends of Abberley Park",
-        "Park-reserve": "Abberley Park ",
-        "External-website-url": "https://www.facebook.com/Friends-of-Abberley-Park-1067633789987213/"
+        "ParkReserve": "Abberley Park ",
+        "ExternalURL": "https://www.facebook.com/Friends-of-Abberley-Park-1067633789987213/"
       }
     },
     {
@@ -572,8 +572,8 @@
         "Contact": "admin@aveburyhouse.co.nz",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/avebury-250.jpg",
         "Organiser": "Avebury Community Garden",
-        "Park-reserve": "Avebury Park",
-        "External-website-url": "http://www.aveburyhouse.co.nz/richmond-community-garden.html"
+        "ParkReserve": "Avebury Park",
+        "ExternalURL": "http://www.aveburyhouse.co.nz/richmond-community-garden.html"
       }
     },
     {
@@ -590,8 +590,8 @@
         "Contact": "rosepeople@paradise.net.nz ",
         "PhotoURL": "https://cccgovtnz.cwp.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Heritage-Roses.jpg",
         "Organiser": "Heritage Rose Society",
-        "Park-reserve": "Mona Vale",
-        "External-website-url": "http://www.nzroses.org.nz/canterbury/"
+        "ParkReserve": "Mona Vale",
+        "ExternalURL": "http://www.nzroses.org.nz/canterbury/"
       }
     },
     {
@@ -601,8 +601,8 @@
         "Contact": "John Parry; John.Parry@ccc.govt.nz",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/planting-855.jpg",
         "Organiser": "Christchurch City Council",
-        "Park-reserve": "Styx Mill Conservation Reserve",
-        "External-website-url": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/"
+        "ParkReserve": "Styx Mill Conservation Reserve",
+        "ExternalURL": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/"
       },
       "geometry": {
         "type": "Point",
@@ -619,8 +619,8 @@
         "Contact": "Pieter Borcherds; Pieter.Borcherds@ccc.govt.nz",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/_resampled/ResizedImageWzgwMCwzNzNd/coastal-volunteers-1500.jpg",
         "Organiser": "Christchurch City Council",
-        "Park-reserve": "Southshore Spit Reserve",
-        "External-website-url": "https://ccc.govt.nz/coastal-and-beach-parks-volunteer-days/"
+        "ParkReserve": "Southshore Spit Reserve",
+        "ExternalURL": "https://ccc.govt.nz/coastal-and-beach-parks-volunteer-days/"
       },
       "geometry": {
         "type": "Point",
@@ -637,8 +637,8 @@
         "Contact": "Di Carter; Parks.Volunteers@ccc.govt.nz",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/porthills-volunteer-855x380.jpg",
         "Organiser": "Christchurch City Council",
-        "Park-reserve": "Port Hills Reserves",
-        "External-website-url": "https://ccc.govt.nz/port-hills-reserves-volunteer-days/"
+        "ParkReserve": "Port Hills Reserves",
+        "ExternalURL": "https://ccc.govt.nz/port-hills-reserves-volunteer-days/"
       },
       "geometry": {
         "type": "Point",
@@ -655,8 +655,8 @@
         "Contact": "Heidi Wilton; Heidi.Wilton@ccc.govt.nz",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/volunteer-locals-855.jpg",
         "Organiser": "Christchurch City Council",
-        "Park-reserve": "Brooker Reserve",
-        "External-website-url": "https://ccc.govt.nz/local-parks-volunteer-days/"
+        "ParkReserve": "Brooker Reserve",
+        "ExternalURL": "https://ccc.govt.nz/local-parks-volunteer-days/"
       },
       "geometry": {
         "type": "Point",
@@ -673,8 +673,8 @@
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Halswell-quarry-volunteers-855.jpg",
         "Organiser": "Christchurch City Council",
         "Activities": "Planting, maintenance",
-        "Park-reserve": "Halswell Quarry Park",
-        "External-website-url": "https://ccc.govt.nz/halswell-quarry-park-planting-days/"
+        "ParkReserve": "Halswell Quarry Park",
+        "ExternalURL": "https://ccc.govt.nz/halswell-quarry-park-planting-days/"
       },
       "geometry": {
         "type": "Point",
@@ -691,8 +691,8 @@
         "Contact": "Parks.Volunteers@ccc.govt.nz",
         "Organiser": "Christchurch City Council",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/planting-855.jpg",
-        "Park-reserve": "Otukaikino River",
-        "External-website-url": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/"
+        "ParkReserve": "Otukaikino River",
+        "ExternalURL": "https://ccc.govt.nz/plains-and-wetlands-volunteer-days/"
       },
       "geometry": {
         "type": "Point",
