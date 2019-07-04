@@ -51,7 +51,7 @@
         "NumberOfWells": 2,
         "Improvements": "Interim below ground repairs to two wells",
         "StartDate": "1/04/2019",
-        "FinishDate": "30/06/2019",
+        "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "23.20%",
         "ChlorinationDose": "0.5 parts per million"
@@ -93,7 +93,7 @@
         "NumberOfWells": 2,
         "Improvements": "Interim below ground repairs to two wells",
         "StartDate": "1/04/2019",
-        "FinishDate": "30/06/2019",
+        "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
         "ChlorinationDose": "Standby chlorine (high water use only)"
@@ -282,7 +282,7 @@
         "NumberOfWells": 5,
         "Improvements": "Raise five below ground well heads",
         "StartDate": "6/12/2018",
-        "FinishDate": "30/07/2019",
+        "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "50.60%",
         "ChlorinationDose": "0.5 parts per million"
@@ -303,7 +303,7 @@
         "NumberOfWells": 5,
         "Improvements": "Raise four below ground well heads",
         "StartDate": "6/12/2018",
-        "FinishDate": "30/06/2019",
+        "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "6.00%",
         "ChlorinationDose": "0.5 parts per million"
@@ -429,7 +429,7 @@
         "NumberOfWells": 3,
         "Improvements": "Raise two well heads, replace one well",
         "StartDate": "27/02/2019",
-        "FinishDate": "30/05/2019",
+        "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.80%",
         "ChlorinationDose": "1 part per million"
@@ -597,7 +597,7 @@
         "NumberOfWells": 6,
         "Improvements": "UV disinfection",
         "StartDate": "1/04/2019",
-        "FinishDate": "30/08/2019",
+        "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "12%",
         "ChlorinationDose": "0.5 parts per million"
@@ -660,7 +660,7 @@
         "NumberOfWells": 3,
         "Improvements": "Raise two well heads, replace one well",
         "StartDate": "20/02/2019",
-        "FinishDate": "30/08/2019",
+        "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.50%",
         "ChlorinationDose": "1 part per million"
@@ -723,7 +723,7 @@
         "NumberOfWells": 3,
         "Improvements": "Interim below ground repairs to three well heads",
         "StartDate": "1/04/2019",
-        "FinishDate": "30/07/2019",
+        "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "7.00%",
         "ChlorinationDose": "0.5 parts per million"
@@ -807,7 +807,7 @@
         "NumberOfWells": 6,
         "Improvements": "Raise six below ground well heads",
         "StartDate": "24/06/2019",
-        "FinishDate": "30/11/2019",
+        "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "31.60%",
         "ChlorinationDose": "0.5 parts per million"
@@ -975,7 +975,7 @@
         "NumberOfWells": 3,
         "Improvements": "Raise well heads",
         "StartDate": "15/03/2019",
-        "FinishDate": "17/05/2019",
+        "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "9.00%",
         "ChlorinationDose": "1 part per million"
@@ -1017,7 +1017,7 @@
         "NumberOfWells": 2,
         "Improvements": "Raise two below ground well heads",
         "StartDate": "25/03/2019",
-        "FinishDate": "30/08/2019",
+        "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "11.70%",
         "ChlorinationDose": "0.5 parts per million"
