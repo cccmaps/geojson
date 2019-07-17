@@ -786,6 +786,45 @@
           -43.532126508022124
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "142 Tuam St",
+        "Entry": "142 Tuam St",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 41,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63455748558044,
+          -43.535366074829554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "20-28 Bath St",
+        "Entry": "20-28 Bath St",
+        "Parking-spaces": 43,
+        "Name": "Wilson off-street parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635195851326,
+          -43.53909933333424
+        ]
+      }
     }
   ]
 }
