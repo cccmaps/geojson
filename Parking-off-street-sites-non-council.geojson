@@ -204,9 +204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "140 Barbadoes Street",
         "Entry": "136 Barbadoes Street",
         "Notes": "",
@@ -227,9 +224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "471 Moorhouse Avenue",
         "Entry": "471 Moorhouse Avenue",
         "Notes": "",
@@ -250,9 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "2 Alfred Street",
         "Entry": "2 Alfred Street",
         "Notes": "",
@@ -373,9 +364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "12 Wilmer Street",
         "Entry": "12 Wilmer Street",
         "Notes": "",
@@ -476,9 +464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "78 Worcester Street",
         "Entry": "78 Worcester Street",
         "Notes": "",
@@ -499,9 +484,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "148 Gloucester Street",
         "Entry": "148 Gloucester Street",
         "Notes": "",
@@ -603,9 +585,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "83 Armagh Street",
         "Entry": "83 Armagh Street",
         "Notes": "2 mobility spaces available",
@@ -627,9 +606,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "335 Durham Street",
         "Entry": "335 Durham Street",
         "Notes": "",
@@ -769,9 +745,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "164 Hereford St",
         "Entry": "164 Hereford St",
         "Name": "Wilson off-street parking",
@@ -790,14 +763,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "142 Tuam St",
         "Entry": "142 Tuam St",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 41,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-"
+        "Charges": "https://www.wilsonparking.co.nz/find-a-",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
@@ -810,13 +781,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "20-28 Bath St",
         "Entry": "20-28 Bath St",
         "Parking-spaces": 43,
-        "Name": "Wilson off-street parking"
+        "Name": "Wilson off-street parking",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
