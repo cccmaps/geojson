@@ -222,24 +222,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.607816,
-          -43.465989
-        ]
-      },
-      "properties": {
-        "name": "Freshwater Frolicking",
-        "site": "Styx Mill Conservation Reserve",
-        "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/freshwater-frolicking/",
-        "Full name": "Freshwater Frolicking - Te whawhewhawhe ki rō waimāori",
-        "Cost": "Free"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.60915,
           -43.44836
         ]
