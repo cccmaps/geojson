@@ -495,7 +495,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Planning",
         "PercetangeContribution": "8.80%",
-        "ChlorinationDose": "1 part per million"
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
