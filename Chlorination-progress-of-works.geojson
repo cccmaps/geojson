@@ -4,6 +4,1077 @@
     {
       "type": "Feature",
       "properties": {
+        "PumpStationName": "Addington",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Raise 2 well heads",
+        "StartDate": "11/03/2019",
+        "FinishDate": "30/07/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "9.80%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6092,
+          -43.546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Aldwins",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Interim below ground repairs to two wells, replace one well",
+        "StartDate": "15/07/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "2.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.668,
+          -43.5397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Aston Drive",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 2,
+        "Improvements": "Interim below ground repairs to two wells",
+        "StartDate": "1/04/2019",
+        "FinishDate": "31/07/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "23.20%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7189,
+          -43.4807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Auburn",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "Raise well head",
+        "StartDate": "28/01/2019",
+        "FinishDate": "30/05/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "4.30%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5764,
+          -43.5335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Averill ",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Interim below ground repairs to two wells",
+        "StartDate": "1/04/2019",
+        "FinishDate": "31/07/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "0.50%",
+        "ChlorinationDose": "Standby chlorine (high water use only)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6603,
+          -43.5128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Avonhead",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "Considering relocation",
+        "StartDate": "14/05/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "8.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5359,
+          -43.5189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Belfast",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "Raise one well, replace one well",
+        "StartDate": "10/06/2019",
+        "FinishDate": "30/06/2018",
+        "Status": "Work in progress",
+        "PercetangeContribution": "0.50%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6296,
+          -43.4422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Blighs ",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Raise well heads",
+        "StartDate": "8/07/2019",
+        "FinishDate": "13/09/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "7.10%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.599,
+          -43.5057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Brooklands",
+        "Zone": "Brooklands/Kainga",
+        "NumberOfWells": 2,
+        "Improvements": "Raise well heads",
+        "StartDate": "17/12/2018",
+        "FinishDate": "8/03/2019",
+        "Status": "Completed",
+        "PercetangeContribution": "19%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6937,
+          -43.4073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Burnside",
+        "Zone": "Northwest",
+        "NumberOfWells": 6,
+        "Improvements": "Above ground wells made secure",
+        "StartDate": "24/09/2018",
+        "FinishDate": "16/11/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "26.60%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5634,
+          -43.5046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Burwood",
+        "Zone": "Parklands",
+        "NumberOfWells": 2,
+        "Improvements": "Abandon pump station",
+        "StartDate": "10/06/2019",
+        "FinishDate": "30/08/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "1.90%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.684,
+          -43.4897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Carters",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 4,
+        "Improvements": "Raise four below ground well heads",
+        "StartDate": "21/01/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "32.60%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7055,
+          -43.5209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Crosbie",
+        "Zone": "Northwest",
+        "NumberOfWells": 3,
+        "Improvements": "Raise well heads",
+        "StartDate": "4/03/2019",
+        "FinishDate": "30/08/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "29.50%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5477,
+          -43.5166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Denton Park",
+        "Zone": "West",
+        "NumberOfWells": 5,
+        "Improvements": "Raise five below ground well heads",
+        "StartDate": "6/12/2018",
+        "FinishDate": "Early August",
+        "Status": "Work in progress",
+        "PercetangeContribution": "50.60%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5192,
+          -43.5412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Dunbars",
+        "Zone": "West",
+        "NumberOfWells": 5,
+        "Improvements": "Raise four below ground well heads",
+        "StartDate": "6/12/2018",
+        "FinishDate": "Early July",
+        "Status": "Work in progress",
+        "PercetangeContribution": "6.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5707,
+          -43.5712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Effingham",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 3,
+        "Improvements": "Raise two below ground well heads and interim works to one below ground well head",
+        "StartDate": "10/06/2019",
+        "FinishDate": "11/10/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "7.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72,
+          -43.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Estuary",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 2,
+        "Improvements": "All works completed",
+        "StartDate": "",
+        "FinishDate": "30/04/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "3.60%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7355,
+          -43.5325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Farrington",
+        "Zone": "Northwest",
+        "NumberOfWells": 5,
+        "Improvements": "Raise one well head",
+        "StartDate": "24/09/2018",
+        "FinishDate": "28/12/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "11.40%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5878,
+          -43.4906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Gardiners",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "New pump station commissioned",
+        "StartDate": "",
+        "FinishDate": "1/01/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "3.70%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5893,
+          -43.4697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Grampian",
+        "Zone": "Northwest",
+        "NumberOfWells": 3,
+        "Improvements": "Well heads raised and made secure",
+        "StartDate": "24/09/2018",
+        "FinishDate": "28/12/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "3.10%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6054,
+          -43.4773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Grassmere",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Raise two well heads, replace one well",
+        "StartDate": "27/02/2019",
+        "FinishDate": "31/07/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "6.80%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6146,
+          -43.4924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Hillmorton",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Raise well heads",
+        "StartDate": "25/02/2019",
+        "FinishDate": "17/05/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "5.50%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593,
+          -43.5543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Hills",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Secure above ground well heads",
+        "StartDate": "24/09/2018",
+        "FinishDate": "30/11/2019",
+        "Status": "Completed",
+        "PercetangeContribution": "5.90%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6513,
+          -43.4991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Jeffreys",
+        "Zone": "Northwest",
+        "NumberOfWells": 4,
+        "Improvements": "Raise one well head, connect two well heads",
+        "StartDate": "30/11/2018",
+        "FinishDate": "30/06/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "8.80%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593,
+          -43.5146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Kainga",
+        "Zone": "Brooklands/Kainga",
+        "NumberOfWells": 1,
+        "Improvements": "Raise well heads",
+        "StartDate": "24/09/2018",
+        "FinishDate": "30/11/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "81%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6593,
+          -43.4148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Kerrs",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Interim below ground repairs to two wells",
+        "StartDate": "1/04/2019",
+        "FinishDate": "30/05/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "1.50%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6816,
+          -43.5249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Keyes ",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 3,
+        "Improvements": "All works completed",
+        "StartDate": "",
+        "FinishDate": "30/04/2018",
+        "Status": "Completed",
+        "PercetangeContribution": "32.20%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7206,
+          -43.506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Lake Terrace",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 3,
+        "Improvements": "Raise one below ground well head",
+        "StartDate": "6/12/2018",
+        "FinishDate": "13/03/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "0.90%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6835,
+          -43.5006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Main Pumps",
+        "Zone": "Central",
+        "NumberOfWells": 6,
+        "Improvements": "UV disinfection",
+        "StartDate": "1/04/2019",
+        "FinishDate": "Early August",
+        "Status": "Work in progress",
+        "PercetangeContribution": "12%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6383,
+          -43.5625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Mairehau",
+        "Zone": "Parklands",
+        "NumberOfWells": 1,
+        "Improvements": "Abandon pump station",
+        "StartDate": "To be announced",
+        "FinishDate": "",
+        "Status": "Planning",
+        "PercetangeContribution": "11.50%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6829,
+          -43.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Marshlands",
+        "Zone": "Parklands",
+        "NumberOfWells": 2,
+        "Improvements": "Raise two below ground well heads",
+        "StartDate": "27/04/2020",
+        "FinishDate": "30/10/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "14.70%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6613,
+          -43.4904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Mays",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Raise two well heads, replace one well",
+        "StartDate": "20/02/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "7.50%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6217,
+          -43.5022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Montreal",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Raise well heads",
+        "StartDate": "To be announced",
+        "FinishDate": "30/07/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "7.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6303,
+          -43.5218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Palatine",
+        "Zone": "Central",
+        "NumberOfWells": 1,
+        "Improvements": "Raise well heads",
+        "StartDate": "29/07/2019",
+        "FinishDate": "30/08/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "0.40%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6469,
+          -43.5649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Parklands",
+        "Zone": "Parklands",
+        "NumberOfWells": 3,
+        "Improvements": "Interim below ground repairs to three well heads",
+        "StartDate": "1/04/2019",
+        "FinishDate": "Early July",
+        "Status": "Work in progress",
+        "PercetangeContribution": "7.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7068,
+          -43.481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Picton",
+        "Zone": "Riccarton",
+        "NumberOfWells": 3,
+        "Improvements": "Raise three below ground well heads",
+        "StartDate": "4/03/2019",
+        "FinishDate": "30/07/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "78.70%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6043,
+          -43.5324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Prestons",
+        "Zone": "Parklands",
+        "NumberOfWells": 4,
+        "Improvements": "Complete headworks on two above ground well heads",
+        "StartDate": "11/02/2019",
+        "FinishDate": "30/08/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "64.80%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6651,
+          -43.4734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Redwood",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "Replace with new pump station",
+        "StartDate": "To be announced",
+        "FinishDate": "",
+        "Status": "Planning",
+        "PercetangeContribution": "2.50%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6237,
+          -43.4743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Sockburn ",
+        "Zone": "West",
+        "NumberOfWells": 6,
+        "Improvements": "Raise six below ground well heads",
+        "StartDate": "24/06/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "31.60%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5569,
+          -43.5383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Spreydon",
+        "Zone": "Central",
+        "NumberOfWells": 4,
+        "Improvements": "Interim below ground repairs to three well heads",
+        "StartDate": "22/04/2019",
+        "FinishDate": "30/10/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "9.00%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6144,
+          -43.5646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "St Johns",
+        "Zone": "Ferrymead",
+        "NumberOfWells": 3,
+        "Improvements": "Raise well heads",
+        "StartDate": "18/03/2019",
+        "FinishDate": "19/06/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "56%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691,
+          -43.5438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Sydenham ",
+        "Zone": "Central",
+        "NumberOfWells": 4,
+        "Improvements": "Interim below ground repairs to two wells",
+        "StartDate": "25/03/2019",
+        "FinishDate": "30/10/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "9.60%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6356,
+          -43.5494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Tanner",
+        "Zone": "Central",
+        "NumberOfWells": 1,
+        "Improvements": "Make above ground well head secure",
+        "StartDate": "14/05/2019",
+        "FinishDate": "30/05/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "1.00%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.679,
+          -43.5579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Tara",
+        "Zone": "Riccarton",
+        "NumberOfWells": 1,
+        "Improvements": "Raise one below ground well head",
+        "StartDate": "3/06/2019",
+        "FinishDate": "23/08/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "21.30%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5891,
+          -43.5321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Thompsons",
+        "Zone": "Northwest",
+        "NumberOfWells": 2,
+        "Improvements": "Raise one well head",
+        "StartDate": "6/05/2019",
+        "FinishDate": "30/10/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "1.50%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6289,
+          -43.458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Thorrington ",
+        "Zone": "Central",
+        "NumberOfWells": 1,
+        "Improvements": "Abandon well and convert to booster station",
+        "StartDate": "To be announced",
+        "FinishDate": "",
+        "Status": "Planning",
+        "PercetangeContribution": "0.90%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6329,
+          -43.5643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Trafalgar",
+        "Zone": "Central",
+        "NumberOfWells": 3,
+        "Improvements": "Raise well heads",
+        "StartDate": "15/03/2019",
+        "FinishDate": "Early July",
+        "Status": "Work in progress",
+        "PercetangeContribution": "9.00%",
+        "ChlorinationDose": "1 part per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6356,
+          -43.5128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Wainui ",
+        "Zone": "Wainui",
+        "NumberOfWells": 1,
+        "Improvements": "Raise one below ground well head",
+        "StartDate": "8/04/2019",
+        "FinishDate": "30/06/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "100.00%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.894,
+          -43.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Wilmers",
+        "Zone": "West",
+        "NumberOfWells": 2,
+        "Improvements": "Raise two below ground well heads",
+        "StartDate": "25/03/2019",
+        "FinishDate": "30/09/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "11.70%",
+        "ChlorinationDose": "0.5 parts per million"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5388,
+          -43.5567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Woolston",
+        "Zone": "Ferrymead",
+        "NumberOfWells": 3,
+        "Improvements": "Interim below ground repairs to two wells",
+        "StartDate": "15/04/2019",
+        "FinishDate": "10/05/2019",
+        "Status": "Planning",
+        "PercetangeContribution": "44%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6835,
+          -43.5486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Worcester",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Raise well heads",
+        "StartDate": "18/03/2019",
+        "FinishDate": "30/06/2019",
+        "Status": "Work in progress",
+        "PercetangeContribution": "4.50%",
+        "ChlorinationDose": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6526,
+          -43.5305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "altitude": "",
         "geometry": "Point",
         "PumpStationName": "Addington",
@@ -14,8 +1085,7 @@
         "FinishDate": "30/07/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.80%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -38,8 +1108,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "2.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -59,11 +1128,10 @@
         "NumberOfWells": 2,
         "Improvements": "Interim below ground repairs to two wells",
         "StartDate": "1/04/2019",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "23.20%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -86,8 +1154,7 @@
         "FinishDate": "30/05/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "4.30%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +1177,7 @@
         "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "Standby chlorine (high water use only)"
       },
       "geometry": {
         "type": "Point",
@@ -134,8 +1200,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "8.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -158,8 +1223,7 @@
         "FinishDate": "30/06/2018",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "1 part per million"
       },
       "geometry": {
         "type": "Point",
@@ -182,8 +1246,7 @@
         "FinishDate": "13/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.10%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -206,8 +1269,7 @@
         "FinishDate": "8/03/2019",
         "Status": "Completed",
         "PercetangeContribution": "19%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +1292,7 @@
         "FinishDate": "16/11/2018",
         "Status": "Completed",
         "PercetangeContribution": "26.60%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -254,8 +1315,7 @@
         "FinishDate": "30/08/2019",
         "Status": "Planning",
         "PercetangeContribution": "1.90%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "1 part per million"
       },
       "geometry": {
         "type": "Point",
@@ -278,8 +1338,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "32.60%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -302,8 +1361,7 @@
         "FinishDate": "30/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "29.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +1384,7 @@
         "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "50.60%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -347,11 +1404,10 @@
         "NumberOfWells": 5,
         "Improvements": "Raise four below ground well heads",
         "StartDate": "6/12/2018",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "6.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -374,8 +1430,7 @@
         "FinishDate": "11/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -398,8 +1453,7 @@
         "FinishDate": "30/04/2018",
         "Status": "Completed",
         "PercetangeContribution": "3.60%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -422,8 +1476,7 @@
         "FinishDate": "28/12/2018",
         "Status": "Completed",
         "PercetangeContribution": "11.40%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -446,8 +1499,7 @@
         "FinishDate": "1/01/2018",
         "Status": "Completed",
         "PercetangeContribution": "3.70%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -470,8 +1522,7 @@
         "FinishDate": "28/12/2018",
         "Status": "Completed",
         "PercetangeContribution": "3.10%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -491,11 +1542,10 @@
         "NumberOfWells": 3,
         "Improvements": "Raise two well heads, replace one well",
         "StartDate": "27/02/2019",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.80%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -518,8 +1568,7 @@
         "FinishDate": "17/05/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "5.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -542,8 +1591,7 @@
         "FinishDate": "30/11/2019",
         "Status": "Completed",
         "PercetangeContribution": "5.90%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -566,8 +1614,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Planning",
         "PercetangeContribution": "8.80%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "1 part per million"
       },
       "geometry": {
         "type": "Point",
@@ -590,8 +1637,7 @@
         "FinishDate": "30/11/2018",
         "Status": "Completed",
         "PercetangeContribution": "81%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -614,8 +1660,7 @@
         "FinishDate": "30/05/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "1.50%",
-        "ChlorinationDose": "0.5ppm",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -638,8 +1683,7 @@
         "FinishDate": "30/04/2018",
         "Status": "Completed",
         "PercetangeContribution": "32.20%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -662,8 +1706,7 @@
         "FinishDate": "13/03/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "0.90%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -683,11 +1726,10 @@
         "NumberOfWells": 6,
         "Improvements": "UV disinfection",
         "StartDate": "1/04/2019",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "12%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +1752,7 @@
         "FinishDate": "",
         "Status": "Planning",
         "PercetangeContribution": "11.50%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -730,12 +1771,11 @@
         "Zone": "Parklands",
         "NumberOfWells": 2,
         "Improvements": "Raise two below ground well heads",
-        "StartDate": "30/10/2019",
-        "FinishDate": "27/04/2020",
+        "StartDate": "27/04/2020",
+        "FinishDate": "30/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "14.70%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -758,8 +1798,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.50%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -779,11 +1818,10 @@
         "NumberOfWells": 2,
         "Improvements": "Raise well heads",
         "StartDate": "To be announced",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "30/07/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -806,8 +1844,7 @@
         "FinishDate": "30/08/2019",
         "Status": "Planning",
         "PercetangeContribution": "0.40%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -827,11 +1864,10 @@
         "NumberOfWells": 3,
         "Improvements": "Interim below ground repairs to three well heads",
         "StartDate": "1/04/2019",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -854,8 +1890,7 @@
         "FinishDate": "30/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "78.70%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -878,8 +1913,7 @@
         "FinishDate": "30/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "64.80%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -902,8 +1936,7 @@
         "FinishDate": "",
         "Status": "Planning",
         "PercetangeContribution": "2.50%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -926,8 +1959,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "31.60%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -950,8 +1982,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -974,8 +2005,7 @@
         "FinishDate": "19/06/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "56%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -998,8 +2028,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.60%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1022,8 +2051,7 @@
         "FinishDate": "30/05/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "1.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -1046,8 +2074,7 @@
         "FinishDate": "23/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "21.30%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1070,8 +2097,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "1.50%",
-        "ChlorinationDose": "none",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -1094,8 +2120,7 @@
         "FinishDate": "",
         "Status": "Planning",
         "PercetangeContribution": "0.90%",
-        "ChlorinationDose": "Out of service. Pumping from adjacent pump stations",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1118,8 +2143,7 @@
         "FinishDate": "Early July",
         "Status": "Work in progress",
         "PercetangeContribution": "9.00%",
-        "ChlorinationDose": "1 part per million",
-        "": ""
+        "ChlorinationDose": "1 part per million"
       },
       "geometry": {
         "type": "Point",
@@ -1139,11 +2163,10 @@
         "NumberOfWells": 1,
         "Improvements": "Raise one below ground well head",
         "StartDate": "8/04/2019",
-        "FinishDate": "31/08/2019",
+        "FinishDate": "30/06/2019",
         "Status": "Planning",
         "PercetangeContribution": "100.00%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1166,8 +2189,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "11.70%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1190,8 +2212,7 @@
         "FinishDate": "10/05/2019",
         "Status": "Planning",
         "PercetangeContribution": "44%",
-        "ChlorinationDose": "0.5 parts per million",
-        "": ""
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1214,8 +2235,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "4.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)",
-        "": ""
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
