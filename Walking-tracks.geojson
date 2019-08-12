@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "dbo.vwRouteWalk",
   "features": [
     {
       "type": "Feature",
@@ -159171,13 +159170,16 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "RouteID": 1216,
         "RouteServiceStatus": "Open",
         "RouteLandOwnership": "",
         "RouteTraffic": "Walk",
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
-        "RouteHierarchy": "",
+        "RouteHierarchy": "Primary",
         "RouteSharedUse": "No ",
         "RouteWarning": "",
         "RouteArea": "",
