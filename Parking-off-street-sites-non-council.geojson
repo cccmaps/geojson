@@ -811,7 +811,8 @@
         "Entry": "184 Antigua St",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 116,
-        "Charges": "https://www.wilsonparking.co.nz/find-"
+        "Charges": "https://www.wilsonparking.co.nz/find-",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
