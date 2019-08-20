@@ -532,6 +532,861 @@
           -43.44677
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Heathcote Domain picnic area",
+        "Park features": "Sports field, playground, tennis courts, open spaces and trees ",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Bridle Path Road, Heathcote Valley",
+        "URL": "https://www.ccc.govt.nz/assets/Documents/Parks-Gardens/Make-a-booking/Heathcote-Feb17.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70791,
+          -43.581742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Barnett Park picnic area",
+        "Park features": "Sports fields, walking tracks, playground, open spaces, trees and toilets",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Main Road, Redcliffs",
+        "URL": "https://www.ccc.govt.nz/assets/Documents/Parks-Gardens/Make-a-booking/BarnettPark-Feb17.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739666,
+          -43.564498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Rotary picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.574647,
+          -43.596261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Kurashiki Garden picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580715,
+          -43.598394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Oval picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 200 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.576364,
+          -43.598657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Oval picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 100 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.578581,
+          -43.59863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Lions picnic area",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 50 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579956,
+          -43.598298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Findlay picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580869,
+          -43.598868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Findlay picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.580925,
+          -43.599274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Inner Quarry picnic area 1",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.578278,
+          -43.601116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Halswell Quarry Inner Quarry picnic area 2",
+        "Park features": "Walking tracks, cycling tracks, orienteering courses, global botanical collections, wetland conservation area, dog exercise area, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Halswell Quarry",
+        "Address": "Kennedys Bush Road, Halswell",
+        "URL": "https://www.ccc.govt.nz/halswell-quarry#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.579678,
+          -43.600619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Ouruhia Reserve picnic area",
+        "Park features": "Playground, open spaces, tennis courts and toilets",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Chenery Ave, Styx",
+        "URL": "https://www.ccc.govt.nz/assets/Documents/Parks-Gardens/Make-a-booking/Ouruhia-Feb17.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651779,
+          -43.440792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Scarborough Park picnic area",
+        "Park features": "Playground, paddling pool, Sumner beach, toilets, trees, walkways and cafes",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Heberden Ave, Sumner",
+        "URL": "https://www.ccc.govt.nz/assets/Documents/Parks-Gardens/Make-a-booking/Scarborough-Feb17.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769323,
+          -43.573727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "South New Brighton Park picnic area",
+        "Park features": "Playground, basketball court, estuary, toilets and open spaces",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Jellicoe Street, Beatty Street, South Brighton",
+        "URL": "https://www.ccc.govt.nz/new-brighton-north-and-south#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732895,
+          -43.529428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Spencerville Reserve picnic area",
+        "Park features": "Playground, open spaces and a tennis court",
+        "Bookable picnic areas": "Located near a fixed BBQ",
+        "Address": "Heyders Road, Styx River Place, Brooklands",
+        "URL": "https://www.ccc.govt.nz/assets/Documents/Parks-Gardens/Make-a-booking/Spencerville-Feb17.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696165,
+          -43.433229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Spencer Park picnic area 1",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": "https://www.ccc.govt.nz/spencer-park#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706194,
+          -43.431273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Spencer Park picnic area 2",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": "https://www.ccc.govt.nz/spencer-park#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706523,
+          -43.431868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Spencer Park picnic area 3",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit and mini golf",
+        "Bookable picnic areas": "Holds 50 people, located near multiple fixed BBQs",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": "https://www.ccc.govt.nz/spencer-park#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708028,
+          -43.431107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Styx Mill picnic area",
+        "Park features": "River, dog exercise area, trees, walking tracks, lake, wildlife and toilets",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx Mill",
+        "Address": "Husseys Road, Styx Mill Road, Northwood",
+        "URL": "https://ccc.govt.nz/styx-mill#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.600699,
+          -43.463242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Styx River Esplanade Reserve picnic area 1",
+        "Park features": "River, playground, walking tracks and trees",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx River Esplanade Reserve",
+        "Address": "Willowview Drive, Redwood Springs",
+        "URL": "https://ccc.govt.nz/styx-river-esplanade-reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626863,
+          -43.464379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "Styx River Esplanade Reserve picnic area 2",
+        "Park features": "River, playground, walking tracks and trees",
+        "Bookable picnic areas": "Holds 60 people, no BBQ facilities at Styx River Esplanade Reserve",
+        "Address": "Willowview Drive, Redwood Springs",
+        "URL": "https://ccc.govt.nz/styx-river-esplanade-reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.630421,
+          -43.466109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 2e",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.607344,
+          -43.449417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 2d",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608302,
+          -43.449301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 2c",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608833,
+          -43.448766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 2b",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608784,
+          -43.447768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 2a",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 60 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.610015,
+          -43.447377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 3b",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.610934,
+          -43.44747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "geometry": "Point",
+        "Park": "The Groynes picnic area 3a",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
+        "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
+        "Address": "Groynes Drive, Northwood",
+        "URL": "https://ccc.govt.nz/the-groynes#bookablespaces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611678,
+          -43.44677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Heathcote Domain BBQ",
+        "Park features": "Sports field, playground, tennis courts, trees, open spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. Heathcote Domain BBQ is located near a bookable picnic space.",
+        "Address": "Bridle Path Road, Heathcote Valley",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708006,
+          -43.581749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Barnett Park BBQ",
+        "Park features": "Sports fields, walking tracks, playground, open spaces, trees, toilets",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. Barnett Park BBQ is located near a bookable picnic space.",
+        "Address": "Main Road, Redcliffs",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739629,
+          -43.564552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Ouruhia Reserve BBQ",
+        "Park features": "Playground, open spaces, tennis courts, toilets",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. Ouruhia Reserve BBQ is located near a bookable picnic space.",
+        "Address": "Chenery Ave, Styx",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651844,
+          -43.440736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Scarborough Park BBQ",
+        "Park features": "Playground, paddling pool, Sumner beach, toilets, trees, walkways, cafes",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. Scarborough Park BBQ is located near a bookable picnic space.",
+        "Address": "Heberden Ave, Sumner",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769432,
+          -43.573663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "South New Brighton Park BBQ",
+        "Park features": "Playground, basketball court, estuary",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. South Brighton Park BBQ is located near a bookable picnic space.",
+        "Address": "Jellicoe Street, Beatty Street, South Brighton",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732722,
+          -43.529492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencerville Reserve BBQ",
+        "Park features": "Playground, wide spaces, tennis court",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked.",
+        "Address": "Heyders Road, Styx River Place, Brooklands",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.696272,
+          -43.433099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencer Park BBQ",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, volleyball court, tennis court, basketball court, sandpit, mini golf",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706581,
+          -43.431457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencer Park BBQ",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70714,
+          -43.431818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencer Park BBQ",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707652,
+          -43.431529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencer Park BBQ",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706895,
+          -43.432043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Spencer Park BBQ",
+        "Park features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Address": "Heyders Road, Bottle Lake",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707947,
+          -43.430506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "The Groynes BBQ",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Address": "Groynes Drive, Northwood",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604337,
+          -43.452787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "The Groynes BBQ",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Address": "Groynes Drive, Northwood",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608431,
+          -43.448463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "The Groynes BBQ",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Address": "Groynes Drive, Northwood",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.609688,
+          -43.447934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "The Groynes BBQ",
+        "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Address": "Groynes Drive, Northwood",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.611084,
+          -43.446866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Hagley Park North BBQ",
+        "Park features": "Sports fields, walking tracks, fitness trail, lakes, golf course, river, botanical collection, toilets, wide spaces",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces.",
+        "Address": "Armagh Street car park",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622733,
+          -43.528787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BBQ",
+        "geometry": "Point",
+        "Park": "Hagley Park South BBQ",
+        "Park features": "Sports fields, walking tracks, wide spaces, toilets",
+        "Bookable picnic areas": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces.",
+        "Address": "Deans Ave",
+        "URL": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612717,
+          -43.531142
+        ]
+      }
     }
   ]
 }
