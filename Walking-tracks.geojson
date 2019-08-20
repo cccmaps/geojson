@@ -8715,7 +8715,7 @@
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
         "RouteHierarchy": "Primary",
-        "RouteSharedUse": "No",
+        "RouteSharedUse": "No ",
         "RouteWarning": "",
         "RouteArea": "City Centre",
         "RoutePlace": "",
