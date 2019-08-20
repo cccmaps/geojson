@@ -8705,6 +8705,9 @@
         ]
       },
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "RouteID": 1091,
         "RouteServiceStatus": "Open",
         "RouteLandOwnership": "CCC",
@@ -8712,7 +8715,7 @@
         "WalkClassification": "Walking Track",
         "MountainBikeClassification": "",
         "RouteHierarchy": "Primary",
-        "RouteSharedUse": "",
+        "RouteSharedUse": "No",
         "RouteWarning": "",
         "RouteArea": "City Centre",
         "RoutePlace": "",
