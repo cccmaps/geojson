@@ -960,6 +960,1026 @@
           -43.5464672
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Addington Cemetery",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#addingtoncemetery",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/Cemeteries/_resampled/ResizedImageWzMwMCwxODZd/AddingtonCemetery.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62188,
+          -43.54347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Addington Water Tower",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#water",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzMyNSw0ODdd/AddingtonWaterTower.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6076877,
+          -43.5393537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Akaroa French Cemetery",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#akaroa",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage400249-AkaroaFrenchCemetery.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.970474,
+          -43.803755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Aranui War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#aranui",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-4.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.702553,
+          -43.517947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Ballantyne Memorial Rose Garden",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#ballantyne",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-77.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6886795,
+          -43.5340411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Barbadoes Street Cemetery",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#barbadoes",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage399248-BarbadoesStreetCemetery.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6626351,
+          -43.5258139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Battle of Crete War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#crete",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-5.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.648468,
+          -43.5810472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Bowker Fountain",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/fountains#bowker",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzgwMCw0MDJd/Victoria-Square-Bowker-Fountain.jpg",
+        "Type": "fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635851,
+          -43.5281478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Burwood War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#burwood",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/Burwood.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6818689,
+          -43.5005925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Canterbury Provincial Council Buildings",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#provincial",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/Arts-Culture/_resampled/ResizedImageWzM1MCwyNjld/Canterbury-Provincial-Chambers.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631929,
+          -43.5292923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Captain James Cook Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#cook",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzM2Myw0NTBd/28706-VictoriaSquare-3059.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6355728,
+          -43.5280113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Captain Robert Falcon Scott Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#scott",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzMwMCw0MDBd/scott-statue-7020070resize.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6335483,
+          -43.531136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Cave Rock War Memorial Drinking Fountain",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#cave",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/CaveRockfountain.JPG",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.756775,
+          -43.566772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Chalice",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/chalice/",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzM1MCw1MjVd/21200-TB-0208000041.jpg",
+        "Type": "sculpture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6346417,
+          -43.531437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Christchurch Hospital Nurses' Memorial Chapel",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#nurses",
+        "PhotoURL": "",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624271,
+          -43.533956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Citizens' War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#citizen",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Uploads/6324001847-bd53342a55-b1.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6348817,
+          -43.5305194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Coutts Island War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#coutts",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-88.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6224733,
+          -43.4272982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Cuningham House",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#cuningham",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzg1NSw0Njhd/Botanic-Gardens-Central-Rose-Garden-with-sundial-and-Cuningham-House.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621138,
+          -43.529795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Diamond Jubilee Clock Tower",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/clocks#diamond",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Clock-1.jpg",
+        "Type": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6306708,
+          -43.524216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Edmonds Clock Tower",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/clocks#edmonds",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Clock-2.jpg",
+        "Type": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642642,
+          -43.527542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Fitzgerald Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#fitzgerald",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Statue-8.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6272762,
+          -43.5326228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Floral Clock",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/clocks#floral",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzI1MCwxNjdd/floralclock-orig.jpg",
+        "Type": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6347421,
+          -43.5276583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Gallipoli War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#gallipoli",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-23.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.648468,
+          -43.5810472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Godley House",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#godley",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzgwMCw0NDFd/Godley-House-Diamond-Habr-resize11.jpg",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.740434,
+          -43.624596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Godley Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#godleystatue",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Godleystatues.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635975,
+          -43.530951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Grubb Cottage",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#grubb",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw1MTld/Grubb-cottage-2014-05-2copy.jpg",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719364,
+          -43.601736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Halswell War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#halswell",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-25.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.567447,
+          -43.577792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Heathcote War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#heathcote",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-28.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7108824,
+          -43.5758945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Interment site for February earthquake victims",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#february",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/Cemeteries/Avonhead-Park-CemeteryIntermentSiteSML.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5464958,
+          -43.5083984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Kate Sheppard Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#kate",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/KateSheppardmemorial.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631468,
+          -43.5307613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Lancaster Park War Memorial entrance gates",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#lancaster",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Uploads/Lancaster.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6519167,
+          -43.5410981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Magnetic Observatory",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#magnetic",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzg1NSw0ODFd/Magnetic-Observatory-Workshop2.jpg",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.619912,
+          -43.529342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Memorial Avenue War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#memorial",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/MemorialcrnclydeandMemorialave.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.590387,
+          -43.518593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Memorial to 19th Infantry Battalion & Armoured Regiment",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#infantry",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-42.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6398421,
+          -43.5883539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Moa Bone Point Cave",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#moa",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw1NDdd/Moa-Bone-Point-Cave-pre-2011.jpg",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732278,
+          -43.556839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Moncks Cave",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#moncks",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSw0MTRd/Moncks-Cave-Heritage-image-cropped.jpg",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739266,
+          -43.564401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Moorhouse Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#moorhousestatue",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Statue-10.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6275234,
+          -43.5320954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Mount Magdala Cemetery of the Good Shepherd Sisters",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#magdela",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImage400296-MountMagdalaCemeteryoftheGoodShepherdSisters.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5657339,
+          -43.5621099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "New Brighton Clock Tower",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/clocks#brightonclock",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Clock-4.jpg",
+        "Type": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7305944,
+          -43.5068507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "New Brighton War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#brighton",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/NewBrightonWarmemorial.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7296226,
+          -43.508446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "New Regent Street",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#regent",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/heritage/_resampled/ResizedImageWzYwMCwzNDVd/New-Regent.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.638701,
+          -43.529288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Old Municipal Chambers (Our City O-Tautahi)",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#municipal",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Rebuild/heritage/_resampled/ResizedImageWzg1NSw0OTFd/ourcityotautahi.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633656,
+          -43.530763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Old Stone House",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#stone",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Buildings/_resampled/ResizedImageWzY1MCwyOTdd/stonehouse.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.617832,
+          -43.576267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Papanui War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#papanui",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-45.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6080614,
+          -43.4970109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Peacock Fountain",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/fountains#peacock",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzg1NSw0MDBd/Peacock-Fountain-May2012-0752.jpg",
+        "Type": "fountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62694,
+          -43.531329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Queen Victoria Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#victoriastatue",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/49427-queenvictoriastatue-sml-pr.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635162,
+          -43.5278592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Rolleston Statue",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#rollestonstatue",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Statue-13.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6275788,
+          -43.531003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Rose Historic Chapel",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#rose",
+        "PhotoURL": "https://ccc.govt.nz/assets/Uploads/_resampled/ResizedImageWzYwMCwyMDBd/chapel-050716-T1-2-1.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636807,
+          -43.5232103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Ruru Lawn Cemetery War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#ruru",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-106.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.688679,
+          -43.5340411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Rutherford (Woolston) Cemetery",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/cemeteries#rutherford",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Services/_resampled/ResizedImageWzQwMCwyNDdd/RutherfordCemetery.png",
+        "Type": "historic cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.665477,
+          -43.5487186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Scarborough Clock Tower",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/clocks#scarboroughclock",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Clock-6.jpg",
+        "Type": "clock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769244,
+          -43.573125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Sheldon Park War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#sheldon",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-50.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62943,
+          -43.452858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Sign of the Bellbird",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#bellbird",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Sign-of-the-Bellbird-.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624999,
+          -43.632139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Sign of the Kiwi",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#kiwi",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/SoK.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.645265,
+          -43.606299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Sign of the Takahe",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/heritage-buildings#takahe",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzg1NSw0NjVd/Sign-of-the-Takahe-resize.jpg",
+        "Type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635496,
+          -43.57752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Stoddart Cottage",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/archaeological-sites#stoddart",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/Archaeology-Week/_resampled/ResizedImageWzg1NSwzOTZd/Side-view-Stoddarts-Cottage.JPG",
+        "Type": "archaeological site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.740444,
+          -43.6269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Sumner Beach War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#sumner",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-55.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.756775,
+          -43.566772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "The Bridge of Remembrance",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#remembrance",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/_resampled/ResizedImageWzQ1MCwzMzdd/TriumphalArch0915.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633204,
+          -43.5332964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Witch Hill War Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#witch",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-65.jpg",
+        "Type": "memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6746041,
+          -43.5946838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Title": "Woolston Borough Monument",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/statues#woolston",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-67.jpg",
+        "Type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6774407,
+          -43.5464672
+        ]
+      }
     }
   ]
 }
