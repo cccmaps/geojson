@@ -277,6 +277,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Denton Park",
         "Zone": "West",
         "NumberOfWells": 5,
@@ -285,7 +288,7 @@
         "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "50.60%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -424,6 +427,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Grassmere",
         "Zone": "Central",
         "NumberOfWells": 3,
@@ -432,7 +438,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.80%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -802,6 +808,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Sockburn ",
         "Zone": "West",
         "NumberOfWells": 6,
@@ -810,7 +819,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "31.60%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -823,6 +832,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Spreydon",
         "Zone": "Central",
         "NumberOfWells": 4,
@@ -831,7 +843,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.00%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -970,6 +982,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Trafalgar",
         "Zone": "Central",
         "NumberOfWells": 3,
@@ -991,6 +1006,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Wainui ",
         "Zone": "Wainui",
         "NumberOfWells": 1,
@@ -999,7 +1017,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Planning",
         "PercetangeContribution": "100.00%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -1012,6 +1030,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Wilmers",
         "Zone": "West",
         "NumberOfWells": 2,
@@ -1020,7 +1041,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "11.70%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
@@ -1033,6 +1054,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Woolston",
         "Zone": "Ferrymead",
         "NumberOfWells": 3,
@@ -1041,7 +1065,7 @@
         "FinishDate": "10/05/2019",
         "Status": "Planning",
         "PercetangeContribution": "44%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "0.2 parts per million (audit phase)"
       },
       "geometry": {
         "type": "Point",
