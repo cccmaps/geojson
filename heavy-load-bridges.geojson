@@ -1,24 +1,16 @@
 {
   "type": "FeatureCollection",
-  "name": "kmllayer",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Pages Road",
-        "Long": "172.7213",
-        "Bridge No.": "R102",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Pages Road",
-        "Max Speed Limit (km/h)": "30",
-        "Bridge name": "Pages Road",
+        "Name-of-Road": "Pages Road",
+        "Bridge-No": "R102",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Pages Road",
+        "Max-Speed-Limit": 30,
+        "Bridge-name": "Pages Road",
         "Status": 1
       },
       "geometry": {
@@ -32,14 +24,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Swanns Road",
-        "Long": "172.660086",
-        "Bridge No.": "R107",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Swanns Road",
-        "Max Speed Limit (km/h)": "30",
-        "Bridge name": "Swanns Road",
+        "Name-of-Road": "Swanns Road",
+        "Bridge-No": "R107",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Swanns Road",
+        "Max-Speed-Limit": 30,
+        "Bridge-name": "Swanns Road",
         "Status": 1
       },
       "geometry": {
@@ -53,14 +44,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Armagh Street",
-        "Long": "172.634767",
-        "Bridge No.": "R115",
-        "Weight Restriction Max Weight on Any One Axle": "5,350 kg",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "85% Class 1",
-        "Field_1": "Armagh Street (Cambridge to Oxford)",
-        "Max Speed Limit (km/h)": "30",
-        "Bridge name": "Armagh Street (Cambridge to Oxford)",
+        "Name-of-Road": "Armagh Street",
+        "Bridge-No": "R115",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "5,350 kg",
+        "Weight-Restriction-Gross-Weight": "85% Class 1",
+        "Address": "Armagh Street (Cambridge to Oxford)",
+        "Max-Speed-Limit": 30,
+        "Bridge-name": "Armagh Street (Cambridge to Oxford)",
         "Status": 1
       },
       "geometry": {
@@ -74,14 +64,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Kahu Road",
-        "Long": "172.599765",
-        "Bridge No.": "R132",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Kahu Road East",
-        "Max Speed Limit (km/h)": "30",
-        "Bridge name": "Kahu Road East",
+        "Name-of-Road": "Kahu Road",
+        "Bridge-No": "R132",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Kahu Road East",
+        "Max-Speed-Limit": 30,
+        "Bridge-name": "Kahu Road East",
         "Status": 1
       },
       "geometry": {
@@ -95,14 +84,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Garden Road",
-        "Long": "172.610343",
-        "Bridge No.": "R136",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "3500 kg",
-        "Field_1": "Garden Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Garden Road",
+        "Name-of-Road": "Garden Road",
+        "Bridge-No": "R136",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "3500 kg",
+        "Address": "Garden Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Garden Road",
         "Status": 1
       },
       "geometry": {
@@ -116,14 +104,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Poynder Avenue",
-        "Long": "172.610957",
-        "Bridge No.": "R137",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "3500 kg",
-        "Field_1": "Poynder Avenue",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Poynder Avenue",
+        "Name-of-Road": "Poynder Avenue",
+        "Bridge-No": "R137",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "3500 kg",
+        "Address": "Poynder Avenue",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Poynder Avenue",
         "Status": 1
       },
       "geometry": {
@@ -137,14 +124,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Bowenvale Avenue",
-        "Long": "172.643165",
-        "Bridge No.": "R211",
-        "Weight Restriction Max Weight on Any One Axle": "8,200 kg",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "16,000 kg",
-        "Field_1": "Bowenvale Avenue",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Bowenvale Avenue",
+        "Name-of-Road": "Bowenvale Avenue",
+        "Bridge-No": "R211",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "8,200 kg",
+        "Weight-Restriction-Gross-Weight": "16,000 kg",
+        "Address": "Bowenvale Avenue",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Bowenvale Avenue",
         "Status": 1
       },
       "geometry": {
@@ -158,14 +144,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Scruttons Road",
-        "Long": "172.69403",
-        "Bridge No.": "R833",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "70 % Class 1",
-        "Field_1": "Scruttons Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Scruttons Road",
+        "Name-of-Road": "Scruttons Road",
+        "Bridge-No": "R833",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "70 % Class 1",
+        "Address": "Scruttons Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Scruttons Road",
         "Status": 1
       },
       "geometry": {
@@ -179,14 +164,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Bossu Road",
-        "Long": "172.892848",
-        "Bridge No.": "A01",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Bossu Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Bossu Road",
+        "Name-of-Road": "Bossu Road",
+        "Bridge-No": "A01",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Bossu Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Bossu Road",
         "Status": 1
       },
       "geometry": {
@@ -200,14 +184,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Donovans Road",
-        "Long": "172.890319",
-        "Bridge No.": "A06",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Donovans Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Donovans Road",
+        "Name-of-Road": "Donovans Road",
+        "Bridge-No": "A06",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Donovans Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Donovans Road",
         "Status": 1
       },
       "geometry": {
@@ -221,14 +204,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Tizzards Road",
-        "Long": "172.974063",
-        "Bridge No.": "A24",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Tizzards Road 2",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Tizzards Road 2",
+        "Name-of-Road": "Tizzards Road",
+        "Bridge-No": "A24",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Tizzards Road 2",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Tizzards Road 2",
         "Status": 1
       },
       "geometry": {
@@ -242,14 +224,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Old Le Bons Track",
-        "Long": "172.981428",
-        "Bridge No.": "A32",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Takamatua Frasers 1",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Takamatua Frasers 1",
+        "Name-of-Road": "Old Le Bons Track",
+        "Bridge-No": "A32",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Takamatua Frasers 1",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Takamatua Frasers 1",
         "Status": 1
       },
       "geometry": {
@@ -263,14 +244,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "School House Road",
-        "Long": "173.036469",
-        "Bridge No.": "A57",
-        "Weight Restriction Max Weight on Any One Axle": "5,160 kg",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "60 % Class 1",
-        "Field_1": "School Road, Okains Bay",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "School Road, Okains Bay",
+        "Name-of-Road": "School House Road",
+        "Bridge-No": "A57",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "5,160 kg",
+        "Weight-Restriction-Gross-Weight": "60 % Class 1",
+        "Address": "School Road, Okains Bay",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "School Road, Okains Bay",
         "Status": 1
       },
       "geometry": {
@@ -284,14 +264,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Little Akaloa Road",
-        "Long": "172.964007",
-        "Bridge No.": "A63",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Little Akaloa Main Road 3",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Little Akaloa Main Road 3",
+        "Name-of-Road": "Little Akaloa Road",
+        "Bridge-No": "A63",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Little Akaloa Main Road 3",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Little Akaloa Main Road 3",
         "Status": 1
       },
       "geometry": {
@@ -305,14 +284,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Middle Road",
-        "Long": "172.898973",
-        "Bridge No.": "A71",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Middle Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Middle Road",
+        "Name-of-Road": "Middle Road",
+        "Bridge-No": "A71",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Middle Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Middle Road",
         "Status": 1
       },
       "geometry": {
@@ -326,14 +304,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Pigeon Bay Road",
-        "Long": "172.895423",
-        "Bridge No.": "A73",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Pigeon Bay Road 4",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Pigeon Bay Road 4",
+        "Name-of-Road": "Pigeon Bay Road",
+        "Bridge-No": "A73",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Pigeon Bay Road 4",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Pigeon Bay Road 4",
         "Status": 1
       },
       "geometry": {
@@ -347,14 +324,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Innes Road",
-        "Long": "172.899491",
-        "Bridge No.": "A74",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Innes Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Innes Road",
+        "Name-of-Road": "Innes Road",
+        "Bridge-No": "A74",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Innes Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Innes Road",
         "Status": 1
       },
       "geometry": {
@@ -368,14 +344,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Holmes Bay Valley Road",
-        "Long": "172.866441",
-        "Bridge No.": "A84",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "90 % Class 1",
-        "Field_1": "Holmes Bay Valley Road 3",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Holmes Bay Valley Road 3",
+        "Name-of-Road": "Holmes Bay Valley Road",
+        "Bridge-No": "A84",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "90 % Class 1",
+        "Address": "Holmes Bay Valley Road 3",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Holmes Bay Valley Road 3",
         "Status": 1
       },
       "geometry": {
@@ -389,14 +364,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "French Farm Valley Road",
-        "Long": "172.906035",
-        "Bridge No.": "A90",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "French Farm Valley 1",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "French Farm Valley 1",
+        "Name-of-Road": "French Farm Valley Road",
+        "Bridge-No": "A90",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "French Farm Valley 1",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "French Farm Valley 1",
         "Status": 1
       },
       "geometry": {
@@ -410,14 +384,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Winery Road",
-        "Long": "172.897918",
-        "Bridge No.": "A91",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "90 % Class 1",
-        "Field_1": "French Farm Winery",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "French Farm Winery",
+        "Name-of-Road": "Winery Road",
+        "Bridge-No": "A91",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "90 % Class 1",
+        "Address": "French Farm Winery",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "French Farm Winery",
         "Status": 1
       },
       "geometry": {
@@ -431,14 +404,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Childrens Bay Road",
-        "Long": "172.96511",
-        "Bridge No.": "A93",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "90 % Class 1",
-        "Field_1": "Childrens Bay",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Childrens Bay",
+        "Name-of-Road": "Childrens Bay Road",
+        "Bridge-No": "A93",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "90 % Class 1",
+        "Address": "Childrens Bay",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Childrens Bay",
         "Status": 1
       },
       "geometry": {
@@ -452,14 +424,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Okuti Valley Road",
-        "Long": "172.840262",
-        "Bridge No.": "W10",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Okuti Valley 8",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Okuti Valley 8",
+        "Name-of-Road": "Okuti Valley Road",
+        "Bridge-No": "W10",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Okuti Valley 8",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Okuti Valley 8",
         "Status": 1
       },
       "geometry": {
@@ -473,14 +444,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Western Valley Road",
-        "Long": "172.796221",
-        "Bridge No.": "W24",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Western Valley 5",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Western Valley 5",
+        "Name-of-Road": "Western Valley Road",
+        "Bridge-No": "W24",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Western Valley 5",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Western Valley 5",
         "Status": 1
       },
       "geometry": {
@@ -494,14 +464,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Puaha Road",
-        "Long": "172.831624",
-        "Bridge No.": "W29",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Puaha Valley 3",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Puaha Valley 3",
+        "Name-of-Road": "Puaha Road",
+        "Bridge-No": "W29",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Puaha Valley 3",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Puaha Valley 3",
         "Status": 1
       },
       "geometry": {
@@ -515,14 +484,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name of Road": "Withells Road",
-        "Long": "172.607246",
-        "Bridge No.": "W55",
-        "Weight Restriction Max Weight on Any One Axle": "-",
-        "Weight Restriction Gross Weight (Max Sum of Axle Weights)": "-",
-        "Field_1": "Withells Road",
-        "Max Speed Limit (km/h)": "10",
-        "Bridge name": "Withells Road",
+        "Name-of-Road": "Withells Road",
+        "Bridge-No": "W55",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Address": "Withells Road",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Withells Road",
         "Status": 1
       },
       "geometry": {
