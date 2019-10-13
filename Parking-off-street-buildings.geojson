@@ -134,7 +134,7 @@
         "description": "Art Gallery car park building",
         "type": "Council off-street parking building",
         "address": "49 Gloucester St, Cnr Montreal & Gloucester St's",
-        "spaces": 103,
+        "spaces": 106,
         "hourlyrate": "$1 per half hour or part thereof. Maximum daily fee $20",
         "alldayrate": "N/A",
         "timelimit": "N/A",
