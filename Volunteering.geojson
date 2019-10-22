@@ -701,6 +701,24 @@
           -43.46606443343745
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ExternalURL": "",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/89971ab7ae/Papanui-Bush-Hatsumi-KaiharaJapan.jpg",
+        "Contact": "Denis McMurtrie 021 125 1920",
+        "Activities": "Planting, weeding, mulching, tidying",
+        "Organiser": "Papanui Rotary Club",
+        "ParkReserve": "Papanui Bush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605629,
+          -43.492822
+        ]
+      }
     }
   ]
 }
