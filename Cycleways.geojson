@@ -109938,6 +109938,64 @@
         "type": "LineString",
         "coordinates": [
           [
+            172.6563494725,
+            -43.5408348894
+          ],
+          [
+            172.6562628075,
+            -43.5410753929
+          ],
+          [
+            172.6562334892,
+            -43.5411396863
+          ],
+          [
+            172.6562016035,
+            -43.541217675
+          ],
+          [
+            172.6561173622,
+            -43.5412489058
+          ],
+          [
+            172.6561101083,
+            -43.5412651922
+          ]
+        ]
+      },
+      "properties": {
+        "fid": "2725",
+        "responsibl": "Christchurch City Council",
+        "trafficdir": "One Way",
+        "crossingty": " ",
+        "sealtype": "Green",
+        "longtermpl": " ",
+        "servicesta": "In Service",
+        "cycleprior": "Cycle Only",
+        "location": "Non Kerbside",
+        "majorcycle": "Heathcote Expressway Cycleway",
+        "streettype": " ",
+        "placement": "Carriageway",
+        "connection": " ",
+        "rammid": "0",
+        "cyclewaypr": "2740",
+        "length": "54",
+        "urbanrural": "Urban",
+        "type": "Cycle lane",
+        "p_filter": "1",
+        "created_user": "MirbahaH",
+        "created_date": "20190919215757",
+        "last_edited_user": "GunnJA",
+        "last_edited_date": "20191023020643",
+        "alt_name": "Cycle lane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             172.6567312942,
             -43.5403733577
           ],
