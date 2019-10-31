@@ -795,7 +795,7 @@
         "FinishDate": "",
         "Status": "Planning",
         "PercetangeContribution": "2.50%",
-        "ChlorinationDose": "0.5 parts per million"
+        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
       },
       "geometry": {
         "type": "Point",
