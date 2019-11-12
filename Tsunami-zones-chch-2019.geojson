@@ -43669,7 +43669,7 @@
       },
       "properties": {
         "Zone": "Red",
-        "Zone_base": "Zone includes sea, rivers, beaches, lagoons and estuaries.  Evacuate zone after long or strong earthquake or in any official advisory or warning (of >0.3m wave height at coast)",
+        "Zone_base": "Zone includes sea, rivers, beaches, lagoons and estuaries.Evacuate zone after long or strong earthquake or in any official advisory or warning (of >0.3m wave height at coast)",
         "Zone_expl": "The tsunami is unlikely to flood land but may cause strong currents/surges in the sea – stay out of the sea, estuaries and rivers, and off beaches after a long or strong earthquake or if you are told to in an official warning."
       }
     },
