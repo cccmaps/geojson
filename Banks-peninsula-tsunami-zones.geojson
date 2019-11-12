@@ -12,10 +12,9 @@
       "type": "Feature",
       "properties": {
         "altitudeMode": "clampToGround",
-        "MODIFIEDDA": "19/12/2017",
-        "FID": "1",
-        "Field_1": "No Zone",
-        "Zone": "No Zone"
+        "Zone": "No Zone",
+        "Zone_base": "Area outside 2018 GNS Science worst case 2500 year inundation modelling from any source.",
+        "Zone_expl": "You do not have to evacuate this area after a long or strong earthquake or during an official tsunami warning."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15419,10 +15418,9 @@
       "type": "Feature",
       "properties": {
         "altitudeMode": "clampToGround",
-        "MODIFIEDDA": "19/12/2017",
-        "FID": "2",
-        "Field_1": "Red",
-        "Zone": "Red"
+        "Zone": "Red",
+        "Zone_base": "Zone includes sea, rivers, beaches, lagoons and estuaries.Evacuate zone after long or strong earthquake or in any official advisory or warning (of >0.3m wave height at coast)",
+        "Zone_expl": "The tsunami is unlikely to flood land but may cause strong currents/surges in the sea – stay out of the sea, estuaries and rivers, and off beaches after a long or strong earthquake or if you are told to in an official warning."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34660,10 +34658,9 @@
       "type": "Feature",
       "properties": {
         "altitudeMode": "clampToGround",
-        "MODIFIEDDA": "19/12/2017",
-        "FID": "3",
-        "Field_1": "Yellow",
-        "Zone": "Yellow"
+        "Zone": "Yellow",
+        "Zone_base": "Inland boundary based on 2018 GNS Science inundation modelling of worst case South American tsunami. Evacuate zone in official warning of >5m wave height at coast.",
+        "Zone_expl": "The tsunami is likely to flood a lot of land – you do not have to move out of this zone after a long or strong earthquake, you only need to move out of this zone if you are told to in an official warning."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37787,10 +37784,9 @@
       "type": "Feature",
       "properties": {
         "altitudeMode": "clampToGround",
-        "MODIFIEDDA": "19/12/2017",
-        "FID": "4",
-        "Field_1": "Orange",
-        "Zone": "Orange"
+        "Zone": "Orange",
+        "Zone_base": "Inland boundary based on 2018 GNS Science inundation modelling of worst case southern Hikurangi tsunami. Evacuate zone after long or strong earthquake or official warning of 1-5m wave height at coast.",
+        "Zone_expl": "The tsunami is likely to flood some land – move out of this zone after a long or strong earthquake, or if you are told to in an official tsunami warning."
       },
       "geometry": {
         "type": "MultiPolygon",
