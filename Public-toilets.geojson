@@ -6,7 +6,8 @@
       "properties": {
         "Name": "Abberley Park Public Toilets ",
         "popup": "Abberley Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51330189
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "Name": "Addington Park Toilets",
         "popup": "Addington Park Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54717304
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "Name": "Akaroa Information Centre Toilets",
         "popup": "Akaroa Information Centre Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.80534279
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "Name": "Avebury Park Public Toilets",
         "popup": "Avebury Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51974786
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +70,8 @@
       "properties": {
         "Name": "Avon Park Toilets",
         "popup": "Avon Park Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51827719
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "Name": "Avonhead Cemetery Public Toilet",
         "popup": "Avonhead Cemetery Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50861191
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +102,8 @@
       "properties": {
         "Name": "Ballantynes Department Store Toilets",
         "popup": "Ballantynes Department Store Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53365279
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "Name": "Barnett Park Public Toilets",
         "popup": "Barnett Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56455951
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +134,8 @@
       "properties": {
         "Name": "Barrington Park Public Toilets ",
         "popup": "Barrington Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55520589
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +150,8 @@
       "properties": {
         "Name": "Beckenham Park Public Toilets",
         "popup": "Beckenham Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56127032
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +166,8 @@
       "properties": {
         "Name": "Belfast Cemetery Public Toilets",
         "popup": "Belfast Cemetery Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.4527318
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +182,8 @@
       "properties": {
         "Name": "Bexley Park Public Toilets ",
         "popup": "Bexley Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51405272
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +198,8 @@
       "properties": {
         "Name": "Birdlings Flat Toilets",
         "popup": "Birdlings Flat Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.82536273
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +214,8 @@
       "properties": {
         "Name": "Bishopdale Park Public Toilets",
         "popup": "Bishopdale Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48756171
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +230,8 @@
       "properties": {
         "Name": "Botanic Gardens Public Toilets",
         "popup": "Botanic Gardens Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52825067
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +246,8 @@
       "properties": {
         "Name": "Botanic Gardens Public Toilets",
         "popup": "Botanic Gardens Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53123572
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +262,8 @@
       "properties": {
         "Name": "Botanic Gardens Public Toilets",
         "popup": "Botanic Gardens Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52966447
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +278,8 @@
       "properties": {
         "Name": "Bottle Lake Forest Public Toilets",
         "popup": "Bottle Lake Forest Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.46702396
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +294,8 @@
       "properties": {
         "Name": "Bradford Park Public Toilet",
         "popup": "Bradford Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55273135
       },
       "geometry": {
         "type": "Point",
@@ -291,7 +310,8 @@
       "properties": {
         "Name": "Broad Park Public Toilets ",
         "popup": "Broad Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48586866
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +326,8 @@
       "properties": {
         "Name": "Bromley Park Public Toilets",
         "popup": "Bromley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52755835
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +342,8 @@
       "properties": {
         "Name": "Burnside Park Public Toilets ",
         "popup": "Burnside Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50290986
       },
       "geometry": {
         "type": "Point",
@@ -336,7 +358,8 @@
       "properties": {
         "Name": "Burwood Park Public Toilets ",
         "popup": "Burwood Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50503432
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +374,8 @@
       "properties": {
         "Name": "Bus Interchange Public Toilets",
         "popup": "Bus Interchange Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53442089
       },
       "geometry": {
         "type": "Point",
@@ -366,7 +390,8 @@
       "properties": {
         "Name": "Cashmere Valley Reserve Public Toilet",
         "popup": "Cashmere Valley Reserve Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56842002
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +406,8 @@
       "properties": {
         "Name": "Cass Bay Toilets",
         "popup": "Cass Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.6052872
       },
       "geometry": {
         "type": "Point",
@@ -396,7 +422,8 @@
       "properties": {
         "Name": "Cathedral Square Toilets",
         "popup": "Cathedral Square Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53077483
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +438,8 @@
       "properties": {
         "Name": "Centennial Park Public Toilets ",
         "popup": "Centennial Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56689234
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +454,8 @@
       "properties": {
         "Name": "Charteris Bay Toilets",
         "popup": "Charteris Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.64560948
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +470,8 @@
       "properties": {
         "Name": "Christchurch Airport i-SITE Visitor Centre Toilets",
         "popup": "Christchurch Airport i-SITE Visitor Centre Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48803461
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +486,8 @@
       "properties": {
         "Name": "Christchurch City Council Civic Offices Public Toilets",
         "popup": "Christchurch City Council Civic Offices Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53184243
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +502,8 @@
       "properties": {
         "Name": "Christchurch Railway Station Toilets",
         "popup": "Christchurch Railway Station Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53996245
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +518,8 @@
       "properties": {
         "Name": "Corsair Bay Toilets",
         "popup": "Corsair Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.60712062
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +534,8 @@
       "properties": {
         "Name": "Cuthberts Green Sportsground Toilets",
         "popup": "Cuthberts Green Sportsground Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52317677
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +550,8 @@
       "properties": {
         "Name": "Cypress Garden Reserve Public Toilet",
         "popup": "Cypress Garden Reserve Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53532116
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +566,8 @@
       "properties": {
         "Name": "Denton Park Public Toilets",
         "popup": "Denton Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54348348
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +582,8 @@
       "properties": {
         "Name": "Diamond Harbour Stoddart Point Beach Reserve",
         "popup": "Diamond Harbour Stoddart Point Beach Reserve",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.62305967
       },
       "geometry": {
         "type": "Point",
@@ -561,7 +598,8 @@
       "properties": {
         "Name": "Diamond Harbour Toilets (A)",
         "popup": "Diamond Harbour Toilets (A)",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.62675643
       },
       "geometry": {
         "type": "Point",
@@ -576,7 +614,8 @@
       "properties": {
         "Name": "Diamond Harbour, Stoddart Point Toilets",
         "popup": "Diamond Harbour, Stoddart Point Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.62490808
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +630,8 @@
       "properties": {
         "Name": "Edgar MacIntosh Park Public Toilets",
         "popup": "Edgar MacIntosh Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.49764896
       },
       "geometry": {
         "type": "Point",
@@ -606,7 +646,8 @@
       "properties": {
         "Name": "Edgeware Mall Toilets",
         "popup": "Edgeware Mall Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51344697
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +662,8 @@
       "properties": {
         "Name": "Edmonds Park Public Toilets",
         "popup": "Edmonds Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54109984
       },
       "geometry": {
         "type": "Point",
@@ -636,7 +678,8 @@
       "properties": {
         "Name": "Elmwood Park Public Toilets",
         "popup": "Elmwood Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51177296
       },
       "geometry": {
         "type": "Point",
@@ -651,7 +694,8 @@
       "properties": {
         "Name": "Ferrier Park Public Toilet",
         "popup": "Ferrier Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52307756
       },
       "geometry": {
         "type": "Point",
@@ -666,7 +710,8 @@
       "properties": {
         "Name": "French Farm Beach Toilets",
         "popup": "French Farm Beach Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.77655144
       },
       "geometry": {
         "type": "Point",
@@ -681,7 +726,8 @@
       "properties": {
         "Name": "Gap Filler: The Commons Public Toilets",
         "popup": "Gap Filler: The Commons Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52679021
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +742,8 @@
       "properties": {
         "Name": "Govenors Bay Toilets",
         "popup": "Govenors Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.6232849
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +758,8 @@
       "properties": {
         "Name": "Govenors Bay, Sandy Beach Toilets",
         "popup": "Govenors Bay, Sandy Beach Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.61968113
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +774,8 @@
       "properties": {
         "Name": "Groynes Public Toilets",
         "popup": "Groynes Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.4506756
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +790,8 @@
       "properties": {
         "Name": "Hagley Park Public Toilets ",
         "popup": "Hagley Park Public Toilets ",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52697493
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +806,8 @@
       "properties": {
         "Name": "Hagley Park Public Toilets",
         "popup": "Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52644596
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +822,8 @@
       "properties": {
         "Name": "Hagley Park Public Toilets",
         "popup": "Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53252692
       },
       "geometry": {
         "type": "Point",
@@ -786,7 +838,8 @@
       "properties": {
         "Name": "Halswell Domain Public Toilets",
         "popup": "Halswell Domain Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.57898484
       },
       "geometry": {
         "type": "Point",
@@ -801,7 +854,8 @@
       "properties": {
         "Name": "Halswell Quarry Public Toilets",
         "popup": "Halswell Quarry Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.59894941
       },
       "geometry": {
         "type": "Point",
@@ -816,7 +870,8 @@
       "properties": {
         "Name": "Hansen Park Public Toilets",
         "popup": "Hansen Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55937467
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +886,8 @@
       "properties": {
         "Name": "Heathcote Domain Public Toilets",
         "popup": "Heathcote Domain Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.58026826
       },
       "geometry": {
         "type": "Point",
@@ -846,7 +902,8 @@
       "properties": {
         "Name": "Hollis Reserve Public Toilets",
         "popup": "Hollis Reserve Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.57176885
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +918,8 @@
       "properties": {
         "Name": "Hoon Hay Park Toilets",
         "popup": "Hoon Hay Park Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56223244
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +934,8 @@
       "properties": {
         "Name": "Hornby Domain Public Toilets",
         "popup": "Hornby Domain Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54592772
       },
       "geometry": {
         "type": "Point",
@@ -891,7 +950,8 @@
       "properties": {
         "Name": "Jubilee Park Toilets",
         "popup": "Jubilee Park Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.8006504
       },
       "geometry": {
         "type": "Point",
@@ -906,7 +966,8 @@
       "properties": {
         "Name": "Kyle Park Public Toilets",
         "popup": "Kyle Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53920941
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +982,8 @@
       "properties": {
         "Name": "Le Bons Bay Toilets",
         "popup": "Le Bons Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.74186335
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +998,8 @@
       "properties": {
         "Name": "Leslie Park Public Toilet",
         "popup": "Leslie Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54443614
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +1014,8 @@
       "properties": {
         "Name": "Linwood Park Public Toilets",
         "popup": "Linwood Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53575672
       },
       "geometry": {
         "type": "Point",
@@ -966,7 +1030,8 @@
       "properties": {
         "Name": "Lyttelton Charlotte Jane Qy Toilets",
         "popup": "Lyttelton Charlotte Jane Qy Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.61086496
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1046,8 @@
       "properties": {
         "Name": "Lyttelton Godley Qy Toilets",
         "popup": "Lyttelton Godley Qy Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.60929578
       },
       "geometry": {
         "type": "Point",
@@ -996,7 +1062,8 @@
       "properties": {
         "Name": "Lyttelton Oxford Street Toilets",
         "popup": "Lyttelton Oxford Street Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.60312897
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1078,8 @@
       "properties": {
         "Name": "MacFarlane Park Public Toilets",
         "popup": "MacFarlane Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.49899362
       },
       "geometry": {
         "type": "Point",
@@ -1026,7 +1094,8 @@
       "properties": {
         "Name": "Malvern Park Public Toilet",
         "popup": "Malvern Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50466079
       },
       "geometry": {
         "type": "Point",
@@ -1041,7 +1110,8 @@
       "properties": {
         "Name": "Margaret Mahy Family Playground Public Toilets",
         "popup": "Margaret Mahy Family Playground Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52858712
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1126,8 @@
       "properties": {
         "Name": "Matuku Takotako: Sumner Centre",
         "popup": "Matuku Takotako: Sumner Centre",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.56917457
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1142,8 @@
       "properties": {
         "Name": "Middleton Park",
         "popup": "Middleton Park",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53482338
       },
       "geometry": {
         "type": "Point",
@@ -1086,7 +1158,8 @@
       "properties": {
         "Name": "Mona Vale Public Toilets",
         "popup": "Mona Vale Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52357134
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1174,8 @@
       "properties": {
         "Name": "Netball Courts Public Toilet",
         "popup": "Netball Courts Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53749115
       },
       "geometry": {
         "type": "Point",
@@ -1116,7 +1190,8 @@
       "properties": {
         "Name": "New Brighton Pier Foyer Public Toilets",
         "popup": "New Brighton Pier Foyer Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50686109
       },
       "geometry": {
         "type": "Point",
@@ -1131,7 +1206,8 @@
       "properties": {
         "Name": "New Brighton Public Toilets",
         "popup": "New Brighton Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50736881
       },
       "geometry": {
         "type": "Point",
@@ -1146,7 +1222,8 @@
       "properties": {
         "Name": "Nicolson Park Public Toilets",
         "popup": "Nicolson Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.57239464
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1238,8 @@
       "properties": {
         "Name": "North Hagley Park Public Toilets",
         "popup": "North Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52848211
       },
       "geometry": {
         "type": "Point",
@@ -1176,7 +1254,8 @@
       "properties": {
         "Name": "Nunweek Park Public Toilet",
         "popup": "Nunweek Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48154094
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1270,8 @@
       "properties": {
         "Name": "Okains Bay Toilets",
         "popup": "Okains Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.69561747
       },
       "geometry": {
         "type": "Point",
@@ -1206,7 +1286,8 @@
       "properties": {
         "Name": "Old School Reserve Public Toilets",
         "popup": "Old School Reserve Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.5672875
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1302,8 @@
       "properties": {
         "Name": "Ouruhia Reserve Public Toilet",
         "popup": "Ouruhia Reserve Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.44059801
       },
       "geometry": {
         "type": "Point",
@@ -1236,7 +1318,8 @@
       "properties": {
         "Name": "Owen Mitchell Park Public Toilets",
         "popup": "Owen Mitchell Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48110841
       },
       "geometry": {
         "type": "Point",
@@ -1251,7 +1334,8 @@
       "properties": {
         "Name": "Papanui Domain Public Toilets",
         "popup": "Papanui Domain Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48920412
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1350,8 @@
       "properties": {
         "Name": "Papanui Memorial Reserve Public Toilets",
         "popup": "Papanui Memorial Reserve Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.4970495
       },
       "geometry": {
         "type": "Point",
@@ -1281,7 +1366,8 @@
       "properties": {
         "Name": "Parklands Reserve Public Toilets",
         "popup": "Parklands Reserve Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48185938
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1382,8 @@
       "properties": {
         "Name": "Parklands Shopping Centre Public Toilets",
         "popup": "Parklands Shopping Centre Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.48129332
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1398,8 @@
       "properties": {
         "Name": "Philipstown Courts Public Toilets",
         "popup": "Philipstown Courts Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54014958
       },
       "geometry": {
         "type": "Point",
@@ -1326,7 +1414,8 @@
       "properties": {
         "Name": "Pigeon Bay Toilets",
         "popup": "Pigeon Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.67906137
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1430,8 @@
       "properties": {
         "Name": "Porrit Park Public Toilets",
         "popup": "Porrit Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.51627794
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1446,8 @@
       "properties": {
         "Name": "Port Levy Camp Bay Toilets",
         "popup": "Port Levy Camp Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.62302861
       },
       "geometry": {
         "type": "Point",
@@ -1371,7 +1462,8 @@
       "properties": {
         "Name": "Port Levy Toilets",
         "popup": "Port Levy Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.64784537
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1478,8 @@
       "properties": {
         "Name": "Public Toilets - The Commons",
         "popup": "Public Toilets - The Commons",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52694967
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1494,8 @@
       "properties": {
         "Name": "Purau Toilets",
         "popup": "Purau Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.63905662
       },
       "geometry": {
         "type": "Point",
@@ -1416,7 +1510,8 @@
       "properties": {
         "Name": "Rapaki Toilets",
         "popup": "Rapaki Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.60726045
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1526,8 @@
       "properties": {
         "Name": "Rawhiti Domain Public Toilets",
         "popup": "Rawhiti Domain Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.50388338
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1542,8 @@
       "properties": {
         "Name": "Redcliffs Park Public Toilets",
         "popup": "Redcliffs Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55703306
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1558,8 @@
       "properties": {
         "Name": "Risingholme Park Public Toilets",
         "popup": "Risingholme Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55458387
       },
       "geometry": {
         "type": "Point",
@@ -1476,7 +1574,8 @@
       "properties": {
         "Name": "Rolleston Ave - Public Toilets",
         "popup": "Rolleston Ave - Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53055028
       },
       "geometry": {
         "type": "Point",
@@ -1491,7 +1590,8 @@
       "properties": {
         "Name": "Scarborough Park Public Toilets",
         "popup": "Scarborough Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.57326522
       },
       "geometry": {
         "type": "Point",
@@ -1506,7 +1606,8 @@
       "properties": {
         "Name": "Sheldon Park Public Toilets",
         "popup": "Sheldon Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.45291286
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1622,8 @@
       "properties": {
         "Name": "South Hagley Park Public Toilets",
         "popup": "South Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53542035
       },
       "geometry": {
         "type": "Point",
@@ -1536,7 +1638,8 @@
       "properties": {
         "Name": "South Hagley Park Public Toilets",
         "popup": "South Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53885029
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1654,8 @@
       "properties": {
         "Name": "South Hagley Park Public Toilets",
         "popup": "South Hagley Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53594925
       },
       "geometry": {
         "type": "Point",
@@ -1566,7 +1670,8 @@
       "properties": {
         "Name": "South New Brighton Park Public Toilets",
         "popup": "South New Brighton Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53231883
       },
       "geometry": {
         "type": "Point",
@@ -1581,7 +1686,8 @@
       "properties": {
         "Name": "Souvlaki King",
         "popup": "Souvlaki King",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.58554723
       },
       "geometry": {
         "type": "Point",
@@ -1596,7 +1702,8 @@
       "properties": {
         "Name": "St James Park Public Toilet",
         "popup": "St James Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.49902649
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1718,8 @@
       "properties": {
         "Name": "St Leonards Park Public Toilets",
         "popup": "St Leonards Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.57785887
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1734,8 @@
       "properties": {
         "Name": "Sydenham Park Public Toilets",
         "popup": "Sydenham Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54906309
       },
       "geometry": {
         "type": "Point",
@@ -1641,7 +1750,8 @@
       "properties": {
         "Name": "Takamatua Toilets",
         "popup": "Takamatua Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.78548658
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1766,8 @@
       "properties": {
         "Name": "Taylors Mistake Public Toilets",
         "popup": "Taylors Mistake Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.58524218
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1782,8 @@
       "properties": {
         "Name": "Thomson Park Public Toilets",
         "popup": "Thomson Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.49663558
       },
       "geometry": {
         "type": "Point",
@@ -1686,7 +1798,8 @@
       "properties": {
         "Name": "Tikao Bay Toilets",
         "popup": "Tikao Bay Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.79640677
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +1814,8 @@
       "properties": {
         "Name": "Victoria Park Public Toilets",
         "popup": "Victoria Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.58962121
       },
       "geometry": {
         "type": "Point",
@@ -1716,7 +1830,8 @@
       "properties": {
         "Name": "Warren Park Public Toilets",
         "popup": "Warren Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.55628665
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1846,8 @@
       "properties": {
         "Name": "Washington Way Public Toilets",
         "popup": "Washington Way Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54037268
       },
       "geometry": {
         "type": "Point",
@@ -1746,7 +1862,8 @@
       "properties": {
         "Name": "Woodham Park Public Toilet",
         "popup": "Woodham Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.52452452
       },
       "geometry": {
         "type": "Point",
@@ -1761,7 +1878,8 @@
       "properties": {
         "Name": "Woolston Park Public Toilet",
         "popup": "Woolston Park Public Toilet",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.54655525
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1894,8 @@
       "properties": {
         "Name": "Wycola Park Public Toilets",
         "popup": "Wycola Park Public Toilets",
-        "feature": "toilets"
+        "feature": "toilets",
+        "LatDirection": -43.53387057
       },
       "geometry": {
         "type": "Point",
