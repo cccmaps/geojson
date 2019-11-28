@@ -244,10 +244,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Name-of-Road": "School House Road",
         "Bridge-No": "A57",
         "Weight-Restriction-Max-Weight-on-Any-One-Axle": "5,160 kg",
-        "Weight-Restriction-Gross-Weight": "60 % Class 1",
+        "Weight-Restriction-Gross-Weight": "50 % Class 1",
         "Address": "School Road, Okains Bay",
         "Max-Speed-Limit": 10,
         "Bridge-name": "School Road, Okains Bay",
