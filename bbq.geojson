@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akaroa Recreation Ground",
+        "Address": "28 Rue Jolie 7520 Akaroa NZ",
+        "Features": "Sports fields, skate park, toilets, boat ramp,",
+        "BBQs": "Please note that BBQs cannot be booked. Akaroa Recreation Ground BBQ is located near a bookable picnic and building space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.968061221,
+          -43.801684829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barnett Park Sports Grounds",
+        "Address": "1B Cave Terrace 8081 Christchurch NZ",
+        "Features": "Sports fields, walking tracks, playground, open spaces, trees, toilets",
+        "BBQs": "Please note that BBQs cannot be booked. Barnett Park BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739633383,
+          -43.564553555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burnside Park",
+        "Address": "330 Avonhead Road 8042 Christchurch NZ",
+        "Features": "Playground, fitness equipment, sports fields, toilets, trees, open spaces",
+        "BBQs": "Please note that BBQs cannot be booked. Burnside Park BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.562609167,
+          -43.505093082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cashmere Valley Reserve",
+        "Address": "3 Valley Road 8022 Christchurch NZ",
+        "Features": "Fenced playground, toilets",
+        "BBQs": "Please note that BBQs cannot be booked. Cashmere Valley Reserve BBQ is located near a bookable picnic space. ",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.625404637,
+          -43.568731723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Centennial Park",
+        "Address": "42 Sparks Road 8024 Christchurch NZ",
+        "Features": "Playground, Pioneer Recreation & Sport Centre, tennis courts, vollyball courts, sportsfields, toilets, car park, small BMX pump track, walking tracks",
+        "BBQs": "Please note that BBQs cannot be booked. Centennial Park BBQ is located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612886876,
+          -43.565945196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612248837,
+          -43.445303283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.610957154,
+          -43.446719065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.605624372,
+          -43.452469561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604656171,
+          -43.452761804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.608234709,
+          -43.448870294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61278474,
+          -43.441850935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612328006,
+          -43.441842805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Groynes",
+        "Address": "19 Dickeys Road 8051 Christchurch NZ",
+        "Features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked. All Groynes BBQs are located near bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.613154775,
+          -43.441150809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hagley Park North",
+        "Address": "6 Riccarton Avenue 8011 Christchurch NZ",
+        "Features": "Sports fields, walking tracks, fitness trail, lakes, golf course, river, botanical collection, toilets, wide spaces",
+        "BBQs": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622898327,
+          -43.528605979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hagley Park South",
+        "Address": "445 Hagley Avenue 8011 Christchurch NZ",
+        "Features": "Sports fields, walking tracks, wide spaces, toilets",
+        "BBQs": "Please note that BBQs cannot be booked and Hagley Park has no bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.612825806,
+          -43.531638734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heathcote Domain",
+        "Address": "20 Port Hills Road 8022 Christchurch NZ",
+        "Features": "Sports field, playground, tennis courts, trees, open spaces",
+        "BBQs": "Please note that BBQs cannot be booked. Heathcote Domain BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70801393,
+          -43.581743493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margaret Mahy Family Playground",
+        "Address": "250 Oxford Terrace 8011 Christchurch NZ",
+        "Features": "Playground, toilets, car parking",
+        "BBQs": "Please note that BBQs cannot be booked. Margaret Mahy Family Playground BBQs are located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64153232,
+          -43.527922895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Margaret Mahy Family Playground",
+        "Address": "250 Oxford Terrace 8011 Christchurch NZ",
+        "Features": "Playground, toilets, car parking",
+        "BBQs": "Please note that BBQs cannot be booked. Margaret Mahy Family Playground BBQs are located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641527975,
+          -43.527879301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ouruhia Reserve",
+        "Address": "223 Guthries Road 8051 Christchurch NZ",
+        "Features": "Playground, open spaces, tennis courts, toilets",
+        "BBQs": "Please note that BBQs cannot be booked. Ouruhia Reserve BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.651011743,
+          -43.440461497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scarborough Park",
+        "Address": "147 Esplanade 8081 Christchurch NZ",
+        "Features": "Playground, paddling pool, Sumner beach, toilets, trees, walkways, cafes",
+        "BBQs": "Please note that BBQs cannot be booked. Scarborough Park BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.769472332,
+          -43.573726972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South New Brighton Park",
+        "Address": "59 Halsey Street 8062 Christchurch NZ",
+        "Features": "Playground, basketball court, estuary",
+        "BBQs": "Please note that BBQs cannot be booked. South Brighton Park BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.732723245,
+          -43.529493484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spencer Park",
+        "Address": "100 Heyders Road 8083 Christchurch NZ",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, volleyball court, tennis court, basketball court, sandpit, mini golf",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706927681,
+          -43.432031007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spencer Park",
+        "Address": "100 Heyders Road 8083 Christchurch NZ",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, volleyball court, tennis court, basketball court, sandpit, mini golf",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.708029823,
+          -43.430421327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spencer Park",
+        "Address": "100 Heyders Road 8083 Christchurch NZ",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, volleyball court, tennis court, basketball court, sandpit, mini golf",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707666474,
+          -43.431515577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spencer Park",
+        "Address": "100 Heyders Road 8083 Christchurch NZ",
+        "Features": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, volleyball court, tennis court, basketball court, sandpit, mini golf",
+        "BBQs": "Please note that BBQs cannot be booked. All Spencer Park BBQs are located near to bookable picnic spaces.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706605588,
+          -43.431472225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Titirangi Reserve",
+        "Address": "1 Titirangi Crescent 8083 Christchurch NZ",
+        "Features": "Basketball half court, playground, open space",
+        "BBQs": "Please note that BBQs cannot be booked. Titirangi Reserve BBQ is located near a bookable picnic space.",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.689002503,
+          -43.475341011
+        ]
+      }
+    }
+  ]
+}
