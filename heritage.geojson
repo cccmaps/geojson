@@ -1783,7 +1783,7 @@
         "geometry": "Point",
         "Title": "Ruru Lawn Cemetery War Memorial",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#ruru",
-        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-106.jpg",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-106.jpg",
         "Type": "memorial"
       },
       "geometry": {
@@ -1834,7 +1834,7 @@
         "geometry": "Point",
         "Title": "Sheldon Park War Memorial",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#sheldon",
-        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-50.jpg",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-50.jpg",
         "Type": "memorial"
       },
       "geometry": {
@@ -1919,7 +1919,7 @@
         "geometry": "Point",
         "Title": "Sumner Beach War Memorial",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#sumner",
-        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-55.jpg",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-55.jpg",
         "Type": "memorial"
       },
       "geometry": {
@@ -1953,7 +1953,7 @@
         "geometry": "Point",
         "Title": "Witch Hill War Memorial",
         "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#witch",
-        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-65.jpg",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Heritage/memorial-65.jpg",
         "Type": "memorial"
       },
       "geometry": {
@@ -1978,6 +1978,23 @@
         "coordinates": [
           172.6774407,
           -43.5464672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tribute to Firefighters",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials#firefighters",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Culture-Community/Arts-Museums/Public-Places-Map/firefighters__ResizedImageWzM3NSwyODNd.jpg",
+        "Type": "memorial",
+        "geometry": "Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64316737651825,
+          -43.52675536619587
         ]
       }
     }
