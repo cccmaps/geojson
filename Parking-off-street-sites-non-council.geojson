@@ -549,9 +549,9 @@
       "properties": {
         "Address": "53 Peterborough Street",
         "Entry": "53 Peterborough Street, and also from Salisbury Street",
-        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space",
+        "Notes": "Motorhome parking available, along with 10 mobility and 1 electric vehicle space.",
         "Name": "Peterborough Street off-street parking",
-        "Parking-spaces": 350,
+        "Parking-spaces": 368,
         "Electric": 1,
         "Mobility": "Yes",
         "Charges": "https://christchurchcasino.co.nz/faqs/",
