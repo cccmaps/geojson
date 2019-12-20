@@ -792,6 +792,60 @@
         "Full name": "Wetlands, Waders and Water Boatmen",
         "Cost": "Free"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Future Proof: Climate Change'",
+        "site": "Central City",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/climate-change-kaitiakitanga/",
+        "Full name": "Future Proof: Climate Change - Kaitiakitanga",
+        "Cost": "Free",
+        "category": "Climate Change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6379692554474,
+          -43.527315449664485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Detectives",
+        "site": "Halswell Quarry Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "Cost": "Free",
+        "Full name": "Park Detectives - Titeketiwhi Paaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5780487060547,
+          -43.600353948856224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Full name": "Creative and Native - He rerehua, he taketake",
+        "Cost": "Free",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/creative-and-native/",
+        "category": "Biodiversity",
+        "name": "Creative and Native",
+        "site": "Halswell Quarry Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.57877826690674,
+          -43.60043164356079
+        ]
+      }
     }
   ]
 }
