@@ -1997,6 +1997,23 @@
           -43.52675536619587
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Canterbury Earthquake National Memorial",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/memorials/#CanterburyEarthquakeNationalMemorial",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/The-Council/Future-projects/EQM-093672.jpg",
+        "Type": "memorial",
+        "geometry": "Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63145685195923,
+          -43.5347516205496
+        ]
+      }
     }
   ]
 }
