@@ -387,6 +387,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "615 Colombo Street",
         "Entry": "615 Colombo Street",
         "Notes": "",
@@ -819,6 +822,60 @@
         "coordinates": [
           172.62809872627258,
           -43.53956597439552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "131 St Asaph St",
+        "Entry": "131 St Asaph St",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 43,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63281941413877,
+          -43.53652496522871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Address": "116 Tuam St",
+        "Entry": "116 Tuam St",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 43,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63281404972076,
+          -43.53547107588393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "128 Tuam St",
+        "Entry": "128 Tuam St",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 43,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63339340686798,
+          -43.53547107588393
         ]
       }
     }
