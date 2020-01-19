@@ -828,11 +828,15 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "131 St Asaph St",
         "Entry": "131 St Asaph St",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +856,8 @@
         "Entry": "116 Tuam St",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
@@ -865,11 +870,15 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Address": "128 Tuam St",
         "Entry": "128 Tuam St",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-"
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
+        "Notes": " "
       },
       "geometry": {
         "type": "Point",
