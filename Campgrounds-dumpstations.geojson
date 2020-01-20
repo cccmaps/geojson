@@ -542,28 +542,6 @@
       "type": "Feature",
       "properties": {
         "Type": "Dump station",
-        "Name": "BP Connect Rolleston PDS",
-        "Address": "Cnr Main South Rd & Tennyson St, Rolleston",
-        "Phone": "",
-        "Website": "",
-        "Facilities": "",
-        "Campground": "No",
-        "Dumpstation": "Yes",
-        "campground-price": "Free",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.379001,
-          -43.590466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Dump station",
         "Name": "Kowhai Pass Domain Springfield PDS",
         "Address": "Domain Rd, Springfield",
         "Phone": "",
