@@ -92,8 +92,8 @@
         "ParkReserve": "Cashmere Stream",
         "Contact": "cashmerestreamcaregroup@gmail.com",
         "Organiser": "Cashmere Stream Care Group",
-        "ExternalURL": 0,
-        "PhotoURL": 0
+        "ExternalURL": "",
+        "PhotoURL": ""
       }
     },
     {
@@ -130,7 +130,7 @@
         "ParkReserve": "Ernle Clark Reserve",
         "Contact": "alice@caverock.net.nz",
         "Organiser": "Friends of Ernle Clarke Reserve",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ernle-250.jpg"
       }
     },
@@ -185,7 +185,7 @@
       "properties": {
         "Activities": "Projects, planting, weeding, maintenance",
         "ParkReserve": "Garden of Tane",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "Garden of Tane Reserve Management Committee",
         "ExternalURL": "http://www.gardenoftane.co.nz/",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/garden-tane-250.jpg"
@@ -204,9 +204,9 @@
       "properties": {
         "Activities": "Maintenance",
         "ParkReserve": "King George V Reserve",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "King George V Working Group",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/KingGeorgeV-250.jpg"
       }
     },
@@ -223,9 +223,9 @@
       "properties": {
         "Activities": "Maintenance, planting",
         "ParkReserve": "Laura Kent Reserve",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "Laura Kent Working Group",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/laura-kent-250.jpg"
       }
     },
@@ -244,7 +244,7 @@
         "ParkReserve": "Ashgrove Reserve",
         "Contact": "Suebye.bye@gmail.com",
         "Organiser": "Lowe Cashmere Residents Association",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/ashgrove-250.jpg"
       }
     },
@@ -261,7 +261,7 @@
       "properties": {
         "Activities": "Community food hub in Roimata/Woolston; fruit trees",
         "ParkReserve": "Radley Park",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "Roimata Food Commons",
         "ExternalURL": "https://www.facebook.com/roimatafoodcommons/",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Radley-250.jpg"
@@ -529,7 +529,7 @@
         "ParkReserve": "Duncan Park",
         "Contact": "Amanda.black@ccc.govt.nz",
         "Organiser": "Duncan Park Volunteers",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/duncan-park-250.jpg"
       }
     },
@@ -584,9 +584,9 @@
       "properties": {
         "Activities": "Maintenance, planting",
         "ParkReserve": "Titirangi Reserve",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "Friends of Titirangi Reserve",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/titirangi-250.jpg"
       }
     },
@@ -641,9 +641,9 @@
       "properties": {
         "Activities": "Maintenance, planting, restoration",
         "ParkReserve": "Okuti Valley",
-        "Contact": 0,
+        "Contact": "",
         "Organiser": "Little River Wairewa Community Trust",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg"
       }
     },
@@ -681,7 +681,7 @@
         "ParkReserve": "Mt Vernon Park",
         "Contact": "christie.burrows@ccc.govt.nz",
         "Organiser": "Port Hills Park Board Trust",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg"
       }
     },
@@ -700,7 +700,7 @@
         "ParkReserve": "Rongoā Medicinal Gardens",
         "Contact": "antony.shadbolt@ccc.govt.nz",
         "Organiser": "Roanga Practitioners",
-        "ExternalURL": 0,
+        "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg"
       }
     }
