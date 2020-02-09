@@ -194,7 +194,7 @@
       "properties": {
         "Activities": "Projects, planting, weeding, maintenance",
         "ParkReserve": "Garden of Tane",
-        "Contact": "",
+        "Contact": "n/a",
         "Organiser": "Garden of Tane Reserve Management Committee",
         "ExternalURL": "http://www.gardenoftane.co.nz/",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/garden-tane-250.jpg",
@@ -214,7 +214,7 @@
       "properties": {
         "Activities": "Maintenance",
         "ParkReserve": "King George V Reserve",
-        "Contact": "",
+        "Contact": "n/a",
         "Organiser": "King George V Working Group",
         "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/KingGeorgeV-250.jpg",
@@ -234,7 +234,7 @@
       "properties": {
         "Activities": "Maintenance, planting",
         "ParkReserve": "Laura Kent Reserve",
-        "Contact": "",
+        "Contact": "n/a",
         "Organiser": "Laura Kent Working Group",
         "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/laura-kent-250.jpg",
@@ -274,7 +274,7 @@
       "properties": {
         "Activities": "Community food hub in Roimata/Woolston; fruit trees",
         "ParkReserve": "Radley Park",
-        "Contact": "",
+        "Contact": "n/a",
         "Organiser": "Roimata Food Commons",
         "ExternalURL": "https://www.facebook.com/roimatafoodcommons/",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Radley-250.jpg",
@@ -614,7 +614,7 @@
       "properties": {
         "Activities": "Maintenance, planting",
         "ParkReserve": "Titirangi Reserve",
-        "Contact": "",
+        "Contact": "n/a",
         "Organiser": "Friends of Titirangi Reserve",
         "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/titirangi-250.jpg"
@@ -673,7 +673,7 @@
       "properties": {
         "Activities": "Maintenance, planting, restoration",
         "ParkReserve": "Okuti Valley",
-        "Contact": "no contact available",
+        "Contact": "n/a",
         "Organiser": "Little River Wairewa Community Trust",
         "ExternalURL": "",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg",
