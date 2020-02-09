@@ -396,7 +396,7 @@
         "ParkReserve": "West Broken Run",
         "Contact": "Heidi.Wilton@ccc.govt.nz",
         "Organiser": "Neighbours of West Broken Run",
-        "ExternalURL": null,
+        "ExternalURL": "",
         "PhotoURL": null,
         "Linktext": ""
       }
@@ -456,7 +456,7 @@
         "ParkReserve": "Wairarapa Stream",
         "Contact": "HFairbairn@cvnz.org.nz",
         "Organiser": "Conservation Volunteers NZ",
-        "ExternalURL": null,
+        "ExternalURL": "",
         "PhotoURL": null,
         "Linktext": ""
       }
@@ -476,7 +476,7 @@
         "ParkReserve": "Coronation Reserve",
         "Contact": "andrew@acla.co.nz",
         "Organiser": "Friends of Coronation Reserve",
-        "ExternalURL": null,
+        "ExternalURL": "",
         "PhotoURL": null,
         "Linktext": ""
       }
@@ -716,7 +716,8 @@
         "Contact": "christie.burrows@ccc.govt.nz",
         "Organiser": "Port Hills Park Board Trust",
         "ExternalURL": "",
-        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg"
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Mt-Vernon-250.jpg",
+        "Linktext": ""
       }
     },
     {
@@ -735,7 +736,8 @@
         "Contact": "antony.shadbolt@ccc.govt.nz",
         "Organiser": "Roanga Practitioners",
         "ExternalURL": "",
-        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg"
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg",
+        "Linktext": ""
       }
     }
   ]
