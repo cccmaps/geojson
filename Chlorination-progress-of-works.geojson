@@ -12,7 +12,7 @@
         "FinishDate": "30/07/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.80%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "2.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Planning",
         "PercetangeContribution": "8.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +160,7 @@
         "FinishDate": "13/09/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "7.10%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -265,7 +265,7 @@
         "FinishDate": "30/08/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "29.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -289,7 +289,7 @@
         "FinishDate": "Early August",
         "Status": "Work in progress",
         "PercetangeContribution": "50.60%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +310,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -460,7 +460,7 @@
         "FinishDate": "17/05/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "5.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -481,7 +481,7 @@
         "FinishDate": "30/11/2019",
         "Status": "Completed",
         "PercetangeContribution": "5.90%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -502,7 +502,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "8.80%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -610,7 +610,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "12%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -652,7 +652,7 @@
         "FinishDate": "27/04/2020",
         "Status": "Work in progress",
         "PercetangeContribution": "14.70%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -673,7 +673,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -694,7 +694,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Planning",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -736,7 +736,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -757,7 +757,7 @@
         "FinishDate": "30/07/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "78.70%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -847,7 +847,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Planning",
         "PercetangeContribution": "9.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -868,7 +868,7 @@
         "FinishDate": "19/06/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "56%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -934,7 +934,7 @@
         "FinishDate": "23/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "21.30%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -955,7 +955,7 @@
         "FinishDate": "30/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "1.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1000,7 +1000,7 @@
         "FinishDate": "Early July",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "9.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1024,7 +1024,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Planning",
         "PercetangeContribution": "100.00%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1048,7 +1048,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "11.70%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1093,7 @@
         "FinishDate": "30/06/2019",
         "Status": "Completed (currently in audit phase)",
         "PercetangeContribution": "4.50%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
