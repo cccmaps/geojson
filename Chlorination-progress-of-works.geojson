@@ -138,7 +138,8 @@
         "FinishDate": "30/06/2018",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
+        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)",
+        "marker-color": ""
       },
       "geometry": {
         "type": "Point",
@@ -438,7 +439,7 @@
         "FinishDate": "31/08/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "6.80%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -556,6 +557,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Keyes ",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
@@ -564,7 +568,7 @@
         "FinishDate": "30/04/2018",
         "Status": "Completed",
         "PercetangeContribution": "32.20%",
-        "ChlorinationDose": "none"
+        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
       },
       "geometry": {
         "type": "Point",
@@ -819,7 +823,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "31.60%",
-        "ChlorinationDose": "0.2 parts per million (audit phase)"
+        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
       },
       "geometry": {
         "type": "Point",
@@ -877,6 +881,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Sydenham ",
         "Zone": "Central",
         "NumberOfWells": 4,
