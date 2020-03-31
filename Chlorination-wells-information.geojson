@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Addington",
         "well": "ADDINGTON STN WELL-01",
@@ -12,12 +14,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1979,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 1,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -30,6 +30,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Addington",
         "well": "ADDINGTON STN WELL-02",
@@ -38,12 +40,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1982,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 2,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -56,6 +56,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-01",
@@ -64,12 +66,10 @@
         "depth__m_": 130,
         "aquifer": 4,
         "year_drilled": 1982,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 3,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -82,6 +82,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-02",
@@ -90,12 +92,10 @@
         "depth__m_": 130,
         "aquifer": 4,
         "year_drilled": 1984,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 4,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -108,6 +108,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Aldwins",
         "well": "ALDWINS STN WELL-03",
@@ -119,9 +121,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 5,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -134,6 +134,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Aston",
         "well": "ASTON STN WELL-01",
@@ -145,9 +147,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 6,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -160,8 +160,10 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
-        "pump_station_name": "Astone",
+        "pump_station_name": "Aston",
         "well": "ASTON STN WELL-02",
         "well_number": "WELL-02",
         "ecan_well_id": "M35/7215",
@@ -171,9 +173,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 7,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -186,6 +186,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Auburn",
         "well": "AUBURN STN WELL-05",
@@ -197,9 +199,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 8,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -212,6 +212,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Averill",
         "well": "AVERILL STN WELL-03",
@@ -223,9 +225,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 9,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -238,6 +238,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Averill",
         "well": "AVERILL STN WELL-04",
@@ -249,9 +251,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 10,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -264,6 +264,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Belfast",
         "well": "BELFAST STN WELL-01",
@@ -275,9 +277,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 13,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -290,6 +290,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Belfast",
         "well": "BELFAST STN WELL-02",
@@ -298,12 +300,10 @@
         "depth__m_": 117,
         "aquifer": 3,
         "year_drilled": 2005,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 14,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -316,6 +316,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Bexley",
         "well": "BEXLEY STN WELL-01",
@@ -324,12 +326,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 1971,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Not in use",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 15,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -342,6 +342,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Bexley",
         "well": "BEXLEY STN WELL-02",
@@ -350,12 +352,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 1989,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Not in use",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 16,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -368,6 +368,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Blighs",
         "well": "BLIGHS STN WELL-03",
@@ -379,9 +381,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 17,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -394,6 +394,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Blighs",
         "well": "BLIGHS STN WELL-04",
@@ -405,9 +407,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 18,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -420,6 +420,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Brooklands / Kainga",
         "pump_station_name": "Brooklands",
         "well": "BROOKLANDS STN WELL-01",
@@ -428,12 +430,10 @@
         "depth__m_": 82,
         "aquifer": 2,
         "year_drilled": 1995,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 19,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -446,6 +446,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Burnside",
         "well": "BURNSIDE STN WELL-05",
@@ -457,9 +459,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 21,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -472,6 +472,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Burwood",
         "well": "BURWOOD STN WELL-02",
@@ -483,9 +485,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 27,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -498,6 +498,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Burwood",
         "well": "BURWOOD STN WELL-03",
@@ -509,9 +511,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 28,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -524,6 +524,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-01",
@@ -532,12 +534,10 @@
         "depth__m_": 145,
         "aquifer": 4,
         "year_drilled": 1959,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 29,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -550,6 +550,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-02",
@@ -558,12 +560,10 @@
         "depth__m_": 95,
         "aquifer": 2,
         "year_drilled": 1960,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 30,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -576,6 +576,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-03",
@@ -584,12 +586,10 @@
         "depth__m_": 145,
         "aquifer": 4,
         "year_drilled": 1964,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 31,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -602,6 +602,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Carters",
         "well": "CARTERS STN WELL-05",
@@ -610,12 +612,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 32,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -628,6 +628,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-02",
@@ -636,12 +638,10 @@
         "depth__m_": 176,
         "aquifer": 5,
         "year_drilled": 1989,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 33,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -654,6 +654,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-04",
@@ -665,9 +667,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 34,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -680,6 +680,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Crosbie",
         "well": "CROSBIE STN WELL-06",
@@ -691,9 +693,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 35,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -706,6 +706,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Denton",
         "well": "DENTON STN WELL-01",
@@ -714,12 +716,10 @@
         "depth__m_": 96,
         "aquifer": 3,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 36,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -732,6 +732,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Denton",
         "well": "DENTON STN WELL-02",
@@ -740,12 +742,10 @@
         "depth__m_": 97,
         "aquifer": 3,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 37,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -758,6 +758,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Denton",
         "well": "DENTON STN WELL-03",
@@ -766,12 +768,10 @@
         "depth__m_": 102,
         "aquifer": 3,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 38,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -784,6 +784,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Denton",
         "well": "DENTON STN WELL-04",
@@ -792,12 +794,10 @@
         "depth__m_": 96,
         "aquifer": 3,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 39,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -810,6 +810,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Denton",
         "well": "DENTON STN WELL-05",
@@ -818,12 +820,10 @@
         "depth__m_": 96,
         "aquifer": 3,
         "year_drilled": 1973,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 40,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -836,6 +836,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-01",
@@ -844,12 +846,10 @@
         "depth__m_": 54,
         "aquifer": 2,
         "year_drilled": 1989,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 41,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -862,6 +862,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-02",
@@ -870,12 +872,10 @@
         "depth__m_": 54,
         "aquifer": 2,
         "year_drilled": 1990,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 42,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -888,6 +888,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-03",
@@ -896,12 +898,10 @@
         "depth__m_": 53,
         "aquifer": 2,
         "year_drilled": 1990,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 43,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -914,6 +914,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-04",
@@ -925,9 +927,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 44,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -940,6 +940,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Dunbars",
         "well": "DUNBARS STN WELL-05",
@@ -948,12 +950,10 @@
         "depth__m_": 110,
         "aquifer": 4,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 45,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -966,6 +966,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-01",
@@ -974,12 +976,10 @@
         "depth__m_": 156,
         "aquifer": 4,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 46,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -992,6 +992,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-02",
@@ -1000,12 +1002,10 @@
         "depth__m_": 97,
         "aquifer": 2,
         "year_drilled": 1968,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 47,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1018,6 +1018,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Effingham",
         "well": "EFFINGHAM STN WELL-03",
@@ -1026,12 +1028,10 @@
         "depth__m_": 96,
         "aquifer": 2,
         "year_drilled": 1982,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 48,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1044,6 +1044,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Farrington",
         "well": "FARRINGTON STN WELL-04",
@@ -1055,9 +1057,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 51,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1070,6 +1070,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Grampian",
         "well": "GRAMPIAN STN WELL-05",
@@ -1081,9 +1083,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 58,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1096,6 +1096,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Grampian",
         "well": "GRAMPIAN STN WELL-06",
@@ -1107,9 +1109,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 59,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1122,6 +1122,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-01",
@@ -1133,9 +1135,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 61,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1148,6 +1148,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-02",
@@ -1156,12 +1158,10 @@
         "depth__m_": 110,
         "aquifer": 3,
         "year_drilled": 1957,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 62,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1174,6 +1174,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Grassmere",
         "well": "GRASSMERE STN WELL-03",
@@ -1182,12 +1184,10 @@
         "depth__m_": 142,
         "aquifer": 3,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 63,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1200,6 +1200,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-01",
@@ -1211,9 +1213,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 64,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1226,6 +1226,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-02",
@@ -1234,12 +1236,10 @@
         "depth__m_": 123,
         "aquifer": 4,
         "year_drilled": 1955,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 65,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1252,6 +1252,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hillmorton",
         "well": "HILLMORTON STN WELL-04",
@@ -1260,12 +1262,10 @@
         "depth__m_": 123,
         "aquifer": 4,
         "year_drilled": 1990,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 66,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1278,6 +1278,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hills",
         "well": "HILLS STN WELL-05",
@@ -1286,12 +1288,10 @@
         "depth__m_": 116,
         "aquifer": 3,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 67,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1304,6 +1304,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hills",
         "well": "HILLS STN WELL-06",
@@ -1315,9 +1317,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 68,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1330,6 +1330,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hills",
         "well": "HILLS STN WELL-07",
@@ -1341,9 +1343,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 69,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1356,6 +1356,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Jeffreys",
         "well": "JEFFREYS STN WELL-06",
@@ -1364,12 +1366,10 @@
         "depth__m_": 193,
         "aquifer": 5,
         "year_drilled": 1992,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 70,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1382,6 +1382,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Jeffreys",
         "well": "JEFFREYS STN WELL-09",
@@ -1393,9 +1395,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 73,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1408,6 +1408,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Brooklands / Kainga",
         "pump_station_name": "Kainga",
         "well": "KAINGA STN WELL-01",
@@ -1419,9 +1421,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 74,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1434,6 +1434,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Kerrs",
         "well": "KERRS STN WELL-01",
@@ -1445,9 +1447,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 75,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1460,6 +1460,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Kerrs",
         "well": "KERRS STN WELL-02",
@@ -1471,9 +1473,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 76,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1486,6 +1486,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-03",
@@ -1494,12 +1496,10 @@
         "depth__m_": 149,
         "aquifer": 4,
         "year_drilled": 1971,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 80,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1512,6 +1512,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-04",
@@ -1523,9 +1525,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 81,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1538,6 +1538,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Lake Terrace",
         "well": "LAKE TERRACE STN WELL-05",
@@ -1549,9 +1551,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 82,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1564,6 +1564,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-01",
@@ -1575,9 +1577,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 84,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1590,6 +1590,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-02",
@@ -1601,9 +1603,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 85,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1616,6 +1616,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-03",
@@ -1627,9 +1629,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 86,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1642,6 +1642,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-04",
@@ -1653,9 +1655,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 87,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1668,6 +1668,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-05",
@@ -1679,9 +1681,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 88,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1694,6 +1694,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Main pumps",
         "well": "MAIN PUMPS STN WELL-06",
@@ -1705,9 +1707,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 89,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1720,6 +1720,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Mairehau",
         "well": "MAIREHAU STN WELL-01",
@@ -1731,9 +1733,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground or abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 90,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1746,6 +1746,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Marshlands",
         "well": "MARSHLANDS STN WELL-01",
@@ -1754,12 +1756,10 @@
         "depth__m_": 152,
         "aquifer": 4,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 91,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1772,6 +1772,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Marshlands",
         "well": "MARSHLANDS STN WELL-02",
@@ -1780,12 +1782,10 @@
         "depth__m_": 150,
         "aquifer": 4,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 92,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1798,6 +1798,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Mays",
         "well": "MAYS STN WELL-03",
@@ -1809,9 +1811,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 93,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1824,6 +1824,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Mays",
         "well": "MAYS STN WELL-04",
@@ -1832,12 +1834,10 @@
         "depth__m_": 85,
         "aquifer": 2,
         "year_drilled": 1972,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 94,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1850,6 +1850,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Mays",
         "well": "MAYS STN WELL-05",
@@ -1858,12 +1860,10 @@
         "depth__m_": 138,
         "aquifer": 5,
         "year_drilled": 1996,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 95,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1876,6 +1876,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Montreal",
         "well": "MONTREAL STN WELL-01",
@@ -1884,12 +1886,10 @@
         "depth__m_": 136,
         "aquifer": 4,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 96,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1902,6 +1902,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Montreal",
         "well": "MONTREAL STN WELL-02",
@@ -1910,12 +1912,10 @@
         "depth__m_": 32,
         "aquifer": 1,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 97,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1928,6 +1928,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Hackthorne",
         "pump_station_name": "Palatine",
         "well": "PALATINE STN WELL-01",
@@ -1939,9 +1941,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 98,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -1954,6 +1954,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-01",
@@ -1965,9 +1967,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 99,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -1980,6 +1980,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-02",
@@ -1991,9 +1993,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 100,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2006,6 +2006,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Parklands",
         "well": "PARKLANDS STN WELL-03",
@@ -2014,12 +2016,10 @@
         "depth__m_": 94,
         "aquifer": 2,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 101,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2032,6 +2032,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Riccarton",
         "pump_station_name": "Picton",
         "well": "PICTON STN WELL-01",
@@ -2040,12 +2042,10 @@
         "depth__m_": 126,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 102,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2058,6 +2058,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Riccarton",
         "pump_station_name": "Picton",
         "well": "PICTON STN WELL-02",
@@ -2066,12 +2068,10 @@
         "depth__m_": 118,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 103,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2084,6 +2084,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Riccarton",
         "pump_station_name": "Picton",
         "well": "PICTON STN WELL-03",
@@ -2092,12 +2094,10 @@
         "depth__m_": 61,
         "aquifer": 2,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 104,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2110,6 +2110,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Redwood",
         "well": "REDWOOD STN WELL-01",
@@ -2121,9 +2123,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 109,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2136,6 +2136,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Redwood",
         "well": "REDWOOD STN WELL-02",
@@ -2147,9 +2149,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 110,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2162,6 +2162,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-01",
@@ -2170,12 +2172,10 @@
         "depth__m_": 81,
         "aquifer": 2,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 111,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2188,6 +2188,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-02",
@@ -2196,12 +2198,10 @@
         "depth__m_": 78,
         "aquifer": 2,
         "year_drilled": 1975,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 112,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2214,6 +2214,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-05",
@@ -2222,12 +2224,10 @@
         "depth__m_": 76,
         "aquifer": 2,
         "year_drilled": 1979,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 115,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2240,6 +2240,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Sockburn",
         "well": "SOCKBURN STN WELL-06",
@@ -2251,9 +2253,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 116,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2266,6 +2266,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-02",
@@ -2277,9 +2279,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 117,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2292,6 +2292,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-03",
@@ -2300,12 +2302,10 @@
         "depth__m_": 105,
         "aquifer": 3,
         "year_drilled": 1951,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 118,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2318,6 +2318,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-04",
@@ -2326,12 +2328,10 @@
         "depth__m_": 115,
         "aquifer": 4,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 119,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2344,6 +2344,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-05",
@@ -2352,12 +2354,10 @@
         "depth__m_": 116,
         "aquifer": 4,
         "year_drilled": 1983,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 120,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2370,6 +2370,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Spreydon",
         "well": "SPREYDON STN WELL-06",
@@ -2381,9 +2383,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 121,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2396,6 +2396,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-01",
@@ -2404,12 +2406,10 @@
         "depth__m_": 133,
         "aquifer": 4,
         "year_drilled": 1958,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 122,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2422,6 +2422,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-02",
@@ -2430,12 +2432,10 @@
         "depth__m_": 134,
         "aquifer": 4,
         "year_drilled": 1963,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 123,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2448,6 +2448,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "St Johns",
         "well": "ST JOHNS STN WELL-03",
@@ -2459,9 +2461,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 124,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2474,6 +2474,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-05",
@@ -2482,12 +2484,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 125,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2500,6 +2500,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-07",
@@ -2508,12 +2510,10 @@
         "depth__m_": 110,
         "aquifer": 3,
         "year_drilled": 2011,
-        "wellhead_location_and_construct": "above ground",
+        "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 127,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2526,6 +2526,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Sydenham",
         "well": "SYDENHAM STN WELL-08",
@@ -2534,12 +2536,10 @@
         "depth__m_": 222,
         "aquifer": 5,
         "year_drilled": 2012,
-        "wellhead_location_and_construct": "above ground",
+        "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 128,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2552,6 +2552,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Riccarton",
         "pump_station_name": "Tara",
         "well": "TARA STN WELL-04",
@@ -2560,12 +2562,10 @@
         "depth__m_": 169,
         "aquifer": 4,
         "year_drilled": 1994,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 131,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2578,6 +2578,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Thompsons",
         "well": "THOMPSONS STN WELL-02",
@@ -2586,12 +2588,10 @@
         "depth__m_": 143,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 132,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2604,6 +2604,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Thompsons",
         "well": "THOMPSONS STN WELL-03",
@@ -2615,9 +2617,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 133,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2630,6 +2630,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Hackthorne",
         "pump_station_name": "Thorrington",
         "well": "THORRINGTON STN WELL-01",
@@ -2641,9 +2643,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 134,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2656,6 +2656,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-05",
@@ -2664,12 +2666,10 @@
         "depth__m_": 143,
         "aquifer": 4,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 135,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2682,6 +2682,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-06",
@@ -2690,12 +2692,10 @@
         "depth__m_": 135,
         "aquifer": 4,
         "year_drilled": 1999,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 136,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2708,6 +2708,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Trafalgar",
         "well": "TRAFALGAR STN WELL-07",
@@ -2719,9 +2721,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 137,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2734,6 +2734,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Wilmers",
         "well": "WILMERS STN WELL-01",
@@ -2742,12 +2744,10 @@
         "depth__m_": 150,
         "aquifer": 4,
         "year_drilled": 2011,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 139,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2760,6 +2760,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "West",
         "pump_station_name": "Wilmers",
         "well": "WILMERS STN WELL-02",
@@ -2768,12 +2770,10 @@
         "depth__m_": 153,
         "aquifer": 4,
         "year_drilled": 2012,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 140,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2786,6 +2786,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-03",
@@ -2797,9 +2799,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 141,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2812,6 +2812,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-04",
@@ -2823,9 +2825,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 142,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2838,6 +2838,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Ferrymead",
         "pump_station_name": "Woolston",
         "well": "WOOLSTON STN WELL-05",
@@ -2849,9 +2851,7 @@
         "wellhead_location_and_construct": "below ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 143,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -2864,6 +2864,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Worcester",
         "well": "WORCESTER STN WELL-01",
@@ -2872,12 +2874,10 @@
         "depth__m_": 131.5,
         "aquifer": 4,
         "year_drilled": 2002,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 144,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2890,6 +2890,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Worcester",
         "well": "WORCESTER STN WELL-02",
@@ -2898,12 +2900,10 @@
         "depth__m_": 131.8,
         "aquifer": 4,
         "year_drilled": 2003,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 145,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2916,6 +2916,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Estuary",
         "well": "ESTUARY STN Well-01",
@@ -2927,9 +2929,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2942,6 +2942,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Parklands",
         "pump_station_name": "Prestons",
         "well": "PRESTONS STN Well-01",
@@ -2953,9 +2955,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2968,6 +2968,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Northwest",
         "pump_station_name": "Gardiners",
         "well": "GARDINERS STN Well-01",
@@ -2979,9 +2981,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -2994,6 +2994,8 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "pressure_zone": "Central / Rawhiti",
         "pump_station_name": "Keyes",
         "well": "KEYES STN Well-01",
@@ -3005,9 +3007,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3030,12 +3030,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1979,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 1,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3058,12 +3056,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1982,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 2,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3086,12 +3082,10 @@
         "depth__m_": 130,
         "aquifer": 4,
         "year_drilled": 1982,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 3,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -3114,12 +3108,10 @@
         "depth__m_": 130,
         "aquifer": 4,
         "year_drilled": 1984,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 4,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -3142,12 +3134,10 @@
         "depth__m_": 38,
         "aquifer": 1,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 5,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -3170,12 +3160,10 @@
         "depth__m_": 160,
         "aquifer": 4,
         "year_drilled": 1995,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 6,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3198,12 +3186,10 @@
         "depth__m_": 106,
         "aquifer": 2,
         "year_drilled": 1995,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 7,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3226,12 +3212,10 @@
         "depth__m_": 177,
         "aquifer": 5,
         "year_drilled": 1997,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 8,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3254,12 +3238,10 @@
         "depth__m_": 86,
         "aquifer": 2,
         "year_drilled": 1939,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 9,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3282,12 +3264,10 @@
         "depth__m_": 138,
         "aquifer": 4,
         "year_drilled": 1954,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 10,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3310,12 +3290,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 13,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -3338,12 +3316,10 @@
         "depth__m_": 117,
         "aquifer": 3,
         "year_drilled": 2005,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 14,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -3366,12 +3342,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 1971,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Not in use",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 15,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3394,12 +3368,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 1989,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Not in use",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 16,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3422,12 +3394,10 @@
         "depth__m_": 66,
         "aquifer": 2,
         "year_drilled": 1989,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 17,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3453,9 +3423,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 18,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3481,9 +3449,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 19,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3509,9 +3475,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 21,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3534,12 +3498,10 @@
         "depth__m_": 152,
         "aquifer": 4,
         "year_drilled": 1964,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 27,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3562,12 +3524,10 @@
         "depth__m_": 153,
         "aquifer": 4,
         "year_drilled": 1975,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 28,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3590,12 +3550,10 @@
         "depth__m_": 145,
         "aquifer": 4,
         "year_drilled": 1959,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 29,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3618,12 +3576,10 @@
         "depth__m_": 95,
         "aquifer": 2,
         "year_drilled": 1960,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 30,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3646,12 +3602,10 @@
         "depth__m_": 145,
         "aquifer": 4,
         "year_drilled": 1964,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 31,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3674,12 +3628,10 @@
         "depth__m_": 148,
         "aquifer": 4,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 32,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3705,9 +3657,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 33,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3730,12 +3680,10 @@
         "depth__m_": 135,
         "aquifer": 4,
         "year_drilled": 2010,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 34,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3761,9 +3709,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 35,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3789,9 +3735,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 36,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3817,9 +3761,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 37,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3845,9 +3787,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 38,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3870,12 +3810,10 @@
         "depth__m_": 96,
         "aquifer": 3,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 39,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3898,12 +3836,10 @@
         "depth__m_": 96,
         "aquifer": 3,
         "year_drilled": 1973,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 40,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3929,9 +3865,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 41,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3957,9 +3891,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 42,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -3985,9 +3917,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 43,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4010,12 +3940,10 @@
         "depth__m_": 52,
         "aquifer": 2,
         "year_drilled": 1985,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 44,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4041,9 +3969,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 45,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4069,9 +3995,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 46,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4097,9 +4021,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 47,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4125,9 +4047,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 48,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4153,9 +4073,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 51,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4181,9 +4099,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 58,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4209,9 +4125,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 59,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4234,12 +4148,10 @@
         "depth__m_": 41,
         "aquifer": 1,
         "year_drilled": 1957,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 61,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4265,9 +4177,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 62,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4293,9 +4203,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 63,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4321,9 +4229,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 64,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4349,9 +4255,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 65,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4377,9 +4281,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 66,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4402,12 +4304,10 @@
         "depth__m_": 116,
         "aquifer": 3,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 67,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4433,9 +4333,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 68,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4461,9 +4359,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 69,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4486,12 +4382,10 @@
         "depth__m_": 193,
         "aquifer": 5,
         "year_drilled": 1992,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 70,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4517,9 +4411,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 73,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4545,9 +4437,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 74,
-        "tranch": 1
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4570,12 +4460,10 @@
         "depth__m_": 141,
         "aquifer": 4,
         "year_drilled": 1942,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 75,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4598,12 +4486,10 @@
         "depth__m_": 140,
         "aquifer": 4,
         "year_drilled": 1967,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 76,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4626,12 +4512,10 @@
         "depth__m_": 149,
         "aquifer": 4,
         "year_drilled": 1971,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 80,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4657,9 +4541,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 81,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4685,9 +4567,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 82,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4710,12 +4590,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1993,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 84,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4738,12 +4616,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1984,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 85,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4766,12 +4642,10 @@
         "depth__m_": 28,
         "aquifer": 1,
         "year_drilled": 1924,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 86,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4794,12 +4668,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1966,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 87,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4822,12 +4694,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1973,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 88,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4850,12 +4720,10 @@
         "depth__m_": 29,
         "aquifer": 1,
         "year_drilled": 1975,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "Permanent UV",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 89,
-        "tranch": 1
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4878,12 +4746,10 @@
         "depth__m_": 154,
         "aquifer": 4,
         "year_drilled": 1988,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground or abandon",
-        "temporary_uv_": "",
-        "OBJECTID": 90,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4906,12 +4772,10 @@
         "depth__m_": 152,
         "aquifer": 4,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 91,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4934,12 +4798,10 @@
         "depth__m_": 150,
         "aquifer": 4,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 92,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -4962,12 +4824,10 @@
         "depth__m_": 48,
         "aquifer": 1,
         "year_drilled": 1928,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 93,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -4990,12 +4850,10 @@
         "depth__m_": 85,
         "aquifer": 2,
         "year_drilled": 1972,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 94,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5018,12 +4876,10 @@
         "depth__m_": 138,
         "aquifer": 5,
         "year_drilled": 1996,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 95,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5046,12 +4902,10 @@
         "depth__m_": 136,
         "aquifer": 4,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 96,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5074,12 +4928,10 @@
         "depth__m_": 32,
         "aquifer": 1,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 97,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5102,12 +4954,10 @@
         "depth__m_": 31,
         "aquifer": 1,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 98,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5130,12 +4980,10 @@
         "depth__m_": 157,
         "aquifer": 4,
         "year_drilled": 1974,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 99,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5158,12 +5006,10 @@
         "depth__m_": 93,
         "aquifer": 2,
         "year_drilled": 1983,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 100,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5186,12 +5032,10 @@
         "depth__m_": 94,
         "aquifer": 2,
         "year_drilled": 1998,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 101,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5214,12 +5058,10 @@
         "depth__m_": 126,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 102,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5242,12 +5084,10 @@
         "depth__m_": 118,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 103,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5270,12 +5110,10 @@
         "depth__m_": 61,
         "aquifer": 2,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 104,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5298,12 +5136,10 @@
         "depth__m_": 28,
         "aquifer": 1,
         "year_drilled": 1984,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 109,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5326,12 +5162,10 @@
         "depth__m_": 36,
         "aquifer": 1,
         "year_drilled": 1986,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 110,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5354,12 +5188,10 @@
         "depth__m_": 81,
         "aquifer": 2,
         "year_drilled": 1976,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 111,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5382,12 +5214,10 @@
         "depth__m_": 78,
         "aquifer": 2,
         "year_drilled": 1975,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 112,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5410,12 +5240,10 @@
         "depth__m_": 76,
         "aquifer": 2,
         "year_drilled": 1979,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 115,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5438,12 +5266,10 @@
         "depth__m_": 76,
         "aquifer": 2,
         "year_drilled": 1979,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 116,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5466,12 +5292,10 @@
         "depth__m_": 32,
         "aquifer": 1,
         "year_drilled": 1948,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 117,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5494,12 +5318,10 @@
         "depth__m_": 105,
         "aquifer": 3,
         "year_drilled": 1951,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 118,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5522,12 +5344,10 @@
         "depth__m_": 115,
         "aquifer": 4,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 119,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5550,12 +5370,10 @@
         "depth__m_": 116,
         "aquifer": 4,
         "year_drilled": 1983,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 120,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5578,12 +5396,10 @@
         "depth__m_": 58,
         "aquifer": 2,
         "year_drilled": 2006,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 121,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5606,12 +5422,10 @@
         "depth__m_": 133,
         "aquifer": 4,
         "year_drilled": 1958,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 122,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5634,12 +5448,10 @@
         "depth__m_": 134,
         "aquifer": 4,
         "year_drilled": 1963,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 123,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5665,9 +5477,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 124,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5690,12 +5500,10 @@
         "depth__m_": 127,
         "aquifer": 4,
         "year_drilled": 1969,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 125,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5721,9 +5529,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 127,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5749,9 +5555,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 128,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5774,12 +5578,10 @@
         "depth__m_": 169,
         "aquifer": 4,
         "year_drilled": 1994,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 131,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5802,12 +5604,10 @@
         "depth__m_": 143,
         "aquifer": 4,
         "year_drilled": 2004,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 132,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5833,9 +5633,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 133,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5858,12 +5656,10 @@
         "depth__m_": 20,
         "aquifer": 1,
         "year_drilled": 1962,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 134,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -5886,12 +5682,10 @@
         "depth__m_": 143,
         "aquifer": 4,
         "year_drilled": 1965,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 135,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5917,9 +5711,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 136,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5945,9 +5737,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "To be signed as secure",
         "proposed_wellhead_improvement_2": "make secure",
-        "temporary_uv_": "",
-        "OBJECTID": 137,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5970,12 +5760,10 @@
         "depth__m_": 150,
         "aquifer": 4,
         "year_drilled": 2011,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 139,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -5998,12 +5786,10 @@
         "depth__m_": 153,
         "aquifer": 4,
         "year_drilled": 2012,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 140,
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6029,9 +5815,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "replace",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 141,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -6054,12 +5838,10 @@
         "depth__m_": 129,
         "aquifer": 4,
         "year_drilled": 1966,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 142,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -6082,12 +5864,10 @@
         "depth__m_": 124,
         "aquifer": 4,
         "year_drilled": 2000,
-        "wellhead_location_and_construct": "below ground",
+        "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "Yes",
-        "OBJECTID": 143,
-        "tranch": ""
+        "temporary_uv_": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -6113,9 +5893,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 144,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6141,9 +5919,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Chlorination 1ppm",
         "proposed_wellhead_improvement_2": "raise above ground",
-        "temporary_uv_": "",
-        "OBJECTID": 145,
-        "tranch": 2
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6169,9 +5945,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6197,9 +5971,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6225,9 +5997,7 @@
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
         "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "temporary_uv_": ""
       },
       "geometry": {
         "type": "Point",
@@ -6252,10 +6022,7 @@
         "year_drilled": 2011,
         "wellhead_location_and_construct": "above ground",
         "current_status": "Secure",
-        "proposed_wellhead_improvement_2": "",
-        "temporary_uv_": "",
-        "OBJECTID": "",
-        "tranch": ""
+        "proposed_wellhead_improvement_2": ""
       },
       "geometry": {
         "type": "Point",
