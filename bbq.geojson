@@ -442,6 +442,23 @@
           -43.475341011
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hoon Hay Park",
+        "Address": "Mathers Road, Hoon Hay 8025",
+        "Features": "Playground, basketball court, skate park, public toilets, sports fields",
+        "BBQs": "Please note that BBQs cannot be booked. ",
+        "Type": "BBQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.592528,
+          -43.562324
+        ]
+      }
     }
   ]
 }
