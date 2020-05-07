@@ -50398,48 +50398,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6030947346,
-            -43.5197180618
-          ],
-          [
-            172.6040711665,
-            -43.5198374038
-          ]
-        ]
-      },
-      "properties": {
-        "fid": "1243",
-        "responsibl": "Christchurch City Council",
-        "trafficdir": "One Way",
-        "crossingty": " ",
-        "sealtype": " ",
-        "longtermpl": " ",
-        "servicesta": "In Service",
-        "cycleprior": "Cycle Only",
-        "location": "Kerbside",
-        "majorcycle": "Default",
-        "streettype": " ",
-        "placement": "Carriageway",
-        "connection": " ",
-        "rammid": "0",
-        "cyclewaypr": "1245",
-        "length": "80",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": "1",
-        "created_user": "MirbahaH",
-        "created_date": "20190919215757",
-        "last_edited_user": "MirbahaH",
-        "last_edited_date": "20190919215757",
-        "alt_name": "Cycle lane"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.7487691739,
             -43.5644008166
           ],
@@ -55524,6 +55482,164 @@
         "type": "LineString",
         "coordinates": [
           [
+            172.6504790989,
+            -43.5232721376
+          ],
+          [
+            172.65060981,
+            -43.5236704367
+          ],
+          [
+            172.6510205746,
+            -43.5241986386
+          ],
+          [
+            172.6512401516,
+            -43.5245649464
+          ],
+          [
+            172.651222523,
+            -43.5250595781
+          ],
+          [
+            172.6507454368,
+            -43.5257786424
+          ],
+          [
+            172.6505512587,
+            -43.5261329326
+          ],
+          [
+            172.6505790805,
+            -43.5264341303
+          ],
+          [
+            172.6507580455,
+            -43.526155072
+          ],
+          [
+            172.6518363769,
+            -43.5262551473
+          ],
+          [
+            172.6527983899,
+            -43.5260214842
+          ],
+          [
+            172.6543231723,
+            -43.5255851873
+          ],
+          [
+            172.6556264302,
+            -43.5251159434
+          ],
+          [
+            172.6564541792,
+            -43.5250969255
+          ],
+          [
+            172.6568386779,
+            -43.5250550643
+          ],
+          [
+            172.6571785357,
+            -43.5250668373
+          ],
+          [
+            172.659765231,
+            -43.5250100394
+          ],
+          [
+            172.6602539639,
+            -43.5248286754
+          ],
+          [
+            172.6604174995,
+            -43.5246570948
+          ],
+          [
+            172.6605226994,
+            -43.5243455409
+          ],
+          [
+            172.6603324443,
+            -43.5240116015
+          ],
+          [
+            172.6600389827,
+            -43.523634337
+          ],
+          [
+            172.6599825254,
+            -43.5231609914
+          ],
+          [
+            172.6598965728,
+            -43.5226768039
+          ],
+          [
+            172.6598106813,
+            -43.5221818629
+          ],
+          [
+            172.6603575406,
+            -43.5221727351
+          ],
+          [
+            172.6604517217,
+            -43.5219002843
+          ],
+          [
+            172.6605320742,
+            -43.5217887018
+          ],
+          [
+            172.6606369121,
+            -43.5217056756
+          ],
+          [
+            172.6607473663,
+            -43.5216553655
+          ],
+          [
+            172.660772635,
+            -43.5216528955
+          ]
+        ]
+      },
+      "properties": {
+        "fid": "4884",
+        "responsibl": "Christchurch City Council",
+        "trafficdir": "One Way",
+        "crossingty": " ",
+        "sealtype": " ",
+        "longtermpl": " ",
+        "servicesta": "Proposed",
+        "cycleprior": "Cycle Only",
+        "location": "Kerbside",
+        "majorcycle": "Te Ara Ōtākaro Avon River Trail",
+        "streettype": " ",
+        "placement": "Carriageway",
+        "connection": " ",
+        "rammid": "0",
+        "cyclewaypr": "4043",
+        "length": "6292",
+        "urbanrural": "Urban",
+        "type": "Not in Service",
+        "p_filter": "2",
+        "created_user": "BrodieM",
+        "created_date": "20200506015447",
+        "last_edited_user": "BrodieM",
+        "last_edited_date": "20200506235718",
+        "alt_name": "Not in Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             172.660792653,
             -43.5216292458
           ],
@@ -56284,6 +56400,48 @@
         "last_edited_user": "BrodieM",
         "last_edited_date": "20200506021242",
         "alt_name": "Not in Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6030947346,
+            -43.5197180618
+          ],
+          [
+            172.6040711665,
+            -43.5198374038
+          ]
+        ]
+      },
+      "properties": {
+        "fid": "1243",
+        "responsibl": "Christchurch City Council",
+        "trafficdir": "One Way",
+        "crossingty": " ",
+        "sealtype": " ",
+        "longtermpl": " ",
+        "servicesta": "In Service",
+        "cycleprior": "Cycle Only",
+        "location": "Kerbside",
+        "majorcycle": "Default",
+        "streettype": " ",
+        "placement": "Carriageway",
+        "connection": " ",
+        "rammid": "0",
+        "cyclewaypr": "1245",
+        "length": "80",
+        "urbanrural": "Urban",
+        "type": "Cycle lane",
+        "p_filter": "1",
+        "created_user": "MirbahaH",
+        "created_date": "20190919215757",
+        "last_edited_user": "MirbahaH",
+        "last_edited_date": "20190919215757",
+        "alt_name": "Cycle lane"
       }
     },
     {
@@ -118796,48 +118954,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6176457399,
-            -43.5401937232
-          ],
-          [
-            172.6176690233,
-            -43.5401788287
-          ]
-        ]
-      },
-      "properties": {
-        "fid": "2953",
-        "responsibl": "Christchurch City Council",
-        "trafficdir": "One Way",
-        "crossingty": "Signalised intersection",
-        "sealtype": " ",
-        "longtermpl": " ",
-        "servicesta": "In Service",
-        "cycleprior": "Cycle Only",
-        "location": "Kerbside",
-        "majorcycle": "Default",
-        "streettype": " ",
-        "placement": "Carriageway",
-        "connection": " ",
-        "rammid": "0",
-        "cyclewaypr": "2968",
-        "length": "3",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": "1",
-        "created_user": "MirbahaH",
-        "created_date": "20190919215757",
-        "last_edited_user": "MirbahaH",
-        "last_edited_date": "20190919215757",
-        "alt_name": "Cycle lane"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.6176062158,
             -43.5402442144
           ],
@@ -118872,6 +118988,48 @@
         "last_edited_user": "MirbahaH",
         "last_edited_date": "20190919215757",
         "alt_name": "Cycleway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6176457399,
+            -43.5401937232
+          ],
+          [
+            172.6176690233,
+            -43.5401788287
+          ]
+        ]
+      },
+      "properties": {
+        "fid": "2953",
+        "responsibl": "Christchurch City Council",
+        "trafficdir": "One Way",
+        "crossingty": "Signalised intersection",
+        "sealtype": " ",
+        "longtermpl": " ",
+        "servicesta": "In Service",
+        "cycleprior": "Cycle Only",
+        "location": "Kerbside",
+        "majorcycle": "Default",
+        "streettype": " ",
+        "placement": "Carriageway",
+        "connection": " ",
+        "rammid": "0",
+        "cyclewaypr": "2968",
+        "length": "3",
+        "urbanrural": "Urban",
+        "type": "Cycle lane",
+        "p_filter": "1",
+        "created_user": "MirbahaH",
+        "created_date": "20190919215757",
+        "last_edited_user": "MirbahaH",
+        "last_edited_date": "20190919215757",
+        "alt_name": "Cycle lane"
       }
     },
     {
