@@ -88,6 +88,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Averill ",
         "Zone": "Central",
         "NumberOfWells": 2,
@@ -96,7 +99,7 @@
         "FinishDate": "31/07/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -130,6 +133,8 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Belfast",
         "Zone": "Northwest",
         "NumberOfWells": 2,
@@ -138,8 +143,8 @@
         "FinishDate": "30/06/2018",
         "Status": "Work in progress",
         "PercetangeContribution": "0.50%",
-        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)",
-        "marker-color": ""
+        "ChlorinationDose": "0.2 parts per million",
+        "marker-color": "#000000"
       },
       "geometry": {
         "type": "Point",
@@ -236,6 +241,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Carters",
         "Zone": "Rawhiti",
         "NumberOfWells": 4,
@@ -244,7 +252,7 @@
         "FinishDate": "30/09/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "32.60%",
-        "ChlorinationDose": "0.3 to 0.4 parts per million"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -323,6 +331,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Effingham",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
@@ -331,7 +342,7 @@
         "FinishDate": "11/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "7.00%",
-        "ChlorinationDose": "0.3 to 0.4 parts per million"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -536,6 +547,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Kerrs",
         "Zone": "Central",
         "NumberOfWells": 2,
@@ -568,7 +582,7 @@
         "FinishDate": "30/04/2018",
         "Status": "Completed",
         "PercetangeContribution": "32.20%",
-        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
@@ -581,6 +595,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Lake Terrace",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
@@ -589,7 +606,7 @@
         "FinishDate": "13/03/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "0.90%",
-        "ChlorinationDose": "0.3 to 0.4 parts per million"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
@@ -623,6 +640,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Mairehau",
         "Zone": "Parklands",
         "NumberOfWells": 1,
@@ -631,7 +651,7 @@
         "FinishDate": "",
         "Status": "Planning",
         "PercetangeContribution": "11.50%",
-        "ChlorinationDose": "Out of service (pumping from adjacent pump stations)"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
