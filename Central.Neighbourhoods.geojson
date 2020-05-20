@@ -770,7 +770,7 @@
       "type": "Feature",
       "properties": {
         "fid": 12,
-        "Name": "South Central"
+        "Name": "Central City South"
       },
       "geometry": {
         "type": "Polygon",
