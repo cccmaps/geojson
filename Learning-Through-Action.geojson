@@ -318,7 +318,7 @@
       },
       "properties": {
         "name": "Junior Park Explorers",
-        "site": "Travis Wetlands",
+        "site": "Travis Wetland Reserve",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/junior-park-explorers/",
         "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
@@ -786,7 +786,7 @@
       },
       "properties": {
         "name": "Wetlands, Waders and Water Boatmen",
-        "site": "Travis Wetland",
+        "site": "Travis Wetland Reserve",
         "category": "Biodiversity",
         "url": "https://ccc.govt.nz/wetlands-waders-and-water-boatmen/",
         "Full name": "Wetlands, Waders and Water Boatmen",
@@ -844,6 +844,24 @@
         "coordinates": [
           172.57877826690674,
           -43.60043164356079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Detectives",
+        "site": "Travis Wetland Reserve",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.69777715206146,
+          -43.48442290865699
         ]
       }
     }
