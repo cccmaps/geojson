@@ -144,7 +144,7 @@
       "type": "Feature",
       "properties": {
         "fid": 6,
-        "Name": "Chester Street East"
+        "Name": "Chester East"
       },
       "geometry": {
         "type": "Polygon",
