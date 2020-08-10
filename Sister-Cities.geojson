@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Adelaide",
+        "Description": "Christchurch and Adelaide officially became Sister Cities in 1972 – the relationship is based on cultural and educational exchanges and tourism.",
+        "Linktext": "View page",
+        "URL": "https://www.cityofadelaide.com.au/about-adelaide/general-information/sister-cities/",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Adelaide__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5980224609375,
+          -34.928726792983845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Christchurch",
+        "Description": "Christchurch NZ and Christchurch UK officially became Sister Cities in 1972. The relationship is based on tourism, cultural and educational exchanges.",
+        "Linktext": "",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Christchurch-UK-v2__ResizedImageWzQwMCwxOThd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7651081085205078,
+          50.73471682490245
+        ]
+      }
+    }
+  ]
+}
