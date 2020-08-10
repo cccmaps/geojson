@@ -6,7 +6,7 @@
       "properties": {
         "City": "Adelaide, Australia",
         "Description": "Christchurch and Adelaide officially became Sister Cities in 1972 – the relationship is based on cultural and educational exchanges and tourism.",
-        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Adelaide__ResizedImageWzQwMCwxNDFd.jpg"
+        "Image": "/assets/Images/The-Council/Sister-cities/Adelaide__ResizedImageWzQwMCwxNDFd.jpg"
       },
       "geometry": {
         "type": "Point",
