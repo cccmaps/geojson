@@ -4,10 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Adelaide",
+        "City": "Adelaide, Australia",
         "Description": "Christchurch and Adelaide officially became Sister Cities in 1972 – the relationship is based on cultural and educational exchanges and tourism.",
-        "Linktext": "View page",
-        "URL": "https://www.cityofadelaide.com.au/about-adelaide/general-information/sister-cities/",
         "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Adelaide__ResizedImageWzQwMCwxNDFd.jpg"
       },
       "geometry": {
@@ -21,9 +19,8 @@
     {
       "type": "Feature",
       "properties": {
-        "City": "Christchurch",
+        "City": "Christchurch, UK",
         "Description": "Christchurch NZ and Christchurch UK officially became Sister Cities in 1972. The relationship is based on tourism, cultural and educational exchanges.",
-        "Linktext": "",
         "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Christchurch-UK-v2__ResizedImageWzQwMCwxOThd.jpg"
       },
       "geometry": {
@@ -31,6 +28,81 @@
         "coordinates": [
           -1.7651081085205078,
           50.73471682490245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Gansu Province, China",
+        "Description": "The friendly relationship between Christchurch and the Gansu Province is reflected in the areas of education, culture and economic development.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/GansuProvince-Lanzhou__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.271728515625,
+          38.229550455326134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Kurashiki, Japan",
+        "Description": "Christchurch and Kurashiki became Sister Cities in 1973.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Kurashiki-Bika__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7750244140625,
+          34.5851709846509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Seattle, USA",
+        "Description": "Christchurch and Seattle have enjoyed a formal link since 1981. This aims to promote and develop trade, tourism, commerce, sport, education and science on a people-to-people basis.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Seattle__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          237.67547607421872,
+          47.60431120244565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Songpa-Gu, Korea",
+        "Description": "Christchurch and Songpa-Gu boast the first sister cities relationship between NZ and Korea.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/SongpaGu__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.10906982421875,
+          37.506593858353796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Wuhan, China",
+        "Description": "A Friendship City Agreement was signed between the Mayors of Wuhan and Christchurch on Tuesday 4 April 2006.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/The-Council/Sister-cities/Wuhan__ResizedImageWzQwMCwxNDFd.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.268798828125,
+          30.56699087315334
         ]
       }
     }
