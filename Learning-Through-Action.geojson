@@ -864,6 +864,24 @@
           -43.48442290865699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Detectives",
+        "site": "The Groynes",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60963439941406,
+          -43.447879531435056
+        ]
+      }
     }
   ]
 }
