@@ -667,15 +667,18 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Marshlands",
         "Zone": "Parklands",
         "NumberOfWells": 2,
         "Improvements": "Raise two below ground well heads",
         "StartDate": "30/10/2019",
-        "FinishDate": "27/04/2020",
+        "FinishDate": "31/10/2020",
         "Status": "Work in progress",
         "PercetangeContribution": "14.70%",
-        "ChlorinationDose": "0.2 parts per million"
+        "ChlorinationDose": "0.5 parts per million"
       },
       "geometry": {
         "type": "Point",
