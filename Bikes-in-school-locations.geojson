@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rāwhiti School",
+        "Address": "150 Leaver Terrace, North New Brighton, Christchurch 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71743774414062,
+          -43.49546022227689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cotswold School",
+        "Address": "50 Cotswold Avenue, Bishopdale, Christchurch 8053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.58779048919678,
+          -43.48286600254335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Middleton Grange School",
+        "Address": "30 Acacia Avenue, Upper Riccarton, Christchurch 8041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.57699728012085,
+          -43.5369916262135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Papanui School",
+        "Address": "40 Winters Road, Papanui, Christchurch 8051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61980533599854,
+          -43.48854851580798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Francis of Assisi School",
+        "Address": "370 Innes Road, St Albans, Christchurch 8052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64014720916748,
+          -43.50070574171801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Hornby School",
+        "Address": "35 Amyes Road, Hornby, Christchurch 8042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.52921104431152,
+          -43.54705506927561
+        ]
+      }
+    }
+  ]
+}
