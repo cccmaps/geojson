@@ -356,7 +356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Entrance",
+        "Type": "Vehicle entrance",
         "Name": "Vehicle entrance"
       },
       "geometry": {
