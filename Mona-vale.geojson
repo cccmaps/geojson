@@ -104,20 +104,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Bridge",
-        "Name": "Road Bridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6075181365013,
-          -43.5229046515709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Type": "Lawn",
         "Name": "Waymouth Lawn"
       },
@@ -300,34 +286,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Bridge",
-        "Name": "Foot bridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60987713932988,
-          -43.52311664174913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Bridge",
-        "Name": "Foot bridge"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6102513074875,
-          -43.523694262583064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Type": "Lawn",
         "Name": "Mill Stream Lawn"
       },
@@ -406,6 +364,66 @@
         "coordinates": [
           172.60835498571396,
           -43.524820315581124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Road bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.60744772851467,
+            -43.5228618644721
+          ],
+          [
+            172.6075409352779,
+            -43.522947924855856
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Foot bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.61010512709618,
+            -43.5237448284534
+          ],
+          [
+            172.6103961467743,
+            -43.523662172681824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Foot bridge"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.60969072580338,
+            -43.52317207025086
+          ],
+          [
+            172.6099629700184,
+            -43.52303204025356
+          ]
         ]
       }
     }
