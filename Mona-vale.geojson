@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Pedestrian entrance",
+        "Type": "Entrance",
         "Name": "Pedestrian entrance"
       },
       "geometry": {
@@ -26,20 +26,6 @@
         "coordinates": [
           172.6068475842476,
           -43.5205143621393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Lawn",
-        "Name": "Karewa Lawn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.60670006275177,
-          -43.52055131607336
         ]
       }
     },
@@ -74,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Pond",
+        "Type": "Garden",
         "Name": "Lily Pond"
       },
       "geometry": {
@@ -104,8 +90,8 @@
       "properties": {
         "Type": "Building",
         "Name": "Homestead",
-        "Description": "xxxxx",
-        "Hours": "9-5"
+        "Description": "",
+        "Hours": ""
       },
       "geometry": {
         "type": "Point",
@@ -140,6 +126,286 @@
         "coordinates": [
           172.60881900787354,
           -43.523760387174214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Parking",
+        "Name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60790705680847,
+          -43.524180471119244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Rose Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60832816362378,
+          -43.52414157458056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Fernery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6083818078041,
+          -43.52444496691723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Building",
+        "Name": "Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60903626680374,
+          -43.524106567674295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Fuschia Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6088324189186,
+          -43.52398598817501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Mound Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60898262262344,
+          -43.5234433774457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Marquee Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60952711105347,
+          -43.52350755746387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Flerning Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6100930571556,
+          -43.52398987784004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Conifer Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61053025722504,
+          -43.524166857333555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Garden",
+        "Name": "Iris Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6093903183937,
+          -43.52328973409451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Building",
+        "Name": "Bath House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6090094447136,
+          -43.52316137352642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Homestead Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60830402374268,
+          -43.523087468833026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Foot bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60987713932988,
+          -43.52311664174913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bridge",
+        "Name": "Foot bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6102513074875,
+          -43.523694262583064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Mill Stream Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60990262031555,
+          -43.52292604510891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Buxtons Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60815382003784,
+          -43.522780179926485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lawn",
+        "Name": "Karewa Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6067054271698,
+          -43.5206466182199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Entrance",
+        "Name": "Pedestrian entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6105946302414,
+          -43.52236008623063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Entrance",
+        "Name": "Pedestrian entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60897457599637,
+          -43.52424465035325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Entrance",
+        "Name": "Vehicle entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60835498571396,
+          -43.524820315581124
         ]
       }
     }
