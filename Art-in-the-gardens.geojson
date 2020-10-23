@@ -374,23 +374,6 @@
         "Type": "The Botanic Gardens’ very own garden gnome, affectionately dubbed 'Henry', was created by Bing Dawe for the very first Gnome Convention held in 1995. Solid brass and set on a stone base, he has a sash around his shoulders that bears the inscription: \"Guarding naturally over mother earth\".",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE5MywyNTBd/CBG-Artwork-Brass-Gnome-1.jpg"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ArtCode": "Art in the Gardens",
-        "Address": "Kiosk Gallery",
-        "Artname": "Jenny Gillies' Enchanted Garden",
-        "Type": "Seasonal botanical collections from designer Jenny Gillies will enchant and amaze. Adults $10, seniors, studens and children $5, under five years free. 10am to 4pm.",
-        "Photo": "/assets/Images/News-Events/Events/2017/12-December/Enchanted-Garden/_resampled/ScaleWidthWyI4NTUiXQ/jenny-gillies-banner.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.620248,
-          -43.528872
-        ]
-      }
     }
   ]
 }
