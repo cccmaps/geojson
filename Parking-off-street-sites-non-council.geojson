@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "147-157 Hereford Street",
         "Entry": "157 Hereford Street",
         "Notes": "",
@@ -111,7 +108,7 @@
         "Entry": "241 Tuam Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 159,
+        "Parking-spaces": 181,
         "Electric": "",
         "Mobility": "",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
@@ -121,26 +118,6 @@
         "coordinates": [
           172.642956,
           -43.535097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "246 Cashel Street",
-        "Entry": "246 Cashel Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 44,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.643718,
-          -43.533265
         ]
       }
     },
@@ -161,29 +138,6 @@
         "coordinates": [
           172.643905,
           -43.533346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "236 Hereford Street",
-        "Entry": "236 Hereford Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 582,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.643941,
-          -43.532225
         ]
       }
     },
@@ -250,9 +204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "255 St Asaph Street",
         "Entry": "255 St Asaph Street",
         "Notes": "",
@@ -293,26 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "68 St Asaph Street",
-        "Entry": "238 Antigua Street, and also from Acton Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 79,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.628908,
-          -43.536966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "196 Antigua Street",
         "Entry": "196 Antigua Street",
         "Notes": "",
@@ -327,29 +258,6 @@
         "coordinates": [
           172.628093,
           -43.539162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "101 Moorhouse Avenue",
-        "Entry": "101-103 Moorhouse Avenue",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 95,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.624881,
-          -43.539614
         ]
       }
     },
@@ -376,9 +284,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "Address": "615 Colombo Street",
         "Entry": "615 Colombo Street",
         "Notes": "",
@@ -459,14 +364,11 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "74 Worcester Street",
-        "Entry": "74 Worcester Street",
+        "Address": "74 Worcester Blvd",
+        "Entry": "74 Worcester Blvd",
         "Notes": "",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 150,
+        "Parking-spaces": 90,
         "Electric": "",
         "Mobility": "",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
@@ -704,8 +606,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "164 Hereford St",
-        "Entry": "164 Hereford St",
+        "Address": "164 Hereford Street",
+        "Entry": "164 HerefordStreet",
         "Name": "Wilson off-street parking",
         "Notes": "",
         "Parking-spaces": 45,
@@ -722,8 +624,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "142 Tuam St",
-        "Entry": "142 Tuam St",
+        "Address": "142 Tuam Street",
+        "Entry": "142 Tuam Street",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 41,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
@@ -741,8 +643,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "20-28 Bath St",
-        "Entry": "20-28 Bath St",
+        "Address": "20-28 Bath Street",
+        "Entry": "20-28 Bath Street",
         "Parking-spaces": 43,
         "Name": "Wilson off-street parking",
         "Notes": " ",
@@ -760,11 +662,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "184 Antigua st",
-        "Entry": "184 Antigua St",
+        "Address": "184 Antigua Street",
+        "Entry": "184 Antigua Street",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 116,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
@@ -781,11 +680,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "131 St Asaph St",
-        "Entry": "131 St Asaph St",
+        "Address": "131 St Asaph Street",
+        "Entry": "131 St Asaph Street",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
@@ -802,11 +698,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "116 Tuam St",
-        "Entry": "116 Tuam St",
+        "Address": "116 Tuam Street",
+        "Entry": "116 Tuam Street",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
@@ -823,21 +716,35 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Address": "128 Tuam St",
-        "Entry": "128 Tuam St",
+        "Address": "240 Hereford Street",
+        "Entry": "240 Hereford Street",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 43,
+        "Parking-spaces": 55,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
         "Notes": " "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.63339340686798,
-          -43.53547107588393
+          172.64411687850952,
+          -43.532202346209125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "238 Antigua Street",
+        "Entry": "238 Antigua Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 91,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6278868317604,
+          -43.53707523592511
         ]
       }
     }
