@@ -84,6 +84,20 @@
           -43.54705506927561
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northcote School",
+        "Address": "26 Tuckers Road, Casebrook, Christchurch 8051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.61373281478882,
+          -43.47888014005607
+        ]
+      }
     }
   ]
 }
