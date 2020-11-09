@@ -88,6 +88,9 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
         "Name": "Northcote School",
         "Address": "26 Tuckers Road, Casebrook, Christchurch 8051"
       },
