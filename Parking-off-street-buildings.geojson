@@ -447,13 +447,42 @@
         "type": "Off-street motorcycle parking",
         "spaces": 81,
         "address": "33 Lichfield Street",
-        "Multi-level-building": "Yes"
+        "Multi-level-building": "Yes",
+        "hourlyrate": "",
+        "timelimit": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.63499200344086,
           -43.53379103707398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Terrace",
+        "description": "The Terrace car park",
+        "address": "90-92 Hereford Street",
+        "spaces": "450 (150 permanent)",
+        "type": "Other off-street parking building",
+        "hourlyrate": "$2 per half hour up to a max of $25",
+        "alldayrate": "$25 (6am to 5pm)",
+        "nightrate": "Max $12, Entry after 4pm, exit before 8am Weekdays, and 10am weekends, then casual rates apply.",
+        "MobilitySpaces": 16,
+        "Multi-level-building": "Yes",
+        "timelimit": "N/A",
+        "PleaseNote": "This is a ticketless carpark. 16 Electric Vehicle spaces. Bike racks available.",
+        "Access": "Hereford Street",
+        "HoursOfOperation": "24 hours",
+        "Provider": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6349101960659,
+          -43.53241235915235
         ]
       }
     }
