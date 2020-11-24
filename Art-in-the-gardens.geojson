@@ -374,6 +374,23 @@
         "Type": "The Botanic Gardens’ very own garden gnome, affectionately dubbed 'Henry', was created by Bing Dawe for the very first Gnome Convention held in 1995. Solid brass and set on a stone base, he has a sash around his shoulders that bears the inscription: \"Guarding naturally over mother earth\".",
         "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/_resampled/ResizedImageWzE5MywyNTBd/CBG-Artwork-Brass-Gnome-1.jpg"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ArtCode": "Art in the Gardens",
+        "Photo": "/assets/Images/Parks-gardens/Christchurch-Botanic-Gardens/Flora-and-Otto.jpg",
+        "Type": "This armchair (Flora) and ottoman (Otto) were lovingly mosaicked with china broken during the Christchurch earthquakes and donated by the people of Christchurch. The broken china was collected by a team of volunteers working under the name Crack’d for Christchurch. The huge job of mosaicking these pieces took over a year and included collecting china, breaking it up into smaller pieces, sorting by colour, pattern and thickness and creating the designs to work from before the actual mosaicking could begin. Once completed, Flora and Otto was gifted back to the city as a celebration of our lost history and treasured memories.  “We wanted something domestic and familiar, something a bit traditional, to suit the china, and to please the people who had donated it. But it also needed to be an exquisite work of art, to do justice to the china.” – Jenny Cooper, Crack’d for Christchurch.",
+        "Artname": "Flora and Otto",
+        "Address": "Murry Aynsley Lawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62303237481817,
+          -43.532671485450535
+        ]
+      }
     }
   ]
 }
