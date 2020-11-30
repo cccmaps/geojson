@@ -765,7 +765,9 @@
         "ParkReserve": "Purau Reserve",
         "Contact": "Dean.bronwyn@xtra.co.nz",
         "Organiser": "Friends of Purau Reserve",
-        "ExternalURL": ""
+        "ExternalURL": "",
+        "PhotoURL": null,
+        "Linktext": ""
       },
       "geometry": {
         "type": "Point",
@@ -782,7 +784,9 @@
         "ParkReserve": "Giant's Nose Reserve ",
         "Contact": "4ngarakau@gmail.com",
         "Organiser": "Ngā Rākau ō Onepoto",
-        "ExternalURL": ""
+        "ExternalURL": "",
+        "PhotoURL": null,
+        "Linktext": ""
       },
       "geometry": {
         "type": "Point",
