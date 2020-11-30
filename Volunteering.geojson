@@ -769,7 +769,7 @@
         "Contact": "Dean.bronwyn@xtra.co.nz",
         "Organiser": "Friends of Purau Reserve",
         "ExternalURL": "",
-        "PhotoURL": null,
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/nga-rakau-o-onepoto-250.JPG",
         "Linktext": ""
       },
       "geometry": {
@@ -788,7 +788,8 @@
         "Contact": "4ngarakau@gmail.com",
         "Organiser": "Ngā Rākau ō Onepoto",
         "ExternalURL": "",
-        "Linktext": ""
+        "Linktext": "",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/nga-rakau-o-onepoto-250.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -806,7 +807,8 @@
         "Contact": "Heidi.Wilton@ccc.govt.nz",
         "Organiser": "Vanderbilt Reserve Wardens",
         "ExternalURL": "",
-        "Linktext": ""
+        "Linktext": "",
+        "PhotoURL": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/CTNZ-Styx-Mill-250.jpg"
       },
       "geometry": {
         "type": "Point",
