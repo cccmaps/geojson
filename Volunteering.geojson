@@ -743,19 +743,22 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "Activities": "Predator trapping using DOC200s",
-        "ParkReserve": "Brooklands Lagoon/ Seafield Park",
-        "Contact": "alice.waterhouse@ccc.govt.nz",
-        "Organiser": "Spencerville Predator Control Group",
-        "ExternalURL": ""
-      },
+      "id": 99,
       "geometry": {
         "type": "Point",
         "coordinates": [
           172.705866,
           -43.429755
         ]
+      },
+      "properties": {
+        "Activities": "Predator trapping using DOC200s",
+        "ParkReserve": "Brooklands Lagoon/ Seafield Park",
+        "Contact": "alice.waterhouse@ccc.govt.nz",
+        "Organiser": "Spencerville Predator Control Group",
+        "ExternalURL": "",
+        "PhotoURL": null,
+        "Linktext": ""
       }
     },
     {
@@ -785,7 +788,6 @@
         "Contact": "4ngarakau@gmail.com",
         "Organiser": "Ngā Rākau ō Onepoto",
         "ExternalURL": "",
-        "PhotoURL": null,
         "Linktext": ""
       },
       "geometry": {
@@ -802,7 +804,9 @@
         "Activities": "Garden beds, maintenance, pest control",
         "ParkReserve": "Vanderbilt Reserve",
         "Contact": "Heidi.Wilton@ccc.govt.nz",
-        "Organiser": "Vanderbilt Reserve Wardens"
+        "Organiser": "Vanderbilt Reserve Wardens",
+        "ExternalURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "type": "Point",
