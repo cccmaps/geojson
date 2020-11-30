@@ -812,7 +812,8 @@
         "ParkReserve": "Styx Mill Conservation Reserve & Radcliffe Rd",
         "Contact": "admin@nzconservationtrust.org.nz",
         "Organiser": "Conservation Trust, New Zealand",
-        "ExternalURL": "https://www.nzconservationtrust.org.nz/styx-mill-reserve/"
+        "ExternalURL": "https://www.nzconservationtrust.org.nz/styx-mill-reserve/",
+        "Linktext": "Find out more about this volunteering opportunity"
       },
       "geometry": {
         "type": "Point",
