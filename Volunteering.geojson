@@ -757,7 +757,7 @@
         "Contact": "alice.waterhouse@ccc.govt.nz",
         "Organiser": "Spencerville Predator Control Group",
         "ExternalURL": "",
-        "PhotoURL": null,
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Plains-and-Wetlands/CCC-Parks-Brooklands-Lagoon-11-v2.jpg",
         "Linktext": ""
       }
     },
@@ -824,7 +824,8 @@
         "Contact": "admin@nzconservationtrust.org.nz",
         "Organiser": "Conservation Trust, New Zealand",
         "ExternalURL": "https://www.nzconservationtrust.org.nz/styx-mill-reserve/",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Explore-Parks/Plains-and-Wetlands/Radcliffe-Park48.jpg"
       },
       "geometry": {
         "type": "Point",
