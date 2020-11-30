@@ -607,11 +607,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Name": "Pigeon Bay Camping Ground ",
         "Type": "Campground",
         "Address": "Wharf Road, Pigeon Bay",
-        "Phone": "",
-        "Website": "",
+        "Phone": "027 523 4723",
+        "Website": "https://pigeonbaycampingground.business.site/",
         "Facilities": "Suitable for any vehicle type and more",
         "Campground": "Yes",
         "Dumpstation": "",
