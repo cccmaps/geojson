@@ -740,6 +740,87 @@
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/roanga-gardens.jpg",
         "Linktext": ""
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activities": "Predator trapping using DOC200s",
+        "ParkReserve": "Brooklands Lagoon/ Seafield Park",
+        "Contact": "alice.waterhouse@ccc.govt.nz",
+        "Organiser": "Spencerville Predator Control Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.705866,
+          -43.429755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activities": "Track work, weeding, planting, restoration",
+        "ParkReserve": "Purau Reserve",
+        "Contact": "Dean.bronwyn@xtra.co.nz",
+        "Organiser": "Friends of Purau Reserve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.631112,
+          -43.568111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activities": "Planting, maintenance, pest control",
+        "ParkReserve": "Giant's Nose Reserve ",
+        "Contact": "4ngarakau@gmail.com",
+        "Organiser": "Ngā Rākau ō Onepoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.777153,
+          -43.579069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activities": "Garden beds, maintenance, pest control",
+        "ParkReserve": "Vanderbilt Reserve",
+        "Contact": "Heidi.Wilton@ccc.govt.nz",
+        "Organiser": "Vanderbilt Reserve Wardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.552586,
+          -43.573199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
+        "ParkReserve": "Styx Mill Conservation Reserve & Radcliffe Rd",
+        "Contact": "admin@nzconservationtrust.org.nz",
+        "Organiser": "Conservation Trust, New Zealand",
+        "ExternalURL": "https://www.nzconservationtrust.org.nz/styx-mill-reserve/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60906441002695,
+          -43.46483014871919
+        ]
+      }
     }
   ]
 }
