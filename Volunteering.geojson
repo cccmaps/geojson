@@ -747,7 +747,8 @@
         "Activities": "Predator trapping using DOC200s",
         "ParkReserve": "Brooklands Lagoon/ Seafield Park",
         "Contact": "alice.waterhouse@ccc.govt.nz",
-        "Organiser": "Spencerville Predator Control Group"
+        "Organiser": "Spencerville Predator Control Group",
+        "ExternalURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -763,7 +764,8 @@
         "Activities": "Track work, weeding, planting, restoration",
         "ParkReserve": "Purau Reserve",
         "Contact": "Dean.bronwyn@xtra.co.nz",
-        "Organiser": "Friends of Purau Reserve"
+        "Organiser": "Friends of Purau Reserve",
+        "ExternalURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -779,7 +781,8 @@
         "Activities": "Planting, maintenance, pest control",
         "ParkReserve": "Giant's Nose Reserve ",
         "Contact": "4ngarakau@gmail.com",
-        "Organiser": "Ngā Rākau ō Onepoto"
+        "Organiser": "Ngā Rākau ō Onepoto",
+        "ExternalURL": ""
       },
       "geometry": {
         "type": "Point",
