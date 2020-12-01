@@ -178,7 +178,7 @@
       "properties": {
         "streetaddress": "67 Cashel Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -541,7 +541,7 @@
       "properties": {
         "streetaddress": "139 Gloucester Arcade",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -1157,7 +1157,7 @@
       "properties": {
         "streetaddress": "856 Colombo Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -1337,7 +1337,7 @@
       "properties": {
         "streetaddress": "142 Tuam Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -1639,7 +1639,7 @@
       "properties": {
         "streetaddress": "35 Gracefield Avenue ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -1998,7 +1998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "183 Victoria Street",
+        "streetaddress": "183 Victoria Street Merivale Christchurch Canterbury 8013 NZ",
         "site_use": "Anything else",
         "temporary_use_description": "Other",
         "temporary_use": "1",
@@ -2461,7 +2461,7 @@
       "properties": {
         "streetaddress": "618 Colombo Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -2580,7 +2580,7 @@
       "properties": {
         "streetaddress": "51 Cathedral Square",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -2737,7 +2737,7 @@
       "properties": {
         "streetaddress": "28 Aberdeen Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -3378,7 +3378,7 @@
       "properties": {
         "streetaddress": "149 Hereford Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -3565,7 +3565,7 @@
       "properties": {
         "streetaddress": "185 Gloucester Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -3961,7 +3961,7 @@
       "properties": {
         "streetaddress": "70 Kilmore Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -5086,7 +5086,7 @@
       "properties": {
         "streetaddress": "614 Colombo Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -8396,7 +8396,7 @@
       "properties": {
         "streetaddress": "227 Cambridge Terrace ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -8445,7 +8445,7 @@
       "properties": {
         "streetaddress": "233 Cambridge Terrace ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -8595,7 +8595,7 @@
       "properties": {
         "streetaddress": "242 Manchester Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -9248,7 +9248,7 @@
       "properties": {
         "streetaddress": "33 Worcester Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -9322,7 +9322,7 @@
       "properties": {
         "streetaddress": "209 High Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -13729,7 +13729,7 @@
       "properties": {
         "streetaddress": "662 Colombo Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -15290,7 +15290,7 @@
       "properties": {
         "streetaddress": "63 Armagh Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -15351,7 +15351,7 @@
       "properties": {
         "streetaddress": "735 Colombo Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -16294,7 +16294,7 @@
       "properties": {
         "streetaddress": "121 Gloucester Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -16339,7 +16339,7 @@
       "properties": {
         "streetaddress": "108 Cashel Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -16669,7 +16669,7 @@
       "properties": {
         "streetaddress": "333 Manchester Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -16706,7 +16706,7 @@
       "properties": {
         "streetaddress": "315 Manchester Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -16743,7 +16743,7 @@
       "properties": {
         "streetaddress": "195 Fitzgerald Avenue  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -17516,7 +17516,7 @@
       "properties": {
         "streetaddress": "25 Hereford Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -18231,7 +18231,7 @@
       "properties": {
         "streetaddress": "15 Latimer Square  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -18300,7 +18300,7 @@
       "properties": {
         "streetaddress": "106 Victoria Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -19708,7 +19708,7 @@
       "properties": {
         "streetaddress": "176 Lichfield Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -19895,7 +19895,7 @@
       "properties": {
         "streetaddress": "190 Lichfield Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -20046,7 +20046,7 @@
       "properties": {
         "streetaddress": "188 Hereford Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -20140,7 +20140,7 @@
       "properties": {
         "streetaddress": "212 Cashel Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -20290,7 +20290,7 @@
       "properties": {
         "streetaddress": "281 Madras Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -20773,7 +20773,7 @@
       "properties": {
         "streetaddress": "175 Moorhouse Avenue  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -22560,7 +22560,7 @@
       "properties": {
         "streetaddress": "246 Gloucester Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -23125,7 +23125,7 @@
       "properties": {
         "streetaddress": "46 Hereford Street ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -23469,7 +23469,7 @@
       "properties": {
         "streetaddress": "10 Bedford Row  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -24754,7 +24754,7 @@
       "properties": {
         "streetaddress": "12 Oxford Terrace  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -25216,7 +25216,7 @@
       "properties": {
         "streetaddress": "794 Colombo Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -25294,7 +25294,7 @@
       "properties": {
         "streetaddress": "550 Hagley Avenue",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -25636,7 +25636,7 @@
       "properties": {
         "streetaddress": "175 Tuam Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -25729,7 +25729,7 @@
       "properties": {
         "streetaddress": "200 Armagh Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -26270,7 +26270,7 @@
       "properties": {
         "streetaddress": "205 Gloucester Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -26403,7 +26403,7 @@
       "properties": {
         "streetaddress": "436 Oxford Terrace",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -26848,7 +26848,7 @@
       "properties": {
         "streetaddress": "132 Worcester Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -26937,7 +26937,7 @@
       "properties": {
         "streetaddress": "185 Gloucester Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -27107,7 +27107,7 @@
       "properties": {
         "streetaddress": "392 Oxford Terrace",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -28151,7 +28151,7 @@
       "properties": {
         "streetaddress": "191 Fitzgerald Avenue",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -28586,7 +28586,7 @@
       "properties": {
         "streetaddress": "152 Peterborough Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -28851,7 +28851,7 @@
       "properties": {
         "streetaddress": "183 Durham Street South",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -29444,7 +29444,7 @@
       "properties": {
         "streetaddress": "736 Colombo Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -29612,7 +29612,7 @@
       "properties": {
         "streetaddress": "664 Colombo Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -29694,7 +29694,7 @@
       "properties": {
         "streetaddress": "202 High Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -29771,7 +29771,7 @@
       "properties": {
         "streetaddress": "198 High Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -31098,7 +31098,7 @@
       "properties": {
         "streetaddress": "156 Peterborough Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -31482,7 +31482,7 @@
       "properties": {
         "streetaddress": "93 Cashel Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -31792,7 +31792,7 @@
       "properties": {
         "streetaddress": "160 Tuam Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -32629,7 +32629,7 @@
       "properties": {
         "streetaddress": "738 Colombo Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Recreational open space",
+        "temporary_use_description": "Open space",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -32779,7 +32779,7 @@
       "properties": {
         "streetaddress": "129 Gloucester Street  ",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -34433,7 +34433,7 @@
       "properties": {
         "streetaddress": "13 Cathedral Square",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -35416,7 +35416,7 @@
       "properties": {
         "streetaddress": "327 Manchester Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -35600,7 +35600,7 @@
       "properties": {
         "streetaddress": "234 Barbadoes Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -35907,7 +35907,7 @@
       "properties": {
         "streetaddress": "61 Armagh Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Construction site facilitiesOffice",
+        "temporary_use_description": "Construction site",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
@@ -37598,7 +37598,7 @@
       "properties": {
         "streetaddress": "158 Peterborough Street",
         "site_use": "Anything else",
-        "temporary_use_description": "Temporarytransportable  commercial activity",
+        "temporary_use_description": "General use",
         "temporary_use": "1",
         "district_plan_activity_detail": null
       },
