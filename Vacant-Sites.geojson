@@ -1998,7 +1998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "183 Victoria Street Merivale Christchurch Canterbury 8013 NZ",
+        "streetaddress": "183 Victoria Street",
         "site_use": "Anything else",
         "temporary_use_description": "Other",
         "temporary_use": "1",
