@@ -1155,7 +1155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "856 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "856 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Temporarytransportable  commercial activity",
         "temporary_use": "1",
@@ -1372,7 +1372,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "875 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "875 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -1421,7 +1421,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "900 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "900 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -1458,7 +1458,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "416 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "416 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -1559,7 +1559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "410 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "410 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -1600,7 +1600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "39 Gracefield Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "39 Gracefield Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -1637,7 +1637,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "35 Gracefield Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "35 Gracefield Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": "Construction site facilitiesOffice",
         "temporary_use": "1",
@@ -1674,7 +1674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "95 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "95 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -1711,7 +1711,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "28 Gracefield Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "28 Gracefield Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -1756,7 +1756,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "383 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "383 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -1793,7 +1793,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "406 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "406 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -1834,7 +1834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "32 Beveridge Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "32 Beveridge Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -1875,7 +1875,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "423 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "423 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -1912,7 +1912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "453 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "453 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -1953,7 +1953,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "80 Bealey Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "80 Bealey Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2067,7 +2067,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "28 Dorset Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "28 Dorset Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2108,7 +2108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "135 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "135 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2153,7 +2153,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "128 Park Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "128 Park Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2230,7 +2230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "17 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "17 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -2267,7 +2267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "112 Park Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "112 Park Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -2336,7 +2336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "5 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "5 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -2422,7 +2422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "12 Dublin Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "12 Dublin Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -2496,7 +2496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "113 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "113 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2533,7 +2533,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "384 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "384 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2735,7 +2735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "28 Aberdeen Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "28 Aberdeen Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -2796,7 +2796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "180 Bealey Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "180 Bealey Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -2833,7 +2833,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "7 Moa Place Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "7 Moa Place ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2882,7 +2882,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "5 Moa Place Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "5 Moa Place ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2919,7 +2919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "390 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "390 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -2997,7 +2997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "370 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "370 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -3038,7 +3038,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "357 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "357 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -3127,7 +3127,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "354 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "354 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -3164,7 +3164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "357 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "357 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -3225,7 +3225,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "201 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "201 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -3959,7 +3959,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "70 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "70 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -4104,7 +4104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "2 Armagh Court Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "2 Armagh Court ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -4141,7 +4141,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "3 Armagh Court Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "3 Armagh Court ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -4178,7 +4178,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "56 Armagh Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "56 Armagh Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -4227,7 +4227,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "330 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "330 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -4272,7 +4272,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "58 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "58 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -4317,7 +4317,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "55 Chester Street W Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "55 Chester Street W ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -4370,7 +4370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "335 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "335 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -4407,7 +4407,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "31 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "31 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -6384,7 +6384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "135 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "135 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -6425,7 +6425,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "129 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "129 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -6462,7 +6462,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "798 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "798 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -6499,7 +6499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "783 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "783 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -6552,7 +6552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "119 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "119 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -6637,7 +6637,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "71 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "71 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -6678,7 +6678,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "110 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "110 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -6727,7 +6727,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "807 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "807 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -7539,7 +7539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "274 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "274 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -7653,7 +7653,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "175 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "175 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -7831,7 +7831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "214 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "214 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -7876,7 +7876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "334 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "334 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -7953,7 +7953,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "327 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "327 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -8051,7 +8051,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "336 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "336 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -8128,7 +8128,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "818 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "818 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8177,7 +8177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "155 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "155 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8218,7 +8218,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "159 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "159 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -8259,7 +8259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "146 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "146 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8304,7 +8304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "321 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "321 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8341,7 +8341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "808 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "808 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8394,7 +8394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "227 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "227 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -8443,7 +8443,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "233 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "233 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -8593,7 +8593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "242 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "242 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -8662,7 +8662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "263 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "263 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8711,7 +8711,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "267 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "267 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -8760,7 +8760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "29 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "29 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8797,7 +8797,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "203 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "203 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -8838,7 +8838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "56 Worcester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "56 Worcester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -8879,7 +8879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "9 Cranmer Square Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "9 Cranmer Square ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -8920,7 +8920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "172 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "172 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -8961,7 +8961,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "175 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "175 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -9070,7 +9070,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "273 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "273 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -9152,7 +9152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "26 Cashel Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "26 Cashel Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -9246,7 +9246,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "33 Worcester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "33 Worcester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Temporarytransportable  commercial activity",
         "temporary_use": "1",
@@ -9357,7 +9357,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "131 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "131 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -9495,7 +9495,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "9 Gloucester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "9 Gloucester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -9532,7 +9532,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "21 Gloucester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "21 Gloucester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -9643,7 +9643,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "5A Cranmer Square Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "5A Cranmer Square ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -9737,7 +9737,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "62 Park Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "62 Park Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -9831,7 +9831,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "87 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "87 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -9880,7 +9880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "19A Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "19A Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -9949,7 +9949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "52 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "52 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10002,7 +10002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "52 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "52 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10185,7 +10185,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "60 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "60 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -10222,7 +10222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "54 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "54 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10267,7 +10267,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "50 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "50 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10308,7 +10308,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "373 Durham Street N Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "373 Durham Street N ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10353,7 +10353,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "72 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "72 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -10426,7 +10426,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "86 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "86 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -10475,7 +10475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "118 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "118 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -10516,7 +10516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "143 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "143 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -10557,7 +10557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "353 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "353 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -10626,7 +10626,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "280 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "280 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -10679,7 +10679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "173 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "173 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -10788,7 +10788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "179 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "179 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -10897,7 +10897,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "181 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "181 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -11006,7 +11006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "183 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "183 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -11115,7 +11115,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "194B Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "194B Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -12794,7 +12794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "164 Bealey Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "164 Bealey Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -13772,7 +13772,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "451 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "451 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -13874,7 +13874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "300 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "300 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -14297,7 +14297,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "400 Barbadoes Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "400 Barbadoes Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -14398,7 +14398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "25D Churchill Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "25D Churchill Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -14560,7 +14560,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "11 Churchill Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "11 Churchill Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -14597,7 +14597,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "14 Churchill Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "14 Churchill Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -15053,7 +15053,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "38 Gracefield Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "38 Gracefield Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -15288,7 +15288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "63 Armagh Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "63 Armagh Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Construction site facilitiesOffice",
         "temporary_use": "1",
@@ -16520,7 +16520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "36A Cashel Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "36A Cashel Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -16561,7 +16561,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "52 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "52 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -16606,7 +16606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "61 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "61 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -16667,7 +16667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "333 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "333 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Temporarytransportable  commercial activity",
         "temporary_use": "1",
@@ -16704,7 +16704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "315 Manchester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "315 Manchester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -16880,7 +16880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "281 Fitzgerald Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "281 Fitzgerald Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -16929,7 +16929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "99 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "99 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -17183,7 +17183,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "904 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "904 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17220,7 +17220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "902 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "902 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17289,7 +17289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "896 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "896 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17346,7 +17346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "194 Bealey Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "194 Bealey Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17420,7 +17420,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "33 Gloucester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "33 Gloucester Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -17477,7 +17477,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "157 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "157 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17514,7 +17514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "25 Hereford Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "25 Hereford Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Construction site facilitiesOffice",
         "temporary_use": "1",
@@ -17684,7 +17684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "25A Cashel Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "25A Cashel Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -17721,7 +17721,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "127 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "127 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -17909,7 +17909,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "78 Gloucester Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "78 Gloucester Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -17950,7 +17950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "320 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "320 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -18298,7 +18298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "106 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "106 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -18335,7 +18335,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "10A Churchill Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "10A Churchill Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -20828,7 +20828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "52 Rolleston Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "52 Rolleston Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -20922,7 +20922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "108 Park Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "108 Park Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": null,
@@ -21395,7 +21395,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "66 Chester Street W Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "66 Chester Street W ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -21472,7 +21472,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "35 Chester Street W Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "35 Chester Street W ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -21716,7 +21716,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "55 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "55 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -21940,7 +21940,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "59 Armagh Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "59 Armagh Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -21981,7 +21981,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "38 Cashel Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "38 Cashel Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -22075,7 +22075,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "20 Dorset Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "20 Dorset Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -22112,7 +22112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "854 Colombo Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "854 Colombo Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -22157,7 +22157,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "54 Chester Street W Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "54 Chester Street W ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -22194,7 +22194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "197 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "197 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -22239,7 +22239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "130 Peterborough Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "130 Peterborough Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -22521,7 +22521,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "96 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "96 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -23086,7 +23086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "240 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "240 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -23123,7 +23123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "46 Hereford Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "46 Hereford Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Recreational open space",
         "temporary_use": "1",
@@ -23220,7 +23220,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "44 Montreal Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "44 Montreal Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -23593,7 +23593,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "343 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "343 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": "Storage of a building",
         "temporary_use": "1",
@@ -23910,7 +23910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "11 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "11 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24184,7 +24184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "118 Victoria Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "118 Victoria Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24229,7 +24229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "7 Knox Lane Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "7 Knox Lane ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24282,7 +24282,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "40 Bealey Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "40 Bealey Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24376,7 +24376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "17 Kilmore Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "17 Kilmore Street ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -24568,7 +24568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "237 Cambridge Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "237 Cambridge Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24613,7 +24613,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "318 Madras Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "318 Madras Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -24879,7 +24879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "6 Cranmer Square Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "6 Cranmer Square ",
         "site_use": "Anything else",
         "temporary_use_description": "Parking",
         "temporary_use": "1",
@@ -24957,7 +24957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "76 Park Terrace Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "76 Park Terrace ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -25088,7 +25088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "41 Gracefield Avenue Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "41 Gracefield Avenue ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
@@ -25125,7 +25125,7 @@
     {
       "type": "Feature",
       "properties": {
-        "streetaddress": "109 Salisbury Street Christchurch Christchurch Canterbury 8013 NZ",
+        "streetaddress": "109 Salisbury Street ",
         "site_use": "Anything else",
         "temporary_use_description": null,
         "temporary_use": "0",
