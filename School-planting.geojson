@@ -61,7 +61,7 @@
       "properties": {
         "Park": "Te Oranga Waikura",
         "Connected schools": "Te Waka Una",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/ba025b174d/TEORANGAWAIKURA-resize.jpg?vid=2"
       }
     },
@@ -77,7 +77,7 @@
       "properties": {
         "Park": "Coastal Walkway",
         "Connected schools": "Redcliffs School",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/af52cbb246/redcliffs-resize.jpg?vid=2"
       }
     },
@@ -93,7 +93,7 @@
       "properties": {
         "Park": "Settlers Crescent",
         "Connected schools": "Ferrymead Preschool",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/3f6cccbf02/SETTLERS-FERRYMEAD-resize.jpg?vid=2"
       }
     },
@@ -125,7 +125,7 @@
       "properties": {
         "Park": "Rutland Reserve",
         "Connected schools": "Playground, small animal enclosure, paddling pool, walking tracks, nearby beach, toilets, trees, wide spaces, vollyball court, tennis court, basketball court, sandpit, mini golf",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/8fb5be00c8/RUTLAND-resize.jpg?vid=2"
       }
     },
@@ -141,7 +141,7 @@
       "properties": {
         "Park": "South New Brighton",
         "Connected schools": "South New Brighton School",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/01a743f094/SOUTHBRIGHTON-resize.jpg?vid=2"
       }
     },
@@ -157,7 +157,7 @@
       "properties": {
         "Park": "Rawhiti Domain",
         "Connected schools": "Rawhiti School",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/a22072d42a/RAWHITI1-resize.jpg?vid=2"
       }
     },
@@ -165,7 +165,7 @@
       "type": "Feature",
       "properties": {
         "Park": "Jellie Park",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Connected schools": "Burnside High School",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/c45f425633/Jellie-parkBHSEnviromental-group-resize.png?vid=2"
       },
@@ -182,7 +182,8 @@
       "properties": {
         "Park": "Styx River",
         "Connected schools": "Ouruia School",
-        "Image": ""
+        "Image": "",
+        "Associated community groups": " "
       },
       "geometry": {
         "type": "Point",
@@ -197,7 +198,7 @@
       "properties": {
         "Park": "Templeton Esplanade",
         "Connected schools": "Aidenfield Kindergarten",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/4c73dd4238/Aidenfield-resize.jpg?vid=2"
       },
       "geometry": {
@@ -213,7 +214,7 @@
       "properties": {
         "Park": "Birdsey Reserve",
         "Connected schools": "Heathcote Valley Primary School",
-        "Associated community groups": "",
+        "Associated community groups": " ",
         "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/747874123b/BIRDSEY-resize.jpg?vid=2"
       },
       "geometry": {
@@ -229,7 +230,8 @@
       "properties": {
         "Park": "Beacon Street Wetland",
         "Connected schools": "St Margaret's College",
-        "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/a541e37dee/beaconwetland-resize.jpg?vid=2"
+        "Image": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/a541e37dee/beaconwetland-resize.jpg?vid=2",
+        "Associated community groups": " "
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +246,7 @@
       "properties": {
         "Park": "Travis Wetland Nature Heritage Park",
         "Connected schools": "Waitakari School",
-        "Associated community groups": ""
+        "Associated community groups": " "
       },
       "geometry": {
         "type": "Point",
@@ -259,7 +261,7 @@
       "properties": {
         "Park": "Halswell Quarry Park",
         "Connected schools": "Middleton Grange",
-        "Associated community groups": ""
+        "Associated community groups": " "
       },
       "geometry": {
         "type": "Point",
