@@ -61,7 +61,7 @@
       "properties": {
         "Park": "Te Oranga Waikura",
         "Connected schools": "Te Waka Una",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/TEORANGAWAIKURA-resize.jpg"
       }
     },
@@ -77,7 +77,7 @@
       "properties": {
         "Park": "Coastal Walkway",
         "Connected schools": "Redcliffs School",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/redcliffs-resize.jpg"
       }
     },
@@ -93,7 +93,7 @@
       "properties": {
         "Park": "Settlers Crescent",
         "Connected schools": "Ferrymead Preschool",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/SETTLERS-FERRYMEAD-resize.jpg"
       }
     },
@@ -124,8 +124,8 @@
       },
       "properties": {
         "Park": "Rutland Reserve",
-        "Connected schools": " ",
-        "Associated community groups": " ",
+        "Connected schools": " n/a",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/RUTLAND-resize.jpg"
       }
     },
@@ -141,7 +141,7 @@
       "properties": {
         "Park": "South New Brighton",
         "Connected schools": "South New Brighton School",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/SOUTHBRIGHTON-resize.jpg"
       }
     },
@@ -157,7 +157,7 @@
       "properties": {
         "Park": "Rawhiti Domain",
         "Connected schools": "Rawhiti School",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/RAWHITI1-resize.jpg"
       }
     },
@@ -165,7 +165,7 @@
       "type": "Feature",
       "properties": {
         "Park": "Jellie Park",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "Connected schools": "Burnside High School",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/Jellie-parkBHSEnviromental-group-resize.png"
       },
@@ -182,7 +182,7 @@
       "properties": {
         "Park": "Styx River",
         "Connected schools": "Ouruia School",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": ""
       },
       "geometry": {
@@ -198,7 +198,7 @@
       "properties": {
         "Park": "Templeton Esplanade",
         "Connected schools": "Aidenfield Kindergarten",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/Aidenfield-resize.jpg"
       },
       "geometry": {
@@ -214,7 +214,7 @@
       "properties": {
         "Park": "Birdsey Reserve",
         "Connected schools": "Heathcote Valley Primary School",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/BIRDSEY-resize.jpg"
       },
       "geometry": {
@@ -230,7 +230,7 @@
       "properties": {
         "Park": "Beacon Street Wetland",
         "Connected schools": "St Margaret's College",
-        "Associated community groups": " ",
+        "Associated community groups": " n/a",
         "ImageURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Volunteer/Schools-volunteering/beaconwetland-resize.jpg"
       },
       "geometry": {
@@ -246,7 +246,7 @@
       "properties": {
         "Park": "Travis Wetland Nature Heritage Park",
         "Connected schools": "Waitakari School",
-        "Associated community groups": " "
+        "Associated community groups": " n/a"
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +261,7 @@
       "properties": {
         "Park": "Halswell Quarry Park",
         "Connected schools": "Middleton Grange",
-        "Associated community groups": " "
+        "Associated community groups": " n/a"
       },
       "geometry": {
         "type": "Point",
