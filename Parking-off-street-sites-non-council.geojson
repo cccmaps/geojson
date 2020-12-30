@@ -747,6 +747,23 @@
           -43.53707523592511
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "12 Acton Street",
+        "Entry": "12 Acton Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 40,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62959085681885,
+          -43.53774395975636
+        ]
+      }
     }
   ]
 }
