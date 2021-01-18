@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Te Onepoto / Taylors Mistake"
+        "Location": "Te Onepoto / Taylors Mistake",
+        "description": "This can be found a short way up the Awaroa/Godley Head Loop Track."
       },
       "geometry": {
         "type": "Point",
@@ -17,20 +18,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "New Brighton pier (south)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.731586,
-          -43.50676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Location": "New Brighton pier (north)"
+        "Location": "New Brighton pier",
+        "description": "Two points can be found on either side of the New Brighton Pier looking along the beach both North and South."
       },
       "geometry": {
         "type": "Point",
