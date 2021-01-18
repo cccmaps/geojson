@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Te Onepoto / Taylors Mistake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.779614,
+          -43.584467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton pier (south)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731586,
+          -43.50676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "New Brighton pier (north)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.731591,
+          -43.506718
+        ]
+      }
+    }
+  ]
+}
