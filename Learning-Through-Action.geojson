@@ -882,6 +882,42 @@
           -43.447879531435056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junior Park Explorers",
+        "site": "Mona Vale",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6078963279724,
+          -43.523114696888484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site": "Mona Vale",
+        "category": "Biodiversity",
+        "name": "Park Detectives",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6092267036438,
+          -43.523877077452376
+        ]
+      }
     }
   ]
 }
