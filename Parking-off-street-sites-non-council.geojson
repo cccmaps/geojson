@@ -764,6 +764,24 @@
           -43.53774395975636
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "4 Riccarton Ave",
+        "Entry": "Riccarton Ave",
+        "Notes": "",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 52,
+        "Charges": "https://www.wilsonparking.co.nz/park/3328_Wipapa-Christchurch-Hospital-Short-Term-Park_4-Riccarton-Avenue-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.623431,
+          -43.5338
+        ]
+      }
     }
   ]
 }
