@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 5,
-        "Address": "662 Colombo Street"
+        "Address": "662 Colombo Street",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -19,9 +20,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 10,
-        "Address": "110 Cashel Street"
+        "Address": "110 Cashel Street",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -34,9 +36,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 10,
-        "Address": "70 Kilmore Street"
+        "Address": "70 Kilmore Street",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +54,8 @@
       "properties": {
         "Address": "192 Cashel Street",
         "Capacity": 10,
-        "Type": "Locky Dock"
+        "Type": "Lockable cycle stand",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -64,9 +68,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 10,
-        "Address": "228 Tuam Street "
+        "Address": "228 Tuam Street ",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +86,8 @@
       "properties": {
         "Address": "301 Montreal Street",
         "Capacity": 5,
-        "Type": "Locky Dock"
+        "Type": "Lockable cycle stand",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -94,9 +100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 10,
-        "Address": "359 Durham Street North"
+        "Address": "359 Durham Street North",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +118,8 @@
       "properties": {
         "Address": "132 Lichfield Street",
         "Capacity": 10,
-        "Type": "Locky Dock"
+        "Type": "Lockable cycle stand",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -124,9 +132,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 10,
-        "Address": "163 High Street"
+        "Address": "163 High Street",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
@@ -139,9 +148,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Locky Dock",
+        "Type": "Lockable cycle stand",
         "Capacity": 5,
-        "Address": "Northlands Mall"
+        "Address": "Northlands Mall",
+        "Provider": "Locky Dock"
       },
       "geometry": {
         "type": "Point",
