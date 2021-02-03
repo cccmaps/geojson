@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 5,
+        "Address": "662 Colombo Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63684776793517,
+          -43.53397211948465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 10,
+        "Address": "110 Cashel Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6356286380812,
+          -43.53305591135117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 10,
+        "Address": "70 Kilmore Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63484072245708,
+          -43.5266249840468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "192 Cashel Street",
+        "Capacity": 10,
+        "Type": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6411519477444,
+          -43.53331268727368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 10,
+        "Address": "228 Tuam Street "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6409176966067,
+          -43.535480034283886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "301 Montreal Street",
+        "Capacity": 5,
+        "Type": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6309016521808,
+          -43.531153356205174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 10,
+        "Address": "359 Durham Street North"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6338496880114,
+          -43.52501271193218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "132 Lichfield Street",
+        "Capacity": 10,
+        "Type": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641697859149,
+          -43.534122507854924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 10,
+        "Address": "163 High Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6419781040178,
+          -43.535575203303196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Locky Dock",
+        "Capacity": 5,
+        "Address": "Northlands Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6080210506916,
+          -43.494139042242395
+        ]
+      }
+    }
+  ]
+}
