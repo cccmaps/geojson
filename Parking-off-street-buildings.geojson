@@ -485,6 +485,23 @@
           -43.53241235915235
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "4 Riccarton Ave",
+        "type": "Mobility off-street parking",
+        "description": "4 Riccarton Ave",
+        "address": "4 Riccarton Ave",
+        "MobilitySpaces": "10 free (P180)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62341290712357,
+          -43.53382992739043
+        ]
+      }
     }
   ]
 }
