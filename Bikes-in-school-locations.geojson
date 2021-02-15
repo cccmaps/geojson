@@ -101,6 +101,20 @@
           -43.47888014005607
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Somerfield School",
+        "Address": "42 Studholme Street, Somerfield, Christchurch, 8024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62866735458374,
+          -43.56137352568041
+        ]
+      }
     }
   ]
 }
