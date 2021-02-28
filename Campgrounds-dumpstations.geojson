@@ -198,27 +198,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Campground",
-        "Name": "219 on Johns Motels & Holiday Park ",
-        "Address": "219 Johns Rd, Belfast, Christchurch 8051",
-        "Phone": "03 323 8640",
-        "Website": "https://219onjohns.co.nz/",
-        "Facilities": "Suitable for any vehicle, dump station, caravan power, credit and EFTPOS",
-        "Campground": "Yes",
-        "campground-price": "",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.605534,
-          -43.45427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Type": "Campground / dump station",
         "Name": "North South Holiday Park ",
         "Address": "530 Sawyers Arms Rd, Harewood, Christchurch 8051",
@@ -278,27 +257,6 @@
         "coordinates": [
           172.582217,
           -43.538256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Campground",
-        "Name": "Christchurch Kiwi Holiday Park & Motels ",
-        "Address": "5 Kidbrooke St, Bromley, Christchurch 8062",
-        "Phone": "03 384 9490",
-        "Website": "http://www.christchurchkiwiholidaypark.co.nz/",
-        "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes",
-        "campground-price": "From $25",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.698099,
-          -43.542391
         ]
       }
     },
