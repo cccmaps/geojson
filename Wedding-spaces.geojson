@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Mill Stream Lawn",
+        "Description": "Surrounded on two sides by water, this peaceful lawn is accessed by a picturesque bridge over the gentle Mill Stream. Daffodils complete this romantic picture in spring.",
+        "Capacity": 100,
+        "Parking": "Mona Vale Avenue",
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mill-Stream-Neil-Macbeth-Mona-Vale-BGS7035.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.6096397638321,
+              -43.523134145492016
+            ],
+            [
+              172.61044442653656,
+              -43.523134145492016
+            ],
+            [
+              172.61044442653656,
+              -43.52270238501833
+            ],
+            [
+              172.6096397638321,
+              -43.52270238501833
+            ],
+            [
+              172.6096397638321,
+              -43.523134145492016
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Lily Pond",
+        "Description": "Lawns framed by graceful maples encircle a large formal water lily pond complete with a romantic fountain. ",
+        "Capacity": 75,
+        "Parking": "Mona Vale Avenue",
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Lily-Pond.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.60783195495605,
+              -43.52379539428136
+            ],
+            [
+              172.60850250720978,
+              -43.52379539428136
+            ],
+            [
+              172.60850250720978,
+              -43.523402535580395
+            ],
+            [
+              172.60783195495605,
+              -43.523402535580395
+            ],
+            [
+              172.60783195495605,
+              -43.52379539428136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Mound Lawn",
+        "Parking": "Mona Vale Avenue",
+        "Capacity": 150,
+        "Description": "A large, open, sunny area at the centre of the gardens, sheltered and surrounded by large trees.",
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mound-Lawn-LJ-IMG-1130.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.60882437229156,
+              -43.52389847064555
+            ],
+            [
+              172.6095137000084,
+              -43.52389847064555
+            ],
+            [
+              172.6095137000084,
+              -43.52353284048259
+            ],
+            [
+              172.60882437229156,
+              -43.52353284048259
+            ],
+            [
+              172.60882437229156,
+              -43.52389847064555
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
