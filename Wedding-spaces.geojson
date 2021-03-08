@@ -8,7 +8,8 @@
         "Description": "Surrounded on two sides by water, this peaceful lawn is accessed by a picturesque bridge over the gentle Mill Stream. Daffodils complete this romantic picture in spring.",
         "Capacity": 100,
         "Parking": "Mona Vale Avenue",
-        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mill-Stream-Neil-Macbeth-Mona-Vale-BGS7035.jpg"
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mill-Stream-Neil-Macbeth-Mona-Vale-BGS7035.jpg",
+        "Park": "Mona Vale"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,7 +46,8 @@
         "Description": "Lawns framed by graceful maples encircle a large formal water lily pond complete with a romantic fountain. ",
         "Capacity": 75,
         "Parking": "Mona Vale Avenue",
-        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Lily-Pond.jpg"
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Lily-Pond.jpg",
+        "Park": "Mona Vale"
       },
       "geometry": {
         "type": "Polygon",
@@ -82,7 +84,8 @@
         "Parking": "Mona Vale Avenue",
         "Capacity": 150,
         "Description": "A large, open, sunny area at the centre of the gardens, sheltered and surrounded by large trees.",
-        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mound-Lawn-LJ-IMG-1130.jpg"
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mound-Lawn-LJ-IMG-1130.jpg",
+        "Park": "Mona Vale"
       },
       "geometry": {
         "type": "Polygon",
