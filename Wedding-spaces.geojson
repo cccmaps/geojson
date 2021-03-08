@@ -7,9 +7,9 @@
         "Location": "Mill Stream Lawn",
         "Description": "Surrounded on two sides by water, this peaceful lawn is accessed by a picturesque bridge over the gentle Mill Stream. Daffodils complete this romantic picture in spring.",
         "Capacity": 100,
-        "Parking": "Mona Vale Avenue",
         "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mill-Stream-Neil-Macbeth-Mona-Vale-BGS7035.jpg",
-        "Park": "Mona Vale"
+        "Park": "Mona Vale",
+        "Address": "Fendalton, Christchurch 8011"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,9 +45,9 @@
         "Location": "Lily Pond",
         "Description": "Lawns framed by graceful maples encircle a large formal water lily pond complete with a romantic fountain. ",
         "Capacity": 75,
-        "Parking": "Mona Vale Avenue",
         "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Lily-Pond.jpg",
-        "Park": "Mona Vale"
+        "Park": "Mona Vale",
+        "Address": "Fendalton, Christchurch 8011"
       },
       "geometry": {
         "type": "Polygon",
@@ -81,11 +81,11 @@
       "type": "Feature",
       "properties": {
         "Location": "Mound Lawn",
-        "Parking": "Mona Vale Avenue",
         "Capacity": 150,
         "Description": "A large, open, sunny area at the centre of the gardens, sheltered and surrounded by large trees.",
         "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/Gardens/Mound-Lawn-LJ-IMG-1130.jpg",
-        "Park": "Mona Vale"
+        "Park": "Mona Vale",
+        "Address": "Fendalton, Christchurch 8011"
       },
       "geometry": {
         "type": "Polygon",
@@ -110,6 +110,157 @@
             [
               172.60882437229156,
               -43.52389847064555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Capacity": 200,
+        "Description": "A park that retains much of its peaceful 19th century character. ",
+        "Park": "Abberley Park",
+        "Location": "East Lawn",
+        "Address": "17 Abberley Crescent, Richmond, Christchurch 8014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.63057708740234,
+              -43.514206577449755
+            ],
+            [
+              172.63124227523804,
+              -43.514206577449755
+            ],
+            [
+              172.63124227523804,
+              -43.51375919179244
+            ],
+            [
+              172.63057708740234,
+              -43.51375919179244
+            ],
+            [
+              172.63057708740234,
+              -43.514206577449755
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "West Lawn",
+        "Capacity": 100,
+        "Description": "A park that retains much of its peaceful 19th century character. ",
+        "Address": "17 Abberley Crescent, Richmond, Christchurch 8014",
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/west-lawn2.jpg",
+        "Park": "Abberley Park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.6293271780014,
+              -43.51419685170986
+            ],
+            [
+              172.6298126578331,
+              -43.51419685170986
+            ],
+            [
+              172.6298126578331,
+              -43.51391091425659
+            ],
+            [
+              172.6293271780014,
+              -43.51391091425659
+            ],
+            [
+              172.6293271780014,
+              -43.51419685170986
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "North Lawn",
+        "Description": "A park that retains much of its peaceful 19th century character. ",
+        "Capacity": 150,
+        "Park": "Abberley Park",
+        "Address": "17 Abberley Crescent, Richmond, Christchurch 8014",
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/north-lawn2.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.62931644916532,
+              -43.513517991192415
+            ],
+            [
+              172.62989580631256,
+              -43.513517991192415
+            ],
+            [
+              172.62989580631256,
+              -43.51315618848482
+            ],
+            [
+              172.62931644916532,
+              -43.51315618848482
+            ],
+            [
+              172.62931644916532,
+              -43.513517991192415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "https://www.ccc.govt.nz/assets/Images/Parks-gardens/scented-garden2.jpg",
+        "Capacity": 75,
+        "Location": "Scented Garden",
+        "Description": "A park that retains much of its peaceful 19th century character. ",
+        "Park": "Abberley Park",
+        "Address": "17 Abberley Crescent, Richmond, Christchurch 8014"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              172.6299950480461,
+              -43.51428632845775
+            ],
+            [
+              172.6304268836975,
+              -43.51428632845775
+            ],
+            [
+              172.6304268836975,
+              -43.51399261081006
+            ],
+            [
+              172.6299950480461,
+              -43.51399261081006
+            ],
+            [
+              172.6299950480461,
+              -43.51428632845775
             ]
           ]
         ]
