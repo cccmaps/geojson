@@ -1059,7 +1059,7 @@
       "properties": {
         "Type": "Picnic",
         "geometry": "Point",
-        "Park": "The Groynes picnic area 3b",
+        "Park": "The Groynes picnic area 1b",
         "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
         "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
         "Address": "Groynes Drive, Northwood",
@@ -1078,7 +1078,7 @@
       "properties": {
         "Type": "Picnic",
         "geometry": "Point",
-        "Park": "The Groynes picnic area 3a",
+        "Park": "The Groynes picnic area 1a",
         "Park features": "Playgrounds, river, fishing lakes, walking tracks, dog park, orienteering courses, toilets, trees and open spaces",
         "Bookable picnic areas": "Holds 150 people, located near multiple fixed BBQs",
         "Address": "Groynes Drive, Northwood",
