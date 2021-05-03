@@ -246,7 +246,7 @@
         ]
       },
       "properties": {
-        "name": "Innovation car",
+        "name": "Innovation car park",
         "type": "Other off-street parking building",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
@@ -386,7 +386,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Innovation car ",
+        "name": "Innovation car park",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8,
