@@ -12,7 +12,6 @@
       },
       "properties": {
         "name": "Botanic Gardens car park",
-        "description": "Botanic Gardens car park",
         "type": "Mobility off-street parking",
         "address": "Enter from Armagh Street",
         "spaces": "",
@@ -41,7 +40,6 @@
       },
       "properties": {
         "name": "Hospital grounds",
-        "description": "Hospital grounds in front of hospital.",
         "type": "Mobility off-street parking",
         "address": "Christchurch Hospital",
         "spaces": "",
@@ -70,7 +68,6 @@
       },
       "properties": {
         "name": "Botanic Gardens car park",
-        "description": "Botanic Gardens car park",
         "type": "Council off-street parking site",
         "address": "Enter from Armagh Street",
         "spaces": "272 (Mon to Sun) and 12 staff spaces which can be used weekends.",
@@ -100,7 +97,6 @@
       },
       "properties": {
         "name": "Art Gallery car park building",
-        "description": "Art Gallery car park building",
         "type": "Council off-street parking building",
         "address": "49 Gloucester St, Cnr Montreal & Gloucester St's",
         "spaces": 108,
@@ -115,7 +111,7 @@
         "monthly": "N/A",
         "Access": "Gloucester Street",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free",
+        "Promotion": "",
         "MobilitySpaces": "5 (no mobility concessions)",
         "Multi-level-building": "Yes"
       }
@@ -130,11 +126,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Art Gallery car park building",
-        "description": "Art Gallery car park building",
         "type": "Mobility off-street parking",
         "address": "49 Gloucester St, Cnr Montreal & Gloucester St's",
         "spaces": "",
@@ -149,7 +141,7 @@
         "monthly": "",
         "Access": "Gloucester Street",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free",
+        "Promotion": "",
         "MobilitySpaces": "5 (no mobility concessions)",
         "Multi-level-building": "Yes"
       }
@@ -166,7 +158,6 @@
       "properties": {
         "name": "Hereford St car park building",
         "type": "Other off-street parking building",
-        "description": "Hereford St car park building",
         "spaces": "570 (300 reserved)",
         "hourlyrate": "<a title=\"Wilson Parking info\" href=\"https://www.wilsonparking.co.nz/park/3082_-The-Hereford-Street-Carpark_158-Hereford-Street\">Wilson Parking info</a>",
         "address": "158 Hereford Street",
@@ -179,10 +170,9 @@
         "p180": "",
         "PleaseNote": "",
         "HoursOfOperation": "",
-        "Provider": "Wilson Parking",
+        "Provider": "Wilsons",
         "Promotion": "",
         "MobilitySpaces": 16,
-        "oid": 1368,
         "Multi-level-building": "Yes"
       }
     },
@@ -196,11 +186,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "West End car park building",
-        "description": "West End car park building",
         "type": "Other off-street parking building",
         "address": "48 Hereford Street, between Montreal Street and Cambridge Tce",
         "spaces": "680 (20 electric vehicle spaces)",
@@ -214,10 +200,9 @@
         "p180": "",
         "PleaseNote": "",
         "HoursOfOperation": "",
-        "Provider": "Wilson Parking",
+        "Provider": "Wilsons",
         "Promotion": "",
         "MobilitySpaces": 14,
-        "oid": 1367,
         "Multi-level-building": "Yes"
       }
     },
@@ -231,13 +216,9 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "type": "Other off-street parking building",
         "address": "71 Lichfield Street",
         "name": "The Crossing car park building",
-        "description": "The Crossing car park building",
         "spaces": "672 (18 electric vehicle spaces)",
         "hourlyrate": "<a title=\"The Crossing car park info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
         "alldayrate": "<a title=\"The Crossing car park info\" href=\"https://www.thecrossing.co.nz/information/hours-carpark\">The Crossing Parking info</a>",
@@ -249,10 +230,9 @@
         "p180": "",
         "PleaseNote": "",
         "HoursOfOperation": "",
-        "Provider": "Wilson Parking",
+        "Provider": "Wilsons",
         "Promotion": "",
         "MobilitySpaces": 13,
-        "oid": 1361,
         "Multi-level-building": "Yes"
       }
     },
@@ -266,8 +246,7 @@
         ]
       },
       "properties": {
-        "name": "SALT District car park building",
-        "description": "SALT District car park building",
+        "name": "Innovation car",
         "type": "Other off-street parking building",
         "spaces": 350,
         "address": "Corner of Lichfield Street and Madras Street",
@@ -281,10 +260,9 @@
         "HoursOfOperation": "",
         "nightrate": "",
         "monthly": "",
-        "Provider": "Laneways",
+        "Provider": "Innovation car park",
         "Promotion": "",
         "MobilitySpaces": 8,
-        "oid": "",
         "Multi-level-building": "Yes"
       }
     },
@@ -298,11 +276,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Lichfield Street car park building",
-        "description": "Lichfield Street car park building",
         "type": "Council off-street parking building",
         "spaces": "805 (81 free motorcycle parks - no ticket required)",
         "address": "33 Lichfield Street",
@@ -310,16 +284,15 @@
         "alldayrate": "$15 from 1 July 2019 (max 24hr period. Applies to a single stay)",
         "timelimit": "N/A",
         "Access": "Lichfield Street",
-        "PleaseNote": "Lost ticket charge of $15 (24hr period, from 1 July 2019). Height restriction 2.4m. 96 free cycle spaces. 10 electric vehicle spaces.",
+        "PleaseNote": "Lost ticket charge of $15 (24hr period). Height restriction 2.4m. 96 free cycle spaces. 10 electric vehicle spaces.",
         "metered": "Yes",
         "p180": "N/A",
         "HoursOfOperation": "24 hours",
         "nightrate": "$2.50 per hour or part thereof. Max $5 (6pm-10am Mon-Sun)",
         "monthly": "N/A",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free",
+        "Promotion": "",
         "MobilitySpaces": "26 (no mobility concessions)",
-        "oid": -100,
         "Multi-level-building": "Yes",
         "MotorcycleSpaces": "81 (free)"
       }
@@ -334,11 +307,7 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Lichfield Street car park building",
-        "description": "Lichfield Street car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "address": "33 Lichfield Street",
@@ -346,14 +315,14 @@
         "alldayrate": "$15 from 1 July 2019 (max 24hr period. Applies to a single stay)",
         "timelimit": "",
         "Access": "Lichfield Street",
-        "PleaseNote": "Lost ticket charge of $15 (24hr period, from 1 July 2019).",
+        "PleaseNote": "Lost ticket charge of $15 (24hr period).",
         "metered": "",
         "p180": "",
         "HoursOfOperation": "24 hours",
         "nightrate": "$2.50 per hour or part thereof. Max $5 (6pm-10am Mon-Sun)",
         "monthly": "",
         "Provider": "Christchurch City Council",
-        "Promotion": "hr free",
+        "Promotion": "",
         "MobilitySpaces": "26 (no mobility concessions)",
         "Multi-level-building": "Yes"
       }
@@ -362,13 +331,13 @@
       "type": "Feature",
       "properties": {
         "name": "Hereford Street car park building",
-        "description": "Hereford Street car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 16,
         "Promotion": "",
         "address": "158 Hereford Street",
-        "Multi-level-building": "Yes"
+        "Multi-level-building": "Yes",
+        "PleaseNote": ""
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +351,6 @@
       "type": "Feature",
       "properties": {
         "name": "The Crossing car park building",
-        "description": "The Crossing car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 13,
@@ -401,12 +369,10 @@
       "type": "Feature",
       "properties": {
         "name": "West End car park building",
-        "description": "West End car park building",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 14,
         "address": "48 Hereford Street, between Montreal Street and Cambridge Tce",
-        "oid": "",
         "Multi-level-building": "Yes"
       },
       "geometry": {
@@ -420,13 +386,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "SALT District car park building",
-        "description": "SALT District car park building",
+        "name": "Innovation car ",
         "type": "Mobility off-street parking",
         "spaces": "",
         "MobilitySpaces": 8,
         "address": "Corner of Lichfield Street and Madras Street",
-        "Multi-level-building": "Yes"
+        "Multi-level-building": "Yes",
+        "Provider": ""
       },
       "geometry": {
         "type": "Point",
@@ -439,11 +405,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Lichfield Street car park building",
-        "description": "Lichfield Street car park building",
         "type": "Off-street motorcycle parking",
         "spaces": 81,
         "address": "33 Lichfield Street",
@@ -463,7 +425,6 @@
       "type": "Feature",
       "properties": {
         "name": "The Terrace car park building",
-        "description": "The Terrace car park",
         "address": "90-92 Hereford Street",
         "spaces": "450 (150 permanent)",
         "type": "Other off-street parking building",
@@ -491,7 +452,6 @@
       "properties": {
         "name": "4 Riccarton Ave",
         "type": "Mobility off-street parking",
-        "description": "4 Riccarton Ave",
         "address": "4 Riccarton Ave",
         "MobilitySpaces": "10 free (P180)"
       },
