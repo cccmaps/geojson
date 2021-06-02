@@ -348,7 +348,7 @@
         "Artist-company": "The Light Site",
         "Location": "New Brighton Pier",
         "Description": "The Pier will be lit up in different colours.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +365,7 @@
         "Artist-company": "Spectrum",
         "Location": "He Puna Taimoana: New Brighton hot pools",
         "Description": "Triangles that look fantastic in the dark in a variety of colours.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +382,7 @@
         "Artist-company": "Spectrum",
         "Location": "New Brighton Library",
         "Description": "Uplighting of the Pine tree by New Brighton Library.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +399,7 @@
         "Artist-company": "The Light Site",
         "Location": "New Brighton Library",
         "Description": "Spectacular coloured light show, highlighting the sails along the front of the Library.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +416,7 @@
         "Artist-company": "Kerry Tunstall",
         "Location": "New Brighton Mall",
         "Description": "Large globe suspended in the air.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +433,7 @@
         "Artist-company": "Kerry Tunstall",
         "Location": "Recreate, New Brighton Mall",
         "Description": "Projection in the Recreate window.",
-        "CBD": 0
+        "CBD": 2
       },
       "geometry": {
         "type": "Point",
