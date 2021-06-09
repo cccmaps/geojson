@@ -4,11 +4,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Exhibition Panels",
-        "Artist-company": "M?ui Studios",
+        "Artist-company": "Maui Studios",
+        "Zone": "",
         "Location": "Cashel Mall",
-        "Description": "Discover the story of Matariki and the significance of the stars.",
-        "CBD": 1
+        "Description": "Discover the story of Matariki and the significance of the stars."
       },
       "geometry": {
         "type": "Point",
@@ -21,11 +23,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Fairy Forest",
         "Artist-company": "Newco",
+        "Zone": "",
         "Location": "Friendship Corner, Durham Street",
-        "Description": "Delight in the wonderful fairy lights in the trees outside of Riverside.",
-        "CBD": 1
+        "Description": "Delight in the wonderful fairy lights in the trees outside of Riverside."
       },
       "geometry": {
         "type": "Point",
@@ -38,11 +42,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Daleks",
         "Artist-company": "Jane Downes",
+        "Zone": "",
         "Location": "Friendship Corner, Durham Street",
-        "Description": "Calling all Dr Who fans, check out three fabulously scary Daleks.",
-        "CBD": 1
+        "Description": "Calling all Dr Who fans, check out three fabulously scary Daleks."
       },
       "geometry": {
         "type": "Point",
@@ -55,11 +61,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Stars in the River",
         "Artist-company": "Newco",
+        "Zone": "",
         "Location": "The Terrace",
-        "Description": "The Avon River and surrounding trees will be transformed to seem as if the heavens have descended to earth.",
-        "CBD": 1
+        "Description": "The Avon River and surrounding trees will be transformed to seem as if the heavens have descended to earth."
       },
       "geometry": {
         "type": "Point",
@@ -72,11 +80,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Tirama Mai",
         "Artist-company": "The Light Site",
+        "Zone": "",
         "Location": "Park of Remembrance, Cambridge Terrace",
-        "Description": "Tirama Mai logo in lights",
-        "CBD": 1
+        "Description": "Tirama Mai logo in lights"
       },
       "geometry": {
         "type": "Point",
@@ -89,11 +99,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Night Creatures",
         "Artist-company": "The Light Site",
+        "Zone": "",
         "Location": "Mill Island, Avon River",
-        "Description": "Night creatures will appear in the island on the Avon, thrilling young and old alike.",
-        "CBD": 1
+        "Description": "Night creatures will appear in the island on the Avon, thrilling young and old alike."
       },
       "geometry": {
         "type": "Point",
@@ -106,11 +118,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Dancing Fountains",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Dancing Fountain",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Watch the water dance to music.",
-        "CBD": 1
+        "Description": "Watch the water dance to music."
       },
       "geometry": {
         "type": "Point",
@@ -123,11 +137,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Images from Antarctica",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Antarctica Reel",
         "Artist-company": "Anthony Powell",
+        "Zone": "",
         "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Amazing footage from the Antarctic showing the night sky, ice shelves, penguins and whales.",
-        "CBD": 1
+        "Description": "Amazing footage from the Antarctic showing the night sky, ice shelves, penguins and whales."
       },
       "geometry": {
         "type": "Point",
@@ -140,11 +156,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Scott in a Blizzard",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Scott of the Antarctic",
         "Artist-company": "Pixel",
+        "Zone": "",
         "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Projection onto Scott's Statue, he will appear to walk through snow storms and blizzards",
-        "CBD": 1
+        "Description": "Projection onto Scott's Statue, he will appear to walk through snow storms and blizzards"
       },
       "geometry": {
         "type": "Point",
@@ -157,11 +175,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Worcester Street River",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "River on Worcester",
         "Artist-company": "Pixel",
+        "Zone": "",
         "Location": "Christchurch City Council Civic Offices,  Worcester Boulevard ramp",
-        "Description": "The Pou and ramp will come to life with a projection of a flowing river and eels.",
-        "CBD": 1
+        "Description": "The Pou and ramp will come to life with a projection of a flowing river and eels."
       },
       "geometry": {
         "type": "Point",
@@ -174,11 +194,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Te T?h? o ng? Maunga T?matakahuki light projection",
-        "Artist-company": "Newci",
+        "Artist-company": "Newco",
+        "Zone": "",
         "Location": "Christchurch Art Gallery, Worcester Boulevard ",
-        "Description": "The vividly coloured mural by Kelcy Taratoa will come to life with stunning lighting.",
-        "CBD": 1
+        "Description": "The vividly coloured mural by Kelcy Taratoa will come to life with stunning lighting."
       },
       "geometry": {
         "type": "Point",
@@ -191,11 +213,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Storm and Paua",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "Christchurch Art Gallery, Worcester Boulevard ",
-        "Description": "A visual thunderstorm using, Pixel Strips hung vertically at the Art Gallery to gently rain down on the audience below. The storm is linked to Paua, when the rain stops the gallery will glow inside to the beautiful colours of a Paua shell.",
-        "CBD": 1
+        "Description": "A visual thunderstorm using, Pixel Strips hung vertically at the Art Gallery to gently rain down on the audience below. The storm is linked to Paua, when the rain stops the gallery will glow inside to the beautiful colours of a Paua shell."
       },
       "geometry": {
         "type": "Point",
@@ -208,11 +232,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Art Centre Lighting",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Christchurch Arts Centre light projection",
         "Artist-company": "The Light Site",
+        "Zone": "",
         "Location": "Christchurch Arts Centre, Worcester Boulevard",
-        "Description": "Spectacular lighting display enhancing the stunning architecture with colour and light.",
-        "CBD": 1
+        "Description": "Spectacular lighting display enhancing the stunning architecture with colour and light."
       },
       "geometry": {
         "type": "Point",
@@ -225,11 +251,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Canterbury Musuem light projection",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "Canterbury Museum, Rolleston Ave",
-        "Description": "The museum facade will be awash with colour.",
-        "CBD": 1
+        "Description": "The museum facade will be awash with colour."
       },
       "geometry": {
         "type": "Point",
@@ -242,11 +270,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Tree of Bees",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "Oxford Terrace",
-        "Description": "The bees will appear to buzz around a hive � a delicate sweet little installation that kids and adults would be entranced with.",
-        "CBD": 1
+        "Description": "The bees will appear to buzz around a hive, a sweet little installation for the whole family."
       },
       "geometry": {
         "type": "Point",
@@ -259,11 +289,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Triangles",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Triangles on the Green",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "Oxford Terrace",
-        "Description": "Vividly coloured triangles that look amazing in the dark.",
-        "CBD": 1
+        "Description": "Vividly coloured triangles that look amazing in the dark."
       },
       "geometry": {
         "type": "Point",
@@ -276,11 +308,51 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Cubes",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Ngao Matariki",
         "Artist-company": "Ariki Creative/Art Fetiche",
-        "Location": "Oxford Terrace",
-        "Description": "Four amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year.",
-        "CBD": 1
+        "Zone": "",
+        "Location": "Oxford Terrace ",
+        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6346916,
+          -43.52959462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Ngao Matariki",
+        "Artist-company": "Ariki Creative/Art Fetiche",
+        "Zone": "",
+        "Location": "Victoria Square",
+        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6364028,
+          -43.5285445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Ngao Matariki",
+        "Artist-company": "Ariki Creative/Art Fetiche",
+        "Zone": "",
+        "Location": "New Regent Street",
+        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year."
       },
       "geometry": {
         "type": "Point",
@@ -293,11 +365,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Walkway of Light",
         "Artist-company": "A & C Lighting",
+        "Zone": "",
         "Location": "Victoria Square",
-        "Description": "Explore this tunnel of light featuring LED lighting.",
-        "CBD": 1
+        "Description": "Explore this tunnel of light featuring LED lighting."
       },
       "geometry": {
         "type": "Point",
@@ -310,11 +384,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Bowker Fountain String Sculpture",
-        "Artist-company": "Illuminati - Asheley",
+        "Artist-company": "Illuminati ",
+        "Zone": "",
         "Location": "Victoria Square",
-        "Description": "String art like its never been seen before, water and light will make the strings dance.",
-        "CBD": 1
+        "Description": "String art like its never been seen before, water and light will make the strings dance."
       },
       "geometry": {
         "type": "Point",
@@ -327,11 +403,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Town Hall Ferrier Fountain",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Ferrier Fountain",
         "Artist-company": "Christchurch Town Hall",
+        "Zone": "",
         "Location": "Victoria Square",
-        "Description": "The Ferrier Fountain will be lit up and the Avon Room facing Victoria Square will glow with light.",
-        "CBD": 1
+        "Description": "The Ferrier Fountain will be lit up and the Avon Room facing Victoria Square will glow with light."
       },
       "geometry": {
         "type": "Point",
@@ -344,11 +422,32 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Canterbury Club light projection",
+        "Artist-company": "Spectrum",
+        "Zone": "",
+        "Location": "Canterbury Club",
+        "Description": "The Canterbury Club will be lit up in beautiful soft lighting."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6325499,
+          -43.53105018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "New Brighton Pier light projection",
         "Artist-company": "The Light Site",
+        "Zone": "",
         "Location": "New Brighton Pier",
-        "Description": "The Pier will be lit up in different colours.",
-        "CBD": 2
+        "Description": "The Pier will be lit up in different colours."
       },
       "geometry": {
         "type": "Point",
@@ -361,11 +460,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Triangles",
+        "altitude": "",
+        "geometry": "Point",
+        "Name": "Triangles on the Green Part II",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "He Puna Taimoana: New Brighton hot pools",
-        "Description": "Triangles that look fantastic in the dark in a variety of colours.",
-        "CBD": 2
+        "Description": "Triangles that look fantastic in the dark in a variety of colours."
       },
       "geometry": {
         "type": "Point",
@@ -378,11 +479,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "The Lone Tree",
         "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "New Brighton Library",
-        "Description": "Uplighting of the Pine tree by New Brighton Library.",
-        "CBD": 2
+        "Description": "Uplighting of the Pine tree by New Brighton Library."
       },
       "geometry": {
         "type": "Point",
@@ -395,11 +498,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "New Brighton Library light projection",
         "Artist-company": "The Light Site",
+        "Zone": "",
         "Location": "New Brighton Library",
-        "Description": "Spectacular coloured light show, highlighting the sails along the front of the Library.",
-        "CBD": 2
+        "Description": "Spectacular coloured light show, highlighting the sails along the front of the Library."
       },
       "geometry": {
         "type": "Point",
@@ -412,11 +517,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Lighting Ball",
         "Artist-company": "Kerry Tunstall",
+        "Zone": "",
         "Location": "New Brighton Mall",
-        "Description": "Large globe suspended in the air.",
-        "CBD": 2
+        "Description": "Large globe suspended in the air."
       },
       "geometry": {
         "type": "Point",
@@ -429,11 +536,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "Shop light projection",
         "Artist-company": "Kerry Tunstall",
+        "Zone": "",
         "Location": "Recreate, New Brighton Mall",
-        "Description": "Projection in the Recreate window.",
-        "CBD": 2
+        "Description": "Projection in the Recreate window."
       },
       "geometry": {
         "type": "Point",
@@ -446,11 +555,13 @@
     {
       "type": "Feature",
       "properties": {
+        "altitude": "",
+        "geometry": "Point",
         "Name": "New Regent Street light projection",
-        "Artist-company": "CCC",
+        "Artist-company": "Spectrum",
+        "Zone": "",
         "Location": "New Regent Street",
-        "Description": "",
-        "CBD": 1
+        "Description": "New Regent Street will glow with light."
       },
       "geometry": {
         "type": "Point",
