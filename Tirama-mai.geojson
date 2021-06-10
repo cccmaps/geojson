@@ -5,24 +5,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Exhibition Panels",
-        "Artist-company": "Maui Studios",
-        "Location": "Cashel Mall",
-        "Description": "Discover the story of Matariki and the significance of the stars.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.633593,
-          -43.533129
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "Name": "Fairy Forest",
         "Artist-company": "Newco",
         "Location": "Friendship Corner, Durham Street",
@@ -178,42 +160,6 @@
         "coordinates": [
           172.631627,
           -43.531079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Te T?h? o ng? Maunga T?matakahuki light projection",
-        "Artist-company": "Newco",
-        "Location": "Christchurch Art Gallery, Worcester Boulevard ",
-        "Description": "The vividly coloured mural by Kelcy Taratoa will come to life with stunning lighting.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.631435,
-          -43.530401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Storm and Paua",
-        "Artist-company": "Spectrum",
-        "Location": "Christchurch Art Gallery, Worcester Boulevard ",
-        "Description": "A visual thunderstorm using, Pixel Strips hung vertically at the Art Gallery to gently rain down on the audience below. The storm is linked to Paua, when the rain stops the gallery will glow inside to the beautiful colours of a Paua shell.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630872,
-          -43.530203
         ]
       }
     },
@@ -538,6 +484,42 @@
         "coordinates": [
           172.6387176,
           -43.52962379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te T?h? o ng? Maunga T?matakahuki light projection",
+        "geometry": "Point",
+        "Artist-company": "Newco",
+        "Location": "Christchurch Art Gallery, Worcester Boulevard ",
+        "Description": "The vividly coloured mural by Kelcy Taratoa will come to life with stunning lighting.",
+        "CBD": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63173580169675,
+          -43.53062333658693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exhibition Panels",
+        "geometry": "Point",
+        "Artist-company": "Maui Studios",
+        "Location": "Cashel Mall",
+        "Description": "Discover the story of Matariki and the significance of the stars.",
+        "CBD": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63552844524384,
+          -43.53314350961994
         ]
       }
     }
