@@ -522,6 +522,39 @@
           -43.53314350961994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Performance zone 1",
+        "Artist-company": "",
+        "Location": ": The Arts Centre, Market Square",
+        "CBD": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63005673885345,
+          -43.5312903370739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Performance zone 2",
+        "Location": "Bridge of Remembrance ",
+        "CBD": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63335183262825,
+          -43.53312795331931
+        ]
+      }
     }
   ]
 }
