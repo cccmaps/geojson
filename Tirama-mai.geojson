@@ -528,9 +528,10 @@
       "properties": {
         "geometry": "Point",
         "Name": "Performance zone 1",
-        "Artist-company": "",
+        "Artist-company": " ",
         "Location": ": The Arts Centre, Market Square",
-        "CBD": 1
+        "CBD": 1,
+        "Description": " "
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +547,9 @@
         "geometry": "Point",
         "Name": "Performance zone 2",
         "Location": "Bridge of Remembrance ",
-        "CBD": 1
+        "CBD": 1,
+        "Artist-company": " ",
+        "Description": " "
       },
       "geometry": {
         "type": "Point",
