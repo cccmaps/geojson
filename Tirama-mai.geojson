@@ -528,10 +528,10 @@
       "properties": {
         "geometry": "Point",
         "Name": "Performance zone 1",
-        "Artist-company": " ",
+        "Artist-company": " Cirko Kali",
         "Location": ": The Arts Centre, Market Square",
         "CBD": 1,
-        "Description": " "
+        "Description": " Cirko Kali presents Kā Whetū - The Stars featuring dazzling aerial, fire, and kapa haka performances."
       },
       "geometry": {
         "type": "Point",
@@ -548,8 +548,8 @@
         "Name": "Performance zone 2",
         "Location": "Bridge of Remembrance ",
         "CBD": 1,
-        "Artist-company": " ",
-        "Description": " "
+        "Artist-company": " Cirko Kali",
+        "Description": " Cirko Kali presents Kā Whetū - The Stars featuring dazzling aerial, fire, and kapa haka performances."
       },
       "geometry": {
         "type": "Point",
