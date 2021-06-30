@@ -60,9 +60,9 @@
       "properties": {
         "geometry": "Point",
         "Name": "Tīrama Mai",
-        "Artist-company": "The Light Site",
+        "Artist-company": "The Light Site and Illumanati",
         "Location": "Park of Remembrance, Cambridge Terrace",
-        "Description": "Tirama Mai logo in lights",
+        "Description": "Tirama Mai logo and stars in lights",
         "CBD": 1
       },
       "geometry": {
@@ -312,7 +312,7 @@
       "properties": {
         "geometry": "Point",
         "Name": "Bowker Fountain String Sculpture",
-        "Artist-company": "Illuminati ",
+        "Artist-company": "Asheley Elizabeth/In Good Form",
         "Location": "Victoria Square",
         "Description": "String art like its never been seen before, water and light will make the strings dance.",
         "CBD": 1
