@@ -807,7 +807,7 @@
         "FinishDate": "31/10/2019",
         "Status": "Work in progress",
         "PercetangeContribution": "64.80%",
-        "ChlorinationDose": "1 part per million (only used if needed to meet peak demand)"
+        "ChlorinationDose": "0.2 parts per million"
       },
       "geometry": {
         "type": "Point",
