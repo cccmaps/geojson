@@ -805,9 +805,9 @@
         "Improvements": "Complete headworks on two above ground well heads",
         "StartDate": "11/02/2019",
         "FinishDate": "31/10/2019",
-        "Status": "Work in progress",
+        "Status": "Completed",
         "PercetangeContribution": "64.80%",
-        "ChlorinationDose": "0.2 parts per million"
+        "ChlorinationDose": "none"
       },
       "geometry": {
         "type": "Point",
