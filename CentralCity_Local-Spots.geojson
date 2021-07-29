@@ -1,0 +1,1184 @@
+{
+  "exceededTransferLimit": false,
+  "features": [
+    {
+      "id": 1,
+      "type": "Feature",
+      "properties": {
+        "objectid": 1,
+        "name": "Christchurch East School",
+        "area": "Latimer, Avon Loop, Chester East, Moa",
+        "category": "Schools",
+        "latitude": -43.52961462,
+        "longitude": 172.6482964
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64829640023208,
+          -43.52961462006694
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "type": "Feature",
+      "properties": {
+        "objectid": 2,
+        "name": "Te Ara o Rongo Reserve",
+        "area": "Latimer, Avon Loop, Chester East",
+        "category": "Public Space",
+        "latitude": -43.52994752,
+        "longitude": 172.6481737
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64817370024576,
+          -43.52994752021474
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "type": "Feature",
+      "properties": {
+        "objectid": 3,
+        "name": "Chesterfields",
+        "area": "Latimer, Avon Loop, Chester East, Moa",
+        "category": "Public Space",
+        "latitude": -43.52787683,
+        "longitude": 172.6474118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64741180042572,
+          -43.5278768300643
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "type": "Feature",
+      "properties": {
+        "objectid": 4,
+        "name": "Latimer Square",
+        "area": "Latimer, Avon Loop, Chester East",
+        "category": "Public Space",
+        "latitude": -43.530897,
+        "longitude": 172.642702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64270199986643,
+          -43.530897000138516
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "type": "Feature",
+      "properties": {
+        "objectid": 5,
+        "name": "Margaret Mahy",
+        "area": "Latimer, Avon Loop, Chester East, Moa, Victoria",
+        "category": "Public Space",
+        "latitude": -43.52787109,
+        "longitude": 172.6413072
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64130720009774,
+          -43.52787109003417
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "type": "Feature",
+      "properties": {
+        "objectid": 6,
+        "name": "Cathedral Square",
+        "area": "Latimer",
+        "category": "Public Space",
+        "latitude": -43.530958,
+        "longitude": 172.636663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63666299991044,
+          -43.53095799976892
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "type": "Feature",
+      "properties": {
+        "objectid": 7,
+        "name": "Victoria Square",
+        "area": "Latimer, Avon Loop, Chester East, Moa, Victoria",
+        "category": "Public Space",
+        "latitude": -43.52819059,
+        "longitude": 172.6358383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63583829976722,
+          -43.528190589973434
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "type": "Feature",
+      "properties": {
+        "objectid": 8,
+        "name": "Rauora Park",
+        "area": "Latimer, Avon Loop, Chester East, South",
+        "category": "Public Space",
+        "latitude": -43.531538,
+        "longitude": 172.640721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64072099996756,
+          -43.53153800019784
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "type": "Feature",
+      "properties": {
+        "objectid": 10,
+        "name": "Figlo Laundromat",
+        "area": "Latimer, Avon Loop, Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52992532,
+        "longitude": 172.6500458
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6500458000776,
+          -43.52992532028554
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "type": "Feature",
+      "properties": {
+        "objectid": 11,
+        "name": "Avenue Dairy",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53087461,
+        "longitude": 172.6502493
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65024929993046,
+          -43.53087460973331
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "type": "Feature",
+      "properties": {
+        "objectid": 12,
+        "name": "Anytime Fitness",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53204137,
+        "longitude": 172.6497665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64976650038105,
+          -43.532041370046
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "Feature",
+      "properties": {
+        "objectid": 13,
+        "name": "Bloody Mary's ",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53061822,
+        "longitude": 172.6435639
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64356390014387,
+          -43.53061821982072
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "type": "Feature",
+      "properties": {
+        "objectid": 14,
+        "name": "C4 Coffee",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53363943,
+        "longitude": 172.6502281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65022809968977,
+          -43.533639430088066
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "type": "Feature",
+      "properties": {
+        "objectid": 15,
+        "name": "New Regent Street",
+        "area": "Latimer, Avon Loop, Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52894396,
+        "longitude": 172.6387283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63872830041043,
+          -43.528943960102296
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "type": "Feature",
+      "properties": {
+        "objectid": 16,
+        "name": "Dux Central",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53437149,
+        "longitude": 172.6415321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64153209961736,
+          -43.53437148988979
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "type": "Feature",
+      "properties": {
+        "objectid": 17,
+        "name": "Pink Lady Rooftop Bar",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53360891,
+        "longitude": 172.6395397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6395397000976,
+          -43.533608909819655
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "type": "Feature",
+      "properties": {
+        "objectid": 18,
+        "name": "The Crossing",
+        "area": "Latimer",
+        "category": "Business and Community",
+        "latitude": -43.53349224,
+        "longitude": 172.6374261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63742609987966,
+          -43.533492239855605
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "type": "Feature",
+      "properties": {
+        "objectid": 20,
+        "name": "Moa Reserve",
+        "area": "Avon Loop, Moa",
+        "category": "Public Space",
+        "latitude": -43.522515,
+        "longitude": 172.644057
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64405699977635,
+          -43.522515000096035
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "type": "Feature",
+      "properties": {
+        "objectid": 21,
+        "name": "Piko Wholefoods",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52640987,
+        "longitude": 172.6457268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6457267999046,
+          -43.52640987019405
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "type": "Feature",
+      "properties": {
+        "objectid": 22,
+        "name": "Pomeroy's",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52665491,
+        "longitude": 172.6497018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64970180012102,
+          -43.52665490973285
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "type": "Feature",
+      "properties": {
+        "objectid": 23,
+        "name": "House of Wonder Childcare",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52635153,
+        "longitude": 172.6491439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64914389961717,
+          -43.526351529905305
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "type": "Feature",
+      "properties": {
+        "objectid": 24,
+        "name": "Avon Loop Community Cottage",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.52507576,
+        "longitude": 172.6482105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6482104997313,
+          -43.52507576008265
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "type": "Feature",
+      "properties": {
+        "objectid": 25,
+        "name": "Beat Street Caf",
+        "area": "Avon Loop. Chester East",
+        "category": "Business and Community",
+        "latitude": -43.5285374,
+        "longitude": 172.6458448
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64584479990532,
+          -43.52853740012651
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "type": "Feature",
+      "properties": {
+        "objectid": 26,
+        "name": "Colombo Street Shops",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.525367,
+        "longitude": 172.636634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63663399959808,
+          -43.52536700011981
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "type": "Feature",
+      "properties": {
+        "objectid": 27,
+        "name": "Tautahi Pl",
+        "area": "Moa",
+        "category": "Public Space",
+        "latitude": -43.526657,
+        "longitude": 172.643808
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64380800025427,
+          -43.526656999841634
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "type": "Feature",
+      "properties": {
+        "objectid": 28,
+        "name": "Aldred Reserve",
+        "area": "Victoria",
+        "category": "Public Space",
+        "latitude": -43.523769,
+        "longitude": 172.633876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63387600009767,
+          -43.523769000318396
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "type": "Feature",
+      "properties": {
+        "objectid": 29,
+        "name": "Cranmer Square",
+        "area": "Victoria, Inner City West",
+        "category": "Public Space",
+        "latitude": -43.527729,
+        "longitude": 172.630602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63060200021314,
+          -43.52772899985353
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "type": "Feature",
+      "properties": {
+        "objectid": 30,
+        "name": "The Commons",
+        "area": "Victoria, Inner City West",
+        "category": "Public Space",
+        "latitude": -43.527056,
+        "longitude": 172.634202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63420199961257,
+          -43.52705600021333
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "type": "Feature",
+      "properties": {
+        "objectid": 31,
+        "name": "Hagley Park",
+        "area": "Victoria, Inner City West",
+        "category": "Public Space",
+        "latitude": -43.528609,
+        "longitude": 172.626805
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6268050002719,
+          -43.52860900019624
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "type": "Feature",
+      "properties": {
+        "objectid": 32,
+        "name": "Cathedral Grammar School",
+        "area": "Victoria, Inner City West",
+        "category": "Schools",
+        "latitude": -43.52767553,
+        "longitude": 172.6293343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62933430037916,
+          -43.52767553008013
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "type": "Feature",
+      "properties": {
+        "objectid": 33,
+        "name": "Victoria Street retail and restaurants ",
+        "area": "Victoria, Inner City West",
+        "category": "Business and Community",
+        "latitude": -43.525326,
+        "longitude": 172.631823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63182300022876,
+          -43.52532600014084
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "type": "Feature",
+      "properties": {
+        "objectid": 34,
+        "name": "Rose Historic Chapel",
+        "area": "Victoria",
+        "category": "Business and Community",
+        "latitude": -43.52307803,
+        "longitude": 172.6368499
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63684989979515,
+          -43.52307803026226
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "type": "Feature",
+      "properties": {
+        "objectid": 35,
+        "name": "St Mary's Cathedral",
+        "area": "Victoria",
+        "category": "Business and Community",
+        "latitude": -43.52287225,
+        "longitude": 172.6393692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63936919985665,
+          -43.52287224978781
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "type": "Feature",
+      "properties": {
+        "objectid": 9,
+        "name": "Ōtākaro Orchard",
+        "area": "Latimer, Avon Loop, Chester East, Moa, Victoria",
+        "category": "Public Space",
+        "latitude": -43.5271975,
+        "longitude": 172.6381353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63813530003355,
+          -43.52719749992831
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "type": "Feature",
+      "properties": {
+        "objectid": 36,
+        "name": "Briscoes",
+        "area": "Victoria",
+        "category": "Business and Community",
+        "latitude": -43.52376688,
+        "longitude": 172.6410751
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6410750996829,
+          -43.52376688014708
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "type": "Feature",
+      "properties": {
+        "objectid": 37,
+        "name": "Knox Church",
+        "area": "Victoria",
+        "category": "Business and Community",
+        "latitude": -43.52086589,
+        "longitude": 172.6289945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62899450004647,
+          -43.52086588969244
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "type": "Feature",
+      "properties": {
+        "objectid": 38,
+        "name": "Town Hall",
+        "area": "Victoria",
+        "category": "Business and Community",
+        "latitude": -43.52666136,
+        "longitude": 172.6356975
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63569749962622,
+          -43.526661359825226
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "type": "Feature",
+      "properties": {
+        "objectid": 39,
+        "name": "Botanic Gardens",
+        "area": "Inner City West, Hagley",
+        "category": "Public Space",
+        "latitude": -43.531808,
+        "longitude": 172.627277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62727700027503,
+          -43.53180799973005
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "type": "Feature",
+      "properties": {
+        "objectid": 40,
+        "name": "Arts Centre",
+        "area": "Inner City West, Hagley",
+        "category": "Business and Community",
+        "latitude": -43.53126751,
+        "longitude": 172.6279786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62797859978326,
+          -43.53126750969634
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "type": "Feature",
+      "properties": {
+        "objectid": 41,
+        "name": "Art Gallery",
+        "area": "Inner City West, Hagley",
+        "category": "Business and Community",
+        "latitude": -43.5307308,
+        "longitude": 172.6310738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6310737998919,
+          -43.53073080007657
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "type": "Feature",
+      "properties": {
+        "objectid": 42,
+        "name": "Miro Caf",
+        "area": "Inner City West",
+        "category": "Business and Community",
+        "latitude": -43.53026798,
+        "longitude": 172.6342978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63429780044603,
+          -43.53026798022573
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "type": "Feature",
+      "properties": {
+        "objectid": 43,
+        "name": "Westend Dairy and Caf",
+        "area": "Inner City West",
+        "category": "Business and Community",
+        "latitude": -43.532508,
+        "longitude": 172.632587
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63258700030994,
+          -43.53250799985899
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "type": "Feature",
+      "properties": {
+        "objectid": 44,
+        "name": "The Terraces",
+        "area": "Inner City West, Hagley",
+        "category": "Business and Community",
+        "latitude": -43.532481,
+        "longitude": 172.634148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6341480000842,
+          -43.53248099975253
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "type": "Feature",
+      "properties": {
+        "objectid": 45,
+        "name": "Doctors on Cashel",
+        "area": "Inner City West",
+        "category": "Business and Community",
+        "latitude": -43.53286602,
+        "longitude": 172.6283169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62831689992942,
+          -43.53286602007566
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "type": "Feature",
+      "properties": {
+        "objectid": 46,
+        "name": "Riverside Market",
+        "area": "Inner City West, Hagley",
+        "category": "Business and Community",
+        "latitude": -43.53375661,
+        "longitude": 172.6339924
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6339924001989,
+          -43.53375660969646
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "type": "Feature",
+      "properties": {
+        "objectid": 47,
+        "name": "BNZ Centre",
+        "area": "Inner City West",
+        "category": "Business and Community",
+        "latitude": -43.53246933,
+        "longitude": 172.6357412
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6357411999698,
+          -43.53246932974765
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "type": "Feature",
+      "properties": {
+        "objectid": 48,
+        "name": "Christ's College",
+        "area": "Inner City West",
+        "category": "Schools",
+        "latitude": -43.52963798,
+        "longitude": 172.6270992
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6270992003241,
+          -43.52963798006679
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "type": "Feature",
+      "properties": {
+        "objectid": 50,
+        "name": "Metro Sports Facility",
+        "area": "Hagley",
+        "category": "Business and Community",
+        "latitude": -43.537725,
+        "longitude": 172.626463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62646299996516,
+          -43.53772500011529
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "type": "Feature",
+      "properties": {
+        "objectid": 51,
+        "name": "Grow Active Preschool",
+        "area": "Hagley",
+        "category": "Business and Community",
+        "latitude": -43.53812941,
+        "longitude": 172.6254545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.62545450002324,
+          -43.53812940974884
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "type": "Feature",
+      "properties": {
+        "objectid": 52,
+        "name": "South Frame Greenway",
+        "area": "South, South-East",
+        "category": "Public Space",
+        "latitude": -43.535812,
+        "longitude": 172.63407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6340700002664,
+          -43.53581199990906
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "type": "Feature",
+      "properties": {
+        "objectid": 53,
+        "name": "Ao Tawhiti Unlimited Discovery School",
+        "area": "South, South-East",
+        "category": "Schools",
+        "latitude": -43.5357342,
+        "longitude": 172.6356686
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63566859992517,
+          -43.535734200223665
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "type": "Feature",
+      "properties": {
+        "objectid": 54,
+        "name": "Ara Institute of Canterbury",
+        "area": "South, South-East",
+        "category": "Schools",
+        "latitude": -43.53774084,
+        "longitude": 172.6442087
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64420870007498,
+          -43.53774084008684
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "type": "Feature",
+      "properties": {
+        "objectid": 55,
+        "name": "South City",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.5382075,
+        "longitude": 172.6355398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63553980037807,
+          -43.53820750003624
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "type": "Feature",
+      "properties": {
+        "objectid": 56,
+        "name": "Countdown",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53883747,
+        "longitude": 172.6421381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64213810041312,
+          -43.53883746993581
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "type": "Feature",
+      "properties": {
+        "objectid": 57,
+        "name": "PAK'n SAVE",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53879858,
+        "longitude": 172.6389731
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63897310030853,
+          -43.53879857987175
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "type": "Feature",
+      "properties": {
+        "objectid": 58,
+        "name": "Boxed Quarter",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53648087,
+        "longitude": 172.6424009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64240089985452,
+          -43.53648087013957
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "type": "Feature",
+      "properties": {
+        "objectid": 59,
+        "name": "Student Accommodation",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53618475,
+        "longitude": 172.6428919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64289190012417,
+          -43.536184750090456
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "type": "Feature",
+      "properties": {
+        "objectid": 60,
+        "name": "Canterbury Multi-Use Arena",
+        "area": "Latimer, South, South East",
+        "category": "Business and Community",
+        "latitude": -43.533605,
+        "longitude": 172.643863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64386299960756,
+          -43.53360499970222
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "type": "Feature",
+      "properties": {
+        "objectid": 61,
+        "name": "The Welder",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53698616,
+        "longitude": 172.6378651
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6378651002708,
+          -43.536986160192384
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "type": "Feature",
+      "properties": {
+        "objectid": 62,
+        "name": "Grow Active Welles Street",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.53719616,
+        "longitude": 172.6374306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63743060043925,
+          -43.537196159919255
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "type": "Feature",
+      "properties": {
+        "objectid": 49,
+        "name": "Ōtākaro Avon River",
+        "area": "Hagley, South",
+        "category": "Public Space",
+        "latitude": -43.531433,
+        "longitude": 172.633397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6333970004218,
+          -43.53143299969152
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "type": "Feature",
+      "properties": {
+        "objectid": 19,
+        "name": "Ōtākaro Avon River",
+        "area": "Avon Loop, Moa",
+        "category": "Public Space",
+        "latitude": -43.525565,
+        "longitude": 172.644869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64486900043636,
+          -43.525565000309086
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
