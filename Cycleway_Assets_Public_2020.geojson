@@ -78,51 +78,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.649871698,
-            -43.5380487793
-          ],
-          [
-            172.6497580755,
-            -43.5380294837
-          ],
-          [
-            172.64950321,
-            -43.5379767357
-          ],
-          [
-            172.648235445,
-            -43.5376625862
-          ],
-          [
-            172.6470326674,
-            -43.5373663336
-          ],
-          [
-            172.6461217689,
-            -43.5371449969
-          ],
-          [
-            172.6460310281,
-            -43.5371206297
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": 1,
-        "fid": 30,
-        "SHAPE__Length": 450.7677582072323
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.6426214802,
             -43.5400976016
           ],
@@ -18197,7 +18152,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -18226,7 +18181,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -18267,7 +18222,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23744,7 +23699,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23773,7 +23728,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23798,7 +23753,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23835,7 +23790,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23868,7 +23823,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23933,7 +23888,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -23970,7 +23925,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32779,7 +32734,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32804,7 +32759,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32865,7 +32820,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32890,7 +32845,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32915,7 +32870,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -32944,7 +32899,7 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
+        "majorcycle": "Default",
         "urbanrural": "Urban",
         "type": "Cycle lane",
         "p_filter": 1,
@@ -48223,112 +48178,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6631335324,
-            -43.50902228
-          ],
-          [
-            172.6630953743,
-            -43.5086977956
-          ],
-          [
-            172.6630625678,
-            -43.5083982995
-          ],
-          [
-            172.6630434697,
-            -43.5081469149
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1757,
-        "SHAPE__Length": 134.74108523467115
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6628734942,
-            -43.5097086714
-          ],
-          [
-            172.6628700667,
-            -43.5097456724
-          ],
-          [
-            172.6628302155,
-            -43.5098770795
-          ],
-          [
-            172.6627550891,
-            -43.5100427419
-          ],
-          [
-            172.6626814976,
-            -43.5101324271
-          ],
-          [
-            172.6625415702,
-            -43.5103057482
-          ],
-          [
-            172.6623690776,
-            -43.5105123481
-          ],
-          [
-            172.6623017381,
-            -43.5105961852
-          ],
-          [
-            172.6621490436,
-            -43.5107994154
-          ],
-          [
-            172.6621090879,
-            -43.510854688
-          ],
-          [
-            172.6619940043,
-            -43.5110326856
-          ],
-          [
-            172.6619157557,
-            -43.5111701368
-          ],
-          [
-            172.6618525137,
-            -43.5112933687
-          ],
-          [
-            172.6617583774,
-            -43.5114419678
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1758,
-        "SHAPE__Length": 295.31158753807426
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.684749099,
             -43.4918245579
           ],
@@ -48767,169 +48616,6 @@
         "p_filter": 1,
         "fid": 1770,
         "SHAPE__Length": 49.52372083728405
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6610202404,
-            -43.5126090354
-          ],
-          [
-            172.6610416256,
-            -43.512587348
-          ],
-          [
-            172.6610778193,
-            -43.5125596069
-          ],
-          [
-            172.6612043787,
-            -43.5124529941
-          ],
-          [
-            172.6612819992,
-            -43.5123753714
-          ],
-          [
-            172.6613637896,
-            -43.5122883028
-          ],
-          [
-            172.661498922,
-            -43.5121249845
-          ],
-          [
-            172.6616006001,
-            -43.5120070621
-          ],
-          [
-            172.6617123957,
-            -43.5118474482
-          ],
-          [
-            172.6618693311,
-            -43.5116578304
-          ],
-          [
-            172.6620060383,
-            -43.5114270814
-          ],
-          [
-            172.6621864037,
-            -43.5110733205
-          ],
-          [
-            172.6622678396,
-            -43.510926822
-          ],
-          [
-            172.6623834266,
-            -43.5107830419
-          ],
-          [
-            172.6624921863,
-            -43.5106503986
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1774,
-        "SHAPE__Length": 344.3690054904847
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6624921863,
-            -43.5106503986
-          ],
-          [
-            172.6625630677,
-            -43.5105585544
-          ],
-          [
-            172.6627093666,
-            -43.510400627
-          ],
-          [
-            172.6628219733,
-            -43.5102676067
-          ],
-          [
-            172.6628813715,
-            -43.5101840439
-          ],
-          [
-            172.6629823654,
-            -43.5101324067
-          ],
-          [
-            172.6630797907,
-            -43.5100933352
-          ],
-          [
-            172.6631903368,
-            -43.5100540736
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1775,
-        "SHAPE__Length": 123.59806650969922
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6606605851,
-            -43.5130192378
-          ],
-          [
-            172.6607405956,
-            -43.5128604156
-          ],
-          [
-            172.6608198726,
-            -43.5127869671
-          ],
-          [
-            172.660903302,
-            -43.5127061464
-          ],
-          [
-            172.6610202404,
-            -43.5126090354
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1776,
-        "SHAPE__Length": 75.55956682697098
       }
     },
     {
@@ -50382,153 +50068,6 @@
         "p_filter": 1,
         "fid": 1847,
         "SHAPE__Length": 314.25074165036847
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6626334752,
-            -43.5081320401
-          ],
-          [
-            172.6622973555,
-            -43.5081341417
-          ],
-          [
-            172.6615419898,
-            -43.5081350066
-          ],
-          [
-            172.6613758635,
-            -43.5081205744
-          ],
-          [
-            172.6603756672,
-            -43.5081290433
-          ],
-          [
-            172.6600343881,
-            -43.5081297102
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1852,
-        "SHAPE__Length": 289.47046669104895
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6632322389,
-            -43.5099056877
-          ],
-          [
-            172.6631995918,
-            -43.5097779902
-          ],
-          [
-            172.6632074542,
-            -43.5096846993
-          ],
-          [
-            172.6631900797,
-            -43.5094996192
-          ],
-          [
-            172.6631630561,
-            -43.5092570427
-          ],
-          [
-            172.6631335324,
-            -43.50902228
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1853,
-        "SHAPE__Length": 136.29079562943573
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6627452573,
-            -43.5081750492
-          ],
-          [
-            172.6627597632,
-            -43.5082477908
-          ],
-          [
-            172.6627708275,
-            -43.5084025295
-          ],
-          [
-            172.6627763422,
-            -43.5084461409
-          ],
-          [
-            172.6627956994,
-            -43.5086085875
-          ],
-          [
-            172.6628159897,
-            -43.5089116602
-          ],
-          [
-            172.6628435521,
-            -43.509173404
-          ],
-          [
-            172.6628599836,
-            -43.5092876636
-          ],
-          [
-            172.6628910511,
-            -43.5093693483
-          ],
-          [
-            172.6628958448,
-            -43.5094783124
-          ],
-          [
-            172.6628856268,
-            -43.5096186419
-          ],
-          [
-            172.6628734942,
-            -43.5097086714
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 1854,
-        "SHAPE__Length": 236.50066531119532
       }
     },
     {
@@ -83065,31 +82604,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.5761460701,
-            -43.539147617
-          ],
-          [
-            172.5761107063,
-            -43.5391775123
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Cycle path",
-        "p_filter": 1,
-        "fid": 2934,
-        "SHAPE__Length": 6.047596490797988
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.5763898005,
             -43.5391624507
           ],
@@ -83616,8 +83130,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.5781777227,
-            -43.5408487019
+            172.5787051526,
+            -43.5412673641
           ],
           [
             172.5778442829,
@@ -83640,113 +83154,7 @@
         "type": "Cycle lane",
         "p_filter": 1,
         "fid": 2981,
-        "SHAPE__Length": 211.8085369231507
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.578182254,
-            -43.5408979159
-          ],
-          [
-            172.578055947,
-            -43.5408113505
-          ],
-          [
-            172.5765280836,
-            -43.5394540957
-          ],
-          [
-            172.5763481308,
-            -43.539279806
-          ],
-          [
-            172.57627322,
-            -43.5392248196
-          ],
-          [
-            172.5761938815,
-            -43.5391902365
-          ],
-          [
-            172.5761107063,
-            -43.5391775114
-          ],
-          [
-            172.5760857146,
-            -43.5391736874
-          ],
-          [
-            172.5759559051,
-            -43.5391840822
-          ],
-          [
-            172.5757614182,
-            -43.5391978845
-          ],
-          [
-            172.5749061592,
-            -43.5392667507
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 2982,
-        "SHAPE__Length": 488.3627035976532
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5781777227,
-            -43.5408487019
-          ],
-          [
-            172.578182254,
-            -43.5408979159
-          ],
-          [
-            172.5782522169,
-            -43.5409421506
-          ],
-          [
-            172.5783331237,
-            -43.5410006793
-          ],
-          [
-            172.5783999145,
-            -43.5410731269
-          ],
-          [
-            172.5784472162,
-            -43.5411259238
-          ],
-          [
-            172.5785135683,
-            -43.5411807268
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 2983,
-        "SHAPE__Length": 64.8801394025583
+        "SHAPE__Length": 298.83514196165004
       }
     },
     {
@@ -83784,31 +83192,6 @@
         "p_filter": 1,
         "fid": 2984,
         "SHAPE__Length": 66.24322428142081
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5785135683,
-            -43.5411807268
-          ],
-          [
-            172.5787030565,
-            -43.5412668338
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": 1,
-        "fid": 2985,
-        "SHAPE__Length": 24.89588688727402
       }
     },
     {
@@ -91680,31 +91063,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            172.6631903368,
-            -43.5100540736
-          ],
-          [
-            172.6632322389,
-            -43.5099056877
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 3539,
-        "SHAPE__Length": 23.248535357005924
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             172.6623711229,
             -43.5080121139
           ],
@@ -91730,35 +91088,6 @@
         "p_filter": 1,
         "fid": 3540,
         "SHAPE__Length": 73.78970617461316
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.6626334752,
-            -43.5081320401
-          ],
-          [
-            172.6627099189,
-            -43.5081428898
-          ],
-          [
-            172.6627452573,
-            -43.5081750492
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Default",
-        "urbanrural": "Urban",
-        "type": "Shared path",
-        "p_filter": 1,
-        "fid": 3541,
-        "SHAPE__Length": 14.982932374548822
       }
     },
     {
@@ -95147,56 +94476,6 @@
         "p_filter": 1,
         "fid": 3675,
         "SHAPE__Length": 21.282561053296273
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5746934981,
-            -43.5390498503
-          ],
-          [
-            172.5747256355,
-            -43.539251398
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": 1,
-        "fid": 3676,
-        "SHAPE__Length": 31.156638417524793
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            172.5748011297,
-            -43.5390427897
-          ],
-          [
-            172.5748424773,
-            -43.5392420692
-          ]
-        ]
-      },
-      "properties": {
-        "servicesta": "In service",
-        "majorcycle": "Nor'West Arc Cycleway",
-        "urbanrural": "Urban",
-        "type": "Cycle lane",
-        "p_filter": 1,
-        "fid": 3677,
-        "SHAPE__Length": 30.946463214279216
       }
     },
     {
