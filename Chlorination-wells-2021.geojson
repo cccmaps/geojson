@@ -1,0 +1,2640 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Addington",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6090995,
+          -43.54600118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Addington",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6090259,
+          -43.54617879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Aldwins",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6682437,
+          -43.53975214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Aldwins",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.667817,
+          -43.53995793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Aldwins",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6680275,
+          -43.5396645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Aston",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7188422,
+          -43.48056324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Aston",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7190936,
+          -43.48078724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Auburn",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5760312,
+          -43.53350533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Averill",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6603,
+          -43.51267183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Averill",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6601425,
+          -43.51267183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Averill",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6601409,
+          -43.5128146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Avonhead",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5354,
+          -43.5187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Avonhead",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5358,
+          -43.5188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Belfast",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6297969,
+          -43.44201126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Belfast",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6296426,
+          -43.44210693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Belfast",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6297969,
+          -43.44201126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Ben Rarere",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6975,
+          -43.5113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Ben Rarere",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6971,
+          -43.5114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Ben Rarere",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6973,
+          -43.5112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Bexley",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6297969,
+          -43.44201126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Bexley",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6296426,
+          -43.44210693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Blighs",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5998135,
+          -43.5056134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Blighs",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5989104,
+          -43.50581225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Blighs",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "In planning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5988,
+          -43.5058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Brooklands/Kainga",
+        "pump_station_name": "Brooklands",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6937215,
+          -43.40727575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Brooklands/Kainga",
+        "pump_station_name": "Brooklands",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6936,
+          -43.40727575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  10",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5635,
+          -43.5047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5636332,
+          -43.50441625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5631,
+          -43.5043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5632,
+          -43.5044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  8",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5633,
+          -43.5045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Burnside",
+        "Well_number": "Well  9",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5634,
+          -43.5046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Burwood",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6841,
+          -43.4896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Burwood",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6841484,
+          -43.48968013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Burwood",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6843716,
+          -43.48956651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Carters",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7052143,
+          -43.5208445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Carters",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7052345,
+          -43.52080804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Carters",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7053548,
+          -43.52092584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Carters",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7077584,
+          -43.52106622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Crosbie",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5476723,
+          -43.5166341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Crosbie",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5483506,
+          -43.5165272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Crosbie",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5476255,
+          -43.51660883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Denton",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.519531,
+          -43.54113838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Denton",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5178682,
+          -43.54155324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Denton",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5217477,
+          -43.54280003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Denton",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5218252,
+          -43.54390612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Denton",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5249372,
+          -43.54527898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Dunbars",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5707843,
+          -43.57135396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Dunbars",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5676285,
+          -43.5703301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Dunbars",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5649014,
+          -43.56940566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Dunbars",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5619992,
+          -43.56863856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Dunbars",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5706914,
+          -43.57121086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Effingham",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7198271,
+          -43.49188926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Effingham",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7198481,
+          -43.49199128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Effingham",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7198934,
+          -43.491837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Estuary",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7355,
+          -43.5325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Estuary",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7371,
+          -43.5323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Farrington",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5876613,
+          -43.49035825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Farrington",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5876,
+          -43.49034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Farrington",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5876,
+          -43.49035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Farrington",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5876,
+          -43.49036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Farrington",
+        "Well_number": "Well  8",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5876,
+          -43.49037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Gardiners",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5884,
+          -43.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Gardiners",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5885,
+          -43.4673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Grampian",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6059,
+          -43.4782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Grampian",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6054045,
+          -43.47766164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Grampian",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6053,
+          -43.4775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Grassmere",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6145446,
+          -43.49239829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Grassmere",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6145894,
+          -43.49241798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Grassmere",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6145831,
+          -43.4924603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Grassmere",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6145,
+          -43.4923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Harewood",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5586,
+          -43.4782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hillmorton",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5929749,
+          -43.55412985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hillmorton",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5929711,
+          -43.55414351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hillmorton",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593,
+          -43.5543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hillmorton",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5944471,
+          -43.55343157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hills",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6513921,
+          -43.4991163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hills",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6514265,
+          -43.49907613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Hills",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6514727,
+          -43.49915488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Jeffreys",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5932638,
+          -43.51464698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Jeffreys",
+        "Well_number": "Well  9",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5933248,
+          -43.51462677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Brooklands/Kainga",
+        "pump_station_name": "Kainga",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6592564,
+          -43.41478389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Kerrs",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6815979,
+          -43.52479484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Kerrs",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6818126,
+          -43.52473393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Keyes",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7206,
+          -43.506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Keyes",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7208,
+          -43.5061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Keyes",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7224,
+          -43.5055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Lake Terrace",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6833229,
+          -43.50061039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Lake Terrace",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6836758,
+          -43.50042515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Rawhiti",
+        "pump_station_name": "Lake Terrace",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6832549,
+          -43.50065229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6386084,
+          -43.5623662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.639491,
+          -43.56184277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6397208,
+          -43.56271694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6383858,
+          -43.56104916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6389508,
+          -43.56112205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Main pumps",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6385169,
+          -43.56157324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Mairehau",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6830312,
+          -43.48165594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Marshlands",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6614453,
+          -43.49001274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Marshlands",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.661375,
+          -43.49007328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Mays",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6215641,
+          -43.50207442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Mays",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621654,
+          -43.50202101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Mays",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6216993,
+          -43.50211533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Mays",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6216993,
+          -43.50211533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Montreal",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6302917,
+          -43.52178414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Montreal",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6302528,
+          -43.5217177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Palatine",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6469038,
+          -43.56486735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Parklands",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7070625,
+          -43.48110033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Parklands",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7064013,
+          -43.48097157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Parklands",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7069941,
+          -43.48118294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Riccarton",
+        "pump_station_name": "Picton",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6044964,
+          -43.53238268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Riccarton",
+        "pump_station_name": "Picton",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6044359,
+          -43.53171713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Riccarton",
+        "pump_station_name": "Picton",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.604283,
+          -43.53239548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Prestons",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6635,
+          -43.4739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Prestons",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6635,
+          -43.4739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Prestons",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6635,
+          -43.4739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Parklands",
+        "pump_station_name": "Prestons",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6635,
+          -43.4739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Redwood",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Below ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6236755,
+          -43.47427413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Redwood",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6235532,
+          -43.47408287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Redwood",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6236755,
+          -43.47427413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Redwood",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "In construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6235532,
+          -43.47408287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5567334,
+          -43.53905977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5564849,
+          -43.53801007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5558,
+          -43.5367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5557,
+          -43.5366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5554367,
+          -43.53948814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Sockburn",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5543259,
+          -43.53996117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614447,
+          -43.5644986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6143164,
+          -43.56475532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614153,
+          -43.56464915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614357,
+          -43.56445305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6139369,
+          -43.56452373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Spreydon",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.614,
+          -43.5646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "St Johns",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6911322,
+          -43.5436141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "St Johns",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6910607,
+          -43.54365522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "St Johns",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.691379,
+          -43.54370161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Sydenham",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6354138,
+          -43.54944959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Sydenham",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6351,
+          -43.5494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Sydenham",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6355262,
+          -43.54924549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Sydenham",
+        "Well_number": "Well  8",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6353055,
+          -43.54924228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Riccarton",
+        "pump_station_name": "Tara",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5890496,
+          -43.53211709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Thompsons",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6288717,
+          -43.4579945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Thompsons",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6291794,
+          -43.45764675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Thorrington",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Decommissioned"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6328994,
+          -43.56424966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Trafalgar",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6354853,
+          -43.51258614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Trafalgar",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6360594,
+          -43.51268388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Trafalgar",
+        "Well_number": "Well  7",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6355851,
+          -43.5124172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Wilmers",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5387623,
+          -43.55669699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "West",
+        "pump_station_name": "Wilmers",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.538582,
+          -43.55712481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "Woolston",
+        "Well_number": "Well  3",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6834423,
+          -43.54843515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "Woolston",
+        "Well_number": "Well  4",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6835004,
+          -43.548479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Ferrymead",
+        "pump_station_name": "Woolston",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Wellhead raising in progress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.683221,
+          -43.54887852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Worcester",
+        "Well_number": "Well  1",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6526966,
+          -43.53077225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Central",
+        "pump_station_name": "Worcester",
+        "Well_number": "Well  2",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6525709,
+          -43.53045426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Wrights",
+        "Well_number": "Well  5",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5962,
+          -43.5451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "pressure_zone": "Northwest",
+        "pump_station_name": "Wrights",
+        "Well_number": "Well  6",
+        "Wellhead_location_and_construct": "Above ground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5959,
+          -43.5447
+        ]
+      }
+    }
+  ]
+}
