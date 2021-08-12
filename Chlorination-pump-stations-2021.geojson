@@ -685,26 +685,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Palatine",
-        "Zone": "Central",
-        "NumberOfWells": 1,
-        "Improvements": "Decommissioned",
-        "Status": "Complete",
-        "ChlorinationDose": "n/a",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6469,
-          -43.5649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Parklands",
         "Zone": "Parklands",
         "NumberOfWells": 3,
@@ -918,26 +898,6 @@
         "coordinates": [
           172.6289,
           -43.458
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Thorrington ",
-        "Zone": "Central",
-        "NumberOfWells": 1,
-        "Improvements": "Decommissioned",
-        "Status": "Complete",
-        "ChlorinationDose": "n/a",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6329,
-          -43.5643
         ]
       }
     },
