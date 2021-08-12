@@ -328,40 +328,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "pressure_zone": "Rawhiti",
-        "pump_station_name": "Bexley",
-        "Well_number": "Well  1",
-        "Wellhead_location_and_construct": "Decommissioned"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6297969,
-          -43.44201126
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "pressure_zone": "Rawhiti",
-        "pump_station_name": "Bexley",
-        "Well_number": "Well  2",
-        "Wellhead_location_and_construct": "Decommissioned"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6296426,
-          -43.44210693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Blighs",
         "Well_number": "Well  3",
@@ -1212,23 +1178,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "pressure_zone": "Northwest",
-        "pump_station_name": "Harewood",
-        "Well_number": "Well  1",
-        "Wellhead_location_and_construct": "Decommissioned"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.5586,
-          -43.4782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "pressure_zone": "Central",
         "pump_station_name": "Hillmorton",
         "Well_number": "Well  1",
@@ -1783,23 +1732,6 @@
         "coordinates": [
           172.6302528,
           -43.5217177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "pressure_zone": "Central",
-        "pump_station_name": "Palatine",
-        "Well_number": "Well  1",
-        "Wellhead_location_and_construct": "Decommissioned"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6469038,
-          -43.56486735
         ]
       }
     },
