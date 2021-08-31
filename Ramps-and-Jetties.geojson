@@ -380,6 +380,44 @@
         "Access": "Dual access concrete boat ramp and jetty",
         "Parking": "Ample"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "New Brighton Ramp",
+        "Address": "Owles Terrace",
+        "Fees": "None",
+        "Use": "Mid to high tide",
+        "Access": "Single access concrete boat ramp",
+        "Parking": "Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72613412847292,
+          -43.51168710530258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "South New Brighton Park",
+        "Fees": " None",
+        "Address": "South New Brighton Park",
+        "Use": "High tide",
+        "Access": "Single access concrete boat ramp, key required for gate available upon application from the Council",
+        "Parking": "Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73112601649188,
+          -43.531359463877315
+        ]
+      }
     }
   ]
 }
