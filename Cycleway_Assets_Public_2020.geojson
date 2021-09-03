@@ -96554,9 +96554,9 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Default",
+        "majorcycle": "Te Ara Ihutai Coastal Pathway",
         "urbanrural": "Urban",
-        "type": "Cycle path",
+        "type": "Shared path",
         "p_filter": 1,
         "fid": 3768,
         "SHAPE__Length": 17.8020098054419
@@ -111631,9 +111631,9 @@
       },
       "properties": {
         "servicesta": "In service",
-        "majorcycle": "Default",
+        "majorcycle": "Te Ara Ihutai Coastal Pathway",
         "urbanrural": "Urban",
-        "type": "Cycle path",
+        "type": "Shared path",
         "p_filter": 1,
         "fid": 4645,
         "SHAPE__Length": 560.8848938493235
@@ -120308,6 +120308,35 @@
         "p_filter": 1,
         "fid": 5566,
         "SHAPE__Length": 125.70458290717578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6523309942,
+            -43.3927809879
+          ],
+          [
+            172.6521398387,
+            -43.392683618
+          ],
+          [
+            172.6508459541,
+            -43.3894426346
+          ]
+        ]
+      },
+      "properties": {
+        "servicesta": "In service",
+        "majorcycle": "Default",
+        "urbanrural": "Urban",
+        "type": "Shared path",
+        "p_filter": 1,
+        "fid": 5572,
+        "SHAPE__Length": 542.9398594792762
       }
     },
     {
