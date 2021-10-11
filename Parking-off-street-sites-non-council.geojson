@@ -64,26 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "211 High Street",
-        "Entry": "127-139 Manchester Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 46,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.640037,
-          -43.534655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "200 Madras Street",
         "Entry": "192 Madras Street",
         "Notes": "",
