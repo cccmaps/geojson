@@ -9,7 +9,11 @@
         "Address": "Abberley Park 15 Abberley Crescent, St Albans",
         "Capacity": "60 standing and 40 seated",
         "Facilities": "Main room, kitchen",
-        "Image": "https://ccc.govt.nz/assets/Images/Culture-Community/Venues-for-hire/ABBERLEY-PARK-HALL.JPG"
+        "Image": "https://ccc.govt.nz/assets/Images/Culture-Community/Venues-for-hire/ABBERLEY-PARK-HALL.JPG",
+        "50plus": "Yes",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes"
       },
       "geometry": {
         "type": "Point",
