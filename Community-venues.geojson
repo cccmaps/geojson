@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Abberley Park Hall",
+        "URL": "https://ccc.govt.nz/culture-and-community/community-facilities/venues-for-hire/abberley-park-hall/",
+        "Address": "Abberley Park 15 Abberley Crescent, St Albans",
+        "Capacity": "60 standing and 40 seated",
+        "Facilities": "Main room, kitchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63023376464844,
+          -43.5135607849176
+        ]
+      }
+    }
+  ]
+}
