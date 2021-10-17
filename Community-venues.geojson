@@ -13,7 +13,7 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "Fifty-plus": "Yes"
+        "FiftyPlus": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -32,10 +32,10 @@
         "Capacity": "Sports Hall 300, large meeting room 30 seated, small meeting room 15 seated",
         "Facilities": "Sports Hall, kitchen, Large and small meeting rooms",
         "Image": "",
-        "50plus": "Yes",
         "Kitchen": "Yes",
         "AV": "No",
-        "Alcohol": "No"
+        "Alcohol": "No",
+        "FiftyPlus": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -54,10 +54,10 @@
         "Capacity": "Boardroom 30, meeting room 8",
         "Facilities": "Boardroom, kitchen",
         "Image": "",
-        "50plus": "No",
         "AV": "Yes",
         "Kitchen": "Yes",
-        "Alcohol": "No"
+        "Alcohol": "No",
+        "FiftyPlus": "No"
       },
       "geometry": {
         "type": "Point",
