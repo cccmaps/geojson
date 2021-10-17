@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Abberley Park Hall",
-        "URL": "https://ccc.govt.nz/culture-and-community/community-facilities/venues-for-hire/abberley-park-hall/",
+        "URL": "https://ccc.govt.nz/abberley-park-hall",
         "Address": "Abberley Park 15 Abberley Crescent, St Albans",
         "Capacity": "60 standing and 40 seated",
         "Facilities": "Main room, kitchen",
@@ -20,6 +20,50 @@
         "coordinates": [
           172.63023376464844,
           -43.5135607849176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Aranui Wainoni Community Centre",
+        "URL": "https://ccc.govt.nz/aranui-wainoni-community-centre",
+        "Address": "31 Hampshire Street, Aranui",
+        "Capacity": "Sports Hall 300, large meeting room 30 seated, small meeting room 15 seated",
+        "Facilities": "Sports Hall, kitchen, Large and small meeting rooms",
+        "Image": "",
+        "50plus": "Yes",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70041644573212,
+          -43.51190736892673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "25 Canterbury Street, Lyttelton",
+        "URL": "https://ccc.govt.nz/lyttelton-community-boardroom",
+        "Name": "Lyttelton Mt Herbert Community Facility",
+        "Capacity": "Boardroom 30, meeting room 8",
+        "Facilities": "Boardroom, kitchen",
+        "Image": "",
+        "50plus": "No",
+        "AV": "Yes",
+        "Kitchen": "Yes",
+        "Alcohol": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72055715322495,
+          -43.60195152603969
         ]
       }
     }
