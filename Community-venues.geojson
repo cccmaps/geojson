@@ -13,7 +13,7 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "FiftyPlus": 1
+        "FiftyPlus": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -35,7 +35,7 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "FiftyPlus": 1
+        "FiftyPlus": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +57,7 @@
         "AV": "Yes",
         "Kitchen": "Yes",
         "Alcohol": "No",
-        "FiftyPlus": 0
+        "FiftyPlus": "No"
       },
       "geometry": {
         "type": "Point",
