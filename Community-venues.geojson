@@ -116,7 +116,7 @@
         "Name": "The Gaiety Akaroa",
         "URL": "https://www.ccc.govt.nz/gaiety-akaroa",
         "Address": "Rue Jolie, Akaroa",
-        "Capacity": "Hall 358 people standing and up to 160 people seated",
+        "Capacity": "358 people standing and up to 160 people seated",
         "Facilities": "Hall",
         "Kitchen": "Yes",
         "AV": "No",
@@ -128,6 +128,48 @@
         "coordinates": [
           172.96391129493713,
           -43.808885272308984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Harvard Community Lounge",
+        "URL": "https://www.ccc.govt.nz/harvard-community-lounge",
+        "Address": "Corsair Drive on Wigram Green, Wigram",
+        "Capacity": "150 standing and 100 seated 100",
+        "Facilities": "Main room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5439095497131,
+          -43.54700841112853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hei Hei Community Centre",
+        "Address": "12 Wycola Avenue, Wycola Park, Hei Hei",
+        "URL": "https://www.ccc.govt.nz/hei-hei-community-centre",
+        "Capacity": "250 standing and 180 seated",
+        "Facilities": "Main room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.52181887626648,
+          -43.53580163356504
         ]
       }
     }
