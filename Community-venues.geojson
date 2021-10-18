@@ -9,11 +9,13 @@
         "Address": "Abberley Park 15 Abberley Crescent, St Albans",
         "Capacity": "60 standing and 40 seated",
         "Facilities": "Main room",
-        "Image": "https://ccc.govt.nz/assets/Images/Culture-Community/Venues-for-hire/ABBERLEY-PARK-HALL.JPG",
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "SmallVenue": "Yes",
+        "LargeVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -31,11 +33,13 @@
         "Address": "31 Hampshire Street, Aranui",
         "Capacity": "Sports Hall 300, large meeting room 30 seated, small meeting room 15 seated",
         "Facilities": "Sports Hall, Large and small meeting rooms",
-        "Image": "",
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -53,11 +57,13 @@
         "Name": "Lyttelton Mt Herbert Community Facility",
         "Capacity": "Boardroom 30, meeting room 8",
         "Facilities": "Boardroom",
-        "Image": "",
         "AV": "Yes",
         "Kitchen": "Yes",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "LargeVenue": "No",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +85,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "LargeVenue": "No",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -100,7 +109,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +133,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +157,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -163,7 +181,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -184,7 +205,10 @@
         "Kitchen": "Yes",
         "AV": "Yes",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -205,7 +229,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -226,7 +253,10 @@
         "Kitchen": "Yes",
         "AV": "Yes",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +277,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +301,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "SmallVenue": "Yes",
+        "LargeVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -289,7 +325,10 @@
         "Kitchen": "Yes",
         "AV": "Yes",
         "Alcohol": "No",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +349,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "LargeVenue": "No",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +373,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
-        "SeventyPlus": "Yes"
+        "SeventyPlus": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -352,7 +397,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "SmallVenue": "Yes",
+        "LargeVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -373,7 +421,10 @@
         "Kitchen": "Yes",
         "SeventyPlus": "Yes",
         "Alcohol": "Yes",
-        "AV": "Yes"
+        "AV": "Yes",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +445,10 @@
         "Kitchen": "Yes",
         "Alcohol": "Yes",
         "SeventyPlus": "Yes",
-        "AV": "No"
+        "AV": "No",
+        "LargeVenue": "Yes",
+        "SmallVenue": "Yes",
+        "LargeSmallVenue": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -415,7 +469,10 @@
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "SmallVenue": "Yes",
+        "LargeVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
@@ -436,7 +493,10 @@
         "Kitchen": "Yes",
         "AV": "Yes",
         "Alcohol": "No",
-        "SeventyPlus": "No"
+        "SeventyPlus": "No",
+        "SmallVenue": "Yes",
+        "LargeVenue": "No",
+        "LargeSmallVenue": "No"
       },
       "geometry": {
         "type": "Point",
