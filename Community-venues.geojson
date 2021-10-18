@@ -66,6 +66,70 @@
           -43.60195152603969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Image": "",
+        "Name": "Avice Hill Arts and Craft Centre",
+        "URL": "https://www.ccc.govt.nz/avice-hill-arts-and-craft-centre",
+        "Address": "395 Memorial Avenue, Burnside",
+        "Capacity": "Crafts room 25, Activities room 25",
+        "Facilities": "Crafts room, Activities room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.55822986364365,
+          -43.499083103746074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fendalton Community Centre",
+        "URL": "https://www.ccc.govt.nz/fendalton-community-centre",
+        "Address": "70 Clyde Road, Fendalton",
+        "Capacity": "Hall 200, Auditorium 100, Seminar room 30",
+        "Facilities": "Hall, Auditorium, Seminar room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59102523326874,
+          -43.51559150680678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Gaiety Akaroa",
+        "URL": "https://www.ccc.govt.nz/gaiety-akaroa",
+        "Address": "Rue Jolie, Akaroa",
+        "Capacity": "Hall 358 people standing and up to 160 people seated",
+        "Facilities": "Hall",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.96391129493713,
+          -43.808885272308984
+        ]
+      }
     }
   ]
 }
