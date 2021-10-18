@@ -298,6 +298,90 @@
           -43.53105698497277
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Richmond Cottage",
+        "URL": "https://www.ccc.govt.nz/richmond-cottage",
+        "Address": "Corner of London and Pavitt Streets, Richmond",
+        "Capacity": "30 standing and 25 seated",
+        "Facilities": "Main room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65498518943787,
+          -43.52012828942214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South New Brighton Community Hall",
+        "URL": "https://www.ccc.govt.nz/south-new-brighton-community-hall",
+        "Address": "74 Beatty Street, South New Brighton",
+        "Capacity": "99 people",
+        "Facilities": "Hall",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73296773433685,
+          -43.52772773000586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Martins Community Centre",
+        "URL": "https://www.ccc.govt.nz/st-martins-community-centre",
+        "Address": "Corner of Wades and Wilsons Roads, St Martins",
+        "Capacity": "49 people",
+        "Facilities": "Hall",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.65372991561887,
+          -43.55732675868356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Hāpua: Halswell Centre",
+        "URL": "https://www.ccc.govt.nz/te-hapuahalswell-centre",
+        "Address": "341 Halswell Road, Halswell",
+        "Capacity": "Mohoao 300, Hao 150, Piharau 30, Meeting Room Aua 6, Meeting Room Inaka 6, Meeting Room Kōkopu 8, Meeting Room Kōaro 12",
+        "Facilities": "Mohoao, Hao, Piharau, Meeting Rooms",
+        "Kitchen": "Yes",
+        "SeventyPlus": "Yes",
+        "Alcohol": "Yes",
+        "AV": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.56842494010925,
+          -43.5811680558841
+        ]
+      }
     }
   ]
 }
