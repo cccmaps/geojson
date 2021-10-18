@@ -172,6 +172,69 @@
           -43.53580163356504
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matuku Takotako: Sumner Centre",
+        "URL": "https://www.ccc.govt.nz/matuku-takotako-sumner-centre",
+        "Address": "14-16 Wakefield Avenue, Sumner",
+        "Capacity": "Hall 150 seating. Puoro-raki 20 seated and 30 standing. Pariroa 12 seated and 20 standing.",
+        "Facilities": "Puoro-nuku (Hall with stage), Puoro-raki, Pariroa ",
+        "Kitchen": "Yes",
+        "AV": "Yes",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7587330341339,
+          -43.56911255067265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North New Brighton Community Centre",
+        "URL": "https://www.ccc.govt.nz/north-new-brighton-community-centre",
+        "Address": "93 Marine Parade, New Brighton",
+        "Capacity": "200 for the whole building",
+        "Facilities": "First-floor function room, Ground-floor meeting room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.72684961557385,
+          -43.495055504512635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ōrauwhata: Bishopdale Community Centre",
+        "URL": "https://www.ccc.govt.nz/bishopdale-community-centre",
+        "Address": "13 Bishopdale Court, Bishopdale",
+        "Capacity": "Hall 160 standing and 130 seated. Meeting room 12 seated..",
+        "Facilities": "Hall, Meeting room",
+        "Kitchen": "Yes",
+        "AV": "Yes",
+        "Alcohol": "No",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.58551597595215,
+          -43.48963630584372
+        ]
+      }
     }
   ]
 }
