@@ -180,7 +180,7 @@
         "URL": "https://www.ccc.govt.nz/matuku-takotako-sumner-centre",
         "Address": "14-16 Wakefield Avenue, Sumner",
         "Capacity": "Hall 150 seating. Puoro-raki 20 seated and 30 standing. Pariroa 12 seated and 20 standing.",
-        "Facilities": "Puoro-nuku (Hall with stage), Puoro-raki, Pariroa ",
+        "Facilities": "Hall with stage, Meeting rooms",
         "Kitchen": "Yes",
         "AV": "Yes",
         "Alcohol": "Yes",
@@ -201,7 +201,7 @@
         "URL": "https://www.ccc.govt.nz/north-new-brighton-community-centre",
         "Address": "93 Marine Parade, New Brighton",
         "Capacity": "200 for the whole building",
-        "Facilities": "First-floor function room, Ground-floor meeting room",
+        "Facilities": "Function room, Meeting room",
         "Kitchen": "Yes",
         "AV": "No",
         "Alcohol": "Yes",
@@ -233,6 +233,69 @@
         "coordinates": [
           172.58551597595215,
           -43.48963630584372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parklands Recreation Centre",
+        "URL": "https://www.ccc.govt.nz/parklands-recreation-centre",
+        "Address": "75 Queenspark Drive, Parklands",
+        "Capacity": "300 standing and 250 seated",
+        "Facilities": "Recreation hall",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70469456911084,
+          -43.4818345301467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parkview Community Lounge",
+        "URL": "https://www.ccc.govt.nz/parkview-community-lounge",
+        "Address": "75 Queenspark Drive, Parklands",
+        "Capacity": "49 people",
+        "Facilities": "Main room",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "Yes",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.70441830158234,
+          -43.48160779847591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rārākau: Riccarton Centre",
+        "URL": "https://www.ccc.govt.nz/riccarton-centre",
+        "Address": "199 Clarence Street, Riccarton",
+        "Capacity": "Hall 155 standing and 100 seated. Activity room(1) 12 people. Activity Room(4) 20 people.",
+        "Facilities": "Main hall, Activity rooms",
+        "Kitchen": "Yes",
+        "AV": "Yes",
+        "Alcohol": "No",
+        "SeventyPlus": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.60165214538574,
+          -43.53105698497277
         ]
       }
     }
