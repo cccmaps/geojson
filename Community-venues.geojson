@@ -382,6 +382,69 @@
           -43.5811680558841
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Templeton Community Centre",
+        "URL": "https://www.ccc.govt.nz/templeton-community-centre",
+        "Address": "62 Kirk Road, Templeton",
+        "Capacity": "Hall 500 standing and 300 seated. Supper room 49 standing and 30 seated",
+        "Facilities": "Hall",
+        "Kitchen": "Yes",
+        "Alcohol": "Yes",
+        "SeventyPlus": "Yes",
+        "AV": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.47139334678647,
+          -43.549419034789175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waimairi Road Community Centre",
+        "Address": "166 Waimairi Road, Ilam",
+        "URL": "https://www.ccc.govt.nz/waimairi-road-community-centre",
+        "Capacity": "Large hall 30 standing and 25 seated. Small hall 25 standing and 20 seated",
+        "Facilities": "Large Hall, Small Hall",
+        "Kitchen": "Yes",
+        "AV": "No",
+        "Alcohol": "No",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.57261723279953,
+          -43.51803839699734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Woolston Community Library",
+        "URL": "https://www.ccc.govt.nz/woolston-library-and-community-centre",
+        "Address": "689 Ferry Road, Woolston",
+        "Capacity": "Hall 49 standing and 40 seated. Meeting room 4 people",
+        "Facilities": "Hall, Meeting room",
+        "Kitchen": "Yes",
+        "AV": "Yes",
+        "Alcohol": "No",
+        "SeventyPlus": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6830571889877,
+          -43.549228521266556
+        ]
+      }
     }
   ]
 }
