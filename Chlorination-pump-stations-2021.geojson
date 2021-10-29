@@ -48,9 +48,9 @@
         "PumpStationName": "Aston Drive",
         "Zone": "Rawhiti",
         "NumberOfWells": 2,
-        "Improvements": "Raise two wellheads",
-        "Status": "In construction",
-        "ChlorinationDose": "n/a",
+        "Improvements": "Two wellheads raised",
+        "Status": "Complete",
+        "ChlorinationDose": "0.5 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -68,9 +68,9 @@
         "PumpStationName": "Auburn",
         "Zone": "Northwest",
         "NumberOfWells": 1,
-        "Improvements": "One wellhead raised",
-        "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
+        "Improvements": "One wellhead raised, suction tank repairs",
+        "Status": "In construction",
+        "ChlorinationDose": "0.5 mg/L",
         "At": "n/a"
       },
       "geometry": {
@@ -968,8 +968,8 @@
         "PumpStationName": "Woolston",
         "Zone": "Ferrymead",
         "NumberOfWells": 3,
-        "Improvements": "One wellhead already above ground, one raised, one to be raised",
-        "Status": "In construction",
+        "Improvements": "One wellhead already above ground, two raised",
+        "Status": "Complete",
         "ChlorinationDose": "0.5 mg/L",
         "At": "the zone extremities"
       },
