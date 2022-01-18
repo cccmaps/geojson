@@ -196,6 +196,22 @@
           -43.302903
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lockable cycle stand",
+        "Capacity": 8,
+        "Address": "203 Cashel Street",
+        "Provider": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64154464006424,
+          -43.53302489272625
+        ]
+      }
     }
   ]
 }
