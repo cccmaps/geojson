@@ -1011,13 +1011,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Aston Drive",
         "Zone": "Rawhiti",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1068,13 +1071,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Avonhead",
         "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1220,13 +1226,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Crosbie",
         "Zone": "Northwest",
         "NumberOfWells": 3,
         "Improvements": "Two wellheads already above ground, one wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1277,13 +1286,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Effingham",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1562,13 +1574,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Marshlands",
         "Zone": "Parklands",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1619,13 +1634,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Parklands",
         "Zone": "Parklands",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1638,13 +1656,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Picton",
         "Zone": "Riccarton",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the zone extremities"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1790,13 +1811,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Tara",
         "Zone": "Riccarton",
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the zone extremities"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1833,16 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "PumpStationName": "Thompsons",
         "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "One wellhead already above ground, one raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
