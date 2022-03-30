@@ -3,242 +3,642 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Akaroa Recreation Ground",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 3",
+        "Address": "Rue Brittan, Akaroa, 7520"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.690668,
-          -43.503973
+          172.9690911,
+          -43.80076196
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
-        "SportCode": "Tennis",
-        "Address": "Woolley Street, Avondale",
         "Parkname": "Avondale Park",
-        "Type": "1 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Woolley St, Avondale, 8061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6907178,
+          -43.50401737
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Avonhead Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "146 Hawthornden Road, Avonhead, 8042"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.616822,
-          -43.528886
+          172.5461931,
+          -43.5097581
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Barrington Street, Spreydon",
-        "Parkname": "Barrington Park",
-        "Type": "Volley wall"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Awa-iti Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Western Valley Road, Little River, 7591"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.577293,
-          -43.576262
+          172.7960449,
+          -43.76487081
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
+        "Parkname": "Broken Run Reserve",
         "SportCode": "Tennis",
-        "Address": "Forgan Lane/Marsack Crescent, Halswell",
+        "Type": "Tennis Court x 1",
+        "Address": "298 Wigram Road, Halswell, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5600763,
+          -43.55943779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Brooklands Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Anfield Street, Brooklands, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.698151,
+          -43.40271265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Cashmere Valley Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Valley Road, Cashmere, 8022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6260918,
+          -43.57073637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Centennial Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Lyttelton St, Hoon Hay, 8024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6126702,
+          -43.56547793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Cholmondeley Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Ernest Adams Drive, Governors Bay 8971"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6473647,
+          -43.62781545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Donnell Sports Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Brooker Avenue, Burwood, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.695739,
+          -43.4963596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "F W Delamain Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "F W Delamain Drive, Yaldhurst, 8042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5152485,
+          -43.52377329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Parkname": "Forgan Reserve",
-        "Type": "1 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Forgan Lane, Halswell, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.577316,
+          -43.57618821
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Francis Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Cashmere Road, Westmoreland, 8025"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.616541,
-          -43.52954
+          172.604744,
+          -43.57540499
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
-        "SportCode": "Tennis",
-        "Address": "Armagh Street entrance to Hagley Park, CBD",
         "Parkname": "Hagley Park North",
-        "Type": "4 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "14 Riccarton Avenue, Christchurch Central City, 8011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6162953,
+          -43.52993889
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Halswell Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Halswell Road, Halswell, 8025"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.670388,
-          -43.560476
+          172.5692485,
+          -43.57713317
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Opawa Road, Hillsborough",
-        "Parkname": "Hillsborough Park",
-        "Type": "1 full court"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Heathcote Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Port Hills Road, Heathcote Valley, 8022"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.592171,
-          -43.514265
+          172.7073871,
+          -43.57943414
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
+        "Parkname": "Hornby Domain",
         "SportCode": "Tennis",
-        "Address": "Jeffreys Road, Fendalton",
+        "Type": "Tennis Court x 1",
+        "Address": "Main South Road, Hornby, 8042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5113324,
+          -43.54603583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Parkname": "Jeffreys Reserve",
-        "Type": "1 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Jeffreys Road, Fendalton, 8052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5921846,
+          -43.51422808
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "King Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "St Andrews Hill Road, Mount Pleasant, 8081"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.615897,
-          -43.515941
+          172.7170357,
+          -43.55604466
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Rugby Street, Merivale",
-        "Parkname": "Merivale Reserve",
-        "Type": "1 full court"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Kirk Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Kirk Road, Templeton, 8042"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.715131,
-          -43.567601
+          172.4716763,
+          -43.54948409
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Major Hornbrook Road, Mount Pleasant",
-        "Parkname": "Mount Pleasant Old School Reserve",
-        "Type": "1 full court"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Le Bons Bay Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Le Bons Bay 7583"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.722643,
-          -43.503232
+          173.0940511,
+          -43.74295052
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Shaw Avenue, New Brighton",
-        "Parkname": "Rawhiti Domain",
-        "Type": "4 full courts"
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.706575,
-          -43.430192
-        ]
-      },
       "properties": {
-        "SportCode": "Tennis",
-        "Address": "Heyders Road, Bottle Lake",
-        "Parkname": "Spencerville Reserve",
-        "Type": "1 full court and 2 half courts"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.704284,
-          -43.430724
-        ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Heyders Road, Bottle Lake",
-        "Parkname": "Spencer Park",
-        "Type": "1 full court"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.469726,
-          -43.550968
-        ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Kirk Road, Templeton",
-        "Parkname": "Templeton Domain",
-        "Type": "1 full court"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.675972,
-          -43.475429
-        ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Prestons Road, Parklands",
         "Parkname": "Limes Reserve",
-        "Type": "1 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": " 460 Prestons Rd, Parklands, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6757243,
+          -43.47534185
+        ]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Linwood Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Linwood Avenue, Phillipstown, 8062"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.564202,
-          -43.529147
+          172.6758045,
+          -43.53774538
         ]
-      },
-      "properties": {
-        "SportCode": "Tennis",
-        "Address": "Yaldhurst Road, Ilam",
-        "Parkname": "Upper Riccarton Domain",
-        "Type": "1 full court"
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "Parkname": "Little Akaloa Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "577-589 Little Akaloa Road, Little Akaloa 7583"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.674685,
-          -43.547942
+          172.98962,
+          -43.6753653
         ]
-      },
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
+        "Parkname": "Marshland Domain",
         "SportCode": "Tennis",
-        "Address": "Richardson Terrace, Woolston",
+        "Type": "Tennis Court x 4",
+        "Address": "420 Prestons Road, Marshland, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6661684,
+          -43.47418851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Merivale Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Merivale Lane, Merivale, 8014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6159029,
+          -43.51588611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Okuti Valley Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "Okuti Valley Road, Little River 7591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8160655,
+          -43.78645018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Old School Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Major Hornbrook Road, Mt Pleasant, 8081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7153422,
+          -43.56748205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Ouruhia Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 3",
+        "Address": "Chenery Ave, Ouruhia, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6505136,
+          -43.441071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Queenspark Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 3",
+        "Address": "Queenspark Drive, Parklands, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6963624,
+          -43.47427115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Six Silvers Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Six Silvers Avenue, Halswell, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5788275,
+          -43.58080151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Spencer Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "100 Heyders Road, Spencerville, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7064994,
+          -43.43005876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Spencerville Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Heyders Road, Spencerville, 8083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6962513,
+          -43.43355868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Stallion Reserve",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": " 10 Stallion Avenue - Halswell, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5582884,
+          -43.56580741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Tautoru Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "29 Orr Street, Wigram, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5561908,
+          -43.5567894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Templeton Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "Kirk Rd, Templeton, 8042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.4688714,
+          -43.550666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "The Oaks Park",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": "265 Halswell Road, Halswell, 8025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.570526,
+          -43.57372121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Wainui Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 2",
+        "Address": "19 Wainui Valley Road, Wainui 7582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.9012312,
+          -43.81676252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Parkname": "Woolston Park",
-        "Type": "1 full court"
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 1",
+        "Address": " Ferry Rd, Christchurch Central, 8023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6746635,
+          -43.54794174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Parkname": "Yaldhurst Domain",
+        "SportCode": "Tennis",
+        "Type": "Tennis Court x 4",
+        "Address": " Yaldhurst Rd , Sockburn, 7676"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5010371,
+          -43.50912277
+        ]
       }
     }
   ]
