@@ -212,6 +212,22 @@
           -43.53302489272625
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lockable cycle stand",
+        "Capacity": 10,
+        "Address": "Lincoln University",
+        "Provider": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.46769726276398,
+          -43.64350178664112
+        ]
+      }
     }
   ]
 }
