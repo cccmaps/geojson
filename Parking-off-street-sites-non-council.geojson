@@ -466,26 +466,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "122 Manchester Street",
-        "Entry": "107 Lichfield Street",
-        "Notes": "",
-        "Name": "Good Spot off-street parking",
-        "Parking-spaces": 70,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.facebook.com/GoodSpotNZ/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.639884,
-          -43.533964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "204 Manchester Street",
         "Entry": "178 Gloucester Street",
         "Notes": "",
