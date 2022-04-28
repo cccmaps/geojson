@@ -84,26 +84,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "202 Madras Street",
-        "Entry": "241 Tuam Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 181,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.642956,
-          -43.535097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "140 Barbadoes Street",
         "Entry": "136 Barbadoes Street",
         "Notes": "",
@@ -590,24 +570,6 @@
         "coordinates": [
           172.63281404972076,
           -43.53547107588393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "240 Hereford Street",
-        "Entry": "240 Hereford Street",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 55,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
-        "Notes": " "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.64411687850952,
-          -43.532202346209125
         ]
       }
     },
