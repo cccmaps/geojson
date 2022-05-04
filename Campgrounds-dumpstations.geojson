@@ -376,27 +376,6 @@
       "type": "Feature",
       "properties": {
         "Type": "Campground",
-        "Name": "Onuku Farm Hostel Van Park ",
-        "Address": "89 Hamiltons Rd, Akaroa - Onuku 7520",
-        "Phone": "03 304 7066",
-        "Website": "http://onuku.co.nz/home/",
-        "Facilities": "Suitable for any vehicle type, free Wi-Fi, credit accepted and more ",
-        "Campground": "Yes",
-        "campground-price": "From $15",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.953245,
-          -43.844229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Campground",
         "Name": "Little River Campground ",
         "Address": "287 Okuti Valley Rd, Little River 7591",
         "Phone": "03 325 1014",
