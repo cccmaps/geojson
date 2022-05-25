@@ -353,8 +353,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.636155,
-          -43.531277
+          172.634078,
+          -43.530052
         ]
       }
     },
@@ -430,23 +430,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
-        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
-        "Location": "Cathedral Square",
-        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.636086,
-          -43.5338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "Name": "Explorer Zone",
         "Artist-company": "Riverside ",
         "Location": "Oxford Terrace",
@@ -508,6 +491,23 @@
         "coordinates": [
           172.6409,
           -43.5356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636155,
+          -43.531277
         ]
       }
     }
