@@ -5,17 +5,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Fairy Forest",
-        "Artist-company": "Newco",
-        "Location": "Friendship Corner, Durham Street",
-        "Description": "Delight in the wonderful fairy lights in the trees outside of Riverside.",
-        "CBD": 1
+        "Name": "Te Atamira - Stage",
+        "Artist-company": "Cirkocali ",
+        "Location": "Cathedral Square",
+        "Description": "Fire shows, aerial performances, DJ and live music performed every night from 7pm - 9pm "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633433,
-          -43.533806
+          172.636265,
+          -43.531541
         ]
       }
     },
@@ -23,17 +22,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Daleks",
-        "Artist-company": "Jane Downes",
-        "Location": "Friendship Corner, Durham Street",
-        "Description": "Calling all Dr Who fans, check out three fabulously scary Daleks.",
-        "CBD": 1
+        "Name": "Tahurangi",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Lighting up the back drop to the stage, the 3 large trees will illuminate the entrance to Cathedral Square "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633386,
-          -43.533447
+          172.636254,
+          -43.531578
         ]
       }
     },
@@ -41,17 +39,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Stars in the River",
-        "Artist-company": "Newco",
-        "Location": "The Terrace",
-        "Description": "The Avon River and surrounding trees will be transformed to seem as if the heavens have descended to earth.",
-        "CBD": 1
+        "Name": "Whakamaramatia te P?",
+        "Artist-company": "PIXEL",
+        "Location": "Cathedral Square",
+        "Description": "Magical projection onto the old post office building clock tower bringing it to life. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633757,
-          -43.532669
+          172.636056,
+          -43.531444
         ]
       }
     },
@@ -59,17 +56,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Tīrama Mai",
-        "Artist-company": "The Light Site and Illumanati",
-        "Location": "Park of Remembrance, Cambridge Terrace",
-        "Description": "Tirama Mai logo and stars in lights",
-        "CBD": 1
+        "Name": "Ng? Whet?, Ng? Manu - Matariki Lanterns ",
+        "Artist-company": "ILLUMINATI ",
+        "Location": "Cathedral Square",
+        "Description": "10 Lanterns representing all 10 stars visible in the South Island as part of the Matariki Constellation."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633129,
-          -43.532428
+          172.636112,
+          -43.530929
         ]
       }
     },
@@ -77,17 +73,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Night Creatures",
-        "Artist-company": "The Light Site",
-        "Location": "Mill Island, Avon River",
-        "Description": "Night creatures will appear in the island on the Avon, thrilling young and old alike.",
-        "CBD": 1
+        "Name": "Te Ataata ",
+        "Artist-company": "Lightsite ",
+        "Location": "Cathedral Square",
+        "Description": "Lighting up the trees with an amazing coloured lighting display making the Old Post Office glow with colour. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633172,
-          -43.531714
+          172.6356,
+          -43.531191
         ]
       }
     },
@@ -95,17 +90,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Dancing Fountain",
-        "Artist-company": "Spectrum",
-        "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Watch the water dance to music. Proudly bought to you by Antarctica New Zealand.",
-        "CBD": 1
+        "Name": "Kaih?para o Ng? P?taiao                                           Otago Museum - Bringing the light ",
+        "Artist-company": "Otago Museum/Apex The Artist ",
+        "Location": "Cathedral Square",
+        "Description": "Laser, lenses, luminous chemicals and more! Get hands-on with the science of light! Operating out of a container in Cathedral Square - Final weekend only "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633612,
-          -43.531294
+          172.636338,
+          -43.531246
         ]
       }
     },
@@ -113,17 +107,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Antarctica Reel",
-        "Artist-company": "Anthony Powell",
-        "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Amazing footage from the Antarctic showing the night sky, ice shelves, penguins and whales. Proudly bought to you by Antarctica New Zealand.",
-        "CBD": 1
+        "Name": "T?rama Mai ",
+        "Artist-company": "Lightsite ",
+        "Location": "Cathedral Square",
+        "Description": "T?rama Mai "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633891,
-          -43.531053
+          172.635533,
+          -43.531106
         ]
       }
     },
@@ -131,17 +124,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Scott of the Antarctic",
-        "Artist-company": "Pixel",
-        "Location": "Scott Statue Reserve, cnr Worcester and Oxford Terrace",
-        "Description": "Projection onto Scott's Statue, he will appear to walk through snow storms and blizzards",
-        "CBD": 1
+        "Name": "T?rama Mai",
+        "Artist-company": "ILLUMINATI ",
+        "Location": "Cathedral Square",
+        "Description": "T?rama Mai Star "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633451,
-          -43.53111
+          172.635533,
+          -43.531106
         ]
       }
     },
@@ -149,17 +141,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "River on Worcester",
-        "Artist-company": "Pixel",
-        "Location": "Christchurch City Council Civic Offices,  Worcester Boulevard ramp",
-        "Description": "The Pou and ramp will come to life with a projection of a flowing river and eels.",
-        "CBD": 1
+        "Name": "Mitre 10: Ng? K?rero�Pakiwaitara                      Matariki Storytelling fire pit ",
+        "Artist-company": "Spectrum ",
+        "Location": "Cathedral Square",
+        "Description": "Come and enjoy the heat around the firepit and listen to live and recorded stories about Matariki."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.631627,
-          -43.531079
+          172.636186,
+          -43.530638
         ]
       }
     },
@@ -167,17 +158,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Christchurch Arts Centre light projection",
-        "Artist-company": "The Light Site",
-        "Location": "Christchurch Arts Centre, Worcester Boulevard",
-        "Description": "Spectacular lighting display enhancing the stunning architecture with colour and light.",
-        "CBD": 1
+        "Name": "Te P?atata o te Papa",
+        "Artist-company": "A C LIGHTING ",
+        "Location": "Cathedral Square",
+        "Description": "Magical Lights in and above the grasses pulsing and glowing creating movement in the amazing light show. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.628086,
-          -43.531018
+          172.63556,
+          -43.530593
         ]
       }
     },
@@ -185,17 +175,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Canterbury Musuem light projection",
-        "Artist-company": "Spectrum",
-        "Location": "Canterbury Museum, Rolleston Ave",
-        "Description": "The museum facade will be awash with colour.",
-        "CBD": 1
+        "Name": "Muramura te Mahara",
+        "Artist-company": "Lightsite/Ariki Creative ",
+        "Location": "Cathedral Square",
+        "Description": "Telling the origin story of Matariki within a stunning light and sound full immersion experience. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.627504,
-          -43.530932
+          172.63537,
+          -43.530391
         ]
       }
     },
@@ -203,17 +192,271 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Tree of Bees",
-        "Artist-company": "Spectrum",
+        "Name": "Kia T?rama - Light fantastic ",
+        "Artist-company": "A C LIGHTING ",
+        "Location": "Cathedral Square",
+        "Description": "Amazing light show bringing to life this old Christchurch landmark, the old Rydges carpark."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635236,
+          -43.53055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Te Karu Wh?tata - Star Snapshot ",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Look through the telescope to see the Matariki constellation. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635775,
+          -43.530391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ng? Kapowai",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Huge Dragonflies and reeds showing the connection between the stars and nature. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634764,
+          -43.530185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Matariki ",
+        "Artist-company": "Art Fetiche",
+        "Location": "Cathedral Square",
+        "Description": "Be amazed by this 3D animation of our Matariki Character, check out our panels to read the full story. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634547,
+          -43.530212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Kaih?para o Te Tiri o Te Moana                             Antarctic New Zealand Explorer Zone",
+        "Artist-company": "Antarctic NZ",
+        "Location": "Cathedral Square",
+        "Description": "Explore the Antarctic, with amazing footage supplied by Anthony Powel. Come find out more about our amazing connection to Antarctica. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636363,
+          -43.530185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Te Whenua T?rama - Field of Lights",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Stunning installation in the shape of a koru pulsing colour and sound. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633796,
+          -43.530263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Te T?patu o te M?rama - Interactive Drum and Lights",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Interactive drum and lights. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633635,
+          -43.530407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Te Poi o te M?rama",
+        "Artist-company": "Electro-tech Services ",
+        "Location": "Cathedral Square",
+        "Description": "Ball of light, refracting colour and light. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633783,
+          -43.530642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Te Turama o ng? R?kau",
+        "Artist-company": "Lightsite ",
+        "Location": "Cathedral Square",
+        "Description": "Lighting the Avon river trees, creating a stunning back drop to the riverside setting of the festival. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.633247,
+          -43.530151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634078,
+          -43.530052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634466,
+          -43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635,
+          -43.530357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.635791,
+          -43.530268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636391,
+          -43.530136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Ngao Matariki - Ka T?aho, Ka T?manako - Cubes",
+        "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
+        "Location": "Cathedral Square",
+        "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.636086,
+          -43.5338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "Name": "Explorer Zone",
+        "Artist-company": "Riverside ",
         "Location": "Oxford Terrace",
-        "Description": "The bees will appear to buzz around a hive, a sweet little installation for the whole family.",
-        "CBD": 1
+        "Description": "Check out one of the explorer zones and grab yourself something to eat / drink at Riverside!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633443,
-          -43.530401
+          172.6339,
+          -43.5337
         ]
       }
     },
@@ -221,17 +464,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Triangles on the Green",
-        "Artist-company": "Spectrum",
-        "Location": "Oxford Terrace",
-        "Description": "Vividly coloured triangles that look amazing in the dark.",
-        "CBD": 1
+        "Name": "Explorer Zone",
+        "Artist-company": "The Arts Centre",
+        "Location": "Rolleston Ave",
+        "Description": "Check out one of the explorer zones and check out the amazing art on offer at The Arts Centre!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.633765,
-          -43.530837
+          172.628,
+          -43.5309
         ]
       }
     },
@@ -239,17 +481,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki",
-        "Artist-company": "Ariki Creative/Art Fetiche",
-        "Location": "Oxford Terrace ",
-        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year.",
-        "CBD": 1
+        "Name": "Explorer Zone",
+        "Artist-company": "New Regent Street ",
+        "Location": "New Regent Street ",
+        "Description": "Check out one of the explorer zones and grab yourself an ice cream or check out one of the restuarants at New Regant Street!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.6346916,
-          -43.52959462
+          172.6387,
+          -43.5297
         ]
       }
     },
@@ -257,305 +498,16 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki",
-        "Artist-company": "Ariki Creative/Art Fetiche",
-        "Location": "Victoria Square",
-        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year.",
-        "CBD": 1
+        "Name": "Explorer Zone",
+        "Artist-company": "Little High Eatery",
+        "Location": "St Asaph Street ",
+        "Description": "Check out one of the explorer zones and grab yourself something to eat / drink at Little High Eatery!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.6364028,
-          -43.5285445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Ngao Matariki",
-        "Artist-company": "Ariki Creative/Art Fetiche",
-        "Location": "New Regent Street",
-        "Description": "Amazing cubes designed and created by local artists - Ngao meaning the core energy source of Matariki that is influencing change and a new surge of energy representing the New Year.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6387149,
-          -43.5291318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Walkway of Light",
-        "Artist-company": "A & C Lighting",
-        "Location": "Victoria Square",
-        "Description": "Explore this tunnel of light featuring LED lighting.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.635829,
-          -43.528685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Bowker Fountain String Sculpture",
-        "Artist-company": "Asheley Elizabeth/In Good Form",
-        "Location": "Victoria Square",
-        "Description": "String art like its never been seen before, water and light will make the strings dance.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.636113,
-          -43.528014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Ferrier Fountain",
-        "Artist-company": "Christchurch Town Hall",
-        "Location": "Victoria Square",
-        "Description": "The Ferrier Fountain will be lit up and the Avon Room facing Victoria Square will glow with light.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.635534,
-          -43.527632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Canterbury Club light projection",
-        "Artist-company": "Spectrum",
-        "Location": "Canterbury Club",
-        "Description": "The Canterbury Club will be lit up in beautiful soft lighting.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6325499,
-          -43.53105018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "New Brighton Pier light projection",
-        "Artist-company": "The Light Site",
-        "Location": "New Brighton Pier",
-        "Description": "The Pier will be lit up in different colours.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.733501,
-          -43.506279
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Triangles on the Green Part II",
-        "Artist-company": "Spectrum",
-        "Location": "He Puna Taimoana: New Brighton hot pools",
-        "Description": "Triangles that look fantastic in the dark in a variety of colours.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.730746,
-          -43.505558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "The Lone Tree",
-        "Artist-company": "Spectrum",
-        "Location": "New Brighton Library",
-        "Description": "Uplighting of the Pine tree by New Brighton Library.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.731124,
-          -43.506622
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "New Brighton Library light projection",
-        "Artist-company": "The Light Site",
-        "Location": "New Brighton Library",
-        "Description": "Spectacular coloured light show, highlighting the sails along the front of the Library.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.731512,
-          -43.506771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Lighting Ball",
-        "Artist-company": "Kerry Tunstall",
-        "Location": "New Brighton Mall",
-        "Description": "Large globe suspended in the air.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.729349,
-          -43.507286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Shop light projection",
-        "Artist-company": "Kerry Tunstall",
-        "Location": "Recreate, New Brighton Mall",
-        "Description": "Projection in the Recreate window.",
-        "CBD": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.730395,
-          -43.507059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "New Regent Street light projection",
-        "Artist-company": "Spectrum",
-        "Location": "New Regent Street",
-        "Description": "New Regent Street will glow with light.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6387176,
-          -43.52962379
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Tāhū o ngā Maunga Tūmatakahuki",
-        "geometry": "Point",
-        "Artist-company": "Newco",
-        "Location": "Christchurch Art Gallery, Worcester Boulevard ",
-        "Description": "The vividly coloured mural by Kelcy Taratoa will come to life with stunning lighting.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63173580169675,
-          -43.53062333658693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Exhibition Panels",
-        "geometry": "Point",
-        "Artist-company": "Maui Studios",
-        "Location": "Cashel Mall",
-        "Description": "Discover the story of Matariki and the significance of the stars.",
-        "CBD": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63552844524384,
-          -43.53314350961994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Performance zone 1",
-        "Artist-company": " Cirko Kali",
-        "Location": ": The Arts Centre, Market Square",
-        "CBD": 1,
-        "Description": " Cirko Kali presents Kā Whetū - The Stars featuring dazzling aerial, fire, and kapa haka performances."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63005673885345,
-          -43.5312903370739
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "Name": "Performance zone 2",
-        "Location": "Bridge of Remembrance ",
-        "CBD": 1,
-        "Artist-company": " Cirko Kali",
-        "Description": " Cirko Kali presents Kā Whetū - The Stars featuring dazzling aerial, fire, and kapa haka performances."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63335183262825,
-          -43.53312795331931
+          172.6409,
+          -43.5356
         ]
       }
     }
