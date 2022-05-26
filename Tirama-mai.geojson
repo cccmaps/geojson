@@ -5,10 +5,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Atamira - Stage",
+        "Name": "Te Atamira (Tīrama Mai Stage)",
         "Artist-company": "Cirkocali ",
         "Location": "Cathedral Square",
-        "Description": "Fire shows, aerial performances, DJ and live music performed every night from 7pm to 9pm."
+        "Description": "Fire shows, aerial performances, DJ and live music every night from 7pm to 9pm. "
       },
       "geometry": {
         "type": "Point",
@@ -22,10 +22,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Tahurangi",
+        "Name": "Tahurangi (Lighting the trees)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
-        "Description": "Lighting up the back drop to the stage, the 3 large trees will illuminate the entrance to Cathedral Square."
+        "Description": "Lighting up the back drop to the stage, three large trees will illuminate the entrance to Cathedral Square."
       },
       "geometry": {
         "type": "Point",
@@ -39,10 +39,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Whakamaramatia te Pō",
+        "Name": "Whakamaramatia te Pō (Lighting the old post office)",
         "Artist-company": "PIXEL",
         "Location": "Cathedral Square",
-        "Description": "Magical projection onto the old post office building clock tower bringing it to life. "
+        "Description": "Magical projection bringing the Old Post Office Building to life. "
       },
       "geometry": {
         "type": "Point",
@@ -56,10 +56,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngā Whetū, Ngā Manu - Matariki Lanterns ",
+        "Name": "Ngā Whetū, Ngā Manu (Matariki star lanterns)",
         "Artist-company": "ILLUMINATI ",
         "Location": "Cathedral Square",
-        "Description": "10 Lanterns representing all 10 stars visible in the South Island as part of the Matariki Constellation."
+        "Description": "A series of lanterns representing all 10 of the stars visible in the South Island as part of the Matariki Constellation."
       },
       "geometry": {
         "type": "Point",
@@ -73,10 +73,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Ataata ",
+        "Name": "Te Ataata (Lighting the trees)",
         "Artist-company": "Lightsite ",
         "Location": "Cathedral Square",
-        "Description": "Lighting up the trees with an amazing coloured lighting display making the Old Post Office glow with colour. "
+        "Description": "Amazing lighting display making the Old Post Office Building glow with colour. "
       },
       "geometry": {
         "type": "Point",
@@ -90,10 +90,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Kaihōpara o Ngā Pūtaiao - Otago Museum - Bringing the light ",
+        "Name": "Kaihōpara o Ngā Pūtaiao (Explore with Otago Museum)",
         "Artist-company": "Otago Museum/Apex The Artist ",
         "Location": "Cathedral Square",
-        "Description": "Laser, lenses, luminous chemicals and more. Get hands-on with the science of light. Operating out of a container in Cathedral Square - Final weekend only "
+        "Description": "Lasers, lenses, luminous chemicals and more! Get hands-on with the science of light! Operating out of a container in Cathedral Square."
       },
       "geometry": {
         "type": "Point",
@@ -107,10 +107,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Tīrama Mai ",
+        "Name": "Tīrama Mai (Tīrama Mai Sign)",
         "Artist-company": "Lightsite ",
         "Location": "Cathedral Square",
-        "Description": "Tīrama Mai. "
+        "Description": "The Tīrama Mai sign."
       },
       "geometry": {
         "type": "Point",
@@ -124,10 +124,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Tīrama Mai ",
+        "Name": "Tīrama Mai (Tīrama Mai Star)",
         "Artist-company": "ILLUMINATI ",
         "Location": "Cathedral Square",
-        "Description": "Tīrama Mai Star. "
+        "Description": "Beautiful Tīrama Mai star. "
       },
       "geometry": {
         "type": "Point",
@@ -141,10 +141,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Mitre 10: Ngā Kōrero Pakiwaitara - Matariki Storytelling fire pit ",
+        "Name": "Mitre 10: Ngā Kōrero Pakiwaitara (Mitre 10: Matariki story telling fire pit)",
         "Artist-company": "Spectrum ",
         "Location": "Cathedral Square",
-        "Description": "Come and enjoy the heat around the firepit and listen to live and recorded stories about Matariki."
+        "Description": "Warm up around the firepit while hearing stories about Matariki. "
       },
       "geometry": {
         "type": "Point",
@@ -158,10 +158,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Pīatata o te Papa",
+        "Name": "Te Pīatata o te Papa (Glowing grasses)",
         "Artist-company": "A C LIGHTING ",
         "Location": "Cathedral Square",
-        "Description": "Magical Lights in and above the grasses pulsing and glowing creating movement in the amazing light show. "
+        "Description": "Magical lights pulse and glow, creating an amazing light show within the grasses. "
       },
       "geometry": {
         "type": "Point",
@@ -175,10 +175,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Muramura te Mahara",
+        "Name": "Muramura te Mahara (Memories ignited)",
         "Artist-company": "Lightsite/Ariki Creative ",
         "Location": "Cathedral Square",
-        "Description": "Telling the origin story of Matariki within a stunning light and sound full immersion experience. "
+        "Description": "Hear the story of Matariki in this dazzling, immersive experience. "
       },
       "geometry": {
         "type": "Point",
@@ -192,10 +192,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Kia Tūrama - Light fantastic ",
+        "Name": "Kia Tūrama (Light fantastic)",
         "Artist-company": "A C LIGHTING ",
         "Location": "Cathedral Square",
-        "Description": "Amazing light show bringing to life this old Christchurch landmark, the old Rydges carpark."
+        "Description": "Luminous light show bringing to life this Christchurch landmark, the old Rydges car park."
       },
       "geometry": {
         "type": "Point",
@@ -209,7 +209,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Karu Whātata - Star Snapshot ",
+        "Name": "Te Karu Whātata (Star snapshot)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
         "Description": "Look through the telescope to see the Matariki constellation. "
@@ -226,7 +226,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngā Kapowai",
+        "Name": "Ngā Kapowai (Dragon flies)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
         "Description": "Huge Dragonflies and reeds showing the connection between the stars and nature. "
@@ -243,10 +243,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Matariki ",
+        "Name": "Matariki (3D Matariki animation)",
         "Artist-company": "Art Fetiche",
         "Location": "Cathedral Square",
-        "Description": "Be amazed by this 3D animation of our Matariki Character, check out our panels to read the full story. "
+        "Description": "Be amazed by this 3D animation of our Matariki characters, check out our panels to read the full story. "
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +260,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Kaihōpara o Te Tiri o Te Moana - Antarctic New Zealand Explorer Zone",
+        "Name": "Kaihōpara o Te Tiri o Te Moana (Antarctic New Zealand explorer zone)",
         "Artist-company": "Antarctic NZ",
         "Location": "Cathedral Square",
         "Description": "Explore the Antarctic, with amazing footage supplied by Anthony Powel. Come find out more about our amazing connection to Antarctica. "
@@ -277,10 +277,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Whenua Tūrama - Field of Lights",
+        "Name": "Te Whenua Tūrama (Field of lights)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
-        "Description": "Stunning installation in the shape of a koru pulsing colour and sound. "
+        "Description": "Stunning installation in the shape of a koru pulsing with colour and sound. "
       },
       "geometry": {
         "type": "Point",
@@ -294,10 +294,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Tāpatu o te Mārama - Interactive Drum and Lights",
+        "Name": "Te Tāpatu o te Mārama (Drum and light)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
-        "Description": "Interactive drum and lights. "
+        "Description": "Come and play with the interactive drum and light display."
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +311,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Poi o te Mārama",
+        "Name": "Te Poi o te Mārama (Suspended mirror ball)",
         "Artist-company": "Electro-tech Services ",
         "Location": "Cathedral Square",
         "Description": "Ball of light, refracting colour and light. "
@@ -328,10 +328,10 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Te Turama o ngā Rākau",
+        "Name": "Te Turama o ngā Rākau (Lighting the trees)",
         "Artist-company": "Lightsite ",
         "Location": "Cathedral Square",
-        "Description": "Lighting the Avon river trees, creating a stunning back drop to the riverside setting of the festival. "
+        "Description": "A stunning backdrop to the riverside setting of the festival, created by lighting up the Avon River trees. "
       },
       "geometry": {
         "type": "Point",
@@ -345,7 +345,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
@@ -362,7 +362,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
@@ -396,7 +396,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
@@ -413,7 +413,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
@@ -433,7 +433,7 @@
         "Name": "Explorer Zone",
         "Artist-company": "Riverside ",
         "Location": "Oxford Terrace",
-        "Description": "Check out one of the explorer zones and grab yourself something to eat and drink at Riverside."
+        "Description": "Check out one of the explorer zones and grab yourself something to eat or drink at Riverside."
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +467,7 @@
         "Name": "Explorer Zone",
         "Artist-company": "New Regent Street ",
         "Location": "New Regent Street ",
-        "Description": "Check out one of the explorer zones and grab yourself an ice cream or check out one of the restuarants at New Regant Street."
+        "Description": "Check out one of the explorer zones and grab yourself an ice cream or check out one of the restuarants on New Regent Street."
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +484,7 @@
         "Name": "Explorer Zone",
         "Artist-company": "Little High Eatery",
         "Location": "St Asaph Street ",
-        "Description": "Check out one of the explorer zones and grab yourself something to eat and drink at Little High Eatery."
+        "Description": "Check out one of the explorer zones and grab yourself something to eat or drink at Little High Eatery."
       },
       "geometry": {
         "type": "Point",
@@ -498,7 +498,7 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako - Cubes",
+        "Name": "Ngao Matariki - Ka Tīaho, Ka Tūmanako (Sound cubes)",
         "Artist-company": "Art Fetiche/Kommi Tamati-Elliffe",
         "Location": "Cathedral Square",
         "Description": "Our fantastic cubes are back and situated throughout the festival zone. "
