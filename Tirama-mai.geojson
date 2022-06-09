@@ -57,7 +57,7 @@
       "properties": {
         "geometry": "Point",
         "Name": "Ngā Whetū, Ngā Manu (Matariki star lanterns)",
-        "Artist-company": "ILLUMINATI ",
+        "Artist-company": "ILLUMINATI / Ariki Creative ",
         "Location": "Cathedral Square",
         "Description": "A series of lanterns representing all 10 of the stars visible in the South Island as part of the Matariki Constellation."
       },
@@ -244,7 +244,7 @@
       "properties": {
         "geometry": "Point",
         "Name": "Matariki (3D Matariki animation)",
-        "Artist-company": "Art Fetiche",
+        "Artist-company": "Art Fetiche / Māui Studios",
         "Location": "Cathedral Square",
         "Description": "Be amazed by this 3D animation of our Matariki characters, check out our panels to read the full story. "
       },
@@ -278,9 +278,9 @@
       "properties": {
         "geometry": "Point",
         "Name": "Te Whenua Tūrama (Field of lights)",
-        "Artist-company": "Electro-tech Services ",
+        "Artist-company": "Electro-tech Services / Motte",
         "Location": "Cathedral Square",
-        "Description": "Stunning installation in the shape of a koru pulsing with colour and sound. "
+        "Description": "Stunning installation in the shape of a kōru pulsing with colour and sound. "
       },
       "geometry": {
         "type": "Point",
