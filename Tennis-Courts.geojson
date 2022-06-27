@@ -100,22 +100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Parkname": "Cashmere Valley Reserve",
-        "SportCode": "Tennis",
-        "Type": "Tennis Court x 1",
-        "Address": "Valley Road, Cashmere, 8022"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6260918,
-          -43.57073637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Parkname": "Centennial Park",
         "SportCode": "Tennis",
         "Type": "Tennis Court x 2",
