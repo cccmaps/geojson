@@ -52,22 +52,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "192 Cashel Street",
-        "Capacity": 10,
-        "Type": "Lockable cycle stand",
-        "Provider": "Locky Dock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63994604349136,
-          -43.53323684733948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Type": "Lockable cycle stand",
         "Capacity": 10,
         "Address": "228 Tuam Street ",
@@ -129,22 +113,6 @@
         "coordinates": [
           172.6406031847,
           -43.534312165230794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Lockable cycle stand",
-        "Capacity": 10,
-        "Address": "163 High Street",
-        "Provider": "Locky Dock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6419781040178,
-          -43.535575203303196
         ]
       }
     },
@@ -226,6 +194,22 @@
         "coordinates": [
           172.46769726276398,
           -43.64350178664112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Lockable cycle stand",
+        "Capacity": 10,
+        "Address": "163 High Street",
+        "Provider": "Locky Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64149099588394,
+          -43.53577830014111
         ]
       }
     }
