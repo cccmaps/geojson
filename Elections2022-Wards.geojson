@@ -2652,10 +2652,10 @@
         ]
       },
       "properties": {
-        "WardID": 46,
         "WardNameDescription": "Harewood Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 12
       }
     },
     {
@@ -35553,10 +35553,10 @@
         ]
       },
       "properties": {
-        "WardID": 47,
         "WardNameDescription": "Banks Peninsula Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 1
       }
     },
     {
@@ -36870,10 +36870,10 @@
         ]
       },
       "properties": {
-        "WardID": 48,
         "WardNameDescription": "Burwood Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 16
       }
     },
     {
@@ -38899,10 +38899,10 @@
         ]
       },
       "properties": {
-        "WardID": 49,
         "WardNameDescription": "Cashmere Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 2
       }
     },
     {
@@ -40160,10 +40160,10 @@
         ]
       },
       "properties": {
-        "WardID": 50,
         "WardNameDescription": "Central Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 15
       }
     },
     {
@@ -42681,10 +42681,10 @@
         ]
       },
       "properties": {
-        "WardID": 51,
         "WardNameDescription": "Coastal Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 14
       }
     },
     {
@@ -43790,10 +43790,10 @@
         ]
       },
       "properties": {
-        "WardID": 52,
         "WardNameDescription": "Fendalton Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 13
       }
     },
     {
@@ -46879,10 +46879,10 @@
         ]
       },
       "properties": {
-        "WardID": 53,
         "WardNameDescription": "Halswell Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 3
       }
     },
     {
@@ -51964,10 +51964,10 @@
         ]
       },
       "properties": {
-        "WardID": 54,
         "WardNameDescription": "Heathcote Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 11
       }
     },
     {
@@ -52673,10 +52673,10 @@
         ]
       },
       "properties": {
-        "WardID": 55,
         "WardNameDescription": "Hornby Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 10
       }
     },
     {
@@ -53662,10 +53662,10 @@
         ]
       },
       "properties": {
-        "WardID": 56,
         "WardNameDescription": "Innes Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 9
       }
     },
     {
@@ -54971,10 +54971,10 @@
         ]
       },
       "properties": {
-        "WardID": 57,
         "WardNameDescription": "Linwood Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 8
       }
     },
     {
@@ -55912,10 +55912,10 @@
         ]
       },
       "properties": {
-        "WardID": 58,
         "WardNameDescription": "Papanui Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 7
       }
     },
     {
@@ -56693,10 +56693,10 @@
         ]
       },
       "properties": {
-        "WardID": 59,
         "WardNameDescription": "Riccarton Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 6
       }
     },
     {
@@ -57894,10 +57894,10 @@
         ]
       },
       "properties": {
-        "WardID": 60,
         "WardNameDescription": "Spreydon Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 5
       }
     },
     {
@@ -58519,10 +58519,10 @@
         ]
       },
       "properties": {
-        "WardID": 61,
         "WardNameDescription": "Waimairi Ward",
         "Content": "<p>One Councillor.</p> ",
-        "Council": "Christchurch City Council"
+        "Council": "Christchurch City Council",
+        "ID1": 4
       }
     }
   ]
