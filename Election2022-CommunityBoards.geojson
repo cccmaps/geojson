@@ -32896,7 +32896,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Te Pātaka o Rākaihāutu/Banks Peninsula"
+        "CommunityB": "Te Pātaka o Rākaihāutu/Banks Peninsula",
+        "ID1": 1
       }
     },
     {
@@ -35525,7 +35526,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Waitai/Coastal-Burwood-Linwood"
+        "CommunityB": "Waitai/Coastal-Burwood-Linwood",
+        "ID1": 6
       }
     },
     {
@@ -39142,7 +39144,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Waimāero/Fendalton-Waimairi-Harewood"
+        "CommunityB": "Waimāero/Fendalton-Waimairi-Harewood",
+        "ID1": 5
       }
     },
     {
@@ -42819,7 +42822,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Waipuna/Hornby-Halswell-Riccarton"
+        "CommunityB": "Waipuna/Hornby-Halswell-Riccarton",
+        "ID1": 4
       }
     },
     {
@@ -45308,7 +45312,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Waipapa/Papanui-Innes-Central"
+        "CommunityB": "Waipapa/Papanui-Innes-Central",
+        "ID1": 3
       }
     },
     {
@@ -51241,7 +51246,8 @@
         ]
       },
       "properties": {
-        "CommunityB": "Waihoro/Spreydon-Cashmere-Heathcote"
+        "CommunityB": "Waihoro/Spreydon-Cashmere-Heathcote",
+        "ID1": 2
       }
     }
   ]
