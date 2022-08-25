@@ -1664,7 +1664,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "n/a"
       },
       "geometry": {
@@ -1819,7 +1819,7 @@
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "n/a"
       },
       "geometry": {
