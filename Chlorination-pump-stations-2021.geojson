@@ -1965,6 +1965,47 @@
           -43.545
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Zone": "Little River",
+        "PumpStationName": "Little River",
+        "NumberOfWells": 0,
+        "Improvements": "n/a surface water source",
+        "Status": "Complete",
+        "ChlorinationDose": "0.2 mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.787445,
+          -43.766835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Pigeon Bay",
+        "Zone": "Pigeon Bay",
+        "NumberOfWells": 0,
+        "At": "the zone extremities",
+        "Improvements": "n/a surface water source",
+        "Status": "Complete",
+        "ChlorinationDose": "0.2 mg/L"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.895204,
+          -43.694386
+        ]
+      }
     }
   ]
 }
