@@ -9,7 +9,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Commissioning",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -28,7 +28,7 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -47,7 +47,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -104,7 +104,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -123,7 +123,7 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -161,7 +161,7 @@
         "NumberOfWells": 3,
         "Improvements": "One wellhead raised, one decommissioned, one planned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -237,7 +237,7 @@
         "NumberOfWells": 4,
         "Improvements": "four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -256,7 +256,7 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads already above ground, one wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -275,7 +275,7 @@
         "NumberOfWells": 5,
         "Improvements": "Five wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -313,7 +313,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -408,7 +408,7 @@
         "NumberOfWells": 4,
         "Improvements": "Three wellheads raised,  one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -427,7 +427,7 @@
         "NumberOfWells": 4,
         "Improvements": "Two wellheads raised, two decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -446,7 +446,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -465,7 +465,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -560,7 +560,7 @@
         "NumberOfWells": 6,
         "Improvements": "Below ground wellheads with UV disinfection",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -598,7 +598,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -617,7 +617,7 @@
         "NumberOfWells": 4,
         "Improvements": "Two wellheads raised, one in In construction, one decommissioned",
         "Status": "In construction",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -636,7 +636,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -655,7 +655,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -674,7 +674,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -750,7 +750,7 @@
         "NumberOfWells": 6,
         "Improvements": "Three wellheads raised, two decommissioned, one in planning",
         "Status": "Planning",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -769,7 +769,7 @@
         "NumberOfWells": 3,
         "Improvements": "One wellhead already above ground, two raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -788,7 +788,7 @@
         "NumberOfWells": 4,
         "Improvements": "Four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -807,7 +807,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads modified",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -826,7 +826,7 @@
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -845,7 +845,7 @@
         "NumberOfWells": 2,
         "Improvements": "One wellhead already above ground, one raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -864,7 +864,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -883,7 +883,7 @@
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -902,7 +902,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads already above ground",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -921,7 +921,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -940,7 +940,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -978,7 +978,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Commissioning",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -997,7 +997,7 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1098,7 +1098,7 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -1136,7 +1136,7 @@
         "NumberOfWells": 3,
         "Improvements": "One wellhead raised, one decommissioned, one planned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1212,7 +1212,7 @@
         "NumberOfWells": 4,
         "Improvements": "four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -1253,7 +1253,7 @@
         "NumberOfWells": 5,
         "Improvements": "Five wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1272,7 +1272,7 @@
         "NumberOfWells": 5,
         "Improvements": "Four wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1389,7 +1389,7 @@
         "NumberOfWells": 4,
         "Improvements": "Three wellheads raised,  one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1408,7 +1408,7 @@
         "NumberOfWells": 4,
         "Improvements": "Two wellheads raised, two decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1427,7 +1427,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1446,7 +1446,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -1541,7 +1541,7 @@
         "NumberOfWells": 6,
         "Improvements": "Below ground wellheads with UV disinfection",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1601,7 +1601,7 @@
         "NumberOfWells": 4,
         "Improvements": "Two wellheads raised, one in In construction, one decommissioned",
         "Status": "In construction",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1620,7 +1620,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1664,7 +1664,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "n/a"
       },
       "geometry": {
@@ -1721,7 +1721,7 @@
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1740,7 +1740,7 @@
         "NumberOfWells": 6,
         "Improvements": "Three wellheads raised, two decommissioned, one in planning",
         "Status": "Planning",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1759,7 +1759,7 @@
         "NumberOfWells": 3,
         "Improvements": "One wellhead already above ground, two raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1778,7 +1778,7 @@
         "NumberOfWells": 4,
         "Improvements": "Four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1797,7 +1797,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads modified",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1819,7 +1819,7 @@
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "n/a"
       },
       "geometry": {
@@ -1860,7 +1860,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1879,7 +1879,7 @@
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1898,7 +1898,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads already above ground",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1917,7 +1917,7 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1936,7 +1936,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1977,7 +1977,7 @@
         "NumberOfWells": 0,
         "Improvements": "n/a surface water source",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -1997,7 +1997,7 @@
         "At": "the zone extremities",
         "Improvements": "n/a surface water source",
         "Status": "Complete",
-        "ChlorinationDose": ">0.2 mg/L"
+        "ChlorinationDose": "0.2 mg/L"
       },
       "geometry": {
         "type": "Point",
