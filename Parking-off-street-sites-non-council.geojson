@@ -522,24 +522,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "184 Antigua Street",
-        "Entry": "184 Antigua Street",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 116,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
-        "Notes": " "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.62809872627258,
-          -43.53956597439552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "131 St Asaph Street",
         "Entry": "131 St Asaph Street",
         "Name": "Wilson off-street parking",
