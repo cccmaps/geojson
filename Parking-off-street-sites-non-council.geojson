@@ -148,10 +148,10 @@
         "Entry": "255 St Asaph Street",
         "Notes": "",
         "Name": "Central Park off-street parking",
-        "Parking-spaces": 104,
+        "Parking-spaces": 97,
         "Electric": "",
         "Mobility": "",
-        "Charges": "https://www.centralpark.kiwi/"
+        "Charges": "https://www.centralpark.kiwi/255stasaph"
       },
       "geometry": {
         "type": "Point",
@@ -624,6 +624,61 @@
         "coordinates": [
           172.6276709139347,
           -43.53069237050725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "95 Kilmore Street",
+        "Entry": "95 Kilmore Street",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 94,
+        "Mobility": "Yes",
+        "Charges": "https://www.centralpark.kiwi/95kilmorea",
+        "Mobility-Parking-Spaces": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6350013911724,
+          -43.52645295785552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "23 Lichfield Street",
+        "Entry": "23 Lichfield Street",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 90,
+        "Mobility": "Yes",
+        "Mobility-Parking-Spaces": 3,
+        "Charges": "https://www.centralpark.kiwi/23lichfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63435631990433,
+          -43.534099242143654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "384 Montreal Street",
+        "Entry": "384 Montreal Street",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 6,
+        "Charges": "https://www.centralpark.kiwi/384montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63073667883873,
+          -43.524002519249656
         ]
       }
     }
