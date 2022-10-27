@@ -503,6 +503,44 @@
           -43.718986
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bridge-No": "A33",
+        "Address": "Old Le Bons Track",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-",
+        "Max-Speed-Limit": 10,
+        "Bridge-name": "Takamatua Frasers 2",
+        "Status": 1,
+        "Name-of-Road": "Old Le Bons Track"
+      },
+      "geometry": {
+        "coordinates": [
+          172.98307930910084,
+          -43.785264734509475
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name-of-Road": "Wharf Road",
+        "Bridge-No": "M19",
+        "Address": "Wharf Road",
+        "Max-Speed-Limit": 10,
+        "Status": 1,
+        "Bridge-name": "Wharf Road 2"
+      },
+      "geometry": {
+        "coordinates": [
+          172.8191014910629,
+          -43.648632733218776
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
