@@ -532,7 +532,9 @@
         "Address": "Wharf Road",
         "Max-Speed-Limit": 10,
         "Status": 1,
-        "Bridge-name": "Wharf Road 2"
+        "Bridge-name": "Wharf Road 2",
+        "Weight-Restriction-Max-Weight-on-Any-One-Axle": "-",
+        "Weight-Restriction-Gross-Weight": "-"
       },
       "geometry": {
         "coordinates": [
