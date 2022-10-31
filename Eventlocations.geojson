@@ -702,6 +702,45 @@
           -43.535753022254994
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Edmonds Band Rotunda",
+        "Address": "230 Cambridge Terrace",
+        "Power": "No",
+        "Surface type": "Hard",
+        "Water": "No",
+        "Toilets": "No",
+        "Mobility-friendly": "No",
+        "Seating": "No",
+        "Car parking": "Street parking",
+        "Capacity": "up to 200",
+        "Small": "Yes",
+        "Bus stops": "Yes",
+        "Area": "80sqm",
+        "Large": "No",
+        "Charges": "Charges apply",
+        "Commercial events": "Yes",
+        "Infrastructure allowed": "Yes",
+        "Type": "Performance events",
+        "Contact-URL": "https://ccc.govt.nz/contact-us",
+        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
+        "Events-allowed": "Commercial, Public",
+        "Public": "Yes",
+        "Private": "Yes",
+        "Booking-contact": "Christchurch City Council",
+        "MoreInformationURL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/edmonds-band-rotunda",
+        "ChildpageURL": "https://ccc.govt.nz/parks-and-gardens/gardens-and-heritage-parks/edmonds-band-rotunda",
+        "Notes": ""
+      },
+      "geometry": {
+        "coordinates": [
+          172.63895613865884,
+          -43.52785064796299
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
