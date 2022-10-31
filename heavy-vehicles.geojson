@@ -1170,6 +1170,43 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "No heavy vehicles except deliveries to this street",
+        "description": "<Null>",
+        "altitudeMode": "clampToGround",
+        "tessellate": 1,
+        "DATE": "<Null>",
+        "Title": "Line",
+        "Image URL": "<Null>",
+        "Type ID": 0,
+        "Visible": 1,
+        "Image Link URL": "<Null>",
+        "Field_1": "Line"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.53745759537458,
+            -43.55724065880917
+          ],
+          [
+            172.5378839953541,
+            -43.557565310050244
+          ],
+          [
+            172.53968674969832,
+            -43.5584532027044
+          ],
+          [
+            172.54186192934037,
+            -43.55959922982669
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
 }
