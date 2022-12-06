@@ -23,23 +23,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.617447,
-          -43.528616
-        ]
-      },
-      "properties": {
-        "SportCode": "Petanque",
-        "Address": "Riccarton Avenue entrance to Hagley Park, CBD",
-        "Parkname": "Hagley Park North",
-        "ParkName": "Pétanque",
-        "ServiceStatus": "In Service"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           172.576312,
           -43.599407
         ]
@@ -57,14 +40,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.625615,
-          -43.498767
+          172.6471763,
+          -43.6271395
         ]
       },
       "properties": {
         "SportCode": "Petanque",
-        "Address": "Lewisham Park, St Albans",
-        "Parkname": "Lewisham Reserve",
+        "Address": "102 Main Road, Governors Bay 8971",
+        "Parkname": "Cholmondeley Reserve",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.969285,
+          -43.8018328
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "Rue Lavaud, Akaroa 7520",
+        "Parkname": "Akaroa Recreation Ground",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7915694,
+          -43.7687084
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "4237-4265 State Highway 75, Little River 7591",
+        "Parkname": "Heritage Park Little River",
         "ParkName": "Pétanque",
         "ServiceStatus": "In Service"
       }
@@ -82,6 +99,91 @@
         "SportCode": "Petanque",
         "Address": "Ridder Place/Clipstone Place, Halswell",
         "Parkname": "Ridder Reserve",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6016504,
+          -43.5635465
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "Hoon Hay, Christchurch 8025",
+        "Parkname": "Gainsborough Reserve",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8150781,
+          -43.786493
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "173 Okuti Valley Road, Little River 7591",
+        "Parkname": "Little River Bowling Club",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6898646,
+          -43.504693
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "18 Mervyn Drive, Avondale, Christchurch 8061",
+        "Parkname": "Avondale Park",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.728723,
+          -43.557771
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "McCormacks Bay Road, 8081",
+        "Parkname": "McCormacks Bay Reserve",
+        "ParkName": "Pétanque",
+        "ServiceStatus": "In Service"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.739335,
+          -43.63052
+        ]
+      },
+      "properties": {
+        "SportCode": "Petanque",
+        "Address": "48 Waipapa Avenue, Diamond Harbour 8972",
+        "Parkname": "Kirk Park",
         "ParkName": "Pétanque",
         "ServiceStatus": "In Service"
       }
