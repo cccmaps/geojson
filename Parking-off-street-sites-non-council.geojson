@@ -681,6 +681,23 @@
           -43.524002519249656
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "189 Tuam Street",
+        "Entry": "189 Tuam Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 41,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/189-tuam-street/?carParkFeature="
+      },
+      "geometry": {
+        "coordinates": [
+          172.63910129796392,
+          -43.53518854516771
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
