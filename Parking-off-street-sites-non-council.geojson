@@ -613,10 +613,10 @@
         "Address": "52 Rolleston Avenue",
         "Entry": "Worcester Boulevard",
         "Name": "Ravenscar House Museum",
-        "Parking-spaces": 25,
-        "Electric": 2,
+        "Parking-spaces": "47 (29 reserved, 22 underground)",
+        "Electric": 4,
         "Mobility": "Yes",
-        "Charges": "https://www.ravenscarhouse.com/",
+        "Charges": "https://www.ravenscarhouse.com/about/long-term-parking",
         "Mobility-Parking-Spaces": 2
       },
       "geometry": {
