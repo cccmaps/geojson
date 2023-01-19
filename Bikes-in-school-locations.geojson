@@ -115,6 +115,34 @@
           -43.56137352568041
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Knights Stream School - Mingimingi Hautoa",
+        "Address": "1 Killarney Avenue, Halswell, Christchurch 8025"
+      },
+      "geometry": {
+        "coordinates": [
+          172.5377782846571,
+          -43.57005059187618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Ara Koropiko West Spreydon School",
+        "Address": "147 Lyttelton Street, Spreydon, Christchurch 8024"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6106173400905,
+          -43.559999509632306
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
