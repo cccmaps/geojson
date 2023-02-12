@@ -17,7 +17,8 @@
         "Fees": "See fee table",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -36,7 +37,8 @@
         "Fees": "See fee table",
         "Use": "Tidal - use Daly's Ramp at low tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample, except on busy summer days"
+        "Parking": "Ample, except on busy summer days",
+        "Public": "Yes"
       }
     },
     {
@@ -55,26 +57,8 @@
         "Fees": "See fee table",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.703246,
-          -43.610542
-        ]
-      },
-      "properties": {
-        "SportCode": "Ramps and jetties",
-        "Name": "Naval Point Ramp",
-        "Address": "Marina Accessway, Lyttelton",
-        "Fees": "See fee table",
-        "Use": "All tide",
-        "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -93,7 +77,8 @@
         "Fees": "See fee table",
         "Access": "Two single access concrete boat ramps",
         "Parking": "Limited",
-        "Use": "To be advised"
+        "Use": "To be advised",
+        "Public": "Yes"
       }
     },
     {
@@ -112,7 +97,8 @@
         "Fees": "None",
         "Access": "Single access concrete boat ramp",
         "Parking": "Limited",
-        "Use": "To be advised"
+        "Use": "To be advised",
+        "Public": "Yes"
       }
     },
     {
@@ -126,12 +112,13 @@
       },
       "properties": {
         "SportCode": "Ramps and jetties",
-        "Name": "Bay View Ramp",
+        "Name": "Charteris Bay Public Boat Ramp",
         "Address": "Bay View, Off Marine Drive, Charteris Bay",
         "Fees": "None",
         "Access": "Dual access concrete ramp",
-        "Parking": "Ample",
-        "Use": "To be advised"
+        "Parking": "Limited",
+        "Use": "To be advised",
+        "Public": "Yes"
       }
     },
     {
@@ -150,7 +137,8 @@
         "Fees": "None",
         "Use": "Tidal",
         "Access": "Single access concrete boat ramp",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Public": "Yes"
       }
     },
     {
@@ -169,7 +157,8 @@
         "Fees": "None",
         "Use": "Tidal",
         "Access": "Single access and dual access concrete boat ramp",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -188,7 +177,8 @@
         "Fees": "None",
         "Use": "Tidal",
         "Access": "Dual access concrete boat ramp",
-        "Parking": "Ample"
+        "Parking": "Very limited",
+        "Public": "Yes"
       }
     },
     {
@@ -207,7 +197,8 @@
         "Fees": "None",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -226,7 +217,8 @@
         "Fees": "None",
         "Use": "All tide",
         "Access": "Multiple single access concrete boat ramps",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Public": "Yes"
       }
     },
     {
@@ -245,7 +237,8 @@
         "Fees": "None",
         "Use": "Closed for earthquake damage",
         "Parking": "Limited",
-        "Access": "Wooden jetty"
+        "Access": "Wooden jetty",
+        "Public": "Yes"
       }
     },
     {
@@ -264,7 +257,8 @@
         "Fees": "None",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -283,7 +277,8 @@
         "Fees": "None",
         "Access": "Dual access concrete ramp, and ferry wharf",
         "Parking": "Ample",
-        "Use": "All tide"
+        "Use": "All tide",
+        "Public": "Yes"
       }
     },
     {
@@ -302,7 +297,8 @@
         "Fees": "None",
         "Use": "Tidal",
         "Access": "Dual access concrete boat ramp",
-        "Parking": "Ample"
+        "Parking": "Very limited",
+        "Public": "Yes"
       }
     },
     {
@@ -321,7 +317,8 @@
         "Fees": "None",
         "Use": "Tidal",
         "Access": "Single access concrete boat ramp",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -340,7 +337,8 @@
         "Fees": "None",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -359,26 +357,8 @@
         "Fees": "None",
         "Use": "All tide",
         "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.7042,
-          -43.610523
-        ]
-      },
-      "properties": {
-        "SportCode": "Ramps and jetties",
-        "Name": "Lyttelton Public Ramp",
-        "Address": "Marina Accessway, Lyttelton",
-        "Fees": "See fee table",
-        "Use": "All tide",
-        "Access": "Dual access concrete boat ramp and jetty",
-        "Parking": "Ample"
+        "Parking": "Ample",
+        "Public": "Yes"
       }
     },
     {
@@ -390,7 +370,8 @@
         "Fees": "None",
         "Use": "Mid to high tide",
         "Access": "Single access concrete boat ramp",
-        "Parking": "Limited"
+        "Parking": "Limited",
+        "Public": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -409,7 +390,8 @@
         "Address": "South New Brighton Park",
         "Use": "High tide",
         "Access": "Single access concrete boat ramp, key required for gate available upon application from the Council",
-        "Parking": "Available"
+        "Parking": "Available",
+        "Public": "Yes"
       },
       "geometry": {
         "type": "Point",
@@ -417,6 +399,46 @@
           172.73112601649188,
           -43.531359463877315
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Naval Point Ramp",
+        "SportCode": "Ramps and jetties",
+        "Address": "Marina Accessway, Lyttelton",
+        "Fees": "Private boat ramp",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample",
+        "Public": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          172.7040680640792,
+          -43.6105835407169
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Ramps and jetties",
+        "Name": "Naval Point Public Ramp",
+        "Address": "Marina Accessway, Lyttelton",
+        "Fees": "See fee table",
+        "Use": "All tide",
+        "Access": "Dual access concrete boat ramp and jetty",
+        "Parking": "Ample",
+        "Public": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70615881187382,
+          -43.61142735348526
+        ],
+        "type": "Point"
       }
     }
   ]
