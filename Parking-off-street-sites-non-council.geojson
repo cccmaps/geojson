@@ -446,26 +446,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "204 Manchester Street",
-        "Entry": "178 Gloucester Street",
-        "Notes": "",
-        "Name": "Good Spot off-street parking",
-        "Parking-spaces": 137,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.facebook.com/GoodSpotNZ/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.64001,
-          -43.530014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "164 Hereford Street",
         "Entry": "164 HerefordStreet",
         "Name": "Wilson off-street parking",
