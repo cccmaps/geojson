@@ -1014,7 +1014,10 @@
         "ParkReserve": "Otakaro-Avon River Corridor - De Ville Place",
         "Activities": "Planting and maintenance",
         "Organiser": "Trees that Count",
-        "Contact": "n/a"
+        "Contact": "n/a",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
