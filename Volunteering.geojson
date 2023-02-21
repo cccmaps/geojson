@@ -676,9 +676,9 @@
         "ParkReserve": "Okuti Valley",
         "Contact": "n/a",
         "Organiser": "Little River Wairewa Community Trust",
-        "ExternalURL": "",
+        "ExternalURL": "http://littleriver.org.nz/",
         "PhotoURL": "https://ccc.govt.nz/assets/Images/Parks-gardens/Get-involved-with-parks/Community-volunteer-map/Okuti-valley-250.jpg",
-        "Linktext": ""
+        "Linktext": "Find out more about this volunteering opportunity"
       }
     },
     {
@@ -911,7 +911,8 @@
       "properties": {
         "ParkReserve": "Birdsey Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
-        "Organiser": "Friends of Birdsey / Predator-Free Port Hills"
+        "Organiser": "Friends of Birdsey / Predator-Free Port Hills",
+        "Contact": "n/a"
       },
       "geometry": {
         "coordinates": [
@@ -926,7 +927,8 @@
       "properties": {
         "ParkReserve": "Cracroft Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
-        "Organiser": "Cracroft Predator-Free"
+        "Organiser": "Cracroft Predator-Free",
+        "Contact": "n/a"
       },
       "geometry": {
         "coordinates": [
@@ -941,7 +943,8 @@
       "properties": {
         "ParkReserve": "Coronation Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
-        "Organiser": "Friends of Coronation Reserve"
+        "Organiser": "Friends of Coronation Reserve",
+        "Contact": "n/a"
       },
       "geometry": {
         "coordinates": [
@@ -1010,7 +1013,8 @@
       "properties": {
         "ParkReserve": "Otakaro-Avon River Corridor - De Ville Place",
         "Activities": "Planting and maintenance",
-        "Organiser": "Trees that Count"
+        "Organiser": "Trees that Count",
+        "Contact": "n/a"
       },
       "geometry": {
         "coordinates": [
