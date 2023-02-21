@@ -836,6 +836,189 @@
           -43.46483014871919
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Brooker Reserve",
+        "Activities": "Planting, weeding, watering, maintenance",
+        "Contact": "info@aofp.co.nz",
+        "Organiser": "Avon-Otakaro Forest Park",
+        "ExternalURL": "https://www.facebook.com/aofpnz/",
+        "Linktext": "Find out more about this volunteering opportunity"
+      },
+      "geometry": {
+        "coordinates": [
+          172.69713755219675,
+          -43.49989936446722
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "RZ Dallington Landing ",
+        "Activities": "Planting, weeding - Forest of Peace and Remembrance ",
+        "Organiser": "Conservation Volunteers NZ",
+        "Contact": "HFairbairn@cvnz.org.nz"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6720919948331,
+          -43.51928661741735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Barnett Park",
+        "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
+        "Organiser": "Redcliffs Predator-Free",
+        "Contact": "news@redcliffs.org.nz"
+      },
+      "geometry": {
+        "coordinates": [
+          172.73448856085906,
+          -43.565947141764894,
+          172.7382962807747
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Barnett Park",
+        "Activities": "Recreation, planting, weeding ",
+        "Organiser": "Te Awa Kura / Barnett Park",
+        "Contact": "rosemary@spiritednz.com",
+        "ExternalURL": "https://www.facebook.com/teawakurabarnettpark",
+        "Linktext": "Find out more about this volunteering opportunity"
+      },
+      "geometry": {
+        "coordinates": [
+          172.73791005727992,
+          -43.56665841287119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Birdsey Reserve",
+        "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
+        "Organiser": "Friends of Birdsey / Predator-Free Port Hills"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70937493685037,
+          -43.58154337461787
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Cracroft Reserve",
+        "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
+        "Organiser": "Cracroft Predator-Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6341661762569,
+          -43.5803348334349
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Coronation Reserve",
+        "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
+        "Organiser": "Friends of Coronation Reserve"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6502140490489,
+          -43.57220915569856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Westmorland East Valley Reserve",
+        "Activities": "Predator trapping, planting, maintenance, walking tracks",
+        "Contact": "Westmorlandecology@gmail.com",
+        "Organiser": "Westmorland Ecology",
+        "ExternalURL": "https://www.facebook.com/groups/108722882811077",
+        "Linktext": "Find out more about this volunteering opportunity"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6084746397936,
+          -43.581152124435526
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Otakaro-Avon River Corridor - Avondale",
+        "Activities": "Community garden, edibles",
+        "Contact": "avondalecomgarden@gmail.com",
+        "Organiser": "Avondale Community Garden",
+        "ExternalURL": "https://www.facebook.com/profile.php?id=100079906071306&sk=about",
+        "Linktext": "Find out more about this volunteering opportunity"
+      },
+      "geometry": {
+        "coordinates": [
+          172.68854284957567,
+          -43.503412782736405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Otakaro-Avon River Corridor - New Brighton",
+        "Activities": "Planting ",
+        "Contact": "ecoactionnt@gmail.com",
+        "Organiser": "Eco-Action Nursery Trust",
+        "ExternalURL": "https://www.eco-action.co.nz/",
+        "Linktext": "Find out more about this volunteering opportunity"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70277232424638,
+          -43.49555965347751
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ParkReserve": "Otakaro-Avon River Corridor - De Ville Place",
+        "Activities": "Planting and maintenance",
+        "Organiser": "Trees that Count"
+      },
+      "geometry": {
+        "coordinates": [
+          172.680791,
+          -43.499451
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
