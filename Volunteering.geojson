@@ -1011,10 +1011,13 @@
     {
       "type": "Feature",
       "properties": {
-        "ParkReserve": "Otakaro-Avon River Corridor - De Ville Place",
         "Activities": "Planting and maintenance",
-        "Organiser": "Trees that Count",
+		"ParkReserve": "Otakaro-Avon River Corridor - De Ville Place",
         "Contact": "n/a"
+        "Organiser": "Trees that Count",
+        "ExternalURL": "",
+        "PhotoURL": null,
+        "Linktext": "",
       },
       "geometry": {
         "coordinates": [
