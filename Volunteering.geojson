@@ -845,7 +845,8 @@
         "Contact": "info@aofp.co.nz",
         "Organiser": "Avon-Otakaro Forest Park",
         "ExternalURL": "https://www.facebook.com/aofpnz/",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": ""
       },
       "geometry": {
         "coordinates": [
@@ -861,7 +862,10 @@
         "ParkReserve": "RZ Dallington Landing ",
         "Activities": "Planting, weeding - Forest of Peace and Remembrance ",
         "Organiser": "Conservation Volunteers NZ",
-        "Contact": "HFairbairn@cvnz.org.nz"
+        "Contact": "HFairbairn@cvnz.org.nz",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
@@ -877,7 +881,10 @@
         "ParkReserve": "Barnett Park",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
         "Organiser": "Redcliffs Predator-Free",
-        "Contact": "news@redcliffs.org.nz"
+        "Contact": "news@redcliffs.org.nz",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
@@ -896,7 +903,8 @@
         "Organiser": "Te Awa Kura / Barnett Park",
         "Contact": "rosemary@spiritednz.com",
         "ExternalURL": "https://www.facebook.com/teawakurabarnettpark",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": ""
       },
       "geometry": {
         "coordinates": [
@@ -912,7 +920,10 @@
         "ParkReserve": "Birdsey Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
         "Organiser": "Friends of Birdsey / Predator-Free Port Hills",
-        "Contact": "n/a"
+        "Contact": "n/a",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
@@ -928,7 +939,10 @@
         "ParkReserve": "Cracroft Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
         "Organiser": "Cracroft Predator-Free",
-        "Contact": "n/a"
+        "Contact": "n/a",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
@@ -944,7 +958,10 @@
         "ParkReserve": "Coronation Reserve",
         "Activities": "Predator trapping targeting rats, mustelids, hedgehogs and possums",
         "Organiser": "Friends of Coronation Reserve",
-        "Contact": "n/a"
+        "Contact": "n/a",
+        "ExternalURL": "",
+        "PhotoURL": "",
+        "Linktext": ""
       },
       "geometry": {
         "coordinates": [
@@ -962,7 +979,8 @@
         "Contact": "Westmorlandecology@gmail.com",
         "Organiser": "Westmorland Ecology",
         "ExternalURL": "https://www.facebook.com/groups/108722882811077",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": ""
       },
       "geometry": {
         "coordinates": [
@@ -980,7 +998,8 @@
         "Contact": "avondalecomgarden@gmail.com",
         "Organiser": "Avondale Community Garden",
         "ExternalURL": "https://www.facebook.com/profile.php?id=100079906071306&sk=about",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": ""
       },
       "geometry": {
         "coordinates": [
@@ -998,7 +1017,8 @@
         "Contact": "ecoactionnt@gmail.com",
         "Organiser": "Eco-Action Nursery Trust",
         "ExternalURL": "https://www.eco-action.co.nz/",
-        "Linktext": "Find out more about this volunteering opportunity"
+        "Linktext": "Find out more about this volunteering opportunity",
+        "PhotoURL": ""
       },
       "geometry": {
         "coordinates": [
