@@ -244,11 +244,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "74 Worcester Blvd",
-        "Entry": "74 Worcester Blvd",
+        "Address": "78 Worcester Blvd",
+        "Entry": "78 Worcester Blvd",
         "Notes": "",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 90,
+        "Parking-spaces": 102,
         "Electric": "",
         "Mobility": "",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
@@ -259,7 +259,8 @@
           172.634266,
           -43.531058
         ]
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
@@ -279,7 +280,8 @@
           172.638116,
           -43.530149
         ]
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
@@ -361,7 +363,8 @@
           172.633854,
           -43.528537
         ]
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
