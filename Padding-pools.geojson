@@ -14,7 +14,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Abberley Crescent, St Albans",
         "Parkname": "Abberley Park",
-        "Open": "Open until Sunday 26 March 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "Not only is there a paddling pool in this lovely park but there's multiple playgrounds, a stunning rose garden and lots of trees to find relief from the hot summer sun under."
       }
     },
@@ -31,7 +31,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Vogel Street, Eveleyn Couzins Ave, River Road, Richmond",
         "Parkname": "Avebury Park",
-        "Open": "Open until Tuesday 25 April 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "This paddling pool sits in the grounds of an English style park and gardens. A playground, large shelter trees and seating are nearby - perfect for hot summer days.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/pool-8resize.jpg"
       }
@@ -51,7 +51,7 @@
         "Parkname": "Botanic Gardens",
         "Type": "A popular spot for paddling, playing and picnics, this pool is set in the heart of the picturesque Botanic Gardens and has been a Christchurch summer staple for many years.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/Young-person-on-swing-in-playground.jpg",
-        "Open": "Open until Tuesday 25 April 2023."
+        "Open": "Closed until November 2023."
       }
     },
     {
@@ -67,7 +67,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Marine Parade, New Brighton ",
         "Parkname": "New Brighton Foreshore ",
-        "Open": "Open until Tuesday 25 April 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "The New Brighton Whale Pool has something for everyone. There’s wet and dry areas for all types of fun, including water cannons, musical toys, swings, slides and a large waka that children can climb and play in.",
         "URL": "assets/Images/News-Events/News/2017/December/PLAY-201217-t2-7.jpg"
       }
@@ -85,7 +85,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Condell Avenue, Papanui",
         "Parkname": "Edgar MacIntosh Park",
-        "Open": "Open until Sunday 26 March 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "This paddling pool is part of a larger sports park that offers a playground and lots of space to run around."
       }
     },
@@ -102,7 +102,7 @@
         "SportCode": "Paddling Pools",
         "Address": "The Esplanade, Sumner",
         "Parkname": "Scarborough Park",
-        "Open": "Open until Tuesday 25 April 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "Right next to the beach, an ice cream shop and a large playground, this paddling pool has been entertaining generations of Christchurch children and has recently been upgraded.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/5.-Scarborough-Poolresize.jpg"
       }
@@ -120,7 +120,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Heyders Road, Spencerville",
         "Parkname": "Spencer Park",
-        "Open": "Open until Sunday 26 March 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "A large paddling pool for summer splashing offers a great way to cool down after a play on the adventure playground and run around in the large fields - take a picnic tea and lots of friends."
       }
     },
@@ -137,7 +137,7 @@
         "SportCode": "Paddling Pools",
         "Address": "Woodham Road, Linwood",
         "Parkname": "Woodham Park",
-        "Open": "Open until Sunday 26 March 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "A sheltered paddling pool and large play area sit inside this English style park that is covered by a large collection of mature trees, hedges and herbaceous plants."
       }
     },
@@ -147,7 +147,7 @@
         "SportCode": "Paddling Pools",
         "Parkname": "Edgar Macintosh Park",
         "Address": "Condell Avenue, Papanui",
-        "Open": "Open until Sunday 26 March 2023.",
+        "Open": "Closed until November 2023.",
         "Type": "This shaded paddling pool is part of a larger sports park that offers a playground and lots of space to run around."
       },
       "geometry": {
