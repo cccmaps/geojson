@@ -140,9 +140,9 @@
         "PumpStationName": "Ben Rarere",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
-        "Improvements": "In construction",
-        "Status": "In construction",
-        "ChlorinationDose": "n/a",
+        "Improvements": "New station",
+        "Status": "Complete",
+        "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
       },
       "geometry": {
