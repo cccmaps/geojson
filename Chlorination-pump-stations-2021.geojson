@@ -237,7 +237,7 @@
         "NumberOfWells": 4,
         "Improvements": "four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
+        "ChlorinationDose": "1.0 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -712,8 +712,8 @@
         "NumberOfWells": 2,
         "Improvements": "Replace two wells",
         "Status": "In construction",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -731,8 +731,8 @@
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -967,6 +967,101 @@
         "coordinates": [
           172.5963,
           -43.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Pigeon Bay",
+        "Zone": "Pigeon Bay",
+        "NumberOfWells": 0,
+        "Improvements": "Spring source n/a",
+        "Status": "Complete",
+        "ChlorinationDose": "1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.895191,
+          -43.694462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Duvauchelle",
+        "Zone": "Duvauchelle",
+        "NumberOfWells": 0,
+        "Improvements": "Stream source n/a",
+        "Status": "Complete",
+        "ChlorinationDose": "1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948582,
+          -43.758645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Akaroa",
+        "Zone": "Akaroa",
+        "NumberOfWells": 1,
+        "Improvements": "3x Stream source, Raise well",
+        "Status": "Pending",
+        "ChlorinationDose": "0.2mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.975047,
+          -43.804779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Little River",
+        "Zone": "Little River",
+        "NumberOfWells": 1,
+        "Improvements": "1x Stream source, Raise well",
+        "Status": "Pending",
+        "ChlorinationDose": "0.2mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.786891,
+          -43.76662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PumpStationName": "Birdling Flat",
+        "Zone": "Birdling Flat",
+        "NumberOfWells": 1,
+        "Improvements": "Improve well",
+        "Status": "Pending",
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692692,
+          -43.817134
         ]
       }
     }
