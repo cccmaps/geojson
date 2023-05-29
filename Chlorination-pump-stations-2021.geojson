@@ -1014,7 +1014,7 @@
         "PumpStationName": "Akaroa",
         "Zone": "Akaroa",
         "NumberOfWells": 1,
-        "Improvements": "3x Stream source, Raise well",
+        "Improvements": "3x Stream source - Raise well",
         "Status": "Pending",
         "ChlorinationDose": "0.2mg/L",
         "At": "the zone extremities"
@@ -1025,7 +1025,8 @@
           172.975047,
           -43.804779
         ]
-      }
+      },
+      "id": 53
     },
     {
       "type": "Feature",
@@ -1033,7 +1034,7 @@
         "PumpStationName": "Little River",
         "Zone": "Little River",
         "NumberOfWells": 1,
-        "Improvements": "1x Stream source, Raise well",
+        "Improvements": "1x Stream source - Raise well",
         "Status": "Pending",
         "ChlorinationDose": "0.2mg/L",
         "At": "the zone extremities"
@@ -1044,7 +1045,8 @@
           172.786891,
           -43.76662
         ]
-      }
+      },
+      "id": 54
     },
     {
       "type": "Feature",
