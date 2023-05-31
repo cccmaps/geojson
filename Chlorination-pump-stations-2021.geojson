@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Addington",
-        "Zone": "Central",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Commissioning",
@@ -23,9 +23,28 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Akaroa",
+        "NumberOfWells": 1,
+        "Improvements": "3x Stream source - Raise well",
+        "Status": "Pending",
+        "ChlorinationDose": "1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.975047,
+          -43.804779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
         "PumpStationName": "Aldwins",
-        "Zone": "Central",
-        "NumberOfWells": 3,
+        "NumberOfWells": 2,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
@@ -42,8 +61,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Aston Drive",
-        "Zone": "Rawhiti",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
@@ -61,13 +80,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Auburn",
-        "Zone": "Northwest",
         "NumberOfWells": 1,
-        "Improvements": "One wellhead raised, suction tank repairs",
-        "Status": "In construction",
-        "ChlorinationDose": "0.5 mg/L",
-        "At": "n/a"
+        "Improvements": "One wellhead raised, suction tank replacement",
+        "Status": "Planning",
+        "ChlorinationDose": "1.0 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
@@ -80,13 +99,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Averill ",
-        "Zone": "Central",
-        "NumberOfWells": 3,
+        "NumberOfWells": 2,
         "Improvements": "Two Interim below ground wellhead repairs, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.5 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
@@ -99,8 +118,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Avonhead",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
@@ -118,9 +137,9 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Belfast",
-        "Zone": "Northwest",
-        "NumberOfWells": 3,
+        "NumberOfWells": 2,
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
@@ -137,10 +156,10 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Ben Rarere",
-        "Zone": "Rawhiti",
         "NumberOfWells": 3,
-        "Improvements": "New station",
+        "Improvements": "New station, 3 above ground wells",
         "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the station"
@@ -156,11 +175,30 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Birdling Flat",
+        "NumberOfWells": 1,
+        "Improvements": "Improve well",
+        "Status": "Pending",
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692692,
+          -43.817134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
         "PumpStationName": "Blighs ",
-        "Zone": "Central",
-        "NumberOfWells": 3,
-        "Improvements": "One wellhead raised, one decommissioned, one planned",
-        "Status": "Complete",
+        "NumberOfWells": 2,
+        "Improvements": "One wellhead raised, one decommissioned, one new",
+        "Status": "In construction",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
@@ -175,9 +213,9 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Brooklands",
-        "Zone": "Brooklands/Kainga",
-        "NumberOfWells": 2,
+        "NumberOfWells": 1,
         "Improvements": "One wellhead raised, one decommissioned",
         "Status": "Complete",
         "ChlorinationDose": "Non-chlorinated",
@@ -194,8 +232,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Burnside",
-        "Zone": "Northwest",
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
@@ -213,13 +251,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Burwood",
-        "Zone": "Parklands",
         "NumberOfWells": 2,
-        "Improvements": "Abandon pump station in next 5 years",
+        "Improvements": "Wells below ground, abandon pump station in next year",
         "Status": "Planning",
         "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
@@ -232,11 +270,11 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Carters",
-        "Zone": "Rawhiti",
         "NumberOfWells": 4,
-        "Improvements": "four wellheads raised",
-        "Status": "Complete",
+        "Improvements": "Four wellheads raised, suction tank requires work",
+        "Status": "Pending",
         "ChlorinationDose": "1.0 mg/L",
         "At": "the station"
       },
@@ -251,13 +289,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Crosbie",
-        "Zone": "Northwest",
         "NumberOfWells": 3,
         "Improvements": "Two wellheads already above ground, one wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -270,8 +308,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Denton Park",
-        "Zone": "West",
         "NumberOfWells": 5,
         "Improvements": "Five wellheads raised",
         "Status": "Complete",
@@ -289,13 +327,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Dunbars",
-        "Zone": "West",
-        "NumberOfWells": 5,
+        "NumberOfWells": 4,
         "Improvements": "Four wellheads raised, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -308,13 +346,32 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Duvauchelle",
+        "NumberOfWells": 0,
+        "Improvements": "Stream source n/a, 0.2 mg/L needed at extremities",
+        "Status": "Complete",
+        "ChlorinationDose": "0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948582,
+          -43.758645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
         "PumpStationName": "Effingham",
-        "Zone": "Rawhiti",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -327,11 +384,11 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Estuary",
-        "Zone": "Rawhiti",
         "NumberOfWells": 2,
-        "Improvements": "Two wellheads already above ground",
-        "Status": "Complete",
+        "Improvements": "Two wellheads already above ground, suction tank work",
+        "Status": "Pending",
         "ChlorinationDose": "1.0 mg/L",
         "At": "the station"
       },
@@ -346,8 +403,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Farrington",
-        "Zone": "Northwest",
         "NumberOfWells": 5,
         "Improvements": "Five wellheads raised",
         "Status": "Complete",
@@ -365,8 +422,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Gardiners",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "New pump station with two new above ground wells",
         "Status": "Complete",
@@ -384,12 +441,12 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Grampian",
-        "Zone": "Northwest",
         "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised",
-        "Status": "Complete",
-        "ChlorinationDose": "0.5 mg/L",
+        "Improvements": "Three wellheads raised, suction tank replacment",
+        "Status": "Planning",
+        "ChlorinationDose": "1.0 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -403,10 +460,10 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Grassmere",
-        "Zone": "Central",
-        "NumberOfWells": 4,
-        "Improvements": "Three wellheads raised,  one decommissioned",
+        "NumberOfWells": 3,
+        "Improvements": "Three wellheads raised, one decommisioned",
         "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
@@ -422,9 +479,9 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Hillmorton",
-        "Zone": "Central",
-        "NumberOfWells": 4,
+        "NumberOfWells": 2,
         "Improvements": "Two wellheads raised, two decommissioned",
         "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
@@ -441,8 +498,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Hills",
-        "Zone": "Central",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
@@ -460,13 +517,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Jeffreys",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -479,8 +536,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Kainga",
-        "Zone": "Brooklands/Kainga",
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
@@ -498,13 +555,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Kerrs",
-        "Zone": "Central",
         "NumberOfWells": 2,
         "Improvements": "Two interim below ground wellhead repairs",
         "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.5 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
@@ -517,8 +574,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Keyes ",
-        "Zone": "Rawhiti",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads already above ground",
         "Status": "Complete",
@@ -536,8 +593,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Lake Terrace",
-        "Zone": "Rawhiti",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
@@ -555,8 +612,27 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Little River",
+        "NumberOfWells": 1,
+        "Improvements": "1x Stream source , raise well, 0.2 mg/L needed at extremities",
+        "Status": "Pending",
+        "ChlorinationDose": "0.2 mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.786891,
+          -43.76662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
         "PumpStationName": "Main Pumps",
-        "Zone": "Central",
         "NumberOfWells": 6,
         "Improvements": "Below ground wellheads with UV disinfection",
         "Status": "Complete",
@@ -574,13 +650,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Mairehau",
-        "Zone": "Parklands",
         "NumberOfWells": 1,
         "Improvements": "Abandon pump station in next 5 years",
         "Status": "Planning",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "wet weather"
+        "ChlorinationDose": "0.5 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
@@ -593,13 +669,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Marshlands",
-        "Zone": "Parklands",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -612,11 +688,11 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Mays",
-        "Zone": "Central",
-        "NumberOfWells": 4,
-        "Improvements": "Two wellheads raised, one in In construction, one decommissioned",
-        "Status": "In construction",
+        "NumberOfWells": 3,
+        "Improvements": "Two wellheads raised, one new, one decommissioned",
+        "Status": "Commissioning",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
@@ -631,8 +707,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Montreal",
-        "Zone": "Central",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
@@ -650,13 +726,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Parklands",
-        "Zone": "Parklands",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -669,12 +745,12 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Picton",
-        "Zone": "Riccarton",
         "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised",
-        "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
+        "Improvements": "Three wellheads raised, network issues",
+        "Status": "Planning",
+        "ChlorinationDose": "0.8 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -688,8 +764,27 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Pigeon Bay",
+        "NumberOfWells": 0,
+        "Improvements": "Spring source, n/a, 0.2 mg/L needed at extremities",
+        "Status": "Complete",
+        "ChlorinationDose": "0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.895191,
+          -43.694462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
         "PumpStationName": "Prestons",
-        "Zone": "Parklands",
         "NumberOfWells": 4,
         "Improvements": "Two wellheads already above ground, two more completed",
         "Status": "Complete",
@@ -707,11 +802,11 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Redwood",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
-        "Improvements": "Replace two wells",
-        "Status": "In construction",
+        "Improvements": "Two wellheads raised",
+        "Status": "Commissioning",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
@@ -726,8 +821,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Sockburn ",
-        "Zone": "West",
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
@@ -745,11 +840,11 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Spreydon",
-        "Zone": "Central",
-        "NumberOfWells": 6,
-        "Improvements": "Three wellheads raised, two decommissioned, one in planning",
-        "Status": "Planning",
+        "NumberOfWells": 4,
+        "Improvements": "Three wellheads raised, two decommissioned, one new",
+        "Status": "Complete",
         "ChlorinationDose": "0.2 mg/L",
         "At": "the zone extremities"
       },
@@ -764,8 +859,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "St Johns",
-        "Zone": "Ferrymead",
         "NumberOfWells": 3,
         "Improvements": "One wellhead already above ground, two raised",
         "Status": "Complete",
@@ -783,8 +878,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Sydenham ",
-        "Zone": "Central",
         "NumberOfWells": 4,
         "Improvements": "Four wellheads raised",
         "Status": "Complete",
@@ -802,8 +897,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Tanner",
-        "Zone": "Central",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads modified",
         "Status": "Complete",
@@ -821,12 +916,12 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Tara",
-        "Zone": "Riccarton",
         "NumberOfWells": 1,
-        "Improvements": "One wellhead raised",
-        "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
+        "Improvements": "One wellhead raised, network issues",
+        "Status": "Planning",
+        "ChlorinationDose": "0.8 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -840,13 +935,13 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Thompsons",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "One wellhead already above ground, one raised",
         "Status": "Complete",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the station"
+        "ChlorinationDose": "Non-chlorinated",
+        "At": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -859,8 +954,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Trafalgar",
-        "Zone": "Central",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
@@ -878,8 +973,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Wainui ",
-        "Zone": "Wainui",
         "NumberOfWells": 1,
         "Improvements": "One wellhead raised",
         "Status": "Complete",
@@ -897,8 +992,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Wilmers",
-        "Zone": "West",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads already above ground",
         "Status": "Complete",
@@ -916,8 +1011,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Woolston",
-        "Zone": "Ferrymead",
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
@@ -935,8 +1030,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Worcester",
-        "Zone": "Central",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
@@ -954,8 +1049,8 @@
     {
       "type": "Feature",
       "properties": {
+        "geometry": "Point",
         "PumpStationName": "Wrights",
-        "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "New above ground wellheads",
         "Status": "Complete",
@@ -967,103 +1062,6 @@
         "coordinates": [
           172.5963,
           -43.545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Pigeon Bay",
-        "Zone": "Pigeon Bay",
-        "NumberOfWells": 0,
-        "Improvements": "Spring source n/a",
-        "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.895191,
-          -43.694462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Duvauchelle",
-        "Zone": "Duvauchelle",
-        "NumberOfWells": 0,
-        "Improvements": "Stream source n/a",
-        "Status": "Complete",
-        "ChlorinationDose": "1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948582,
-          -43.758645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Akaroa",
-        "Zone": "Akaroa",
-        "NumberOfWells": 1,
-        "Improvements": "3x Stream source - Raise well",
-        "Status": "Pending",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.975047,
-          -43.804779
-        ]
-      },
-      "id": 53
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Little River",
-        "Zone": "Little River",
-        "NumberOfWells": 1,
-        "Improvements": "1x Stream source - Raise well",
-        "Status": "Pending",
-        "ChlorinationDose": "0.2 mg/L",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.786891,
-          -43.76662
-        ]
-      },
-      "id": 54
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "PumpStationName": "Birdling Flat",
-        "Zone": "Birdling Flat",
-        "NumberOfWells": 1,
-        "Improvements": "Improve well",
-        "Status": "Pending",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692692,
-          -43.817134
         ]
       }
     }
