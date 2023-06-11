@@ -71,7 +71,7 @@
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
         "ChlorinationDose": "Greater than 0.2 mg/L",
-        "At": "the station"
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -171,7 +171,7 @@
         "Improvements": "New station, 3 above ground wells",
         "Status": "Complete",
         "ChlorinationDose": "Greater than 0.2 mg/L",
-        "At": "the station"
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -285,19 +285,19 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Carters",
+        "PumpStationName": "Effingham",
         "Zone": "Rawhiti",
-        "NumberOfWells": 4,
-        "Improvements": "Four wellheads raised, suction tank requires work",
-        "Status": "Pending",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
+        "NumberOfWells": 3,
+        "Improvements": "Three wellheads raised",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.7055,
-          -43.5209
+          172.72,
+          -43.492
         ]
       }
     },
@@ -385,19 +385,19 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Effingham",
+        "PumpStationName": "Keyes ",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised",
+        "Improvements": "Three wellheads already above ground",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.72,
-          -43.492
+          172.7206,
+          -43.506
         ]
       }
     },
@@ -405,19 +405,19 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Estuary",
+        "PumpStationName": "Lake Terrace",
         "Zone": "Rawhiti",
-        "NumberOfWells": 2,
-        "Improvements": "Two wellheads already above ground, suction tank work",
-        "Status": "Pending",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
+        "NumberOfWells": 3,
+        "Improvements": "Three wellheads raised",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.737,
-          -43.5323
+          172.6835,
+          -43.5006
         ]
       }
     },
@@ -605,19 +605,19 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Keyes ",
+        "PumpStationName": "Carters",
         "Zone": "Rawhiti",
-        "NumberOfWells": 3,
-        "Improvements": "Three wellheads already above ground",
-        "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "NumberOfWells": 4,
+        "Improvements": "Four wellheads raised, suction tank requires work",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.7206,
-          -43.506
+          172.7055,
+          -43.5209
         ]
       }
     },
@@ -625,19 +625,19 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Lake Terrace",
+        "PumpStationName": "Estuary",
         "Zone": "Rawhiti",
-        "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised",
-        "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "NumberOfWells": 2,
+        "Improvements": "Two wellheads already above ground, suction tank work",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.6835,
-          -43.5006
+          172.737,
+          -43.5323
         ]
       }
     },
@@ -710,8 +710,8 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -770,8 +770,8 @@
         "NumberOfWells": 3,
         "Improvements": "Three wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -830,8 +830,8 @@
         "NumberOfWells": 4,
         "Improvements": "Two wellheads already above ground, two more completed",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
