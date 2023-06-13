@@ -131,7 +131,7 @@
         "Improvements": "Two wellheads raised",
         "Status": "Complete",
         "ChlorinationDose": "Greater than 0.2 mg/L",
-        "At": "the station"
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "Improvements": "Two wellheads raised, one decommissioned",
         "Status": "Complete",
         "ChlorinationDose": "Greater than 0.2 mg/L",
-        "At": "the station"
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -250,8 +250,8 @@
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -310,8 +310,8 @@
         "NumberOfWells": 3,
         "Improvements": "Two wellheads already above ground, one wellhead raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -379,7 +379,8 @@
           172.948582,
           -43.758645
         ]
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -430,8 +431,8 @@
         "NumberOfWells": 5,
         "Improvements": "Five wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -450,8 +451,8 @@
         "NumberOfWells": 2,
         "Improvements": "New pump station with two new above ground wells",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -548,10 +549,10 @@
         "PumpStationName": "Jeffreys",
         "Zone": "Northwest",
         "NumberOfWells": 2,
-        "Improvements": "Two wellheads raised",
-        "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "Improvements": "Two wellheads raised, new suction tank",
+        "Status": "In construction",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -849,7 +850,7 @@
         "Zone": "Northwest",
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised",
-        "Status": "Commissioning",
+        "Status": "Complete",
         "ChlorinationDose": "Greater than 0.2 mg/L",
         "At": "the zone extremities"
       },
@@ -990,8 +991,8 @@
         "NumberOfWells": 2,
         "Improvements": "One wellhead already above ground, one raised",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
@@ -1108,10 +1109,10 @@
         "PumpStationName": "Wrights",
         "Zone": "Northwest",
         "NumberOfWells": 2,
-        "Improvements": "New above ground wellheads",
+        "Improvements": "New above ground wellheads,",
         "Status": "Complete",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
+        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "At": "the zone extremities"
       },
       "geometry": {
         "type": "Point",
