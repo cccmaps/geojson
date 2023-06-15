@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Canterbury Museum"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6273621887256,
+          -43.53106228359899
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Arts Centre Clock Tower Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          172.62797065003247,
+          -43.53109668403253
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Arts Centre Montreal Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63049379649158,
+          -43.5309611073363
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Victoria Square Hamish Hay Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63529115425672,
+          -43.52780808058387
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Victoria Square Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63637131159305,
+          -43.52858718628896
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cathedral Square on Worcester Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63528711786864,
+          -43.53093009246003
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Tūranga Library West"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63708738218355,
+          -43.530371587273
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Tūranga Library East"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63776003894992,
+          -43.53068928829258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cashel Street Ballantynes"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6360491106106,
+          -43.533162647509094
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Cashel Street at The Crossing"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63751164723197,
+          -43.53318490588894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "High Street, Manchester Corner"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63956310007717,
+          -43.53415415055924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "High Street, Tuam StreetCorner West"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64087491611372,
+          -43.53527716082585
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "High Street, Tuam StreetCorner East"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64104517363484,
+          -43.53526906716954
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
