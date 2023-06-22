@@ -25,26 +25,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Akaroa",
-        "Zone": "Banks Peninsula",
-        "NumberOfWells": 2,
-        "Improvements": "3x Stream source - Raise 2x wellheads",
-        "Status": "Pending",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.975047,
-          -43.804779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Aldwins",
         "Zone": "Central",
         "NumberOfWells": 2,
@@ -78,46 +58,6 @@
         "coordinates": [
           172.7189,
           -43.4807
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Auburn",
-        "Zone": "Northwest",
-        "NumberOfWells": 1,
-        "Improvements": "One wellhead raised, suction tank replacement",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.5764,
-          -43.5335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Averill ",
-        "Zone": "Central",
-        "NumberOfWells": 2,
-        "Improvements": "Two Interim below ground wellhead repairs, one decommissioned",
-        "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6603,
-          -43.5128
         ]
       }
     },
@@ -185,26 +125,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Birdling Flat",
-        "Zone": "Banks Peninsula",
-        "NumberOfWells": 1,
-        "Improvements": "Improve wellhead",
-        "Status": "Pending",
-        "ChlorinationDose": "Non-chlorinated",
-        "At": "n/a"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.692692,
-          -43.817134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Blighs ",
         "Zone": "Central",
         "NumberOfWells": 2,
@@ -258,26 +178,6 @@
         "coordinates": [
           172.5634,
           -43.5046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Burwood",
-        "Zone": "Parklands",
-        "NumberOfWells": 2,
-        "Improvements": "Wells below ground, abandon pump station in next year",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.684,
-          -43.4897
         ]
       }
     },
@@ -365,27 +265,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Duvauchelle",
-        "Zone": "Banks Peninsula",
-        "NumberOfWells": 0,
-        "Improvements": "Stream source n/a, also 0.2 mg/L needed at extremities",
-        "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.948582,
-          -43.758645
-        ]
-      },
-      "id": 18
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Keyes ",
         "Zone": "Rawhiti",
         "NumberOfWells": 3,
@@ -459,26 +338,6 @@
         "coordinates": [
           172.5893,
           -43.4697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Grampian",
-        "Zone": "Northwest",
-        "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised, suction tank replacment",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6054,
-          -43.4773
         ]
       }
     },
@@ -586,66 +445,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Kerrs",
-        "Zone": "Central",
-        "NumberOfWells": 2,
-        "Improvements": "Two interim below ground wellhead repairs",
-        "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6816,
-          -43.5249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Carters",
-        "Zone": "Rawhiti",
-        "NumberOfWells": 4,
-        "Improvements": "Four wellheads raised, suction tank requires work",
-        "Status": "Pending",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.7055,
-          -43.5209
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Estuary",
-        "Zone": "Rawhiti",
-        "NumberOfWells": 2,
-        "Improvements": "Two wellheads already above ground, suction tank work",
-        "Status": "Pending",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.737,
-          -43.5323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Little River",
         "Zone": "Banks Peninsula",
         "NumberOfWells": 1,
@@ -679,26 +478,6 @@
         "coordinates": [
           172.6383,
           -43.5625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Mairehau",
-        "Zone": "Parklands",
-        "NumberOfWells": 1,
-        "Improvements": "Abandon pump station in next 5 years",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6829,
-          -43.4817
         ]
       }
     },
@@ -779,46 +558,6 @@
         "coordinates": [
           172.7068,
           -43.481
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Picton",
-        "Zone": "Riccarton",
-        "NumberOfWells": 3,
-        "Improvements": "Three wellheads raised, network issues",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 0.8 mg/L",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6043,
-          -43.5324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Pigeon Bay",
-        "Zone": "Banks Peninsula",
-        "NumberOfWells": 0,
-        "Improvements": "Spring source, n/a, also 0.2 mg/L needed at extremities",
-        "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.895191,
-          -43.694462
         ]
       }
     },
@@ -966,26 +705,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Tara",
-        "Zone": "Riccarton",
-        "NumberOfWells": 1,
-        "Improvements": "One wellhead raised, network issues",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 0.8 mg/L",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.5891,
-          -43.5321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Thompsons",
         "Zone": "Northwest",
         "NumberOfWells": 2,
@@ -1019,26 +738,6 @@
         "coordinates": [
           172.6356,
           -43.5128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Wainui ",
-        "Zone": "Banks Peninsula",
-        "NumberOfWells": 1,
-        "Improvements": "One wellhead raised",
-        "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.2 mg/L",
-        "At": "the zone extremities"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.894,
-          -43.8125
         ]
       }
     },
@@ -1119,6 +818,306 @@
         "coordinates": [
           172.5963,
           -43.545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Averill ",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Two Interim below ground wellhead repairs, one decommissioned",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6603,
+          -43.5128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Birdling Flat",
+        "Zone": "Banks Peninsula",
+        "NumberOfWells": 1,
+        "Improvements": "Improve wellhead",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.692692,
+          -43.817134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Duvauchelle",
+        "Zone": "Banks Peninsula",
+        "NumberOfWells": 0,
+        "Improvements": "Stream source n/a, also 0.2 mg/L needed at extremities",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.948582,
+          -43.758645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Kerrs",
+        "Zone": "Central",
+        "NumberOfWells": 2,
+        "Improvements": "Two interim below ground wellhead repairs",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6816,
+          -43.5249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Carters",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 4,
+        "Improvements": "Four wellheads raised, suction tank requires work",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7055,
+          -43.5209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Estuary",
+        "Zone": "Rawhiti",
+        "NumberOfWells": 2,
+        "Improvements": "Two wellheads already above ground, suction tank work",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.737,
+          -43.5323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Mairehau",
+        "Zone": "Parklands",
+        "NumberOfWells": 1,
+        "Improvements": "Abandon pump station in next 5 years",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6829,
+          -43.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Pigeon Bay",
+        "Zone": "Banks Peninsula",
+        "NumberOfWells": 0,
+        "Improvements": "Spring source, n/a, also 0.2 mg/L needed at extremities",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.895191,
+          -43.694462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Wainui ",
+        "Zone": "Banks Peninsula",
+        "NumberOfWells": 1,
+        "Improvements": "One wellhead raised",
+        "Status": "Complete",
+        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.894,
+          -43.8125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Picton",
+        "Zone": "Riccarton",
+        "NumberOfWells": 3,
+        "Improvements": "Three wellheads raised, network issues",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 0.8 mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6043,
+          -43.5324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Tara",
+        "Zone": "Riccarton",
+        "NumberOfWells": 1,
+        "Improvements": "One wellhead raised, network issues",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 0.8 mg/L",
+        "At": "the zone extremities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5891,
+          -43.5321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Akaroa",
+        "Zone": "Banks Peninsula",
+        "NumberOfWells": 2,
+        "Improvements": "3x Stream source - Raise 2x wellheads",
+        "Status": "Pending",
+        "ChlorinationDose": "Greater than 1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.975047,
+          -43.804779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Auburn",
+        "Zone": "Northwest",
+        "NumberOfWells": 1,
+        "Improvements": "One wellhead raised, suction tank replacement",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5764,
+          -43.5335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Burwood",
+        "Zone": "Parklands",
+        "NumberOfWells": 2,
+        "Improvements": "Wells below ground, abandon pump station in next year",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.684,
+          -43.4897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geometry": "Point",
+        "PumpStationName": "Grampian",
+        "Zone": "Northwest",
+        "NumberOfWells": 3,
+        "Improvements": "Three wellheads raised, suction tank replacment",
+        "Status": "Planning",
+        "ChlorinationDose": "Greater than 1.0 mg/L",
+        "At": "the station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6054,
+          -43.4773
         ]
       }
     }
