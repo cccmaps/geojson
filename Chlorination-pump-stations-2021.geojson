@@ -410,7 +410,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised, new suction tank",
         "Status": "In construction",
-        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "ChlorinationDose": "Temporarily out of service",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -610,7 +610,7 @@
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.2 mg/L",
+        "ChlorinationDose": "Temporarily out of service",
         "At": "the zone extremities"
       },
       "geometry": {
