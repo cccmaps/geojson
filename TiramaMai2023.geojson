@@ -7,8 +7,8 @@
         "Title": "Tomokanga (Portal)",
         "ArtistCompany": "Ariki Creative and Pixel Productions Ltd",
         "Location": "Victoria Square",
-        "Description": "Tomokanga is created from LED panels that form the legs and arches welcoming visitors into Victoria Square. This digital artwork invites you to walk through it as you enter and exit the festival, and like entering a portal, pass from one state to another.",
-        "LinkText": "Learn more.",
+        "Description": "Tomokanga is created from LED panels that form the legs and arches welcoming visitors into Victoria Square. This digital artwork invites you to walk through it as you enter and exit the festival, and like entering a portal, pass from one state to another. A newly commissioned sound work, Hine-O-Te-Wai Otakaro composed by Mahina-Ina Kingi-Kaui accompanies the second portal in Tomokanga.",
+        "LinkText": "Learn more about the artwork and music.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
       "geometry": {
@@ -79,7 +79,7 @@
         "Title": "Pāhekoheko (Kinect Interactive)",
         "ArtistCompany": "Spectrum Lighting and Sound",
         "Location": "Victoria Square",
-        "Description": "Stand in front of the screen � Move your arms around! See your energy in colour.",
+        "Description": "Stand in front of the screen and move your arms around. See your energy in colour.",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -95,9 +95,9 @@
       "type": "Feature",
       "properties": {
         "Title": "Ata Pūao (First Light)",
-        "ArtistCompany": "Spectrum Lighting and Sound",
+        "ArtistCompany": "Hōhua Kurene and Spectrum Lighting and Sound",
         "Location": "Victoria Square",
-        "Description": "Each Pou will be covered on 2 sides in a corner arrangement with LED panels. ",
+        "Description": "Photographer Hōhua Kurene brings us Aoraki Mt Cook at dawn. The stars are still visible, and the air bites as the sun rises in the east. Each Pou will be covered on 2 sides in a corner arrangement with LED panels. ",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -133,7 +133,7 @@
         "Title": "Muramura te Mahara (Kāi Tahu Origin Story)",
         "ArtistCompany": "The Light Site with Ariki Creative",
         "Location": "Victoria Square",
-        "Description": "Actors: Ana Te Uruti and Taane Flanagan Script: Hori Te Ariki Mataki with support from Lynne Harata Te-Aika Sound Mix (Multi-Media Team): Damian Rarere  Back by popular demand, this 21m-long illuminated tunnel runs alongside the Bowker Fountain in Victoria Square. Walk through the dazzling light display and immerse yourself in the Kāi Tahu origin story, Te Waitatatanga Mai o Ngā Atua by Kāi Tahu rakatira, Mataiaha Tiramōrehu. ",
+        "Description": "Actors: Ana Te Uruti and Taane Flanagan. Script by Hori Te Ariki Mataki with support from Lynne Harata Te-Aika. Sound mix (Multi-Media Team): Damian Rarere.  Back by popular demand, this 21m-long illuminated tunnel runs alongside the Bowker Fountain in Victoria Square. Walk through the dazzling light display and immerse yourself in the Kāi Tahu origin story, Te Waitatatanga Mai o Ngā Atua by Kāi Tahu rakatira, Mataiaha Tiramōrehu. ",
         "LinkText": "Learn more.",
         "LinkURL": "https://teara.govt.nz/en/biographies/1t100/tiramorehu-matiaha"
       },
@@ -169,7 +169,7 @@
         "Title": "Kā Pakiwaitara (Mitre10 Storytelling Zone)",
         "ArtistCompany": "To be confirmed",
         "Location": "Victoria Square",
-        "Description": "Live readings of Matariki stories and Māori legends will be performed around the Ngā Kōrero Pakiwaitara (Matariki storytelling zone), throughout the weekends of the festival, from 6-8pm.  Do you have a favourite Matariki story? Ka rawe! Share it with your friends and or family.",
+        "Description": "Live readings of Matariki stories and Māori legends will be performed around the Ngā Kōrero Pakiwaitara (Matariki storytelling zone), throughout the weekends of the festival, from 6-8pm. In between Pūrākau, come and enjoy the sounds of local musician Henare Kaa, with newly commissioned Waiata, Hiwa I Te Rangi and Ōtautahi and Upoko Upoko Whiti Te Rā, composed by local musician and teacher, Kommi Tamati-Elliffe.  Do you have a favourite Matariki story? Ka rawe! Share it with your friends and or family.",
         "LinkText": "Learn more.",
         "LinkURL": ""
       },
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "Title": "Ngao Matariki - Ka Tīaho, Ka Tūmanako",
-        "ArtistCompany": "Art Fetiche and Ariki Creative, Te Aotahi Rice Edwards, Eli Taueki and Hori Te Ariki Mataki with music by Kommi Tamati-Elliffe",
+        "ArtistCompany": "Art Fetiche and Ariki Creative, Te Aotahi Rice Edwards, Eli Taueki and Hori Te Ariki Mataki with Rima composed by Kommi Tamati-Elliffe",
         "Location": "Victoria Square",
         "Description": "In traditional Māori carving a toki (adze) is used to carve through wood or stone. Ngao Matariki - Ka Tīaho, Ka Tūmanako utilises light, instead of a toki, by cutting through the darkness of each cube revealing colourful and important tohu (symbols) of Puaka Matariki, like Te Kore – Te Pō. Te Ao Marama, Te Kete Mātauraka and Mahika Kai.",
         "LinkText": "Learn more.",
@@ -277,7 +277,7 @@
         "Title": "Pōhutukawa",
         "ArtistCompany": "Miss Tino, aka Jess Collins",
         "Location": "Victoria Square",
-        "Description": "Pōhutukawa (Sterope/Asterope) is the eldest child of Matariki. Her name is associated with the ancient Pōhutukawa tree that sits on the edge of Te Rerenga Wairua and is where our wairua goes once it leaves our body and travels through Te Ara Wairua to Pōhutukawa.  Learn more",
+        "Description": "Pōhutukawa (Sterope/Asterope) is the eldest child of Matariki. Her name is associated with the ancient Pōhutukawa tree that sits on the edge of Te Rerenga Wairua and is where our wairua goes once it leaves our body and travels through Te Ara Wairua to Pōhutukawa. ",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai-bringing-the-light/"
       },
@@ -295,7 +295,7 @@
         "Title": "Tūrama Aroraki (Light the Building)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Light the building.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -313,9 +313,9 @@
         "Title": "He Whetū Whārahi (A Starry Lightshow)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Light the building.",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "Description": "",
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -329,9 +329,9 @@
       "type": "Feature",
       "properties": {
         "Title": "Te Awa Tūrama  (Radiant River)",
-        "ArtistCompany": "Season Event Design-ETS and music by Motte",
+        "ArtistCompany": "Installation by Season Event Design-ETS with Music by Motte",
         "Location": "Victoria Square",
-        "Description": "Follow the mesmerising lights along the riverbank of Ōtākaro accompanied by the beautiful and ethereal music by Lyttelton-based artist Motte.",
+        "Description": "Follow Te Awa Tūrama, with mesmerising lights along the riverbank of Ōtākaro accompanied by the serene and mesmerising music by Ōhinehou Lyttelton-based artist, Motte.  Do you recognise the birdsong in the music? See if you can identify them.",
         "LinkText": "Learn more.",
         "LinkURL": "https://mottemotte.bandcamp.com/"
       },
@@ -349,7 +349,7 @@
         "Title": "Te Poi me Te Tapu o te Mārama (Move to your own beat)",
         "ArtistCompany": "Season Event Design-ETS",
         "Location": "Victoria Square",
-        "Description": "Move to your own beat.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -367,7 +367,7 @@
         "Title": "Te Poi me Te Tapu o te Mārama (Move to your own beat)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Move to your own beat.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -385,7 +385,7 @@
         "Title": "Te Poi me Te Tapu o te Mārama (Move to your own beat)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Move to your own beat.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -403,7 +403,7 @@
         "Title": "Te Poi me Te Tapu o te Mārama (Move to your own beat)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Move to your own beat.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -421,7 +421,7 @@
         "Title": "Te Poi me Te Tapu o te Mārama (Move to your own beat)",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Move to your own beat.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -439,7 +439,7 @@
         "Title": "Tirama Mai ",
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
-        "Description": "Thanks to the team at Lightsite this is the spot to take that perfect photo in front of our bold and beautiful Tīrama Mai sign. Gather your whānaunga and take a photo to remember what you did this Matariki.",
+        "Description": "Thanks to the team at The Light Site this is the spot to take that perfect photo in front of our bold and beautiful Tīrama Mai sign. Gather your whānaunga and take a photo to remember what you did this Matariki.",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -457,7 +457,7 @@
         "Title": "Nga Whetu, Nga Manu (The Stars Are Like Birds) Stars",
         "ArtistCompany": "ILLUMINATI - Abe Fisher and Ariki Creative - Taane Flannagan",
         "Location": "Victoria Square",
-        "Description": "Matariki stars from tree.",
+        "Description": "Ngā Whetu, Ngā Manu signifies the ten stars in the night sky that mark the beginning of the new year celebrations: Puanga and the Matariki star cluster - Matariki, Pōhutukawa, Waitī, Waitā, Waipuna-ā-rangi, Tupuānuku, Tupuārangi, Ururangi, and Hiwa-i-te-rangi. Each star has a unique indigenous narrative and seasonal reference, such as mahinga kai, the traditional foods, their sources, and methods of food gathering.",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -491,7 +491,7 @@
       "type": "Feature",
       "properties": {
         "Title": "Mana Wahine",
-        "ArtistCompany": "Turumeke Harrington",
+        "ArtistCompany": "Turumeke Harrington and Rachael Rakena",
         "Location": "Victoria Square",
         "Description": "Referencing the eight generations of wāhine in Harrington’s whānau to her namesake, Ema Turumeke, KAKANA (Team Player) is a sculpture of grand, bright and luminous forms, huddled together as if bodies sharing secrets, knowledge or sacred information.",
         "LinkText": "Learn more.",
@@ -509,7 +509,7 @@
       "type": "Feature",
       "properties": {
         "Title": "He Hahana o Toi Ōtautahi (Toi Ōtautahi Lightboxes)",
-        "ArtistCompany": "Conor Clark, Simon Kaan and Kim Lowe.\nPowered by Connetics",
+        "ArtistCompany": "Individual Lightboxes by Conor Clarke, Simon Kaan and Kim Lowe",
         "Location": "Victoria Square",
         "Description": "Lightboxes.",
         "LinkText": "Learn more.",
