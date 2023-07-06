@@ -97,7 +97,7 @@
         "Title": "Ata Pūao (First Light)",
         "ArtistCompany": "Hōhua Kurene and Spectrum Lighting and Sound",
         "Location": "Victoria Square",
-        "Description": "Photographer Hōhua Kurene brings us Aoraki Mt Cook at dawn. The stars are still visible, and the air bites as the sun rises in the east. Each Pou will be covered on 2 sides in a corner arrangement with LED panels. ",
+        "Description": "Photographer Hōhua Kurene brings us Aoraki Mt Cook at dawn. The stars are still visible, and the air bites as the sun rises in the east.",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "Title": "Muramura te Mahara (Kāi Tahu Origin Story)",
-        "ArtistCompany": "The Light Site with Ariki Creative",
+        "ArtistCompany": "The Light Site with Ariki Creative (Actors: Ana Te Uruti and Taane Flanagan, Script: Hori Te Ariki Mataki with support from Lynne Harata Te-Aika, Sound mix (Multi-Media Team): Damian Rarere)",
         "Location": "Victoria Square",
         "Description": "Actors: Ana Te Uruti and Taane Flanagan. Script by Hori Te Ariki Mataki with support from Lynne Harata Te-Aika. Sound mix (Multi-Media Team): Damian Rarere.  Back by popular demand, this 21m-long illuminated tunnel runs alongside the Bowker Fountain in Victoria Square. Walk through the dazzling light display and immerse yourself in the Kāi Tahu origin story, Te Waitatatanga Mai o Ngā Atua by Kāi Tahu rakatira, Mataiaha Tiramōrehu. ",
         "LinkText": "Learn more.",
@@ -166,10 +166,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "Kā Pakiwaitara (Mitre10 Storytelling Zone)",
+        "Title": "Kā Pakiwaitara Mitre10 Mega Storytelling Zone",
         "ArtistCompany": "To be confirmed",
         "Location": "Victoria Square",
-        "Description": "Live readings of Matariki stories and Māori legends will be performed around the Ngā Kōrero Pakiwaitara (Matariki storytelling zone), throughout the weekends of the festival, from 6-8pm. In between Pūrākau, come and enjoy the sounds of local musician Henare Kaa, with newly commissioned Waiata, Hiwa I Te Rangi and Ōtautahi and Upoko Upoko Whiti Te Rā, composed by local musician and teacher, Kommi Tamati-Elliffe.  Do you have a favourite Matariki story? Ka rawe! Share it with your friends and or family.",
+        "Description": "Live readings of Matariki stories and Māori legends will be performed around the Kā Pakiwaitara (Mitre10 Storytelling Zone), throughout the weekends of the festival, from 6-8pm. In between Pūrākau, come and enjoy the sounds of local musician Henare Kaa, with newly commissioned Waiata, Hiwa I Te Rangi and Ōtautahi and Upoko Upoko Whiti Te Rā, composed by local musician and teacher, Kommi Tamati-Elliffe.  Do you have a favourite Matariki story? Ka rawe! Share it with your friends and or family.",
         "LinkText": "Learn more.",
         "LinkURL": ""
       },
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "Title": "Ngao Matariki - Ka Tīaho, Ka Tūmanako",
-        "ArtistCompany": "Art Fetiche and Ariki Creative, Te Aotahi Rice Edwards, Eli Taueki and Hori Te Ariki Mataki with Rima composed by Kommi Tamati-Elliffe",
+        "ArtistCompany": "By Art Fetiche and Ariki Creative, Te Aotahi Rice Edwards, Eli Taueki and Hori Te Ariki Mataki with Rima composed by Kommi Tamati-Elliffe",
         "Location": "Victoria Square",
         "Description": "In traditional Māori carving a toki (adze) is used to carve through wood or stone. Ngao Matariki - Ka Tīaho, Ka Tūmanako utilises light, instead of a toki, by cutting through the darkness of each cube revealing colourful and important tohu (symbols) of Puaka Matariki, like Te Kore – Te Pō. Te Ao Marama, Te Kete Mātauraka and Mahika Kai.",
         "LinkText": "Learn more.",
@@ -350,8 +350,8 @@
         "ArtistCompany": "Season Event Design-ETS",
         "Location": "Victoria Square",
         "Description": "",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -368,8 +368,8 @@
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
         "Description": "",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -386,8 +386,8 @@
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
         "Description": "",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -404,8 +404,8 @@
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
         "Description": "",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -422,8 +422,8 @@
         "ArtistCompany": "The Light Site",
         "Location": "Victoria Square",
         "Description": "",
-        "LinkText": "Learn more.",
-        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+        "LinkText": "",
+        "LinkURL": ""
       },
       "geometry": {
         "type": "Point",
@@ -490,8 +490,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Title": "Mana Wahine",
-        "ArtistCompany": "Turumeke Harrington and Rachael Rakena",
+        "Title": "Mana Wahine | KAKANA (Team Player)",
+        "ArtistCompany": "Turumeke Harrington",
         "Location": "Victoria Square",
         "Description": "Referencing the eight generations of wāhine in Harrington’s whānau to her namesake, Ema Turumeke, KAKANA (Team Player) is a sculpture of grand, bright and luminous forms, huddled together as if bodies sharing secrets, knowledge or sacred information.",
         "LinkText": "Learn more.",
@@ -511,7 +511,7 @@
         "Title": "He Hahana o Toi Ōtautahi (Toi Ōtautahi Lightboxes)",
         "ArtistCompany": "Individual Lightboxes by Conor Clarke, Simon Kaan and Kim Lowe",
         "Location": "Victoria Square",
-        "Description": "Lightboxes.",
+        "Description": "",
         "LinkText": "Learn more.",
         "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
       },
@@ -521,6 +521,24 @@
           172.634219,
           -43.530103
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Tomokanga (portal)",
+        "ArtistCompany": "Ariki Creative and Pixel Productions Ltd",
+        "Location": "Victoria Square",
+        "Description": "A newly commissioned sound work, Hine-O-Te-Wai Otakaro composed by Mahina-Ina Kingi-Kaui accompanies the second portal in Tomokanga",
+        "LinkText": "Learn more about the artwork and music",
+        "LinkURL": "https://https/toiotautahi.org.nz/views/tirama-mai/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63652012751214,
+          -43.527649508883876
+        ],
+        "type": "Point"
       }
     }
   ]
