@@ -540,6 +540,24 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Mana Wahine | Te Ara o Tākaro",
+        "ArtistCompany": "Rachael Rakena",
+        "Location": "Victoria Square",
+        "Description": "Featuring Ngāi Tahu tohunga rāranga (Master Weaver) Reihana Parata QSM with her mokopuna, Koha-o-Rangi and Nukutawhiti, playing in the safe clean waters of the Ōtākaro river at night. This work reminds us that Ōtakaro was once a pristine spring-fed river that was part of an interconnected network of traditional travel routes into a wetland ecosystem.  The term mokopuna refers to the spring of descendants who will look into the clean clear waters of Ōtakaro and see reflected the likeness of their ancestors who dwelt there. At this time of Matariki, we acknowledge Waitī, the star connected to fresh water and ask ourselves, ‘Will we be the worthy kaitaiki our ancestors were?’",
+        "LinkText": "Learn more.",
+        "LinkURL": "https://toiotautahi.org.nz/views/tirama-mai/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63346663407515,
+          -43.530553273298516
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
