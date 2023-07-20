@@ -6,7 +6,7 @@
       "properties": {
         "Type": "Campground",
         "Name": "Leithfield Beach Holiday Park ",
-        "Address": "18 Lucas Dr, Leithfield 7481",
+        "Address": "18 Lucas Drive, Leithfield 7481",
         "Phone": "03 314 8518",
         "Website": "http://leithfieldbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -27,7 +27,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "Waikuku Beach Holiday Park",
-        "Address": "1 Domain Rd, Waikuku Beach 7402",
+        "Address": "1 Domain Road, Waikuku Beach 7402",
         "Phone": "03 312 7600",
         "Website": "http://www.waikukubeachholidaypark.com/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -49,7 +49,7 @@
       "properties": {
         "Type": "Campground",
         "Name": "Rangiora Leigh Holiday Park ",
-        "Address": "433 Dixons Rd, Waimakariri, Loburn 7472",
+        "Address": "433 Dixons Road, Waimakariri, Loburn 7472",
         "Phone": "027 4340 315",
         "Website": "https://www.aa.co.nz/travel/listing/rangiora/rangiora-leigh-holiday-park/89116",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -70,7 +70,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "Rangiora Eco Holiday Park ",
-        "Address": "337 Lehmans Rd, Rangiora 7471",
+        "Address": "337 Lehmans Road, Rangiora 7471",
         "Phone": "03 313 5759",
         "Website": "http://www.rangioraecoholidaypark.co.nz/",
         "Facilities": "Dump station, laundry, kitchen, swimming pool and more",
@@ -92,7 +92,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "Woodend Beach Holiday Park",
-        "Address": "14 Woodend Beach Rd, Woodend 7691",
+        "Address": "14 Woodend Beach Road, Woodend 7691",
         "Phone": "03 312 7643",
         "Website": "https://www.woodendbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
@@ -135,7 +135,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "Blue Skies ",
-        "Address": "12 Williams St, Kaiapoi 8011",
+        "Address": "12 Williams Street, Kaiapoi 8011",
         "Phone": "03 327 8007",
         "Website": "http://www.blueskies.org.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit accepted and more ",
@@ -157,7 +157,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "Riverlands Holiday Park and Motels ",
-        "Address": "45 Doubledays Rd, Kaiapoi 7691",
+        "Address": "45 Doubledays Road, Kaiapoi 7691",
         "Phone": "03 327 5511",
         "Website": "http://riverlandspark.co.nz/",
         "Facilities": "Suitable for any vehicle type, credit card and EFTPOS and more",
@@ -178,8 +178,8 @@
       "type": "Feature",
       "properties": {
         "Type": "Campground",
-        "Name": "Spencer Beach TOP 10 Holiday Park",
-        "Address": "100 Heyders Rd, Spencerville, Christchurch 8083",
+        "Name": "Christchurch Spencer Beach TOP 10 Holiday Park",
+        "Address": "100 Heyders Road, Spencerville, Christchurch 8083",
         "Phone": "03 329 8721",
         "Website": "http://spencerbeachholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -200,7 +200,7 @@
       "properties": {
         "Type": "Campground / dump station",
         "Name": "North South Holiday Park ",
-        "Address": "530 Sawyers Arms Rd, Harewood, Christchurch 8051",
+        "Address": "530 Sawyers Arms Road, Harewood, Christchurch 8051",
         "Phone": "03 359 5993",
         "Website": "https://www.northsouth.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -221,10 +221,10 @@
       "type": "Feature",
       "properties": {
         "Type": "Campground / dump station",
-        "Name": "Christchurch TOP 10 Holiday Park",
-        "Address": "39 Meadow St, Papanui, Christchurch 8052",
+        "Name": "Tasman Holiday Park",
+        "Address": "39 Meadow Street, Papanui, Christchurch 8052",
         "Phone": "03 352 9176",
-        "Website": "https://www.christchurchtop10.co.nz/",
+        "Website": "https://tasmanholidayparks.com/nz/christchurch/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
         "Campground": "Yes",
         "Dumpstation": "Yes",
@@ -242,30 +242,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Campground",
-        "Name": "Amber Kiwi Holiday Park & Motels ",
-        "Address": "308 Blenheim Rd, Middleton, Christchurch 8041",
-        "Phone": "0800 348 308",
-        "Website": "https://amberpark.co.nz/",
-        "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
-        "Campground": "Yes",
-        "campground-price": "From $42",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.582217,
-          -43.538256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Type": "Campground / dump station",
         "Name": "South Brighton Holiday Park",
-        "Address": "59 Halsey St, South New Brighton, New Brighton South 8062",
+        "Address": "59 Halsey Street, South New Brighton, New Brighton South 8062",
         "Phone": "03 388 9844",
         "Website": "https://southbrightonholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS and more",
@@ -286,29 +265,8 @@
       "type": "Feature",
       "properties": {
         "Type": "Campground",
-        "Name": "Awaroa / Godley Head Doc Campsite ",
-        "Address": "8081, Sumner, Christchurch",
-        "Phone": "03 379 4082",
-        "Website": "https://www.doc.govt.nz/godley-head-campsite",
-        "Facilities": "Suitable only for self-contained vehicles, public toilet, water fountain, general rubbish bin, wheelchair accessible ",
-        "Campground": "Yes",
-        "campground-price": "From $13 ",
-        "dumpstation-price": "Free for public use "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.80393,
-          -43.588171
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Campground",
         "Name": "Okains Bay Camping Ground ",
-        "Address": "1357 Okains Bay Rd, Okains Bay 7583",
+        "Address": "1357 Okains Bay Road, Okains Bay 7583",
         "Phone": "03 304 8789",
         "Website": "https://okainsbaycamp.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station and more",
@@ -323,14 +281,15 @@
           173.062636,
           -43.697705
         ]
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
       "properties": {
         "Type": "Campground",
         "Name": "Duvauchelle Holiday Park",
-        "Address": "19a Seafield Rd, Duvauchelle 7581",
+        "Address": "19a Seafield Road, Duvauchelle 7581",
         "Phone": "03 304 5777",
         "Website": "http://duvauchelleholidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, boat ramp, credit and EFTPOS and more",
@@ -345,7 +304,8 @@
           172.942294,
           -43.753784
         ]
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -355,7 +315,7 @@
         "marker-symbol": "",
         "Type": "Campground",
         "Name": "Akaroa TOP 10 Holiday Park ",
-        "Address": "96 Morgans Rd, Akaroa 7542",
+        "Address": "96 Morgans Road, Akaroa 7542",
         "Phone": "03 304 7471",
         "Website": "http://www.akaroa-holidaypark.co.nz/",
         "Facilities": "Suitable for any vehicle type, caravan power, boat ramp, credit and EFTPOS, and more",
@@ -377,7 +337,7 @@
       "properties": {
         "Type": "Campground",
         "Name": "Little River Campground ",
-        "Address": "287 Okuti Valley Rd, Little River 7591",
+        "Address": "287 Okuti Valley Road, Little River 7591",
         "Phone": "03 325 1014",
         "Website": "http://www.littlerivercampground.co.nz/",
         "Facilities": "Suitable for any vehicle type, dump station, caravan power and more",
@@ -398,9 +358,9 @@
       "properties": {
         "Type": "Campground",
         "Name": "Waihora Park Reserve Campsite ",
-        "Address": "130 Park Rd, Motukarara 7672",
+        "Address": "130 Park Road, Motukarara 7672",
         "Phone": "03 329 7818",
-        "Website": "",
+        "Website": "https://selwyn.nz/stay/camping/listing/waihora-park-domain-camping-ground",
         "Facilities": "Suitable for any vehicle type, general rubbish bin, BBQ and more",
         "Campground": "Yes",
         "campground-price": "From $10",
@@ -433,7 +393,8 @@
           172.705936,
           -43.655769
         ]
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -483,7 +444,7 @@
       "properties": {
         "Type": "Dump station",
         "Name": "Kowhai Pass Domain Springfield PDS",
-        "Address": "Domain Rd, Springfield",
+        "Address": "Domain Road, Springfield",
         "Phone": "",
         "Website": "",
         "Facilities": "",
@@ -505,7 +466,7 @@
       "properties": {
         "Type": "Dump station",
         "Name": "BP Marshlands PDS",
-        "Address": "Cnr Prestons & Marshland Rd, Christchurch",
+        "Address": "Cnr Prestons & Marshland Roads, Christchurch",
         "Phone": "",
         "Website": "",
         "Facilities": "",
@@ -527,7 +488,7 @@
       "properties": {
         "Type": "Dump station",
         "Name": "BP Russley Road PDS",
-        "Address": "661 Russley Rd, Harewood, Christchurch",
+        "Address": "661 Russley Road, Harewood, Christchurch",
         "Phone": "",
         "Website": "",
         "Facilities": "",
@@ -567,6 +528,71 @@
           172.90080428123474,
           -43.68338334695545
         ]
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Campground",
+        "Name": "Coes Ford Reserve Campground ",
+        "Address": "Pannetts Road, Springston",
+        "Phone": "03 347 2800",
+        "Website": "https://selwyn.nz/stay/camping/listing/coes-ford-reserve",
+        "Facilities": "A popular reserve with large open spaces set next to the Selwyn River.",
+        "Campground": "Yes",
+        "campground-price": "Free",
+        "dumpstation-price": "",
+        "Dumpstation": ""
+      },
+      "geometry": {
+        "coordinates": [
+          172.414364389193,
+          -43.6945478792189
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Website": "https://selwyn.nz/stay/camping/listing/rakaia-huts-campground",
+        "Campground": "Yes",
+        "Facilities": "Rakaia huts the fishermans paradise. Located at the mouth of the Rakaia River.",
+        "Address": "107 Pacific Drive, Southbridge 7683",
+        "Type": "Campground",
+        "Name": "Rakaia Huts Campground ",
+        "Phone": "027 465 9484",
+        "campground-price": " From $10",
+        "Dumpstation": "Yes",
+        "dumpstation-price": "Dump station available to camp users only."
+      },
+      "geometry": {
+        "coordinates": [
+          172.2406657447369,
+          -43.88723868420016
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Campground",
+        "Campground": "Yes",
+        "Name": "Chamberlains Ford Reserve Campground ",
+        "Website": "https://selwyn.nz/stay/camping/listing/chamberlains-ford-reserve",
+        "Phone": "03 347 2800",
+        "Address": "Leeston Road, Springston",
+        "Facilities": "Set next to the Selwyn River, the location offers causal recreation, fishing and picnic areas.",
+        "campground-price": "Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.37269563838908,
+          -43.68919129891845
+        ],
+        "type": "Point"
       }
     }
   ]
