@@ -688,6 +688,22 @@
         "Parkname": "MacFarlane Park",
         "Type": "Full Court"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SportCode": "Basketball",
+        "Type": "Half Court",
+        "Address": "St Asaph Street",
+        "Parkname": "CBD"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63886915928526,
+          -43.53621352440016
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
