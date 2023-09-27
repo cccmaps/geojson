@@ -353,7 +353,7 @@
         "Entry": "335 Durham Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 62,
+        "Parking-spaces": 52,
         "Electric": "",
         "Mobility": "",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
@@ -364,7 +364,8 @@
           172.633302,
           -43.52678
         ]
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
