@@ -462,6 +462,22 @@
           -43.53382992739043
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Frame car park building",
+        "type": "Other off-street parking building",
+        "address": "29 Bedford Row ",
+        "spaces": 149
+      },
+      "geometry": {
+        "coordinates": [
+          172.64123665904782,
+          -43.53353728296319
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
