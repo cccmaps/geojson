@@ -610,7 +610,7 @@
         "NumberOfWells": 6,
         "Improvements": "Six wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Temporarily out of service",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
