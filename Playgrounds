@@ -6,8 +6,7 @@
       "properties": {
         "description": "<p>A community playground with block wall, multi-play structure, fenced paddling pool (closed 3rd April until mid November), roundabout, see-saw, stand alone slides &amp; swings and toilet.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 640 metres</p>",
         "address": "<p>Abberley Crescent, St Albans</p>",
-        "name": "Abberley Park Playground ",
-        "email": ""
+        "name": "Abberley Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -22,8 +21,7 @@
       "properties": {
         "description": "<p>A small local park with basic playground consisting of see-saw, stand alone slides &amp; stand alone swings. Area of Park: 2,383 square metres, Perimeter of Park: 247 metres</p>",
         "address": "<p>Carruthers Street, Ilam&nbsp;</p>",
-        "name": "Annandale Park Playground",
-        "email": ""
+        "name": "Annandale Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -38,8 +36,7 @@
       "properties": {
         "description": "<p>A small playground set on Broomfield Green playing fields comprised of tyre swing, multi-play structure &amp; spring mounted toys.</p>\r\n<p>Area of Park: 997 square metres, Perimeter of Park: 129 metres</p>",
         "address": "<p>Arcon Drive, Broomfield</p>",
-        "name": "Arcon Playground",
-        "email": ""
+        "name": "Arcon Playground"
       },
       "geometry": {
         "type": "Point",
@@ -54,8 +51,7 @@
       "properties": {
         "description": "<p>A large local park with Block Wall, Multi-Play Structure &amp; stand alone Swing.</p>\r\n<p>Area of Park: 5,229 square metres, Perimeter of Park: 302 metres</p>",
         "address": "<p>Arden Place, Parklands</p>",
-        "name": "Arden Reserve Playground",
-        "email": ""
+        "name": "Arden Reserve Playground"
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +66,7 @@
       "properties": {
         "description": "<p>A great playground comprised of horse, roundabout, stand alone slides &amp; swings.</p>\r\n<p>Area of Park: 3,531 square metres, Perimeter of Park: 240 metres</p>",
         "address": "<p>Armitage Street, Bishopdale</p>",
-        "name": "Armitage Reserve Playground",
-        "email": ""
+        "name": "Armitage Reserve Playground"
       },
       "geometry": {
         "type": "Point",
@@ -86,8 +81,7 @@
       "properties": {
         "description": "<p>A local park complete with a well maintained playground including balance beam, multi-play structure, see-saw, solo spinner &amp; stand alone swings. Also a petanque court.</p>\r\n<p>Area of Park: 4,751 square metres, Perimeter of Park: 290 metres</p>",
         "address": "<p>Arran Crescent, Woolston</p>",
-        "name": "Arran Playground ",
-        "email": ""
+        "name": "Arran Playground "
       },
       "geometry": {
         "type": "Point",
@@ -102,8 +96,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, stand alone slides &amp; swing.</p>\r\n<p>Area of Park: 2,154 square metres, Perimeter of Park: 204 metres</p>",
         "address": "<p>Kendal Ave, Burnside</p>",
-        "name": "Ashcroft Reserve ",
-        "email": ""
+        "name": "Ashcroft Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -118,8 +111,7 @@
       "properties": {
         "description": "<p>A community park with block wall, multi-play structure, goal posts &amp; swings.</p>\r\n<p>Area of Park: 6,909 square metres, Perimeter of Park: 333 metres</p>",
         "address": "<p>Aston Street, Waimairi Beach</p>",
-        "name": "Aston Reserve ",
-        "email": ""
+        "name": "Aston Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -134,8 +126,7 @@
       "properties": {
         "description": "<p>A large garden park complete with a playground which consists of paddling pool (currently closed), rocktopus, slides, spring mounted play items &amp; swing. Also contains toilets.</p>\r\n<p>Area of Park: 8,012 square metres, Perimeter of Park: 444 metres</p>",
         "address": "<p>Evelyn Couzins Ave, Richmond</p>",
-        "name": "Avebury Park Playground",
-        "email": ""
+        "name": "Avebury Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +141,7 @@
       "properties": {
         "description": "<p>A local sports ground with playground which consists of roundabout, see-saw, slides &amp; swings. Also contains Half Court and toilets.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Avonside Dr &amp; Kerrs Rd, Avonside</p>",
-        "name": "Avon Park Playground ",
-        "email": ""
+        "name": "Avon Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -166,8 +156,7 @@
       "properties": {
         "description": "<p>A local park which consists of swing &amp; multi-play structure. Also includes a half basketball court a petanque court and a tennis court.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 959 metres</p>",
         "address": "<p>Mervyn Drive, Avondale</p>",
-        "name": "Avondale Park ",
-        "email": ""
+        "name": "Avondale Park "
       },
       "geometry": {
         "type": "Point",
@@ -182,8 +171,7 @@
       "properties": {
         "description": "<p>A large local community park complete with multi-play structure, supa nova &amp; swings.</p>\r\n<p>Area of Park: 9,006 square metres, Perimeter of Park: 825 metres</p>",
         "address": "<p>Aylsham Lane, Casebrook</p>",
-        "name": "Aylsham Reserve",
-        "email": ""
+        "name": "Aylsham Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -198,8 +186,7 @@
       "properties": {
         "description": "<p>Small neighbourhood playground with block wall, multi-play structure, see-saw &amp; stand alone swing.</p>\r\n<p>Area of Park: 1,327 square metres, Perimeter of Park: 177 metres</p>",
         "address": "<p>Balcairn Street, Halswell</p>",
-        "name": "Balcairn Reserve",
-        "email": ""
+        "name": "Balcairn Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +201,7 @@
       "properties": {
         "description": "<p>A large sports park set in Redcliffs, playground includes see-saw, slides, roundabout &amp; swings.</p>\r\n<p>Area of Park: 7 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Main Road, Redcliffs</p>",
-        "name": "Barnett Park Playground",
-        "email": ""
+        "name": "Barnett Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +216,7 @@
       "properties": {
         "description": "<p>Large sports park with balance beam, block wall, see-saw, stand alone swing &amp; multi-play structure. Also has basketball half court and toilets. Good Wheelchair access.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Barrington Street, Spreydon</p>",
-        "name": "Barrington Park Playground ",
-        "email": ""
+        "name": "Barrington Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -246,8 +231,7 @@
       "properties": {
         "description": "<p>Local park in Bromley with see-saw, slides &amp; swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 957 metres</p>",
         "address": "<p>Bayswater Crescent, Bromley</p>",
-        "name": "Bayswater Reserve",
-        "email": ""
+        "name": "Bayswater Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -262,8 +246,7 @@
       "properties": {
         "description": "<p>A large sports park with balance beam, swings, multi-play structure, rocktopus &amp; block wall. Also has toilets.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Norwood Street, Beckenham</p>",
-        "name": "Beckenham Park Playground",
-        "email": ""
+        "name": "Beckenham Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -278,8 +261,7 @@
       "properties": {
         "description": "<p>A small community reserve with swings, slide &amp; see-saw.</p>\r\n<p>Area of Park: 4,920 square metres, Perimeter of Park: 288 metres</p>",
         "address": "<p>8 Benmore Gardens, Harewood</p>",
-        "name": "Benmore Gardens Reserve",
-        "email": ""
+        "name": "Benmore Gardens Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -294,8 +276,7 @@
       "properties": {
         "description": "<p>A small community reserve with swings, slide &amp; see-saw.</p>\r\n<p>Area of Park: 1,954 square metres, Perimeter of Park: 212 metres</p>",
         "address": "<p>Bermuda Drive, Hornby</p>",
-        "name": "Bermuda Reserve",
-        "email": ""
+        "name": "Bermuda Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -310,8 +291,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure, slide &amp; see-saw.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 955 metres</p>",
         "address": "<p>Stanmore Road, Linwood</p>",
-        "name": "Beverley Park & Playground",
-        "email": ""
+        "name": "Beverley Park & Playground"
       },
       "geometry": {
         "type": "Point",
@@ -326,8 +306,7 @@
       "properties": {
         "description": "<p>A large sports park with playground which includes a climbing wall, multi play structure, flying fox, horse, obstacles, see saw &amp; swings. Also has skate park, basketball half court and toilets.</p>\r\n<p>Area of Park: 7 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Harewood Road, Bishopdale</p>",
-        "name": "Bishopdale Park Playground ",
-        "email": ""
+        "name": "Bishopdale Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -342,8 +321,7 @@
       "properties": {
         "description": "<p>The playground within the Botanic Gardens is the perfect spot for a summer picnic. With a great playground, paddling pool (closed April - November), climbing equipment, slides &amp; see-saw. Good wheelchair access</p>",
         "address": "<p>Rolleston Avenue, Central&nbsp;City</p>",
-        "name": "Botanic Gardens Playground ",
-        "email": ""
+        "name": "Botanic Gardens Playground "
       },
       "geometry": {
         "type": "Point",
@@ -358,8 +336,7 @@
       "properties": {
         "description": "<p>This local sports park has a playground which includes see-saws, may pole, hoop, slides, horse &amp; swings.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 849 metres</p>",
         "address": "<p>Willryan Ave, New Brighton</p>",
-        "name": "Bower Park Playground ",
-        "email": ""
+        "name": "Bower Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -374,8 +351,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, see - saw and swing (stand alone).</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 830 metres</p>",
         "address": "<p>Milton Street, Sydenham</p>",
-        "name": "Bradford Park Playground ",
-        "email": ""
+        "name": "Bradford Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -390,8 +366,7 @@
       "properties": {
         "description": "<p>A sports park with half court, hoops, see-saw, slide, swings &amp; multi-play structure.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 691 metres</p>",
         "address": "<p>Witham Street, Hornby</p>",
-        "name": "Branston Park Playground ",
-        "email": ""
+        "name": "Branston Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -406,8 +381,7 @@
       "properties": {
         "description": "<p>This local park features sheltered areas of lawn and a large playground that includes slides, swings, see-saw, multi-play structure, horse and a roundabout. It is adjacent to the beach for walks and swimming. It has changing and toilet facilities. There is a caf&eacute; across the road. Car parks are located at both ends of the park.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 814 metres</p>",
         "address": "<p>Broadpark Road, North New Brighton.</p>",
-        "name": "Broad Park ",
-        "email": ""
+        "name": "Broad Park "
       },
       "geometry": {
         "type": "Point",
@@ -422,8 +396,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, swings block wall &amp; goal posts.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 979 metres</p>",
         "address": "<p>Forest Drive, Parklands&nbsp;</p>",
-        "name": "Broadhaven Reserve Playground",
-        "email": ""
+        "name": "Broadhaven Reserve Playground"
       },
       "geometry": {
         "type": "Point",
@@ -438,8 +411,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure &amp; swing. Also has a BMX track.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 640 metres</p>",
         "address": "<p>Bromley Road, Bromley</p>",
-        "name": "Bromley Old School Reserve",
-        "email": ""
+        "name": "Bromley Old School Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -454,8 +426,7 @@
       "properties": {
         "description": "<p>A sports field with swing and multi play structure. Also has a basketball halfcourt &amp; public toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 935 metres</p>",
         "address": "<p>Buckleys Road, Linwood</p>",
-        "name": "Bromley Park ",
-        "email": ""
+        "name": "Bromley Park "
       },
       "geometry": {
         "type": "Point",
@@ -470,8 +441,7 @@
       "properties": {
         "description": "<p>A local park with balance beam, block Wall, multi-play structure, hoop, see - saw &amp; stand alone swing. also has basketball half court, tennis court, skateboard area &amp; skateboard ramp.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Anfield Street, Brooklands</p>",
-        "name": "Brooklands Domain",
-        "email": ""
+        "name": "Brooklands Domain"
       },
       "geometry": {
         "type": "Point",
@@ -486,8 +456,7 @@
       "properties": {
         "description": "<p>A local park with swings and a roundabout.</p>\r\n<p>Area of Park: 3,244 square metres Perimeter of Park: 248 metres</p>",
         "address": "<p>Buchan Street, Sydenham</p>",
-        "name": "Buchan Playground",
-        "email": ""
+        "name": "Buchan Playground"
       },
       "geometry": {
         "type": "Point",
@@ -502,8 +471,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,026 square metres, Perimeter of Park: 177 metres</p>",
         "address": "<p>Bullock Place, Ilam</p>",
-        "name": "Bullock Reserve",
-        "email": ""
+        "name": "Bullock Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -518,8 +486,7 @@
       "properties": {
         "description": "<p>A sports park with a slide, swing, see-saw &amp; multi-play structure. Also has toilets.</p>\r\n<p>Area of Park: 29 hectares, Perimeter of Park: 3 kilometres.</p>",
         "address": "<p>Memorial Avenue, Burnside.</p>",
-        "name": "Burnside Park ",
-        "email": ""
+        "name": "Burnside Park "
       },
       "geometry": {
         "type": "Point",
@@ -534,8 +501,7 @@
       "properties": {
         "description": "<p>A sports park with a maze, climbing equipment, multi-play structure, flying fox, hoop, stand alone slide &amp; swings Also has a bmx track, basketball half court &amp; public toilet.</p>",
         "address": "<p>New Brighton Road, Burwood.</p>",
-        "name": "Burwood Park Playground ",
-        "email": ""
+        "name": "Burwood Park Playground "
       },
       "geometry": {
         "type": "Point",
@@ -550,8 +516,7 @@
       "properties": {
         "description": "<p>A local park with block wall, solo spinner, swing &amp; multi-play structure.</p>\r\n<p>Area of Park: 2,597 square metres, Perimeter of Park: 226 metres</p>",
         "address": "<p>Calbreath Place, Russley.</p>",
-        "name": "Callbreath Reserve",
-        "email": ""
+        "name": "Callbreath Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -566,8 +531,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure &amp; swing.</p>\r\n<p>Area of Park: 4,379 square metres, Perimeter of Park: 381 metres</p>",
         "address": "<p>Cameron Street, Sydenham</p>",
-        "name": "Cameron Reserve",
-        "email": ""
+        "name": "Cameron Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -582,8 +546,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure &amp; swing.</p>\r\n<p>Area of Park: 3,504 square metres, Perimeter of Park: 252 metres</p>",
         "address": "<p>Lakeview Place, Halswell</p>",
-        "name": "Campion Reserve",
-        "email": ""
+        "name": "Campion Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -598,8 +561,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slides &amp; swings.</p>\r\n<p>Area of Park: 2,078 square metres, Perimeter of Park: 184 metres</p>",
         "address": "<p>Canberra Place, Redwood</p>",
-        "name": "Canberra Reserve",
-        "email": ""
+        "name": "Canberra Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -614,8 +576,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure, swings &amp; a block wall.</p>\r\n<p>Area of Park: 6,191 square metres, Perimeter of Park: 347 metres</p>",
         "address": "<p>Wrights Road, Addington.</p>",
-        "name": "Cardigan Bay Reserve",
-        "email": ""
+        "name": "Cardigan Bay Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -630,8 +591,7 @@
       "properties": {
         "description": "<p>A local park with stand alone slides and swing, see-saw &amp; solo spinner. Also has basketball half court and skateboard area.</p>\r\n<p>Area of Park: 3,349 square metres, Perimeter of Park: 236 metres</p>",
         "address": "<p>Carisbrook St, Aranui</p>",
-        "name": "Carisbrook Reserve",
-        "email": ""
+        "name": "Carisbrook Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -646,8 +606,7 @@
       "properties": {
         "description": "<p>A local park with a block wall, multi play structure and swing.</p>\r\n<p>Area of Park: 2,171 square metres, Perimeter of Park: 286 metres</p>",
         "address": "<p>Stillwater Ave, Burwood</p>",
-        "name": "Carlsen Reserve",
-        "email": ""
+        "name": "Carlsen Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -662,8 +621,7 @@
       "properties": {
         "description": "<p>A local park with swings, multi play structure &amp; block wall.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 589 metres</p>",
         "address": "<p>Carmen Road, Hornby</p>",
-        "name": "Carmen Reserve",
-        "email": ""
+        "name": "Carmen Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -678,8 +636,7 @@
       "properties": {
         "description": "<p>A sports park with blockwall, logs, maze, see-saw, slides, spring mounted play items, solo spinner, multi play structure &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 707 metres</p>",
         "address": "<p>Cashmere Road, Cashmere.</p>",
-        "name": "Cashmere Valley Reserve",
-        "email": ""
+        "name": "Cashmere Valley Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -694,8 +651,7 @@
       "properties": {
         "description": "<p>A local park with block wall, may pole, see-saw, swing &amp; multi-play structure.</p>\r\n<p>Area of Park: 3,269 square metres, Perimeter of Park: 274 metres</p>",
         "address": "<p>Fairview Street, Cashmere</p>",
-        "name": "Cashmere View Playground",
-        "email": ""
+        "name": "Cashmere View Playground"
       },
       "geometry": {
         "type": "Point",
@@ -710,8 +666,7 @@
       "properties": {
         "description": "<p>Caulfield Drainage Reserve Nature Playground has logs for leaping, balance and jumping and balance-beams! You will also find lots of native plantings in this nature-inspired playground.</p>",
         "address": "<p>Greenaway Park, Caulfield Avenue, Halswell</p>",
-        "name": "Caulfield Drainage Reserve Nature Playground",
-        "email": ""
+        "name": "Caulfield Drainage Reserve Nature Playground"
       },
       "geometry": {
         "type": "Point",
@@ -726,8 +681,7 @@
       "properties": {
         "description": "<p>A local park with a slide, swing, see saw &amp; multi-play structure.</p>\r\n<p>Area of Park: 7,979 square metres, Perimeter of Park: 590 metres</p>",
         "address": "<p>Hulverstone Drive, Avondale</p>",
-        "name": "Cedarwood Reserve",
-        "email": ""
+        "name": "Cedarwood Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -742,8 +696,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, slide, swing, horse, block wall &amp; multi play structure.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 455 metres</p>",
         "address": "<p>Centaurus Road, Cashmere</p>",
-        "name": "Centaurus Park",
-        "email": ""
+        "name": "Centaurus Park"
       },
       "geometry": {
         "type": "Point",
@@ -758,8 +711,7 @@
       "properties": {
         "description": "<p>A&nbsp;sports park with snowboard rider, rocktopus, swings. Also has BBQ facilities and toilets.</p>\r\n<p>Area of Park: 7 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Lyttelton Street, Spreydon</p>",
-        "name": "Centennial Park Playground",
-        "email": ""
+        "name": "Centennial Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -774,8 +726,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure and swing.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Clarevale Street, Burwood&nbsp;</p>",
-        "name": "Clarevale Reserve ",
-        "email": ""
+        "name": "Clarevale Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -790,8 +741,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see saw, swings and slides.</p>\r\n<p>Area of Park: 1,640 square metres, Perimeter of Park: 165 metres</p>",
         "address": "<p>Cobra Street, Halswell</p>",
-        "name": "Cobra Reserve",
-        "email": ""
+        "name": "Cobra Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -806,8 +756,7 @@
       "properties": {
         "description": "<p>A local park with see saw, swings &amp; slide.</p>\r\n<p>Area of Park: 8,033 square metres, Perimeter of Park: 361 metres</p>",
         "address": "<p>Coleman Ave, Sockburn</p>",
-        "name": "Colman Reserve ",
-        "email": ""
+        "name": "Colman Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -822,8 +771,7 @@
       "properties": {
         "description": "<p>A local park with blockwall, Multi plsy structure &amp; swing.</p>\r\n<p>Area of Park: 2,372 square metres, Perimeter of Park: 347 metres</p>",
         "address": "<p>Copperfield Close, Parklands</p>",
-        "name": "Copperfield Reserve",
-        "email": ""
+        "name": "Copperfield Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -838,8 +786,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multiplay structure &amp; swings.</p>\r\n<p>Area of Park: 3,968 square metres, Perimeter of Park: 252 metres</p>",
         "address": "<p>Harman Street, Addington</p>",
-        "name": "Cornelius O`Connor Reserve",
-        "email": ""
+        "name": "Cornelius O`Connor Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -854,8 +801,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, swings &amp; slide.</p>\r\n<p>Area of Park: 2,768 square metres, Perimeter of Park: 222 metres</p>",
         "address": "<p>Cottonwood Street, Parklands</p>",
-        "name": "Cottonwood Reserve",
-        "email": ""
+        "name": "Cottonwood Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -870,8 +816,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, swings &amp; slide. Also has a BMX track.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 465 metres</p>",
         "address": "<p>Northcote Road, Northcote</p>",
-        "name": "Craighead Reserve",
-        "email": ""
+        "name": "Craighead Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -886,8 +831,7 @@
       "properties": {
         "description": "A local park with see saw, swings &amp; slide.\r\nArea of Park: 1,570 square metres, Perimeter of Park: 161 metres \r\n",
         "address": "<p>Crofton Road, Harewood</p>",
-        "name": "Crofton Reserve",
-        "email": ""
+        "name": "Crofton Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -902,8 +846,7 @@
       "properties": {
         "description": "<p>A local park with a multiplay structure, spring mounted play items, supa nova and swings.</p>\r\n<p>Area of Park: 7,161 square metres, Perimeter of Park: 456 metres</p>",
         "address": "<p>Bower Avenue, Parklands</p>",
-        "name": "Crofts Reserve",
-        "email": ""
+        "name": "Crofts Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -918,8 +861,7 @@
       "properties": {
         "description": "<p>A local park with block wall,multi-play structure, see - saw, slides, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 3,783 square metres, Perimeter of Park: 246 metres</p>",
         "address": "<p>Cross Street, Phillipstown</p>",
-        "name": "Cross Reserve",
-        "email": ""
+        "name": "Cross Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -934,8 +876,7 @@
       "properties": {
         "description": "<p>A local park with a multi play structure &amp; swings.</p>\r\n<p>Area of Park: 3,068 square metres, Perimeter of Park: 282 metres</p>",
         "address": "<p>Cuffs Road, Wainoni</p>",
-        "name": "Cuffs Road Playground ",
-        "email": ""
+        "name": "Cuffs Road Playground "
       },
       "geometry": {
         "type": "Point",
@@ -950,8 +891,7 @@
       "properties": {
         "description": "<p>A local park with balance beam, roundabout, see saw &amp; swings.</p>\r\n<p>Area of Park: 8,275 square metres, Perimeter of Park: 533 metres</p>",
         "address": "<p>Curries Road, Hillsborough</p>",
-        "name": "Curries Reserve",
-        "email": ""
+        "name": "Curries Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -966,8 +906,7 @@
       "properties": {
         "description": "<p>A local park with goal posts, see saw, solo spinner, spring mounted play items, supa nova, swings &amp; swivel balance board.</p>\r\n<p>Area of Park: 7,938 square metres, Perimeter of Park: 357 metres</p>",
         "address": "<p>Clydedale Street, Woolston</p>",
-        "name": "Cutler Park ",
-        "email": ""
+        "name": "Cutler Park "
       },
       "geometry": {
         "type": "Point",
@@ -982,8 +921,7 @@
       "properties": {
         "description": "<p>A local park with seesaw, swings &amp; slide.</p>\r\n<p>Area of Park: 4,691 square metres, Perimeter of Park: 474 metres</p>",
         "address": "<p>Harakeke Street, Fendalton</p>",
-        "name": "Daresbury Park",
-        "email": ""
+        "name": "Daresbury Park"
       },
       "geometry": {
         "type": "Point",
@@ -998,8 +936,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure and swings.</p>\r\n<p>Area of Park: 9,542 square metres, Perimeter of Park 406 metres</p>",
         "address": "<p>St Heliers Crescent, Aranui</p>",
-        "name": "Delamare Park",
-        "email": ""
+        "name": "Delamare Park"
       },
       "geometry": {
         "type": "Point",
@@ -1014,8 +951,7 @@
       "properties": {
         "description": "<p>A local park with goal posts, see saw, slide and swings.</p>\r\n<p>Area of Park: 5,160 square metres, Perimeter of Park: 333 metres</p>",
         "address": "<p>Derwent Street, Bryndwr</p>",
-        "name": "Derwent Reserve",
-        "email": ""
+        "name": "Derwent Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1030,8 +966,7 @@
       "properties": {
         "description": "<p>A local park with goal posts, seesaw, swings &amp; slide.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 410 metres</p>",
         "address": "<p>Dunedin Street, Redwood</p>",
-        "name": "Dunedin Reserve",
-        "email": ""
+        "name": "Dunedin Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1046,8 +981,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi play structure, horse, roundabout, see saw, swings &amp; slide. Also has a paddling pool (closed 3rd April until mid November) and toilets.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Condell Avenue, Papanui</p>",
-        "name": "Edgar MacIntosh Park ",
-        "email": ""
+        "name": "Edgar MacIntosh Park "
       },
       "geometry": {
         "type": "Point",
@@ -1062,8 +996,7 @@
       "properties": {
         "description": "<p>This small park is located within Victoria Park on the Port Hills. It features a playground with cool slide, swings, jungle gym and a bbq area with gazebos.</p>",
         "address": "<p>101 Victoria Park Road, Port Hills, Cashmere</p>",
-        "name": "Elizabeth Park",
-        "email": ""
+        "name": "Elizabeth Park"
       },
       "geometry": {
         "type": "Point",
@@ -1078,8 +1011,7 @@
       "properties": {
         "description": "<p>A sports park with multi play structure, hoop, may pole, see saw, spring mounted play items, slide &amp; swings. Also has toilets. Area of Park: 6 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Heaton Street, Strowan</p>",
-        "name": "Elmwood Park ",
-        "email": ""
+        "name": "Elmwood Park "
       },
       "geometry": {
         "type": "Point",
@@ -1094,8 +1026,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure, see saw, swings &amp; slide.</p>\r\n<p>Area of Park: 2,333 square metres, Perimeter of Park: 197 metres</p>",
         "address": "<p>Emlyn Place, Avondale</p>",
-        "name": "Emlyn Playground",
-        "email": ""
+        "name": "Emlyn Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1110,8 +1041,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure, solo spinner, supa nove &amp; swings.</p>\r\n<p>Area of Park: 2,227 square metres, Perimeter of Park: 189 metres</p>",
         "address": "<p>Endeavour Street, North New Brighton</p>",
-        "name": "Endeavour Playground",
-        "email": ""
+        "name": "Endeavour Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1126,8 +1056,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure &amp; swings.</p>\r\n<p>Area of Park: 5,226 square metres, Perimeter of Park: 325 metres</p>",
         "address": "<p>Erica Street, Papanui</p>",
-        "name": "Erica Playground",
-        "email": ""
+        "name": "Erica Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1142,8 +1071,7 @@
       "properties": {
         "description": "<p>A local Park with multi play structure, roundabout &amp; spring mounted play items.</p>\r\n<p>Area of Park: 1,985 square metres, Perimeter of Park: 188 metres</p>",
         "address": "<p>Evergreen Place, Parklands</p>",
-        "name": "Evergreen Reserve",
-        "email": ""
+        "name": "Evergreen Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1158,8 +1086,7 @@
       "properties": {
         "description": "A local park with multi play structure, roundabout, spring mounted play items &amp; swings. Also has a basketball half court.\r\nArea of Park: 9,619 square metres Perimeter of Park: 391 metres\r\n",
         "address": "<p>Fairway Drive, Shirley</p>",
-        "name": "Fairway Reserve",
-        "email": ""
+        "name": "Fairway Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1174,8 +1101,7 @@
       "properties": {
         "description": "<p>Fendalton Park is a sports park with balance beam,multi play structure, goal posts &amp; swings.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Fendalton Road, Fendalton</p>",
-        "name": "Fendalton Park Playground",
-        "email": ""
+        "name": "Fendalton Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1190,8 +1116,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,212 square metres, Perimeter of Park: 141 metres</p>",
         "address": "<p>Fern Drive, Halswell</p>",
-        "name": "Fern Reserve",
-        "email": ""
+        "name": "Fern Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1206,8 +1131,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 2,363 square metres, Perimeter of Park: 222 metres</p>",
         "address": "<p>Fernbrook Place, Mairehau</p>",
-        "name": "Fernbrook Playground",
-        "email": ""
+        "name": "Fernbrook Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1222,8 +1146,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, goal posts &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 774 metres</p>",
         "address": "<p>Nortons Road, Avonhead</p>",
-        "name": "Ferrier Park Playground",
-        "email": ""
+        "name": "Ferrier Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1238,8 +1161,7 @@
       "properties": {
         "description": "<p>A local park with a basketball half court &amp; tennis court.</p>\r\n<p>Area of Park: 1,736 square metres, Perimeter of Park: 164 metres</p>",
         "address": "<p>Forgan Lane/Marsack Crescent, Halswell</p>",
-        "name": "Forgan Reserve",
-        "email": ""
+        "name": "Forgan Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1254,8 +1176,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, seesaw, slide &amp; swings.</p>\r\n<p>Area of Park: 8,230 square metres, Perimeter of Park: 557 metres</p>",
         "address": "<p>Fortune Street, Mairehau</p>",
-        "name": "Fortune Playground",
-        "email": ""
+        "name": "Fortune Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1270,8 +1191,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure, hoop &amp; swings. Also has basketball half court &amp; tennis court.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 977 metres</p>",
         "address": "<p>Cashmere Road, Westmoreland.</p>",
-        "name": "Francis Reserve",
-        "email": ""
+        "name": "Francis Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1286,8 +1206,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, goal posts, solo spinner, supa nova &amp; swings. Also has a petanque court.</p>\r\n<p>Area of Park: 7,304 square metres, Perimeter of Park: 346 metres</p>",
         "address": "<p>Gainsborough Street, Hoon Hay</p>",
-        "name": "Gainsborough Reserve",
-        "email": ""
+        "name": "Gainsborough Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1302,8 +1221,7 @@
       "properties": {
         "description": "<p>A local park with swings.</p>\r\n<p>Area of Park: 3,709 square metres, Perimeter of Park: 421 metres</p>",
         "address": "<p>Gilberthorpes Road, Hornby</p>",
-        "name": "Gilberthorpes Reserve",
-        "email": ""
+        "name": "Gilberthorpes Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1318,8 +1236,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,224 square metres, Perimeter of Park: 191 metres</p>",
         "address": "<p>Gloaming Place, Sockburn</p>",
-        "name": "Gloaming Reserve",
-        "email": ""
+        "name": "Gloaming Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1334,8 +1251,7 @@
       "properties": {
         "description": "<p>A local park with slide &amp; swings.</p>\r\n<p>Area of Park: 3,857 square metres, Perimeter of Park: 246 metres</p>",
         "address": "<p>Glynne Crescent, Spreydon.</p>",
-        "name": "Glynne Reserve",
-        "email": ""
+        "name": "Glynne Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1350,8 +1266,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 835 square metres, Perimeter of Park: 127 metres</p>",
         "address": "<p>Goulding Avenue, Hornby</p>",
-        "name": "Goulding Playground",
-        "email": ""
+        "name": "Goulding Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1366,8 +1281,7 @@
       "properties": {
         "description": "<p>A local park with goal posts, roundabout, solo spinner, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 7,536 square metres, Perimeter of Park: 411 metres</p>",
         "address": "<p>Grampian Street, Casebrook</p>",
-        "name": "Grampian Reserve",
-        "email": ""
+        "name": "Grampian Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1382,8 +1296,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,022 square metres, Perimeter of Park: 183 metres</p>",
         "address": "<p>Greendale Avenue, Avonhead</p>",
-        "name": "Greendale Reserve",
-        "email": ""
+        "name": "Greendale Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1398,8 +1311,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, block wall, slide &amp; swings.</p>\r\n<p>Area of Park: 3,683 square metres, Perimeter of Park: 337 metres</p>",
         "address": "<p>Halberg Street, Dallington</p>",
-        "name": "Halberg Reserve",
-        "email": ""
+        "name": "Halberg Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1414,8 +1326,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,378 square metres, Perimeter of Park: 146 metres</p>",
         "address": "<p>Mooray Ave, Bishopdale</p>",
-        "name": "Halifax Reserve",
-        "email": ""
+        "name": "Halifax Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1430,8 +1341,7 @@
       "properties": {
         "description": "<p>A sports park with Block Wall, Boat (Steel Moving), Multi-Play Structure, Goal Posts, Hoop, Rocktopus, See - Saw, Slide, Spring Mounted Play Items, Swings. Also has toilets.</p>\r\n<p>Area of Park: 11 hectares, Perimeter of Park: 3 kilometres</p>",
         "address": "<p>Butler Street, Opawa</p>",
-        "name": "Hansen Park Playground",
-        "email": ""
+        "name": "Hansen Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1446,8 +1356,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 7,602 square metres, Perimeter of Park: 347 metres</p>",
         "address": "<p>Hansons Lane, Upper Riccarton</p>",
-        "name": "Hansons Reserve",
-        "email": ""
+        "name": "Hansons Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1462,8 +1371,7 @@
       "properties": {
         "description": "<p>A local park with block wall, climbing equipment, multi-play structure, hoop, swings, track glyde. Also has a basketball half court.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 550 metres</p>",
         "address": "<p>Peveral Street, Riccarton</p>",
-        "name": "Harrington Park",
-        "email": ""
+        "name": "Harrington Park"
       },
       "geometry": {
         "type": "Point",
@@ -1478,8 +1386,7 @@
       "properties": {
         "description": "<p>A local park with see-saw &amp; swings.</p>\r\n<p>Area of Park: 943 square metres, Perimeter of Park: 118 metres</p>",
         "address": "<p>Hastings Street, Sydenham</p>",
-        "name": "Hastings Reserve",
-        "email": ""
+        "name": "Hastings Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1494,8 +1401,7 @@
       "properties": {
         "description": "<p>A Sports Park with climbing equipment, multi-play structure, flying fox, roundabout, slide, swings &amp; swing bridge. Also has toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 949 metres.</p>",
         "address": "<p>Port Hills Road, Heathcote</p>",
-        "name": "Heathcote Domain",
-        "email": ""
+        "name": "Heathcote Domain"
       },
       "geometry": {
         "type": "Point",
@@ -1510,8 +1416,7 @@
       "properties": {
         "description": "<p>A local park with cantilever tyre swing, multi-play structure, roundabout &amp; swing.</p>\r\n<p>Area of Park: 3,183 square metres, Perimeter of Park: 314 metres</p>",
         "address": "<p>Tower Street/Brynley Street, Hornby</p>",
-        "name": "Helmore Park",
-        "email": ""
+        "name": "Helmore Park"
       },
       "geometry": {
         "type": "Point",
@@ -1526,8 +1431,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, spring mounted play items and swings.</p>\r\n<p>Area of Park: 2,004 square metres, Perimeter of Park: 213 metres</p>",
         "address": "<p>Highcrest Heights, Westmoreland.</p>",
-        "name": "Highcrest Reserve",
-        "email": ""
+        "name": "Highcrest Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1542,8 +1446,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,829 square metres, Perimeter of Park: 213 metres</p>",
         "address": "<p>Sawyers Arms Road, Bishopdale</p>",
-        "name": "Highsted Reserve",
-        "email": ""
+        "name": "Highsted Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1558,8 +1461,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 842 metres</p>",
         "address": "<p>Opawa Road, Hillsborough</p>",
-        "name": "Hillsborough Park",
-        "email": ""
+        "name": "Hillsborough Park"
       },
       "geometry": {
         "type": "Point",
@@ -1574,8 +1476,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 5,748 square metres, Perimeter of Park: 424 metres</p>",
         "address": "<p>Hockey Street, Bishopdale</p>",
-        "name": "Hockey Park ",
-        "email": ""
+        "name": "Hockey Park "
       },
       "geometry": {
         "type": "Point",
@@ -1590,8 +1491,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, hoop &amp; swings. Also has a basketball half court.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 478 metres</p>",
         "address": "<p>Holliss Avenue, Cashmere</p>",
-        "name": "Holliss Reserve",
-        "email": ""
+        "name": "Holliss Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1606,8 +1506,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 730 metres</p>",
         "address": "<p>English Street, Sockburn</p>",
-        "name": "Holmes Park",
-        "email": ""
+        "name": "Holmes Park"
       },
       "geometry": {
         "type": "Point",
@@ -1622,8 +1521,7 @@
       "properties": {
         "description": "<p>A sports park with block Wall, multi-play structure, goal posts, hoop, horse, roundabout, see - saw, slide, solo spinner, spring mounted play Items &amp; swing. Also has basketball half court, skateboard area &amp; toilets.</p>\r\n<p>Area of Park: 9 hectares. Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Mathers Road, Hoon Hay</p>",
-        "name": "Hoon Hay Park ",
-        "email": ""
+        "name": "Hoon Hay Park "
       },
       "geometry": {
         "type": "Point",
@@ -1638,8 +1536,7 @@
       "properties": {
         "description": "<p>A local playground with block wall, roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 9,322 square metres, Perimeter of Park: 976 metres</p>",
         "address": "<p>Huntsbury Avenue, Huntsbury</p>",
-        "name": "Huntsbury Playground",
-        "email": ""
+        "name": "Huntsbury Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1654,8 +1551,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 6,208 square metres, Perimeter of Park: 349 metres</p>",
         "address": "<p>Hawthornden Road, Avonhead&nbsp;</p>",
-        "name": "Hyde Park",
-        "email": ""
+        "name": "Hyde Park"
       },
       "geometry": {
         "type": "Point",
@@ -1670,8 +1566,7 @@
       "properties": {
         "description": "<p>A local park with slide &amp; swings.</p>\r\n<p>Area of Park: 1,442 square metres, Perimeter of Park: 152 metres</p>",
         "address": "<p>Iona Place, Sockburn</p>",
-        "name": "Iona Place",
-        "email": ""
+        "name": "Iona Place"
       },
       "geometry": {
         "type": "Point",
@@ -1686,8 +1581,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings. Also has a tennis court.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 646 metres</p>",
         "address": "<p>Jeffreys Road, Fendalton</p>",
-        "name": "Jeffreys Reserve",
-        "email": ""
+        "name": "Jeffreys Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1702,8 +1596,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, horse, rocktopus, roundabout, see - saw, slide, snowboard rider, solo spinner, swings &amp; track glyde. Also has swimming pools, basketball half court, skateboarding area &amp; public toilets.</p>\r\n<p>Area of Park: 12 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>295 Ilam Road, Burnside</p>",
-        "name": "Jellie Park Playground",
-        "email": ""
+        "name": "Jellie Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -1718,8 +1611,7 @@
       "properties": {
         "description": "",
         "address": "<p>John Annan Street, Halswell</p>",
-        "name": "John Annan Park",
-        "email": ""
+        "name": "John Annan Park"
       },
       "geometry": {
         "type": "Point",
@@ -1734,8 +1626,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 813 metres</p>",
         "address": "<p>Jones Road, Templeton</p>",
-        "name": "Jones Reserve",
-        "email": ""
+        "name": "Jones Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1750,8 +1641,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,715 square metres, Perimeter of Park: 215 metres</p>",
         "address": "<p>Kaiwara Street, Hoon Hay</p>",
-        "name": "Kaiwara Reserve",
-        "email": ""
+        "name": "Kaiwara Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1766,8 +1656,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner, swings &amp; swivel balance board.</p>\r\n<p>Area of Park: 5,058 square metres, Perimeter of Park: 595 metres</p>",
         "address": "<p>Springwater Avenue, Northwood</p>",
-        "name": "Kaputone Spring Reserve",
-        "email": ""
+        "name": "Kaputone Spring Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1782,8 +1671,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, horse see-saw &amp; swings</p>\r\n<p>Area of Park: 1,989 square metres, Perimeter of Park: 194 metres</p>",
         "address": "<p>Kendal Avenue, Burnside.</p>",
-        "name": "Kendal Reserve",
-        "email": ""
+        "name": "Kendal Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1798,8 +1686,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, pendulum swing and supa nova.</p>\r\n<p>Area of Park: 2,027 square metres, Perimeter of Park: 226 metres.</p>",
         "address": "<p>Kenmure Drive, Huntsbury</p>",
-        "name": "Kenmure Reserve",
-        "email": ""
+        "name": "Kenmure Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1814,8 +1701,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 642 metres</p>",
         "address": "<p>Rangatira Terrace, Mount Pleasant</p>",
-        "name": "King Park",
-        "email": ""
+        "name": "King Park"
       },
       "geometry": {
         "type": "Point",
@@ -1830,8 +1716,7 @@
       "properties": {
         "description": "<p>A local park with may pole, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,249 square metres, Perimeter of Park: 143 metres</p>",
         "address": "<p>Kinross Street, Hei Hei</p>",
-        "name": "Kinross Reserve",
-        "email": ""
+        "name": "Kinross Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1846,8 +1731,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure and swings.</p>\r\n<p>Area of Park: 1,942 square metres, Perimeter of Park: 280 metres</p>",
         "address": "<p>Kinsella Cres/Coppinger Tce, Aidanfield</p>",
-        "name": "Kinsella Reserve",
-        "email": ""
+        "name": "Kinsella Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1862,8 +1746,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure.</p>\r\n<p>Area of Park: 9,800 square metres, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Kotuku Crescent, Woolston</p>",
-        "name": "Kotuku Reserve",
-        "email": ""
+        "name": "Kotuku Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1878,8 +1761,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 5,234 square metres, Perimeter of Park: 273 metres</p>",
         "address": "<p>Kumara Place, Hei Hei</p>",
-        "name": "Kumara Reserve",
-        "email": ""
+        "name": "Kumara Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1894,8 +1776,7 @@
       "properties": {
         "description": "<p>A sports park with a BMX track. Also has toilets.</p>\r\n<p>Area of Park: 9 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Waterloo Road, Hornby</p>",
-        "name": "Kyle Park",
-        "email": ""
+        "name": "Kyle Park"
       },
       "geometry": {
         "type": "Point",
@@ -1910,8 +1791,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 4,542 square metres, Perimeter of Park: 390 metres</p>",
         "address": "<p>Larch Place, Casebrook</p>",
-        "name": "Larch Reserve",
-        "email": ""
+        "name": "Larch Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1926,8 +1806,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, see-saw, slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 747 metres</p>",
         "address": "<p>Main South Road, Islington</p>",
-        "name": "Leslie Park",
-        "email": ""
+        "name": "Leslie Park"
       },
       "geometry": {
         "type": "Point",
@@ -1942,8 +1821,7 @@
       "properties": {
         "description": "<p>A local park with basketball half court and tennis court.</p>\r\n<p>Area of Park: 2,802 square metres, Perimeter of Park: 253 metres</p>",
         "address": "<p>Prestons Road, Parklands</p>",
-        "name": "Limes Reserve",
-        "email": ""
+        "name": "Limes Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -1958,8 +1836,7 @@
       "properties": {
         "description": "<p>A sports park with mulri-play structure, swings a basketball half court &amp; skateboard area. Also has toilets.</p>\r\n<p>Area of Park: 10 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Linwood Avenue, Linwood</p>",
-        "name": "Linwood Park ",
-        "email": ""
+        "name": "Linwood Park "
       },
       "geometry": {
         "type": "Point",
@@ -1974,8 +1851,7 @@
       "properties": {
         "description": "",
         "address": "<p>25 Islington Avenue, Islington</p>",
-        "name": "Little Waterloo Park",
-        "email": ""
+        "name": "Little Waterloo Park"
       },
       "geometry": {
         "type": "Point",
@@ -1990,8 +1866,7 @@
       "properties": {
         "description": "<p>A local park with slide &amp; swings.</p>\r\n<p>Area of Park: 1,218 square metres, Perimeter of Park: 142 metres</p>",
         "address": "<p>Lomax Place, Islington</p>",
-        "name": "Lomax Reserve",
-        "email": ""
+        "name": "Lomax Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2006,8 +1881,7 @@
       "properties": {
         "description": "<p>Close to cafes and Longhurst shops, this playground is attractively fenced with drinking fountains, lots of climbing equipment and hillocks.</p>",
         "address": "<p>Greenaway Park, Caulfield Avenue, Halswell</p>",
-        "name": "Longhurst Playground",
-        "email": ""
+        "name": "Longhurst Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2022,8 +1896,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 826 square metres, Perimeter of Park: 125 metres</p>",
         "address": "<p>Longley Place, Addington</p>",
-        "name": "Longley Reserve",
-        "email": ""
+        "name": "Longley Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2038,8 +1911,7 @@
       "properties": {
         "description": "",
         "address": "<p>24 Oxford Street, Lyttelton</p>",
-        "name": "Lyttelton Playground & Skate Park",
-        "email": ""
+        "name": "Lyttelton Playground & Skate Park"
       },
       "geometry": {
         "type": "Point",
@@ -2054,8 +1926,7 @@
       "properties": {
         "description": "<p>A local park with a multi-play structure.</p>\r\n<p>Area of Park: 1,014 square metres, Perimeter of Park: 141 metres</p>",
         "address": "<p>King Street, Sydenham</p>",
-        "name": "Mabel Howard Reserve",
-        "email": ""
+        "name": "Mabel Howard Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2070,8 +1941,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, basketball half court, horse &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 8 hectares, Perimeter of Park: 3 kilometres</p>",
         "address": "<p>Acheson Avenue, Shirley</p>",
-        "name": "MacFarlane Park Playground",
-        "email": ""
+        "name": "MacFarlane Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2086,8 +1956,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, hoop, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6,062 square metres, Perimeter of Park: 315 metres</p>",
         "address": "<p>Mahars Road, Mairehau</p>",
-        "name": "Mahars Playground",
-        "email": ""
+        "name": "Mahars Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2102,8 +1971,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,281 square metres, Perimeter of Park: 151 metres</p>",
         "address": "<p>Malabar Crescent, Broomfield.</p>",
-        "name": "Malabar Reserve",
-        "email": ""
+        "name": "Malabar Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2118,8 +1986,7 @@
       "properties": {
         "description": "<p>A sports park with blaock wall, multi-play structure, see-saw &amp; swings.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 635 metres</p>",
         "address": "<p>Innes Road, St Albans.</p>",
-        "name": "Malvern Park",
-        "email": ""
+        "name": "Malvern Park"
       },
       "geometry": {
         "type": "Point",
@@ -2134,8 +2001,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 1,995 square metres, Perimeter of Park: 224 metres</p>",
         "address": "<p>Marlene Street, Casebrook.</p>",
-        "name": "Marlene Reserve",
-        "email": ""
+        "name": "Marlene Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2150,8 +2016,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 570 metres</p>",
         "address": "<p>Prestons Road, Marshland</p>",
-        "name": "Marshlands Domain",
-        "email": ""
+        "name": "Marshlands Domain"
       },
       "geometry": {
         "type": "Point",
@@ -2166,8 +2031,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,516 square metres, Perimeter of Park: 205 metres</p>",
         "address": "<p>Matangi Street, Islington</p>",
-        "name": "Matangi Reserve",
-        "email": ""
+        "name": "Matangi Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2182,8 +2046,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure &amp; spring mounted play items. Also has a petanque court and toilets.</p>\r\n<p>Area of Park: 20 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>McCormacks Bay Rd / Main Rd, McCormacks Bay&nbsp;</p>",
-        "name": "McCormacks Bay Reserve",
-        "email": ""
+        "name": "McCormacks Bay Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2198,8 +2061,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 3,782 square metres, Perimeter of Park: 259 metres</p>",
         "address": "<p>McHaffies Place, Wainoni</p>",
-        "name": "McHaffies Reserve",
-        "email": ""
+        "name": "McHaffies Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2214,8 +2076,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, slide &amp; swings.</p>\r\n<p>Area of Park: 1,743 square metres, Perimeter of Park: 193 metres</p>",
         "address": "<p>Mendip Place, Casebrook</p>",
-        "name": "Mendip Reserve",
-        "email": ""
+        "name": "Mendip Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2230,8 +2091,7 @@
       "properties": {
         "description": "",
         "address": "<p>42R Menin Gate Crescent, Broomfield</p>",
-        "name": "Menin Gate Park",
-        "email": ""
+        "name": "Menin Gate Park"
       },
       "geometry": {
         "type": "Point",
@@ -2246,8 +2106,7 @@
       "properties": {
         "description": "<p>A sports park with solo spinner, spring mounted play items, super nova &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Lochee Road, Upper Riccarton</p>",
-        "name": "Middleton Park ",
-        "email": ""
+        "name": "Middleton Park "
       },
       "geometry": {
         "type": "Point",
@@ -2262,8 +2121,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6,313 square metres, Perimeter of Park: 665 metres</p>",
         "address": "<p>Milnebank Street, Upper Riccarton</p>",
-        "name": "Milnebank Reserve",
-        "email": ""
+        "name": "Milnebank Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2278,8 +2136,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,963 square metres, Perimeter of Park: 482 metres</p>",
         "address": "<p>Moa Place, Central City</p>",
-        "name": "Moa Reserve",
-        "email": ""
+        "name": "Moa Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2294,8 +2151,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,014 square metres, Perimeter of Park: 141 metres</p>",
         "address": "<p>Moffett Street, Islington</p>",
-        "name": "Moffett Reserve",
-        "email": ""
+        "name": "Moffett Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2310,8 +2166,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,037 square metres, Perimeter of Park: 151 metres</p>",
         "address": "<p>Momorangi Crescent, Redwood.</p>",
-        "name": "Momorangi Reserve",
-        "email": ""
+        "name": "Momorangi Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2326,8 +2181,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw, solo spinner &amp; swings.</p>\r\n<p>Area of Park: 2,844 square metres, Perimeter of Park: 220 metres</p>",
         "address": "<p>Garlands Road, Hillsborough.</p>",
-        "name": "Monro Playground",
-        "email": ""
+        "name": "Monro Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2342,8 +2196,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 1,982 square metres, Perimeter of Park: 183 metres</p>",
         "address": "<p>Montclare Ave, Ilam</p>",
-        "name": "Montclare Reserve",
-        "email": ""
+        "name": "Montclare Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2358,8 +2211,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see-saw &amp; swings.</p>\r\n<p>Area of Park: 3,472 square metres, Perimeter of Park: 233 metres</p>",
         "address": "<p>Morley Street/Clyde Road, Bryndwr</p>",
-        "name": "Morley Reserve",
-        "email": ""
+        "name": "Morley Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2374,8 +2226,7 @@
       "properties": {
         "description": "<p>A local park with climbing equipment, rocktopus, sand pit, slide, spring mounted play items &amp; swings. Also has a half basketball court &amp; bbq.</p>\r\n<p>Area of Park: 8,694 square metres, Perimeter of Park: 413 metres</p>",
         "address": "<p>Morrison Avenue, Northcote.</p>",
-        "name": "Morrison Ave Reserve",
-        "email": ""
+        "name": "Morrison Ave Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2390,8 +2241,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 1,687 square metres, Perimeter of Park: 165 metres</p>",
         "address": "<p>Moyna Avenue, Dallington</p>",
-        "name": "Moyna Playground",
-        "email": ""
+        "name": "Moyna Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2406,8 +2256,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 7,956 square metres, Perimeter of Park: 379 metres&nbsp;</p>",
         "address": "<p>Halswell Road, Halswell</p>",
-        "name": "Muir Park",
-        "email": ""
+        "name": "Muir Park"
       },
       "geometry": {
         "type": "Point",
@@ -2422,8 +2271,7 @@
       "properties": {
         "description": "A local park with climbing equipment, climbing equip - rock, multi-play structure, rings on chains, spring mounted play items, supa nova &amp; swings.\r\nArea of Park: 4 hectares, Perimeter of Park: 907 metres\r\n",
         "address": "<p>Lowry Avenue, Redwood</p>",
-        "name": "Murchison Park",
-        "email": ""
+        "name": "Murchison Park"
       },
       "geometry": {
         "type": "Point",
@@ -2438,8 +2286,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi play structure &amp; swings.</p>\r\n<p>Area of Park: 607 square metres, Perimeter of Park: 103 metres</p>",
         "address": "<p>Natalie Place, Harewood.</p>",
-        "name": "Natalie Reserve",
-        "email": ""
+        "name": "Natalie Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2454,8 +2301,7 @@
       "properties": {
         "description": "<p>Neil Graham Park is a smaller playground with a nice selection of play equipment to suit multiple ages including a basket swing, net and challenging climbing wall.</p>",
         "address": "<p>Richmond Avenue, Knights Stream Park Subdivision, Halswell</p>",
-        "name": "Neil Graham Park",
-        "email": ""
+        "name": "Neil Graham Park"
       },
       "geometry": {
         "type": "Point",
@@ -2470,8 +2316,7 @@
       "properties": {
         "description": "<p>A local park with cantilever tyre swing &amp; multi-play structure. Also has bmx track.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Nepal Place, Burnside</p>",
-        "name": "Nepal Reserve",
-        "email": ""
+        "name": "Nepal Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2486,8 +2331,7 @@
       "properties": {
         "description": "<p>This popular playground features a multi-play structure, obstacles, paddling pool (which closes over winter), slides, swing. Also has basketball half court and toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Marine Parade, New Brighton</p>",
-        "name": "New Brighton Beachside Playground",
-        "email": ""
+        "name": "New Brighton Beachside Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2502,8 +2346,7 @@
       "properties": {
         "description": "<p>A regional park with Horse, see-saw, slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 947 metres</p>",
         "address": "<p>Taylors Mistake Road, Scarborough</p>",
-        "name": "Nicholson Park ",
-        "email": ""
+        "name": "Nicholson Park "
       },
       "geometry": {
         "type": "Point",
@@ -2518,8 +2361,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 3,313 square metres, Perimeter of Park: 257 metres</p>",
         "address": "<p>Norrie Street, Redwood</p>",
-        "name": "Norrie Park",
-        "email": ""
+        "name": "Norrie Park"
       },
       "geometry": {
         "type": "Point",
@@ -2534,8 +2376,7 @@
       "properties": {
         "description": "<p>A sports park with rocktapus, see-saw, slide, solo spinner &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 20 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Wooldridge Road, Harewood</p>",
-        "name": "Nunweek Park Playground",
-        "email": ""
+        "name": "Nunweek Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2550,8 +2391,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,170 square metres, Perimeter of Park: 288 metres</p>",
         "address": "<p>Oakhampton Street, Hornby</p>",
-        "name": "Oakhampton Reserve",
-        "email": ""
+        "name": "Oakhampton Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2566,8 +2406,7 @@
       "properties": {
         "description": "<p>A local park with roundabout &amp; swings.</p>\r\n<p>Area of Park: 1,060 square metres, Perimeter of Park: 176 metres</p>",
         "address": "<p>Oakley Crescent, Hornby</p>",
-        "name": "Oakley Reserve",
-        "email": ""
+        "name": "Oakley Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2582,8 +2421,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, swings &amp; track glyde. Also has basketball half court, tennis court &amp; toilets.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 752 metres</p>",
         "address": "<p>Major Hornbrook Road, Mt Pleasant</p>",
-        "name": "Old School Reserve",
-        "email": ""
+        "name": "Old School Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2598,8 +2436,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,619 square metres, Perimeter of Park: 219 metres</p>",
         "address": "<p>Olliviers Road/Tuam Street, Phillipstown</p>",
-        "name": "Olliviers Reserve",
-        "email": ""
+        "name": "Olliviers Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2614,8 +2451,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure &amp; swings. Also has a bbq, tennis court &amp; toilets.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Guthries Road, Ouruhia</p>",
-        "name": "Ouruhia Reserve",
-        "email": ""
+        "name": "Ouruhia Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2630,8 +2466,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, obstacles &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 900 metres</p>",
         "address": "<p>Grimseys Road, Redwood</p>",
-        "name": "Owen Mitchell Park",
-        "email": ""
+        "name": "Owen Mitchell Park"
       },
       "geometry": {
         "type": "Point",
@@ -2646,8 +2481,7 @@
       "properties": {
         "description": "<p>A local park with hoop &amp; swings.</p>\r\n<p>Area of Park: 2,301 square metres, Perimeter of Park: 226 metres</p>",
         "address": "<p>Packe Street, Edgeware</p>",
-        "name": "Packe Reserve",
-        "email": ""
+        "name": "Packe Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2662,8 +2496,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw &amp; swings. Also has a basketball half court.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 476 metres</p>",
         "address": "<p>Paddington Street, Northcote</p>",
-        "name": "Paddington Playground",
-        "email": ""
+        "name": "Paddington Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2678,8 +2511,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 7,555 square metres, Perimeter of Park: 760 metres</p>",
         "address": "<p>Paeroa Street, Riccarton.</p>",
-        "name": "Paeroa Reserve",
-        "email": ""
+        "name": "Paeroa Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2694,8 +2526,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide. solo spinner, spring mounted play items &amp; swings. Also has a basketball half court.</p>\r\n<p>Area of Park: 5,587 square metres, Perimeter of Park: 295 metres</p>",
         "address": "<p>Pagoda Street, Shirley</p>",
-        "name": "Pagoda Playground",
-        "email": ""
+        "name": "Pagoda Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2710,8 +2541,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1,665 square metres, Perimeter of Park: 202 metres</p>",
         "address": "<p>Palatine Terrace/Centaurus Road, Huntsbury</p>",
-        "name": "Palatine Reserve",
-        "email": ""
+        "name": "Palatine Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2726,8 +2556,7 @@
       "properties": {
         "description": "<p>A sports park with slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 702 metres</p>",
         "address": "<p>Sawyers Arms Road, Papanui</p>",
-        "name": "Papanui Domain",
-        "email": ""
+        "name": "Papanui Domain"
       },
       "geometry": {
         "type": "Point",
@@ -2742,8 +2571,7 @@
       "properties": {
         "description": "<p>A lovely new park with a natural playground.</p>",
         "address": "<p>Kittyhawk Avenue, Wigram Skies</p>",
-        "name": "Parera Park",
-        "email": ""
+        "name": "Parera Park"
       },
       "geometry": {
         "type": "Point",
@@ -2758,8 +2586,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, spring mounted play items &amp; swings. Also has basketball half court &amp; toilets.</p>\r\n<p>Area of Park: 5 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Queenspark Drive, Parklands</p>",
-        "name": "Parklands Reserve",
-        "email": ""
+        "name": "Parklands Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2774,8 +2601,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure and swings.</p>\r\n<p>Area of Park: 2,126 square metres, Perimeter of Park: 209 metres</p>",
         "address": "<p>Santa Maria Avenue/Selleck Street, Mt Pleasant</p>",
-        "name": "Parnham Reserve",
-        "email": ""
+        "name": "Parnham Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2790,8 +2616,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 3,901 square metres, Perimeter of Park: 260 metres</p>",
         "address": "<p>Peebles Drive, Sockburn</p>",
-        "name": "Peebles Reserve",
-        "email": ""
+        "name": "Peebles Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2806,8 +2631,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 9,833 square metres, Perimeter of Park: 660 metres</p>",
         "address": "<p>Petrie Street, Richmond</p>",
-        "name": "Petrie Park",
-        "email": ""
+        "name": "Petrie Park"
       },
       "geometry": {
         "type": "Point",
@@ -2822,8 +2646,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner, spring mounted play items, supa nova &amp; swivel balance board.</p>\r\n<p>Area of Park: 2,531 square metres, Perimeter of Park: 201 metres</p>",
         "address": "<p>Picton Avenue, Riccarton</p>",
-        "name": "Picton Park",
-        "email": ""
+        "name": "Picton Park"
       },
       "geometry": {
         "type": "Point",
@@ -2838,8 +2661,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 3,271 square metres, Perimeter of Park: 363 metres</p>",
         "address": "<p>Pinehurst Crescent, Russley</p>",
-        "name": "Pinehurst Reserve",
-        "email": ""
+        "name": "Pinehurst Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2854,8 +2676,7 @@
       "properties": {
         "description": "<p>A local park with block wall, cantilever tyre swing, multi-play structure, goal posts &amp; swings.</p>\r\n<p>Area of Park: 6,276 square metres, Perimeter of Park: 370 metres</p>",
         "address": "<p>Pitcairn Crescent, Bryndwr</p>",
-        "name": "Pitcairn Playground",
-        "email": ""
+        "name": "Pitcairn Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2870,8 +2691,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, slide, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 226 square metres, Perimeter of Park: 62 metres</p>",
         "address": "<p>Plover Street, Southshore</p>",
-        "name": "Plover Reserve",
-        "email": ""
+        "name": "Plover Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2886,8 +2706,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, roundabout &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 496 metres</p>",
         "address": "<p>Plynlimon Road, Strowan.</p>",
-        "name": "Plynlimon Park",
-        "email": ""
+        "name": "Plynlimon Park"
       },
       "geometry": {
         "type": "Point",
@@ -2902,8 +2721,7 @@
       "properties": {
         "description": "<p>A&nbsp;modern Skate Park and Playground has opened in the new Preston's Subdivision.</p>",
         "address": "<p>Prestons West Subdivision, Prestons Road, Marshlands</p>",
-        "name": "Prestons Skate Park & Playground",
-        "email": ""
+        "name": "Prestons Skate Park & Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2918,8 +2736,7 @@
       "properties": {
         "description": "<p>A new Council Reserve &amp; Playground.</p>",
         "address": "<p>Quarry Hill Terrace, Hallswell</p>",
-        "name": "Quarry Hill Reserve Playground",
-        "email": ""
+        "name": "Quarry Hill Reserve Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2934,8 +2751,7 @@
       "properties": {
         "description": "<p>A sports park with balance beam, chin up bars, climbing equipment, ladders, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 959 metres</p>",
         "address": "<p>Queenspark Drive, Queenspark</p>",
-        "name": "Queenspark Reserve",
-        "email": ""
+        "name": "Queenspark Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2950,8 +2766,7 @@
       "properties": {
         "description": "<p>A local park with blockwall, mullti-play structure, roundabout, see-saw &amp; swings.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Cumnor Terrace, Woolston</p>",
-        "name": "Radley Park",
-        "email": ""
+        "name": "Radley Park"
       },
       "geometry": {
         "type": "Point",
@@ -2966,8 +2781,7 @@
       "properties": {
         "description": "A local park with see-saw, slide &amp; swings.\r\nArea of Park: 1,252 square metres, Perimeter of Park: 149 metres\r\n",
         "address": "<p>Radley Street, Woolston.</p>",
-        "name": "Radley Playground",
-        "email": ""
+        "name": "Radley Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2982,8 +2796,7 @@
       "properties": {
         "description": "A local park with roundabout, see-saw, slide &amp; swings.\r\nArea of Park: 4,893 square metres, Perimeter of Park: 416 metres\r\n",
         "address": "<p>Ramore Place, Redwood</p>",
-        "name": "Ramore Reserve",
-        "email": ""
+        "name": "Ramore Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -2998,8 +2811,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, see-saw &amp; swings. Also has toilets. Area of Park: 61 hectares, Perimeter of Park: 4 kilometres</p>",
         "address": "<p>100 Shaw Avenue (and surrounds near Marine Parade), New Brighton</p>",
-        "name": "Rawhiti Domain",
-        "email": ""
+        "name": "Rawhiti Domain"
       },
       "geometry": {
         "type": "Point",
@@ -3014,8 +2826,7 @@
       "properties": {
         "description": "A sports park with rocktopus, see-saw, solo spinner, spring mounted play items &amp; swings.\r\nArea of Park: 5 hectares, Perimeter of Park: 1 kilometre\r\n",
         "address": "<p>Maidstone Road, Ilam.</p>",
-        "name": "Ray Blank Park",
-        "email": ""
+        "name": "Ray Blank Park"
       },
       "geometry": {
         "type": "Point",
@@ -3030,8 +2841,7 @@
       "properties": {
         "description": "<p>A local park with see-saw &amp; swings.</p>\r\n<p>Area of Park: 1,402 square metres, Perimeter of Park: 148 metres</p>",
         "address": "<p>Rearsby Drive, Halswell.</p>",
-        "name": "Rearsby Reserve",
-        "email": ""
+        "name": "Rearsby Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3046,8 +2856,7 @@
       "properties": {
         "description": "<p>A sports park with chin up bars, climbing equipment, multi-play structure, see-saw &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 630 metres</p>",
         "address": "<p>Celia Street/Main Road, Redcliffs</p>",
-        "name": "Redcliffs Park",
-        "email": ""
+        "name": "Redcliffs Park"
       },
       "geometry": {
         "type": "Point",
@@ -3062,8 +2871,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, see-saw, slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 7 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Sturrocks Road, Redwood</p>",
-        "name": "Redwood Park",
-        "email": ""
+        "name": "Redwood Park"
       },
       "geometry": {
         "type": "Point",
@@ -3078,8 +2886,7 @@
       "properties": {
         "description": "<p>A Great modern Childrens playground and park based in the Redwood Springs Subdivision</p>",
         "address": "<p>Willowview Drive, Redwood</p>",
-        "name": "Redwood Springs Park",
-        "email": ""
+        "name": "Redwood Springs Park"
       },
       "geometry": {
         "type": "Point",
@@ -3094,8 +2901,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure.</p>\r\n<p>Area of Park: 4,150 square metres, Perimeter of Park: 345 metres</p>",
         "address": "<p>Regency Crescent, Redwood</p>",
-        "name": "Regency Reserve",
-        "email": ""
+        "name": "Regency Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3110,8 +2916,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6,199 square metres, Perimeter of Park: 365 metres</p>",
         "address": "<p>Remuera Avenue, Beckenham</p>",
-        "name": "Remuera Reserve",
-        "email": ""
+        "name": "Remuera Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3126,8 +2931,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, solo spinner &amp; swings.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Poulton Avenue, Shirley</p>",
-        "name": "Richmond Park",
-        "email": ""
+        "name": "Richmond Park"
       },
       "geometry": {
         "type": "Point",
@@ -3142,8 +2946,7 @@
       "properties": {
         "description": "A local park with cantilever tyre swing multi-play structure &amp; swings.\r\nArea of Park: 8,841 square metres, Perimeter of Park: 378 metres\r\n",
         "address": "<p>Stanmore Road, Richmond</p>",
-        "name": "Richmond Playground",
-        "email": ""
+        "name": "Richmond Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3158,8 +2961,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings. Also has a petanque court,</p>\r\n<p>Area of Park: 9,605 square metres, Perimeter of Park: 622 metres</p>",
         "address": "<p>Ridder Place, Halswell.</p>",
-        "name": "Ridder Reserve",
-        "email": ""
+        "name": "Ridder Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3174,8 +2976,7 @@
       "properties": {
         "description": "<p>A garden &amp; heritage park with roundabout, see-saw, slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 675 metres</p>",
         "address": "<p>Cholmondeley Avenue, Opawa.</p>",
-        "name": "Risingholme Park",
-        "email": ""
+        "name": "Risingholme Park"
       },
       "geometry": {
         "type": "Point",
@@ -3190,8 +2991,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings. Also has a basketball half court.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 735 metres</p>",
         "address": "<p>Riverlea Estate Drive, Kainga</p>",
-        "name": "Riverlea Recreation Reserve",
-        "email": ""
+        "name": "Riverlea Recreation Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3206,8 +3006,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 918 metres</p>",
         "address": "<p>Robin Street, Burwood.</p>",
-        "name": "Robin Playground",
-        "email": ""
+        "name": "Robin Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3222,8 +3021,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6,317 square metres, Perimeter of Park: 513 metres</p>",
         "address": "<p>Garvins Road, Sockburn</p>",
-        "name": "Rollerdrome Reserve",
-        "email": ""
+        "name": "Rollerdrome Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3238,8 +3036,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see-saw &amp; swings.</p>\r\n<p>Area of Park: 2,952 square metres, Perimeter of Park: 252 metres</p>",
         "address": "<p>Rosanna Place, Aranui</p>",
-        "name": "Rosanna Reserve",
-        "email": ""
+        "name": "Rosanna Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3254,8 +3051,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 3,037 square metres, Perimeter of Park: 222 metres</p>",
         "address": "<p>Rosella Street, Broomfield</p>",
-        "name": "Rosella Reserve",
-        "email": ""
+        "name": "Rosella Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3270,8 +3066,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, rocktopus, solo spinner, spring mounted play items and swings.</p>\r\n<p>Area of Park: 2,203 square metres, Perimeter of Park: 194 metres</p>",
         "address": "<p>Royal Park Drive, Queenspark</p>",
-        "name": "Royal Park Reserve",
-        "email": ""
+        "name": "Royal Park Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3286,8 +3081,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure and swings.</p>\r\n<p>Area of Park: 2,172 square metres, Perimeter of Park: 212 metres</p>",
         "address": "<p>Ruskin Street, Sydenham.</p>",
-        "name": "Ruskin Reserve",
-        "email": ""
+        "name": "Ruskin Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3302,8 +3096,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure and swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 669 metres</p>",
         "address": "<p>Kenwyn Avenue, St Albans</p>",
-        "name": "Rutland Reserve",
-        "email": ""
+        "name": "Rutland Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3318,8 +3111,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw &amp; swings.</p>\r\n<p>Area of Park: 5,337 square metres, Perimeter of Park: 299 metres</p>",
         "address": "<p>Rydal Street, Hoon Hay.</p>",
-        "name": "Rydal Reserve",
-        "email": ""
+        "name": "Rydal Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3334,8 +3126,7 @@
       "properties": {
         "description": "<p>A local park with horse, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 3,945 square metres, Perimeter of Park: 273 metres</p>",
         "address": "<p>Ryeland Avenue, Ilam</p>",
-        "name": "Ryeland Reserve",
-        "email": ""
+        "name": "Ryeland Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3350,8 +3141,7 @@
       "properties": {
         "description": "<p>A local park with horse, roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,525 square metres, Perimeter of Park: 161 metres</p>",
         "address": "<p>Sabina Street, Shirley.</p>",
-        "name": "Sabina Playground",
-        "email": ""
+        "name": "Sabina Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3366,8 +3156,7 @@
       "properties": {
         "description": "<p>A local park with logs, platform &amp; slide.</p>\r\n<p>Area of Park: 1,206 square metres, Perimeter of Park: 213 metres</p>",
         "address": "<p>Sanscrit Place, Richmond Hill.</p>",
-        "name": "Sanscrit Reserve",
-        "email": ""
+        "name": "Sanscrit Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3382,8 +3171,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,177 square metres, Perimeter of Park: 315 metres</p>",
         "address": "<p>Sarabande Avenue, Redwood.</p>",
-        "name": "Sarabande Reserve",
-        "email": ""
+        "name": "Sarabande Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3398,8 +3186,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, horse, paddling pool,roundabout,see-saw, slide&nbsp;and swings.</p>\r\n<p>Area of Park: 7,513 square metres, Perimeter of Park: 432 metres</p>",
         "address": "<p>Heberden Avenue, Sumner</p>\r\n<p>&nbsp;</p>",
-        "name": "Scarborough Park & Playground",
-        "email": ""
+        "name": "Scarborough Park & Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3414,8 +3201,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see-saw &amp; swings. Also has a basketball halfcourt.</p>\r\n<p>Area of Park: 9,558 square metres, Perimeter of Park: 394 metres</p>",
         "address": "<p>Checketts Avenue, Halswell</p>",
-        "name": "Scott Park",
-        "email": ""
+        "name": "Scott Park"
       },
       "geometry": {
         "type": "Point",
@@ -3430,8 +3216,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure.</p>\r\n<p>Area of Park: 8,199 square metres, Perimeter of Park: 690 metres</p>",
         "address": "<p>Surfers Place, North New Brighton.</p>",
-        "name": "Sea Eagles Reserve",
-        "email": ""
+        "name": "Sea Eagles Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3446,8 +3231,7 @@
       "properties": {
         "description": "<p>A local park with cantilever tyre swing, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 509 metres</p>",
         "address": "<p>Sedgewick Way, Westmoreland.</p>",
-        "name": "Sedgwick Reserve",
-        "email": ""
+        "name": "Sedgwick Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3462,8 +3246,7 @@
       "properties": {
         "description": "<p>A local park with balance beam, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,201 square metres, Perimeter of Park: 136 metres</p>",
         "address": "<p>Shamrock Place, Halswell.</p>",
-        "name": "Shamrock Reserve",
-        "email": ""
+        "name": "Shamrock Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3478,8 +3261,7 @@
       "properties": {
         "description": "<p>A local park with block Wall, hoop, horse, monkey bars, roundabout, slide &amp; swings.</p>\r\n<p>Area of Park: 1,746 square metres, Perimeter of Park: 271 metres</p>",
         "address": "<p>Shearer Avenue, Papanui.</p>",
-        "name": "Shearer Ave Playground",
-        "email": ""
+        "name": "Shearer Ave Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3494,8 +3276,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, see-saw &amp; swings. Also has basketball half court, skateboard area and ramp, tennis court &amp; toilets.</p>\r\n<p>Area of Park: 10 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Main North Road, Belfast</p>",
-        "name": "Sheldon Park",
-        "email": ""
+        "name": "Sheldon Park"
       },
       "geometry": {
         "type": "Point",
@@ -3510,8 +3291,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw &amp; swings. Also has basketball halfcourt and toilets.</p>\r\n<p>Area of Park: 9,138 square metres, Perimeter of Park: 384 metres</p>",
         "address": "<p>Shirley Road/Chancellor Street, Shirley</p>",
-        "name": "Shirley Community Reserve",
-        "email": ""
+        "name": "Shirley Community Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3526,8 +3306,7 @@
       "properties": {
         "description": "<p>A local park with climbing equipment, rocktopus, roundabout, see-saw, slide, solo spinner, steps &amp; swings.</p>\r\n<p>Area of Park: 6,185 square metres, Perimeter of Park: 406 metres</p>",
         "address": "<p>Shortland Street, Wainoni.</p>",
-        "name": "Shortland Playground",
-        "email": ""
+        "name": "Shortland Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3542,8 +3321,7 @@
       "properties": {
         "description": "<p>A local park with slide &amp; swings.</p>\r\n<p>Area of Park: 620 square metres, Perimeter of Park: 112 metres</p>",
         "address": "<p>176 Shortland Street, Aranui</p>",
-        "name": "Shortland Reserve",
-        "email": ""
+        "name": "Shortland Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3558,8 +3336,7 @@
       "properties": {
         "description": "<p>A local park with may pole, roundabout, see-saw &amp; swings.</p>\r\n<p>Area of Park: 9,910 square metres, Perimeter of Park: 410 metres</p>",
         "address": "<p>Simeon Street, Spreydon.</p>",
-        "name": "Simeon Park",
-        "email": ""
+        "name": "Simeon Park"
       },
       "geometry": {
         "type": "Point",
@@ -3574,8 +3351,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, slide &amp; swings.</p>\r\n<p>Area of Park: 2,687 square metres, Perimeter of Park: 381 metres</p>",
         "address": "<p>Northfield Rd and Broger Place, Casebrook</p>",
-        "name": "Sisson Park",
-        "email": ""
+        "name": "Sisson Park"
       },
       "geometry": {
         "type": "Point",
@@ -3590,8 +3366,7 @@
       "properties": {
         "description": "<p>A local park with spring mounted play items. Also has a basketball half court &amp; tennis court.</p>\r\n<p>Area of Park: 2,664 square metres, Perimeter of Park: 209 metres</p>",
         "address": "<p>168 Milns Road, Halswell.</p>",
-        "name": "Six Silvers Reserve",
-        "email": ""
+        "name": "Six Silvers Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3606,8 +3381,7 @@
       "properties": {
         "description": "<p>A local park with see-saw &amp; swings, Also has a basketball half court.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 605 metres</p>",
         "address": "<p>Main South Road, Sockburn.</p>",
-        "name": "Sockburn Park",
-        "email": ""
+        "name": "Sockburn Park"
       },
       "geometry": {
         "type": "Point",
@@ -3622,8 +3396,7 @@
       "properties": {
         "description": "<p>A local park with climbing equipment, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 4,529 square metres, Perimeter of Park: 295 metres</p>",
         "address": "<p>Cadiz Pl/Soleares Ave, Mount Pleasant&nbsp;</p>",
-        "name": "Soleares Playground",
-        "email": ""
+        "name": "Soleares Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3638,8 +3411,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 531 metres</p>",
         "address": "<p>Studholme Street, Somerfield</p>",
-        "name": "Somerfield Park",
-        "email": ""
+        "name": "Somerfield Park"
       },
       "geometry": {
         "type": "Point",
@@ -3654,8 +3426,7 @@
       "properties": {
         "description": "<p>A sports park with climbing equipment, multi-play structure, rocktopus, roundabout, see-saw, slide &amp; swings. Also has bbq, half basketball court, skateboard area &amp; toilets.</p>\r\n<p>Area of Park: 28 hectares, Perimeter of Park: 3 kilometres</p>",
         "address": "<p>Beatty Street, South New Brighton.</p>",
-        "name": "South New Brighton Park",
-        "email": ""
+        "name": "South New Brighton Park"
       },
       "geometry": {
         "type": "Point",
@@ -3670,8 +3441,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw, slide &amp; swings. Also has a basketball half court, paddling pool (closed 3rd April until mid November), bbq &amp; tennis court.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 784 metres</p>",
         "address": "<p>Heyders Road, Spencerville</p>",
-        "name": "Spencerville Reserve",
-        "email": ""
+        "name": "Spencerville Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3686,8 +3456,7 @@
       "properties": {
         "description": "<p>A sports park with block wall,multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 7 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Domain Terrace, Spreydon</p>",
-        "name": "Spreydon Domain",
-        "email": ""
+        "name": "Spreydon Domain"
       },
       "geometry": {
         "type": "Point",
@@ -3702,8 +3471,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 6,074 square metres, Perimeter of Park: 352 metres</p>",
         "address": "<p>Woodcote Avenue, Hornby</p>",
-        "name": "Springmead Park",
-        "email": ""
+        "name": "Springmead Park"
       },
       "geometry": {
         "type": "Point",
@@ -3718,8 +3486,7 @@
       "properties": {
         "description": "<p>A sports park with balance beam, climbing equipment, multi-play structure, flying fox, rocktopus, see-saw, solo spinner, spring mounted play items &amp; swings. Also has basketball half court, petanque court &amp; skateboard ramp.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 1,000 metres</p>",
         "address": "<p>Barbadoes Street/Forfar Street, Edgeware.</p>",
-        "name": "St Albans Park",
-        "email": ""
+        "name": "St Albans Park"
       },
       "geometry": {
         "type": "Point",
@@ -3734,8 +3501,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, roundabout, see-saw, slide &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>St James Avenue, Papanui.</p>",
-        "name": "St James Park ",
-        "email": ""
+        "name": "St James Park "
       },
       "geometry": {
         "type": "Point",
@@ -3750,8 +3516,7 @@
       "properties": {
         "description": "<p>A sports park with climbing equipment, multi-play structure, see-saw &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 583 metres</p>",
         "address": "<p>St Leonards Square, Sumner</p>",
-        "name": "St Leonards Park ",
-        "email": ""
+        "name": "St Leonards Park "
       },
       "geometry": {
         "type": "Point",
@@ -3766,8 +3531,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 5,050 square metres, Perimeter of Park: 723 metres</p>",
         "address": "<p>St Lukes Street, Woolston</p>",
-        "name": "St Lukes Reserve",
-        "email": ""
+        "name": "St Lukes Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3782,8 +3546,7 @@
       "properties": {
         "description": "<p>A sports park with horse, roundabout, slide and swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 664 metres</p>",
         "address": "<p>Gamblins Road, St Martins</p>",
-        "name": "St Martins Park",
-        "email": ""
+        "name": "St Martins Park"
       },
       "geometry": {
         "type": "Point",
@@ -3798,8 +3561,7 @@
       "properties": {
         "description": "<p>A local park with block wall, spring mounted play items &amp; swings.</p>\r\n<p>Area of Park: 1,270 square metres, Perimeter of Park: 154 metres</p>",
         "address": "<p>Starwood Lane, Clifton</p>",
-        "name": "Starwood Reserve",
-        "email": ""
+        "name": "Starwood Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3814,8 +3576,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings. Also has a basketball half court.</p>\r\n<p>Area of Park: 9,274 square metres, Perimeter of Park: 589 metres</p>",
         "address": "<p>Staverley Street, Avonhead.</p>",
-        "name": "Staverley Reserve",
-        "email": ""
+        "name": "Staverley Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3830,8 +3591,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 5,965 square metres, Perimeter of Park: 343 metres</p>",
         "address": "<p>Glenharrow Avenue, Avonhead</p>",
-        "name": "Stewarts Bush",
-        "email": ""
+        "name": "Stewarts Bush"
       },
       "geometry": {
         "type": "Point",
@@ -3846,8 +3606,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,891 square metres, Perimeter of Park: 389 metres</p>",
         "address": "<p>Stretton Street, Bishopdale.</p>",
-        "name": "Stretton Reserve",
-        "email": ""
+        "name": "Stretton Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3862,8 +3621,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, roundabout, see-saw &amp; swings.</p>",
         "address": "<p>Galbraith Avenue, Avonside.</p>",
-        "name": "Sullivan Park ",
-        "email": ""
+        "name": "Sullivan Park "
       },
       "geometry": {
         "type": "Point",
@@ -3878,8 +3636,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 9 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Sumnervale Drive, Sumner.</p>",
-        "name": "Sumnervale Reserve",
-        "email": ""
+        "name": "Sumnervale Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3894,8 +3651,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,227 square metres, Perimeter of Park: 166 metres</p>",
         "address": "<p>Bowenvale Ave/Sunvale Tce, Huntsbury&nbsp;</p>",
-        "name": "Sunvale Reserve",
-        "email": ""
+        "name": "Sunvale Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3910,8 +3666,7 @@
       "properties": {
         "description": "<p>A local park with block wall &amp; multi-play structure.</p>\r\n<p>Area of Park: 1,192 square metres, Perimeter of Park: 142 metres</p>",
         "address": "<p>Takahe Drive, Cashmere Hills</p>",
-        "name": "Takahe Reserve",
-        "email": ""
+        "name": "Takahe Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3926,8 +3681,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, pendulum swing, roundabout, see-saw &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 505 metres</p>",
         "address": "<p>Country Palms Drive, Halswell&nbsp;</p>",
-        "name": "Talbot Reserve",
-        "email": ""
+        "name": "Talbot Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3942,8 +3696,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 3,216 square metres, Perimeter of Park: 270 metres</p>",
         "address": "<p>Tangmere Place, Burwood</p>",
-        "name": "Tangmere Reserve",
-        "email": ""
+        "name": "Tangmere Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -3958,8 +3711,7 @@
       "properties": {
         "description": "<p>A lovely new park with tennis court and playground.</p>",
         "address": "<p>Kittyhawk Avenue, Wigram Skies</p>",
-        "name": "Tautoru Park - Wigram Skies",
-        "email": ""
+        "name": "Tautoru Park - Wigram Skies"
       },
       "geometry": {
         "type": "Point",
@@ -3974,8 +3726,7 @@
       "properties": {
         "description": "<p>A regional park with multi-play structure &amp; swings. Also has toilets.</p>\r\n<p>Area of Park: 10 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Taylors Mistake Road, Taylors Mistake</p>",
-        "name": "Taylors Mistake Beach",
-        "email": ""
+        "name": "Taylors Mistake Beach"
       },
       "geometry": {
         "type": "Point",
@@ -3990,8 +3741,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner &amp; swivel balance board.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 600 metres</p>",
         "address": "<p>Marine Parade, South New Brighton</p>",
-        "name": "Te Karoro Karoro Reserve",
-        "email": ""
+        "name": "Te Karoro Karoro Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4006,8 +3756,7 @@
       "properties": {
         "description": "",
         "address": "<p>Bailey Street, Templeton</p>",
-        "name": "Templeton Domain",
-        "email": ""
+        "name": "Templeton Domain"
       },
       "geometry": {
         "type": "Point",
@@ -4022,8 +3771,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1,559 square metres, Perimeter of Park: 163 metres</p>",
         "address": "<p>Thackeray Street, Waltham</p>",
-        "name": "Thackeray Reserve",
-        "email": ""
+        "name": "Thackeray Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4038,8 +3786,7 @@
       "properties": {
         "description": "<p>The Groynes is a large facility with multiple playgrounds, waterways, walking tracks, toilet, &amp; many BBQ locations. A popular place to spend an afternoon with the family.</p>\r\n<p>Playground equipment at the park includes: multi-play structure, flying fox, see-saw and stand alone slides and swing. Wheelchair access</p>",
         "address": "<p>Johns Road, Harewood</p>",
-        "name": "The Groynes Playground",
-        "email": ""
+        "name": "The Groynes Playground"
       },
       "geometry": {
         "type": "Point",
@@ -4054,8 +3801,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; spring mounted play items.</p>\r\n<p>Area of Park: 3,100 square metres, Perimeter of Park: 334 metres</p>",
         "address": "<p>Thorrington Road, Beckenham</p>",
-        "name": "Thorrington Reserve",
-        "email": ""
+        "name": "Thorrington Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4070,8 +3816,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings. Also has basketball half court &amp; barbecue.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 745 metres</p>",
         "address": "<p>Titirangi Crescent, Parklands</p>",
-        "name": "Titirangi Reserve",
-        "email": ""
+        "name": "Titirangi Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4086,8 +3831,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, slide &amp; swings.</p>\r\n<p>Area of Park: 2,166 square metres, Perimeter of Park: 190 metres</p>",
         "address": "<p>Toorak Avenue, Avonhead</p>",
-        "name": "Toorak Reserve",
-        "email": ""
+        "name": "Toorak Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4102,8 +3846,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings. Also has a petanque court.</p>\r\n<p>Area of Park: 1,489 square metres, Perimeter of Park: 165 metres</p>",
         "address": "<p>Torrens Road, Hillmorten</p>",
-        "name": "Torrens Reserve",
-        "email": ""
+        "name": "Torrens Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4118,8 +3861,7 @@
       "properties": {
         "description": "<p>A local park with roundabout slide &amp; swings.</p>\r\n<p>Area of Park: 3,626 square metres, Perimeter of Park: 246 metres</p>",
         "address": "<p>Tralee Place, Bishopdale.</p>",
-        "name": "Tralee Reserve",
-        "email": ""
+        "name": "Tralee Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4134,8 +3876,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,400 square metres, Perimeter of Park: 305 metres</p>",
         "address": "<p>Trevor Street, Hornby.</p>",
-        "name": "Trevor Reserve",
-        "email": ""
+        "name": "Trevor Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4150,8 +3891,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure &amp; swings. Also, has toilets.</p>\r\n<p>Area of Park: 8 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Claridges Road, Harewood.</p>",
-        "name": "Tulett Park ",
-        "email": ""
+        "name": "Tulett Park "
       },
       "geometry": {
         "type": "Point",
@@ -4166,8 +3906,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,057 square metres, Perimeter of Park: 176 metres</p>",
         "address": "<p>Twyford Street, Bishopdale.</p>",
-        "name": "Twyford Reserve",
-        "email": ""
+        "name": "Twyford Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4182,8 +3921,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, solo spinner &amp; swings.</p>\r\n<p>Area of Park: 1,025 square metres, Perimeter of Park: 142 metres</p>",
         "address": "<p>Tyrone Street, Belfast.</p>",
-        "name": "Tyrone Reserve",
-        "email": ""
+        "name": "Tyrone Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4198,8 +3936,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, roundabout, see-saw, slide. solo spinner, spring mounted play items &amp; swings. Also has basketball half court &amp; toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 966 metres</p>",
         "address": "<p>Yaldhurst Road, Upper Riccarton</p>",
-        "name": "Upper Riccarton Domain",
-        "email": ""
+        "name": "Upper Riccarton Domain"
       },
       "geometry": {
         "type": "Point",
@@ -4214,8 +3951,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1,472 square metres, Perimeter of Park: 154 metres</p>",
         "address": "<p>Viceroy Place, Halswell</p>",
-        "name": "Viceroy Reserve",
-        "email": ""
+        "name": "Viceroy Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4230,8 +3966,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, slide &amp; swings.</p>\r\n<p>Area of Park: 3,424 square metres, Perimeter of Park: 288 metres</p>",
         "address": "<p>Vickerys Road, Wigram.</p>",
-        "name": "Vickerys Reserve",
-        "email": ""
+        "name": "Vickerys Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4246,8 +3981,7 @@
       "properties": {
         "description": "<p>A local park with multi-play strucure, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,878 square metres, Perimeter of Park: 228 metres</p>",
         "address": "<p>Vicki Street, Upper Riccarton.</p>",
-        "name": "Vicki Reserve",
-        "email": ""
+        "name": "Vicki Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4262,8 +3996,7 @@
       "properties": {
         "description": "<p>A sports park with climbing equipment, multi-play structure, see-saw, slide, swings &amp; track glyde.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 1 kilometre</p>",
         "address": "<p>Hampshire Street, Aranui</p>",
-        "name": "Wainoni Park",
-        "email": ""
+        "name": "Wainoni Park"
       },
       "geometry": {
         "type": "Point",
@@ -4278,8 +4011,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, slide &amp; swings. Also has basketball half court.</p>\r\n<p>Area of Park: 4,236 square metres, Perimeter of Park: 328 metres</p>",
         "address": "<p>Waipara Street, Cashmere</p>",
-        "name": "Waipara Playground ",
-        "email": ""
+        "name": "Waipara Playground "
       },
       "geometry": {
         "type": "Point",
@@ -4294,8 +4026,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw, slide, solo spinner, supa nova &amp; swings.</p>\r\n<p>Area of Park: 1,260 square metres, Perimeter of Park: 142 metres</p>",
         "address": "<p>Waitohi Street, Hornby</p>",
-        "name": "Waitohi Reserve",
-        "email": ""
+        "name": "Waitohi Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4310,8 +4041,7 @@
       "properties": {
         "description": "<p>A local park with see-saw &amp; swings.</p>\r\n<p>Area of Park: 4,071 square metres, Perimeter of Park: 593 metres</p>",
         "address": "<p>Waiwetu Street, Fendalton.</p>",
-        "name": "Waiwetu Reserve ",
-        "email": ""
+        "name": "Waiwetu Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -4326,8 +4056,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1,348 square metres, Perimeter of Park: 147 metres</p>",
         "address": "<p>Wales Street, Halswell</p>",
-        "name": "Wales Reserve",
-        "email": ""
+        "name": "Wales Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4342,8 +4071,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, pendulum swing, spring mounted play items and swings.</p>\r\n<p>Area of Park: 1,173 square metres</p>\r\n<p>Perimeter of Park: 164 metres</p>",
         "address": "<p>Bangor St and Hurley streets, Christchurch Central&nbsp;</p>",
-        "name": "Walnut Tree Park ",
-        "email": ""
+        "name": "Walnut Tree Park "
       },
       "geometry": {
         "type": "Point",
@@ -4358,8 +4086,7 @@
       "properties": {
         "description": "<p>A sports park with see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 6 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Kellys Road, Mairehau.</p>",
-        "name": "Walter Park",
-        "email": ""
+        "name": "Walter Park"
       },
       "geometry": {
         "type": "Point",
@@ -4374,8 +4101,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, ostacles, slide, solo spinner &amp; swings. also has basketball half court, skateboard area and ramp &amp; toilets.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 695 metres</p>",
         "address": "<p>Waltham Road, Waltham.</p>",
-        "name": "Waltham Park Playground",
-        "email": ""
+        "name": "Waltham Park Playground"
       },
       "geometry": {
         "type": "Point",
@@ -4390,8 +4116,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 2,602 square metres, Perimeter of Park: 298 metres</p>",
         "address": "<p>Warner Place, Ferrymead.</p>",
-        "name": "Warner Reserve ",
-        "email": ""
+        "name": "Warner Reserve "
       },
       "geometry": {
         "type": "Point",
@@ -4406,8 +4131,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 726 metres</p>",
         "address": "<p>Northwood Boulevard, Northwood</p>",
-        "name": "Waterford Reserve",
-        "email": ""
+        "name": "Waterford Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4422,8 +4146,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 3 hectares, Perimeter of Park: 644 metres</p>",
         "address": "<p>West Watson Avenue, Hillmorten.</p>",
-        "name": "West Watson Park",
-        "email": ""
+        "name": "West Watson Park"
       },
       "geometry": {
         "type": "Point",
@@ -4438,8 +4161,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see-saw and swings.</p>\r\n<p>Area of Park: 2,465 square metres, Perimeter of Park: 207 metres</p>",
         "address": "<p>Birdling Place, Halswell.</p>",
-        "name": "Westbrooke Park ",
-        "email": ""
+        "name": "Westbrooke Park "
       },
       "geometry": {
         "type": "Point",
@@ -4454,8 +4176,7 @@
       "properties": {
         "description": "<p>A local park with roundabout, see-saw, slide &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 563 metres</p>",
         "address": "<p>Westburn Terrace, Burnside</p>",
-        "name": "Westburn Reserve",
-        "email": ""
+        "name": "Westburn Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4470,8 +4191,7 @@
       "properties": {
         "description": "<p>A local park with block wall, multi-play structure, see-saw, snowboard rider &amp; swings.</p>\r\n<p>Area of Park: 8,653 square metres, Perimeter of Park: 407 metres</p>",
         "address": "<p>Westgrove Avenue, Avonhead.</p>",
-        "name": "Westgrove Park",
-        "email": ""
+        "name": "Westgrove Park"
       },
       "geometry": {
         "type": "Point",
@@ -4486,8 +4206,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 11 hectares, Perimeter of Park: 2 kilometres</p>",
         "address": "<p>Westlake Drive, Halswell.</p>",
-        "name": "Westlake Reserve",
-        "email": ""
+        "name": "Westlake Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4502,8 +4221,7 @@
       "properties": {
         "description": "<p>A local park with blockwall, multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 2,281 square metres, Perimeter of Park: 205 metres</p>",
         "address": "<p>Wolsey Place, Hillmorten</p>",
-        "name": "Wolsey Playground",
-        "email": ""
+        "name": "Wolsey Playground"
       },
       "geometry": {
         "type": "Point",
@@ -4518,8 +4236,7 @@
       "properties": {
         "description": "<p>Woodham Park is a garden and heritage park with three large lawn areas and a sheltered children&rsquo;s playground that features a multi-play structure, roundabout, see-saw &amp; swings and a paddling pool (closed 3rd April until mid November). There are toilet facilities.</p>\r\n<p>A car park is located on Woodham Road.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 729 metres.</p>",
         "address": "<p>Woodham Road, Linwood</p>",
-        "name": "Woodham Park ",
-        "email": ""
+        "name": "Woodham Park "
       },
       "geometry": {
         "type": "Point",
@@ -4534,8 +4251,7 @@
       "properties": {
         "description": "<p>A local park with slide &amp; swings.</p>\r\n<p>Area of Park: 3,982 square metres, Perimeter of Park: 281 metres.</p>",
         "address": "<p>Breezes Road, Aranui</p>",
-        "name": "Woodlands Playground",
-        "email": ""
+        "name": "Woodlands Playground"
       },
       "geometry": {
         "type": "Point",
@@ -4550,8 +4266,7 @@
       "properties": {
         "description": "<p>A sports park with chin up bars, climbing equipment, multi-play structure, laddrs &amp; spring mounted play items. Also has basketball half court, tennis court &amp; toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 1 kilometre.</p>",
         "address": "<p>Ferry Road, Woolston</p>",
-        "name": "Woolston Park",
-        "email": ""
+        "name": "Woolston Park"
       },
       "geometry": {
         "type": "Point",
@@ -4566,8 +4281,7 @@
       "properties": {
         "description": "<p>A local park with multi-play structure &amp; swings.</p>\r\n<p>Area of Park: 1 hectare, Perimeter of Park: 540 metres</p>",
         "address": "<p>Worcester Street, Linwood.</p>",
-        "name": "Worcester Reserve",
-        "email": ""
+        "name": "Worcester Reserve"
       },
       "geometry": {
         "type": "Point",
@@ -4582,8 +4296,7 @@
       "properties": {
         "description": "<p>A sports park with block wall, multi-play structure, slide &amp; swings. Also has basketball half court, skateborad area and ramp &amp; toilets.</p>\r\n<p>Area of Park: 4 hectares, Perimeter of Park: 927 metres</p>",
         "address": "<p>Wycola Avenue, Hei Hei</p>",
-        "name": "Wycola Park ",
-        "email": ""
+        "name": "Wycola Park "
       },
       "geometry": {
         "type": "Point",
@@ -4598,8 +4311,7 @@
       "properties": {
         "description": "<p>A sports park with multi-play structure, roundabout, spring mounted play items, slide &amp; swings. Also has tennis courts &amp; toilets.</p>\r\n<p>Area of Park: 2 hectares, Perimeter of Park: 585 metres</p>",
         "address": "<p>School Road, Yaldhurst</p>",
-        "name": "Yaldhurst Domain",
-        "email": ""
+        "name": "Yaldhurst Domain"
       },
       "geometry": {
         "type": "Point",
@@ -4614,8 +4326,7 @@
       "properties": {
         "description": "<p>A local park with see-saw, slide solo spinner &amp; swings.</p>\r\n<p>Area of Park: 2,024 square metres, Perimeter of Park: 205 metres</p>",
         "address": "<p>Yellowstone Crescent, Burwood.</p>",
-        "name": "Yellowstone Reserve",
-        "email": ""
+        "name": "Yellowstone Reserve"
       },
       "geometry": {
         "type": "Point",
