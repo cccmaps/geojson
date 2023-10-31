@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A community playground with block wall, multi-play structure, fenced paddling pool (closed 3rd April until mid November), roundabout, see-saw, stand alone slides &amp; swings and toilet.",
+        "description": "A community playground with block wall, multi-play structure, fenced paddling pool, roundabout, see-saw, stand alone slides and swings and toilet.",
         "address": "Abberley Crescent, St Albans",
         "name": "Abberley Park Playground "
       },
@@ -19,8 +19,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A small local park with basic playground consisting of see-saw, stand alone slides &amp; stand alone swings. ",
-        "address": "Carruthers Street, Ilam&nbsp;",
+        "description": "A small local park with basic playground consisting of see-saw, stand alone slides and stand alone swings. ",
+        "address": "Carruthers Street, Ilam ",
         "name": "Annandale Park Playground"
       },
       "geometry": {
@@ -34,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A small playground set on Broomfield Green playing fields comprised of tyre swing, multi-play structure &amp; spring mounted toys.",
+        "description": "A small playground set on Broomfield Green playing fields comprised of tyre swing, multi-play structure and spring mounted toys.",
         "address": "Arcon Drive, Broomfield",
         "name": "Arcon Playground"
       },
@@ -49,7 +49,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large local park with Block Wall, Multi-Play Structure &amp; stand alone Swing.",
+        "description": "A large local park with block wall, multi-play structure and stand alone swing.",
         "address": "Arden Place, Parklands",
         "name": "Arden Reserve Playground"
       },
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A great playground comprised of horse, roundabout, stand alone slides &amp; swings.",
+        "description": "A great playground comprised of horse, roundabout, stand alone slides and swings.",
         "address": "Armitage Street, Bishopdale",
         "name": "Armitage Reserve Playground"
       },
@@ -79,7 +79,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park complete with a well maintained playground including balance beam, multi-play structure, see-saw, solo spinner &amp; stand alone swings. Also a petanque court.",
+        "description": "A local park complete with a well maintained playground including balance beam, multi-play structure, see-saw, solo spinner and stand alone swings. Also a petanque court.",
         "address": "Arran Crescent, Woolston",
         "name": "Arran Playground "
       },
@@ -94,7 +94,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, stand alone slides &amp; swing.",
+        "description": "A local park with see-saw, stand alone slides and swing.",
         "address": "Kendal Ave, Burnside",
         "name": "Ashcroft Reserve "
       },
@@ -109,7 +109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A community park with block wall, multi-play structure, goal posts &amp; swings.",
+        "description": "A community park with block wall, multi-play structure, goal posts and swings.",
         "address": "Aston Street, Waimairi Beach",
         "name": "Aston Reserve "
       },
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large garden park complete with a playground which consists of paddling pool (currently closed), rocktopus, slides, spring mounted play items &amp; swing. Also contains toilets.",
+        "description": "A large garden park complete with a playground which consists of paddling pool, rocktopus, slides, spring mounted play items and swing. Also contains toilets.",
         "address": "Evelyn Couzins Ave, Richmond",
         "name": "Avebury Park Playground"
       },
@@ -139,8 +139,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local sports ground with playground which consists of roundabout, see-saw, slides &amp; swings. Also contains Half Court and toilets.",
-        "address": "Avonside Dr &amp; Kerrs Rd, Avonside",
+        "description": "A local sports ground with playground which consists of roundabout, see-saw, slides and swings. Also contains half court and toilets.",
+        "address": "Avonside Dr and Kerrs Rd, Avonside",
         "name": "Avon Park Playground "
       },
       "geometry": {
@@ -154,7 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park which consists of swing &amp; multi-play structure. Also includes a half basketball court a petanque court and a tennis court.",
+        "description": "A local park which consists of swing and multi-play structure. Also includes a half basketball court a petanque court and a tennis court.",
         "address": "Mervyn Drive, Avondale",
         "name": "Avondale Park "
       },
@@ -169,7 +169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large local community park complete with multi-play structure, supa nova &amp; swings.",
+        "description": "A large local community park complete with multi-play structure, supa nova and swings.",
         "address": "Aylsham Lane, Casebrook",
         "name": "Aylsham Reserve"
       },
@@ -184,7 +184,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Small neighbourhood playground with block wall, multi-play structure, see-saw &amp; stand alone swing.",
+        "description": "Small neighbourhood playground with block wall, multi-play structure, see-saw and stand alone swing.",
         "address": "Balcairn Street, Halswell",
         "name": "Balcairn Reserve"
       },
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large sports park set in Redcliffs, playground includes see-saw, slides, roundabout &amp; swings.",
+        "description": "A large sports park set in Redcliffs, playground includes see-saw, slides, roundabout and swings.",
         "address": "Main Road, Redcliffs",
         "name": "Barnett Park Playground"
       },
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Large sports park with balance beam, block wall, see-saw, stand alone swing &amp; multi-play structure. Also has basketball half court and toilets. Good Wheelchair access.",
+        "description": "Large sports park with balance beam, block wall, see-saw, stand alone swing and multi-play structure. Also has basketball half court and toilets. Good wheelchair access.",
         "address": "Barrington Street, Spreydon",
         "name": "Barrington Park Playground "
       },
@@ -229,7 +229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Local park in Bromley with see-saw, slides &amp; swings.",
+        "description": "Local park in Bromley with see-saw, slides and swings.",
         "address": "Bayswater Crescent, Bromley",
         "name": "Bayswater Reserve"
       },
@@ -244,7 +244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large sports park with balance beam, swings, multi-play structure, rocktopus &amp; block wall. Also has toilets.",
+        "description": "A large sports park with balance beam, swings, multi-play structure, rocktopus and block wall. This park has toilets.",
         "address": "Norwood Street, Beckenham",
         "name": "Beckenham Park Playground"
       },
@@ -259,7 +259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A small community reserve with swings, slide &amp; see-saw.",
+        "description": "A small community reserve with swings, slide and see-saw.",
         "address": "8 Benmore Gardens, Harewood",
         "name": "Benmore Gardens Reserve"
       },
@@ -274,7 +274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A small community reserve with swings, slide &amp; see-saw.",
+        "description": "A small community reserve with swings, slide and see-saw.",
         "address": "Bermuda Drive, Hornby",
         "name": "Bermuda Reserve"
       },
@@ -289,9 +289,9 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure, slide &amp; see-saw.",
+        "description": "A local park with a multi-play structure, slide and see-saw.",
         "address": "Stanmore Road, Linwood",
-        "name": "Beverley Park & Playground"
+        "name": "Beverley Park and Playground"
       },
       "geometry": {
         "type": "Point",
@@ -304,7 +304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A large sports park with playground which includes a climbing wall, multi play structure, flying fox, horse, obstacles, see saw &amp; swings. Also has skate park, basketball half court and toilets.",
+        "description": "A large sports park with playground which includes a climbing wall, multi play structure, flying fox, horse, obstacles, see saw and swings. Also has skate park, basketball half court and toilets.",
         "address": "Harewood Road, Bishopdale",
         "name": "Bishopdale Park Playground "
       },
@@ -319,8 +319,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "The playground within the Botanic Gardens is the perfect spot for a summer picnic. With a great playground, paddling pool (closed April - November), climbing equipment, slides &amp; see-saw. Good wheelchair access",
-        "address": "Rolleston Avenue, Central&nbsp;City",
+        "description": "The playground within the Botanic Gardens is the perfect spot for a summer picnic. With a great playground, paddling pool, climbing equipment, slides and see-saw. Good wheelchair access",
+        "address": "Rolleston Avenue, Central City",
         "name": "Botanic Gardens Playground "
       },
       "geometry": {
@@ -334,7 +334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "This local sports park has a playground which includes see-saws, may pole, hoop, slides, horse &amp; swings.",
+        "description": "This local sports park has a playground which includes see-saws, may pole, hoop, slides, horse and swings.",
         "address": "Willryan Ave, New Brighton",
         "name": "Bower Park Playground "
       },
@@ -364,7 +364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with half court, hoops, see-saw, slide, swings &amp; multi-play structure.",
+        "description": "A sports park with half court, hoops, see-saw, slide, swings and multi-play structure.",
         "address": "Witham Street, Hornby",
         "name": "Branston Park Playground "
       },
@@ -379,7 +379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "This local park features sheltered areas of lawn and a large playground that includes slides, swings, see-saw, multi-play structure, horse and a roundabout. It is adjacent to the beach for walks and swimming. It has changing and toilet facilities. There is a caf&eacute; across the road. Car parks are located at both ends of the park.",
+        "description": "This local park features sheltered areas of lawn and a large playground that includes slides, swings, see-saw, multi-play structure, horse and a roundabout. It is adjacent to the beach for walks and swimming. It has changing and toilet facilities. There is a cafe across the road. Car parks are located at both ends of the park.",
         "address": "Broadpark Road, North New Brighton.",
         "name": "Broad Park "
       },
@@ -394,8 +394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, swings block wall &amp; goal posts.",
-        "address": "Forest Drive, Parklands&nbsp;",
+        "description": "A sports park with multi-play structure, swings block wall and goal posts.",
+        "address": "Forest Drive, Parklands ",
         "name": "Broadhaven Reserve Playground"
       },
       "geometry": {
@@ -409,7 +409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure &amp; swing. Also has a BMX track.",
+        "description": "A local park with a multi-play structure and swing. Also has a BMX track.",
         "address": "Bromley Road, Bromley",
         "name": "Bromley Old School Reserve"
       },
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports field with swing and multi play structure. Also has a basketball halfcourt &amp; public toilets.",
+        "description": "A sports field with swing and multi play structure. Also has a basketball halfcourt and public toilets.",
         "address": "Buckleys Road, Linwood",
         "name": "Bromley Park "
       },
@@ -439,7 +439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with balance beam, block Wall, multi-play structure, hoop, see - saw &amp; stand alone swing. also has basketball half court, tennis court, skateboard area &amp; skateboard ramp.",
+        "description": "A local park with balance beam, block Wall, multi-play structure, hoop, see - saw and stand alone swing. also has basketball half court, tennis court, skateboard area and skateboard ramp.",
         "address": "Anfield Street, Brooklands",
         "name": "Brooklands Domain"
       },
@@ -469,7 +469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure &amp; swings.",
+        "description": "A local park with a multi-play structure and swings.",
         "address": "Bullock Place, Ilam",
         "name": "Bullock Reserve"
       },
@@ -484,7 +484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with a slide, swing, see-saw &amp; multi-play structure. Also has toilets.",
+        "description": "A sports park with a slide, swing, see-saw and multi-play structure. This park has toilets.",
         "address": "Memorial Avenue, Burnside.",
         "name": "Burnside Park "
       },
@@ -499,7 +499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with a maze, climbing equipment, multi-play structure, flying fox, hoop, stand alone slide &amp; swings Also has a bmx track, basketball half court &amp; public toilet.",
+        "description": "A sports park with a maze, climbing equipment, multi-play structure, flying fox, hoop, stand alone slide and swings Also has a bmx track, basketball half court and public toilet.",
         "address": "New Brighton Road, Burwood.",
         "name": "Burwood Park Playground "
       },
@@ -514,7 +514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, solo spinner, swing &amp; multi-play structure.",
+        "description": "A local park with block wall, solo spinner, swing and multi-play structure.",
         "address": "Calbreath Place, Russley.",
         "name": "Callbreath Reserve"
       },
@@ -529,7 +529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure &amp; swing.",
+        "description": "A local park with a multi-play structure and swing.",
         "address": "Cameron Street, Sydenham",
         "name": "Cameron Reserve"
       },
@@ -544,7 +544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure &amp; swing.",
+        "description": "A local park with a multi-play structure and swing.",
         "address": "Lakeview Place, Halswell",
         "name": "Campion Reserve"
       },
@@ -559,7 +559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slides &amp; swings.",
+        "description": "A local park with see-saw, slides and swings.",
         "address": "Canberra Place, Redwood",
         "name": "Canberra Reserve"
       },
@@ -574,7 +574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi-play structure, swings &amp; a block wall.",
+        "description": "A local park with a multi-play structure, swings and a block wall.",
         "address": "Wrights Road, Addington.",
         "name": "Cardigan Bay Reserve"
       },
@@ -589,7 +589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with stand alone slides and swing, see-saw &amp; solo spinner. Also has basketball half court and skateboard area.",
+        "description": "A local park with stand alone slides and swing, see-saw and solo spinner. Also has basketball half court and skateboard area.",
         "address": "Carisbrook St, Aranui",
         "name": "Carisbrook Reserve"
       },
@@ -619,7 +619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with swings, multi play structure &amp; block wall.",
+        "description": "A local park with swings, multi play structure and block wall.",
         "address": "Carmen Road, Hornby",
         "name": "Carmen Reserve"
       },
@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with blockwall, logs, maze, see-saw, slides, spring mounted play items, solo spinner, multi play structure &amp; swings. Also has toilets.",
+        "description": "A sports park with blockwall, logs, maze, see-saw, slides, spring mounted play items, solo spinner, multi play structure and swings. This park has toilets.",
         "address": "Cashmere Road, Cashmere.",
         "name": "Cashmere Valley Reserve"
       },
@@ -649,7 +649,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, may pole, see-saw, swing &amp; multi-play structure.",
+        "description": "A local park with block wall, may pole, see-saw, swing and multi-play structure.",
         "address": "Fairview Street, Cashmere",
         "name": "Cashmere View Playground"
       },
@@ -664,7 +664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Caulfield Drainage Reserve Nature Playground has logs for leaping, balance and jumping and balance-beams! You will also find lots of native plantings in this nature-inspired playground.",
+        "description": "Logs for leaping, balance and jumping and balance-beams. You will also find lots of native plantings in this nature-inspired playground.",
         "address": "Greenaway Park, Caulfield Avenue, Halswell",
         "name": "Caulfield Drainage Reserve Nature Playground"
       },
@@ -679,7 +679,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a slide, swing, see saw &amp; multi-play structure.",
+        "description": "A local park with a slide, swing, see saw and multi-play structure.",
         "address": "Hulverstone Drive, Avondale",
         "name": "Cedarwood Reserve"
       },
@@ -694,7 +694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, slide, swing, horse, block wall &amp; multi play structure.",
+        "description": "A local park with roundabout, slide, swing, horse, block wall and multi play structure.",
         "address": "Centaurus Road, Cashmere",
         "name": "Centaurus Park"
       },
@@ -709,7 +709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A&nbsp;sports park with snowboard rider, rocktopus, swings. Also has BBQ facilities and toilets.",
+        "description": "A sports park with snowboard rider, rocktopus, swings. Also has BBQ facilities and toilets.",
         "address": "Lyttelton Street, Spreydon",
         "name": "Centennial Park Playground"
       },
@@ -725,7 +725,7 @@
       "type": "Feature",
       "properties": {
         "description": "A local park with block wall, multi play structure and swing.",
-        "address": "Clarevale Street, Burwood&nbsp;",
+        "address": "Clarevale Street, Burwood ",
         "name": "Clarevale Reserve "
       },
       "geometry": {
@@ -754,7 +754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see saw, swings &amp; slide.",
+        "description": "A local park with see saw, swings and slide.",
         "address": "Coleman Ave, Sockburn",
         "name": "Colman Reserve "
       },
@@ -769,7 +769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with blockwall, Multi plsy structure &amp; swing.",
+        "description": "A local park with blockwall, Multi plsy structure and swing.",
         "address": "Copperfield Close, Parklands",
         "name": "Copperfield Reserve"
       },
@@ -784,7 +784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multiplay structure &amp; swings.",
+        "description": "A local park with block wall, multiplay structure and swings.",
         "address": "Harman Street, Addington",
         "name": "Cornelius O`Connor Reserve"
       },
@@ -799,7 +799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, swings &amp; slide.",
+        "description": "A local park with roundabout, swings and slide.",
         "address": "Cottonwood Street, Parklands",
         "name": "Cottonwood Reserve"
       },
@@ -814,7 +814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, swings &amp; slide. Also has a BMX track.",
+        "description": "A local park with roundabout, swings and slide. Also has a BMX track.",
         "address": "Northcote Road, Northcote",
         "name": "Craighead Reserve"
       },
@@ -829,7 +829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see saw, swings &amp; slide.",
+        "description": "A local park with see saw, swings and slide.",
         "address": "Crofton Road, Harewood",
         "name": "Crofton Reserve"
       },
@@ -859,7 +859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall,multi-play structure, see - saw, slides, spring mounted play items &amp; swings.",
+        "description": "A local park with block wall,multi-play structure, see - saw, slides, spring mounted play items and swings.",
         "address": "Cross Street, Phillipstown",
         "name": "Cross Reserve"
       },
@@ -874,7 +874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a multi play structure &amp; swings.",
+        "description": "A local park with a multi play structure and swings.",
         "address": "Cuffs Road, Wainoni",
         "name": "Cuffs Road Playground "
       },
@@ -889,7 +889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with balance beam, roundabout, see saw &amp; swings.",
+        "description": "A local park with balance beam, roundabout, see saw and swings.",
         "address": "Curries Road, Hillsborough",
         "name": "Curries Reserve"
       },
@@ -904,7 +904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with goal posts, see saw, solo spinner, spring mounted play items, supa nova, swings &amp; swivel balance board.",
+        "description": "A local park with goal posts, see saw, solo spinner, spring mounted play items, supa nova, swings and swivel balance board.",
         "address": "Clydedale Street, Woolston",
         "name": "Cutler Park "
       },
@@ -919,7 +919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with seesaw, swings &amp; slide.",
+        "description": "A local park with see-saw, swings and slide.",
         "address": "Harakeke Street, Fendalton",
         "name": "Daresbury Park"
       },
@@ -964,7 +964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with goal posts, seesaw, swings &amp; slide.",
+        "description": "A local park with goal posts, see-saw, swings and slide.",
         "address": "Dunedin Street, Redwood",
         "name": "Dunedin Reserve"
       },
@@ -979,7 +979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi play structure, horse, roundabout, see saw, swings &amp; slide. Also has a paddling pool (closed 3rd April until mid November) and toilets.",
+        "description": "A sports park with block wall, multi play structure, horse, roundabout, see saw, swings and slide. Also has a paddling pool and toilets.",
         "address": "Condell Avenue, Papanui",
         "name": "Edgar MacIntosh Park "
       },
@@ -1009,7 +1009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi play structure, hoop, may pole, see saw, spring mounted play items, slide &amp; swings. Also has toilets. ",
+        "description": "A sports park with multi play structure, hoop, may pole, see saw, spring mounted play items, slide and swings. This park has toilets. ",
         "address": "Heaton Street, Strowan",
         "name": "Elmwood Park "
       },
@@ -1024,7 +1024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi play structure, see saw, swings &amp; slide.",
+        "description": "A local park with block wall, multi play structure, see saw, swings and slide.",
         "address": "Emlyn Place, Avondale",
         "name": "Emlyn Playground"
       },
@@ -1039,7 +1039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi play structure, solo spinner, supa nove &amp; swings.",
+        "description": "A local park with block wall, multi play structure, solo spinner, supa nove and swings.",
         "address": "Endeavour Street, North New Brighton",
         "name": "Endeavour Playground"
       },
@@ -1054,7 +1054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi play structure &amp; swings.",
+        "description": "A local park with block wall, multi play structure and swings.",
         "address": "Erica Street, Papanui",
         "name": "Erica Playground"
       },
@@ -1069,7 +1069,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local Park with multi play structure, roundabout &amp; spring mounted play items.",
+        "description": "A local Park with multi play structure, roundabout and spring mounted play items.",
         "address": "Evergreen Place, Parklands",
         "name": "Evergreen Reserve"
       },
@@ -1084,7 +1084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi play structure, roundabout, spring mounted play items &amp; swings. Also has a basketball half court.",
+        "description": "A local park with multi play structure, roundabout, spring mounted play items and swings. Also has a basketball half court.",
         "address": "Fairway Drive, Shirley",
         "name": "Fairway Reserve"
       },
@@ -1099,7 +1099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Fendalton Park is a sports park with balance beam,multi play structure, goal posts &amp; swings.",
+        "description": "Fendalton Park is a sports park with balance beam,multi play structure, goal posts and swings.",
         "address": "Fendalton Road, Fendalton",
         "name": "Fendalton Park Playground"
       },
@@ -1114,7 +1114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, see saw, slide &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, see saw, slide and swings.",
         "address": "Fern Drive, Halswell",
         "name": "Fern Reserve"
       },
@@ -1129,7 +1129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, spring mounted play items &amp; swings.",
+        "description": "A local park with multi-play structure, spring mounted play items and swings.",
         "address": "Fernbrook Place, Mairehau",
         "name": "Fernbrook Playground"
       },
@@ -1144,7 +1144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, goal posts &amp; swings. Also has toilets.",
+        "description": "A sports park with block wall, multi-play structure, goal posts and swings. This park has toilets.",
         "address": "Nortons Road, Avonhead",
         "name": "Ferrier Park Playground"
       },
@@ -1159,7 +1159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with a basketball half court &amp; tennis court.",
+        "description": "A local park with a basketball half court and tennis court.",
         "address": "Forgan Lane/Marsack Crescent, Halswell",
         "name": "Forgan Reserve"
       },
@@ -1174,7 +1174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, seesaw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Fortune Street, Mairehau",
         "name": "Fortune Playground"
       },
@@ -1189,7 +1189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi play structure, hoop &amp; swings. Also has basketball half court &amp; tennis court.",
+        "description": "A local park with block wall, multi play structure, hoop and swings. Also has basketball half court and tennis court.",
         "address": "Cashmere Road, Westmoreland.",
         "name": "Francis Reserve"
       },
@@ -1204,7 +1204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, goal posts, solo spinner, supa nova &amp; swings. Also has a petanque court.",
+        "description": "A local park with block wall, multi-play structure, goal posts, solo spinner, supa nova and swings. Also has a petanque court.",
         "address": "Gainsborough Street, Hoon Hay",
         "name": "Gainsborough Reserve"
       },
@@ -1234,7 +1234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Gloaming Place, Sockburn",
         "name": "Gloaming Reserve"
       },
@@ -1249,7 +1249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with slide &amp; swings.",
+        "description": "A local park with slide and swings.",
         "address": "Glynne Crescent, Spreydon.",
         "name": "Glynne Reserve"
       },
@@ -1264,7 +1264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Goulding Avenue, Hornby",
         "name": "Goulding Playground"
       },
@@ -1279,7 +1279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with goal posts, roundabout, solo spinner, spring mounted play items &amp; swings.",
+        "description": "A local park with goal posts, roundabout, solo spinner, spring mounted play items and swings.",
         "address": "Grampian Street, Casebrook",
         "name": "Grampian Reserve"
       },
@@ -1294,7 +1294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Greendale Avenue, Avonhead",
         "name": "Greendale Reserve"
       },
@@ -1309,7 +1309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, block wall, slide &amp; swings.",
+        "description": "A local park with multi-play structure, block wall, slide and swings.",
         "address": "Halberg Street, Dallington",
         "name": "Halberg Reserve"
       },
@@ -1324,7 +1324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Mooray Ave, Bishopdale",
         "name": "Halifax Reserve"
       },
@@ -1339,7 +1339,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with Block Wall, Boat (Steel Moving), Multi-Play Structure, Goal Posts, Hoop, Rocktopus, See - Saw, Slide, Spring Mounted Play Items, Swings. Also has toilets.",
+        "description": "A sports park with block wall, boat, multi-play structure, goal posts, hoop, rocktopus, see-saw, slide, spring mounted play items, swings. This park has toilets.",
         "address": "Butler Street, Opawa",
         "name": "Hansen Park Playground"
       },
@@ -1354,7 +1354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Hansons Lane, Upper Riccarton",
         "name": "Hansons Reserve"
       },
@@ -1384,7 +1384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw &amp; swings.",
+        "description": "A local park with see-saw and swings.",
         "address": "Hastings Street, Sydenham",
         "name": "Hastings Reserve"
       },
@@ -1399,7 +1399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A Sports Park with climbing equipment, multi-play structure, flying fox, roundabout, slide, swings &amp; swing bridge. Also has toilets.",
+        "description": "A Sports Park with climbing equipment, multi-play structure, flying fox, roundabout, slide, swings and swing bridge. This park has toilets.",
         "address": "Port Hills Road, Heathcote",
         "name": "Heathcote Domain"
       },
@@ -1414,7 +1414,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with cantilever tyre swing, multi-play structure, roundabout &amp; swing.",
+        "description": "A local park with cantilever tyre swing, multi-play structure, roundabout and swing.",
         "address": "Tower Street/Brynley Street, Hornby",
         "name": "Helmore Park"
       },
@@ -1444,7 +1444,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Sawyers Arms Road, Bishopdale",
         "name": "Highsted Reserve"
       },
@@ -1459,7 +1459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, spring mounted play items &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure, spring mounted play items and swings.",
         "address": "Opawa Road, Hillsborough",
         "name": "Hillsborough Park"
       },
@@ -1474,7 +1474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Hockey Street, Bishopdale",
         "name": "Hockey Park "
       },
@@ -1489,7 +1489,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, hoop &amp; swings. Also has a basketball half court.",
+        "description": "A local park with block wall, multi-play structure, hoop and swings. Also has a basketball half court.",
         "address": "Holliss Avenue, Cashmere",
         "name": "Holliss Reserve"
       },
@@ -1504,7 +1504,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "English Street, Sockburn",
         "name": "Holmes Park"
       },
@@ -1519,7 +1519,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block Wall, multi-play structure, goal posts, hoop, horse, roundabout, see - saw, slide, solo spinner, spring mounted play Items &amp; swing. Also has basketball half court, skateboard area &amp; toilets.",
+        "description": "A sports park with block Wall, multi-play structure, goal posts, hoop, horse, roundabout, see - saw, slide, solo spinner, spring mounted play Items and swing. Also has basketball half court, skateboard area and toilets.",
         "address": "Mathers Road, Hoon Hay",
         "name": "Hoon Hay Park "
       },
@@ -1534,7 +1534,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local playground with block wall, roundabout, see-saw, slide &amp; swings.",
+        "description": "A local playground with block wall, roundabout, see-saw, slide and swings.",
         "address": "Huntsbury Avenue, Huntsbury",
         "name": "Huntsbury Playground"
       },
@@ -1549,8 +1549,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
-        "address": "Hawthornden Road, Avonhead&nbsp;",
+        "description": "A local park with multi-play structure and swings.",
+        "address": "Hawthornden Road, Avonhead ",
         "name": "Hyde Park"
       },
       "geometry": {
@@ -1564,7 +1564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with slide &amp; swings.",
+        "description": "A local park with slide and swings.",
         "address": "Iona Place, Sockburn",
         "name": "Iona Place"
       },
@@ -1579,7 +1579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings. Also has a tennis court.",
+        "description": "A local park with multi-play structure and swings. Also has a tennis court.",
         "address": "Jeffreys Road, Fendalton",
         "name": "Jeffreys Reserve"
       },
@@ -1594,7 +1594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, horse, rocktopus, roundabout, see - saw, slide, snowboard rider, solo spinner, swings &amp; track glyde. Also has swimming pools, basketball half court, skateboarding area &amp; public toilets.",
+        "description": "A sports park with multi-play structure, horse, rocktopus, roundabout, see-saw, slide, snowboard rider, solo spinner, swings and track glyde. Also has swimming pools, basketball half court, skateboarding area and public toilets.",
         "address": "295 Ilam Road, Burnside",
         "name": "Jellie Park Playground"
       },
@@ -1624,7 +1624,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure and swings.",
         "address": "Jones Road, Templeton",
         "name": "Jones Reserve"
       },
@@ -1639,7 +1639,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Kaiwara Street, Hoon Hay",
         "name": "Kaiwara Reserve"
       },
@@ -1654,7 +1654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner, swings &amp; swivel balance board.",
+        "description": "A local park with multi-play structure, solo spinner, swings and swivel balance board.",
         "address": "Springwater Avenue, Northwood",
         "name": "Kaputone Spring Reserve"
       },
@@ -1669,7 +1669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, horse see-saw &amp; swings",
+        "description": "A local park with block wall, multi-play structure, horse see-saw and swings",
         "address": "Kendal Avenue, Burnside.",
         "name": "Kendal Reserve"
       },
@@ -1699,7 +1699,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Rangatira Terrace, Mount Pleasant",
         "name": "King Park"
       },
@@ -1714,7 +1714,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with may pole, see-saw, slide &amp; swings.",
+        "description": "A local park with may pole, see-saw, slide and swings.",
         "address": "Kinross Street, Hei Hei",
         "name": "Kinross Reserve"
       },
@@ -1759,7 +1759,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, spring mounted play items &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, spring mounted play items and swings.",
         "address": "Kumara Place, Hei Hei",
         "name": "Kumara Reserve"
       },
@@ -1774,7 +1774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with a BMX track. Also has toilets.",
+        "description": "A sports park with a BMX track. This park has toilets.",
         "address": "Waterloo Road, Hornby",
         "name": "Kyle Park"
       },
@@ -1789,7 +1789,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Larch Place, Casebrook",
         "name": "Larch Reserve"
       },
@@ -1804,7 +1804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, see-saw, slide &amp; swings. Also has toilets.",
+        "description": "A sports park with multi-play structure, see-saw, slide and swings. This park has toilets.",
         "address": "Main South Road, Islington",
         "name": "Leslie Park"
       },
@@ -1834,7 +1834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with mulri-play structure, swings a basketball half court &amp; skateboard area. Also has toilets.",
+        "description": "A sports park with mulri-play structure, swings a basketball half court and skateboard area. This park has toilets.",
         "address": "Linwood Avenue, Linwood",
         "name": "Linwood Park "
       },
@@ -1864,7 +1864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with slide &amp; swings.",
+        "description": "A local park with slide and swings.",
         "address": "Lomax Place, Islington",
         "name": "Lomax Reserve"
       },
@@ -1894,7 +1894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Longley Place, Addington",
         "name": "Longley Reserve"
       },
@@ -1911,7 +1911,7 @@
       "properties": {
         "description": "",
         "address": "24 Oxford Street, Lyttelton",
-        "name": "Lyttelton Playground & Skate Park"
+        "name": "Lyttelton Playground and Skate Park"
       },
       "geometry": {
         "type": "Point",
@@ -1939,7 +1939,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, basketball half court, horse &amp; swings. Also has toilets.",
+        "description": "A sports park with multi-play structure, basketball half court, horse and swings. This park has toilets.",
         "address": "Acheson Avenue, Shirley",
         "name": "MacFarlane Park Playground"
       },
@@ -1954,7 +1954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, hoop, see-saw, slide &amp; swings.",
+        "description": "A local park with multi-play structure, hoop, see-saw, slide and swings.",
         "address": "Mahars Road, Mairehau",
         "name": "Mahars Playground"
       },
@@ -1969,7 +1969,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Malabar Crescent, Broomfield.",
         "name": "Malabar Reserve"
       },
@@ -1984,7 +1984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with blaock wall, multi-play structure, see-saw &amp; swings.",
+        "description": "A sports park with blaock wall, multi-play structure, see-saw and swings.",
         "address": "Innes Road, St Albans.",
         "name": "Malvern Park"
       },
@@ -1999,7 +1999,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, spring mounted play items &amp; swings.",
+        "description": "A local park with multi-play structure, spring mounted play items and swings.",
         "address": "Marlene Street, Casebrook.",
         "name": "Marlene Reserve"
       },
@@ -2014,7 +2014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure &amp; swings. Also has toilets.",
+        "description": "A sports park with block wall, multi-play structure and swings. This park has toilets.",
         "address": "Prestons Road, Marshland",
         "name": "Marshlands Domain"
       },
@@ -2029,7 +2029,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Matangi Street, Islington",
         "name": "Matangi Reserve"
       },
@@ -2044,8 +2044,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure &amp; spring mounted play items. Also has a petanque court and toilets.",
-        "address": "McCormacks Bay Rd / Main Rd, McCormacks Bay&nbsp;",
+        "description": "A sports park with multi-play structure and spring mounted play items. Also has a petanque court and toilets.",
+        "address": "McCormacks Bay Road / Main Road, McCormacks Bay ",
         "name": "McCormacks Bay Reserve"
       },
       "geometry": {
@@ -2059,7 +2059,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "McHaffies Place, Wainoni",
         "name": "McHaffies Reserve"
       },
@@ -2074,7 +2074,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, slide &amp; swings.",
+        "description": "A local park with roundabout, slide and swings.",
         "address": "Mendip Place, Casebrook",
         "name": "Mendip Reserve"
       },
@@ -2104,7 +2104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with solo spinner, spring mounted play items, super nova &amp; swings. Also has toilets.",
+        "description": "A sports park with solo spinner, spring mounted play items, super nova and swings. This park has toilets.",
         "address": "Lochee Road, Upper Riccarton",
         "name": "Middleton Park "
       },
@@ -2119,7 +2119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Milnebank Street, Upper Riccarton",
         "name": "Milnebank Reserve"
       },
@@ -2134,7 +2134,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Moa Place, Central City",
         "name": "Moa Reserve"
       },
@@ -2149,7 +2149,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Moffett Street, Islington",
         "name": "Moffett Reserve"
       },
@@ -2164,7 +2164,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Momorangi Crescent, Redwood.",
         "name": "Momorangi Reserve"
       },
@@ -2179,7 +2179,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw, solo spinner &amp; swings.",
+        "description": "A local park with multi-play structure, see-saw, solo spinner and swings.",
         "address": "Garlands Road, Hillsborough.",
         "name": "Monro Playground"
       },
@@ -2194,7 +2194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings.",
+        "description": "A local park with multi-play structure, solo spinner, spring mounted play items and swings.",
         "address": "Montclare Ave, Ilam",
         "name": "Montclare Reserve"
       },
@@ -2209,7 +2209,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, see-saw &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, see-saw and swings.",
         "address": "Morley Street/Clyde Road, Bryndwr",
         "name": "Morley Reserve"
       },
@@ -2224,7 +2224,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with climbing equipment, rocktopus, sand pit, slide, spring mounted play items &amp; swings. Also has a half basketball court &amp; bbq.",
+        "description": "A local park with climbing equipment, rocktopus, sand pit, slide, spring mounted play items and swings. Also has a half basketball court and bbq.",
         "address": "Morrison Avenue, Northcote.",
         "name": "Morrison Ave Reserve"
       },
@@ -2239,7 +2239,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings.",
+        "description": "A local park with multi-play structure, solo spinner, spring mounted play items and swings.",
         "address": "Moyna Avenue, Dallington",
         "name": "Moyna Playground"
       },
@@ -2254,7 +2254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Halswell Road, Halswell",
         "name": "Muir Park"
       },
@@ -2269,7 +2269,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with climbing equipment, climbing equip - rock, multi-play structure, rings on chains, spring mounted play items, supa nova &amp; swings.",
+        "description": "A local park with climbing equipment, climbing equip - rock, multi-play structure, rings on chains, spring mounted play items, supa nova and swings.",
         "address": "Lowry Avenue, Redwood",
         "name": "Murchison Park"
       },
@@ -2284,7 +2284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi play structure &amp; swings.",
+        "description": "A local park with block wall, multi play structure and swings.",
         "address": "Natalie Place, Harewood.",
         "name": "Natalie Reserve"
       },
@@ -2314,7 +2314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with cantilever tyre swing &amp; multi-play structure. Also has bmx track.",
+        "description": "A local park with cantilever tyre swing and multi-play structure. Also has bmx track.",
         "address": "Nepal Place, Burnside",
         "name": "Nepal Reserve"
       },
@@ -2344,7 +2344,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A regional park with Horse, see-saw, slide &amp; swings. Also has toilets.",
+        "description": "A regional park with horse, see-saw, slide and swings. This park has toilets.",
         "address": "Taylors Mistake Road, Scarborough",
         "name": "Nicholson Park "
       },
@@ -2359,7 +2359,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Norrie Street, Redwood",
         "name": "Norrie Park"
       },
@@ -2374,7 +2374,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with rocktapus, see-saw, slide, solo spinner &amp; swings. Also has toilets.",
+        "description": "A sports park with rocktapus, see-saw, slide, solo spinner and swings. This park has toilets.",
         "address": "Wooldridge Road, Harewood",
         "name": "Nunweek Park Playground"
       },
@@ -2389,7 +2389,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Oakhampton Street, Hornby",
         "name": "Oakhampton Reserve"
       },
@@ -2404,7 +2404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout &amp; swings.",
+        "description": "A local park with roundabout and swings.",
         "address": "Oakley Crescent, Hornby",
         "name": "Oakley Reserve"
       },
@@ -2419,7 +2419,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, swings &amp; track glyde. Also has basketball half court, tennis court &amp; toilets.",
+        "description": "A local park with multi-play structure, swings and track glyde. Also has basketball half court, tennis court and toilets.",
         "address": "Major Hornbrook Road, Mt Pleasant",
         "name": "Old School Reserve"
       },
@@ -2434,7 +2434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Olliviers Road/Tuam Street, Phillipstown",
         "name": "Olliviers Reserve"
       },
@@ -2449,7 +2449,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure &amp; swings. Also has a bbq, tennis court &amp; toilets.",
+        "description": "A sports park with block wall, multi-play structure and swings. Also has a bbq, tennis court and toilets.",
         "address": "Guthries Road, Ouruhia",
         "name": "Ouruhia Reserve"
       },
@@ -2464,7 +2464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, obstacles &amp; swings. Also has toilets.",
+        "description": "A sports park with multi-play structure, obstacles and swings. This park has toilets.",
         "address": "Grimseys Road, Redwood",
         "name": "Owen Mitchell Park"
       },
@@ -2479,7 +2479,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with hoop &amp; swings.",
+        "description": "A local park with hoop and swings.",
         "address": "Packe Street, Edgeware",
         "name": "Packe Reserve"
       },
@@ -2494,7 +2494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw &amp; swings. Also has a basketball half court.",
+        "description": "A local park with multi-play structure, see-saw and swings. Also has a basketball half court.",
         "address": "Paddington Street, Northcote",
         "name": "Paddington Playground"
       },
@@ -2509,7 +2509,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Paeroa Street, Riccarton.",
         "name": "Paeroa Reserve"
       },
@@ -2524,7 +2524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide. solo spinner, spring mounted play items &amp; swings. Also has a basketball half court.",
+        "description": "A local park with see-saw, slide. solo spinner, spring mounted play items and swings. Also has a basketball half court.",
         "address": "Pagoda Street, Shirley",
         "name": "Pagoda Playground"
       },
@@ -2539,7 +2539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Palatine Terrace/Centaurus Road, Huntsbury",
         "name": "Palatine Reserve"
       },
@@ -2554,7 +2554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with slide &amp; swings. Also has toilets.",
+        "description": "A sports park with slide and swings. This park has toilets.",
         "address": "Sawyers Arms Road, Papanui",
         "name": "Papanui Domain"
       },
@@ -2584,7 +2584,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, spring mounted play items &amp; swings. Also has basketball half court &amp; toilets.",
+        "description": "A sports park with block wall, multi-play structure, spring mounted play items and swings. Also has basketball half court and toilets.",
         "address": "Queenspark Drive, Parklands",
         "name": "Parklands Reserve"
       },
@@ -2614,7 +2614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Peebles Drive, Sockburn",
         "name": "Peebles Reserve"
       },
@@ -2629,7 +2629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Petrie Street, Richmond",
         "name": "Petrie Park"
       },
@@ -2644,7 +2644,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner, spring mounted play items, supa nova &amp; swivel balance board.",
+        "description": "A local park with multi-play structure, solo spinner, spring mounted play items, supa nova and swivel balance board.",
         "address": "Picton Avenue, Riccarton",
         "name": "Picton Park"
       },
@@ -2659,7 +2659,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Pinehurst Crescent, Russley",
         "name": "Pinehurst Reserve"
       },
@@ -2674,7 +2674,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, cantilever tyre swing, multi-play structure, goal posts &amp; swings.",
+        "description": "A local park with block wall, cantilever tyre swing, multi-play structure, goal posts and swings.",
         "address": "Pitcairn Crescent, Bryndwr",
         "name": "Pitcairn Playground"
       },
@@ -2689,7 +2689,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, slide, spring mounted play items &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, slide, spring mounted play items and swings.",
         "address": "Plover Street, Southshore",
         "name": "Plover Reserve"
       },
@@ -2704,7 +2704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, roundabout &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure, roundabout and swings.",
         "address": "Plynlimon Road, Strowan.",
         "name": "Plynlimon Park"
       },
@@ -2719,9 +2719,9 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A&nbsp;modern Skate Park and Playground has opened in the new Preston's Subdivision.",
+        "description": "A skate park and playground.",
         "address": "Prestons West Subdivision, Prestons Road, Marshlands",
-        "name": "Prestons Skate Park & Playground"
+        "name": "Prestons Skate Park and Playground"
       },
       "geometry": {
         "type": "Point",
@@ -2734,7 +2734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A new Council Reserve &amp; Playground.",
+        "description": "Reserve and playground.",
         "address": "Quarry Hill Terrace, Hallswell",
         "name": "Quarry Hill Reserve Playground"
       },
@@ -2749,7 +2749,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with balance beam, chin up bars, climbing equipment, ladders, see-saw, slide &amp; swings.",
+        "description": "A sports park with balance beam, chin up bars, climbing equipment, ladders, see-saw, slide and swings.",
         "address": "Queenspark Drive, Queenspark",
         "name": "Queenspark Reserve"
       },
@@ -2764,7 +2764,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with blockwall, mullti-play structure, roundabout, see-saw &amp; swings.",
+        "description": "A local park with blockwall, mullti-play structure, roundabout, see-saw and swings.",
         "address": "Cumnor Terrace, Woolston",
         "name": "Radley Park"
       },
@@ -2779,7 +2779,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Radley Street, Woolston.",
         "name": "Radley Playground"
       },
@@ -2794,7 +2794,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Ramore Place, Redwood",
         "name": "Ramore Reserve"
       },
@@ -2809,7 +2809,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, see-saw &amp; swings. Also has toilets. ",
+        "description": "A sports park with multi-play structure, see-saw and swings. This park has toilets. ",
         "address": "100 Shaw Avenue (and surrounds near Marine Parade), New Brighton",
         "name": "Rawhiti Domain"
       },
@@ -2824,7 +2824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with rocktopus, see-saw, solo spinner, spring mounted play items &amp; swings.",
+        "description": "A sports park with rocktopus, see-saw, solo spinner, spring mounted play items and swings.",
         "address": "Maidstone Road, Ilam.",
         "name": "Ray Blank Park"
       },
@@ -2839,7 +2839,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw &amp; swings.",
+        "description": "A local park with see-saw and swings.",
         "address": "Rearsby Drive, Halswell.",
         "name": "Rearsby Reserve"
       },
@@ -2854,7 +2854,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with chin up bars, climbing equipment, multi-play structure, see-saw &amp; swings. Also has toilets.",
+        "description": "A sports park with chin up bars, climbing equipment, multi-play structure, see-saw and swings. This park has toilets.",
         "address": "Celia Street/Main Road, Redcliffs",
         "name": "Redcliffs Park"
       },
@@ -2869,7 +2869,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, see-saw, slide &amp; swings. Also has toilets.",
+        "description": "A sports park with block wall, multi-play structure, see-saw, slide and swings. This park has toilets.",
         "address": "Sturrocks Road, Redwood",
         "name": "Redwood Park"
       },
@@ -2884,7 +2884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A Great modern Childrens playground and park based in the Redwood Springs Subdivision",
+        "description": "A modern childrens playground.",
         "address": "Willowview Drive, Redwood",
         "name": "Redwood Springs Park"
       },
@@ -2914,7 +2914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Remuera Avenue, Beckenham",
         "name": "Remuera Reserve"
       },
@@ -2929,7 +2929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, solo spinner &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure, solo spinner and swings.",
         "address": "Poulton Avenue, Shirley",
         "name": "Richmond Park"
       },
@@ -2944,7 +2944,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with cantilever tyre swing multi-play structure &amp; swings.",
+        "description": "A local park with cantilever tyre swing multi-play structure and swings.",
         "address": "Stanmore Road, Richmond",
         "name": "Richmond Playground"
       },
@@ -2959,7 +2959,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings. Also has a petanque court,",
+        "description": "A local park with multi-play structure and swings. Also has a petanque court,",
         "address": "Ridder Place, Halswell.",
         "name": "Ridder Reserve"
       },
@@ -2974,7 +2974,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A garden &amp; heritage park with roundabout, see-saw, slide &amp; swings. Also has toilets.",
+        "description": "A garden and heritage park with roundabout, see-saw, slide and swings. This park has toilets.",
         "address": "Cholmondeley Avenue, Opawa.",
         "name": "Risingholme Park"
       },
@@ -2989,7 +2989,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner, spring mounted play items &amp; swings. Also has a basketball half court.",
+        "description": "A local park with multi-play structure, solo spinner, spring mounted play items and swings. Also has a basketball half court.",
         "address": "Riverlea Estate Drive, Kainga",
         "name": "Riverlea Recreation Reserve"
       },
@@ -3004,7 +3004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Robin Street, Burwood.",
         "name": "Robin Playground"
       },
@@ -3019,7 +3019,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Garvins Road, Sockburn",
         "name": "Rollerdrome Reserve"
       },
@@ -3034,7 +3034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, see-saw &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, see-saw and swings.",
         "address": "Rosanna Place, Aranui",
         "name": "Rosanna Reserve"
       },
@@ -3049,7 +3049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Rosella Street, Broomfield",
         "name": "Rosella Reserve"
       },
@@ -3109,7 +3109,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw &amp; swings.",
+        "description": "A local park with multi-play structure, see-saw and swings.",
         "address": "Rydal Street, Hoon Hay.",
         "name": "Rydal Reserve"
       },
@@ -3124,7 +3124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with horse, see-saw, slide &amp; swings.",
+        "description": "A local park with horse, see-saw, slide and swings.",
         "address": "Ryeland Avenue, Ilam",
         "name": "Ryeland Reserve"
       },
@@ -3139,7 +3139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with horse, roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with horse, roundabout, see-saw, slide and swings.",
         "address": "Sabina Street, Shirley.",
         "name": "Sabina Playground"
       },
@@ -3154,7 +3154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with logs, platform &amp; slide.",
+        "description": "A local park with logs, platform and slide.",
         "address": "Sanscrit Place, Richmond Hill.",
         "name": "Sanscrit Reserve"
       },
@@ -3169,7 +3169,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Sarabande Avenue, Redwood.",
         "name": "Sarabande Reserve"
       },
@@ -3184,9 +3184,9 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, horse, paddling pool,roundabout,see-saw, slide&nbsp;and swings.",
-        "address": "Heberden Avenue, Sumner&nbsp;",
-        "name": "Scarborough Park & Playground"
+        "description": "A local park with multi-play structure, horse, paddling pool,roundabout,see-saw, slide and swings.",
+        "address": "Heberden Avenue, Sumner ",
+        "name": "Scarborough Park and Playground"
       },
       "geometry": {
         "type": "Point",
@@ -3199,7 +3199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, see-saw &amp; swings. Also has a basketball halfcourt.",
+        "description": "A local park with block wall, multi-play structure, see-saw and swings. Also has a basketball halfcourt.",
         "address": "Checketts Avenue, Halswell",
         "name": "Scott Park"
       },
@@ -3229,7 +3229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with cantilever tyre swing, multi-play structure &amp; swings.",
+        "description": "A local park with cantilever tyre swing, multi-play structure and swings.",
         "address": "Sedgewick Way, Westmoreland.",
         "name": "Sedgwick Reserve"
       },
@@ -3244,7 +3244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with balance beam, see-saw, slide &amp; swings.",
+        "description": "A local park with balance beam, see-saw, slide and swings.",
         "address": "Shamrock Place, Halswell.",
         "name": "Shamrock Reserve"
       },
@@ -3259,7 +3259,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block Wall, hoop, horse, monkey bars, roundabout, slide &amp; swings.",
+        "description": "A local park with block wall, hoop, horse, monkey bars, roundabout, slide and swings.",
         "address": "Shearer Avenue, Papanui.",
         "name": "Shearer Ave Playground"
       },
@@ -3274,7 +3274,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, see-saw &amp; swings. Also has basketball half court, skateboard area and ramp, tennis court &amp; toilets.",
+        "description": "A sports park with block wall, multi-play structure, see-saw and swings. Also has basketball half court, skateboard area and ramp, tennis court and toilets.",
         "address": "Main North Road, Belfast",
         "name": "Sheldon Park"
       },
@@ -3289,7 +3289,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw &amp; swings. Also has basketball halfcourt and toilets.",
+        "description": "A local park with multi-play structure, see-saw and swings. Also has basketball halfcourt and toilets.",
         "address": "Shirley Road/Chancellor Street, Shirley",
         "name": "Shirley Community Reserve"
       },
@@ -3304,7 +3304,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with climbing equipment, rocktopus, roundabout, see-saw, slide, solo spinner, steps &amp; swings.",
+        "description": "A local park with climbing equipment, rocktopus, roundabout, see-saw, slide, solo spinner, steps and swings.",
         "address": "Shortland Street, Wainoni.",
         "name": "Shortland Playground"
       },
@@ -3319,7 +3319,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with slide &amp; swings.",
+        "description": "A local park with slide and swings.",
         "address": "176 Shortland Street, Aranui",
         "name": "Shortland Reserve"
       },
@@ -3334,7 +3334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with may pole, roundabout, see-saw &amp; swings.",
+        "description": "A local park with may pole, roundabout, see-saw and swings.",
         "address": "Simeon Street, Spreydon.",
         "name": "Simeon Park"
       },
@@ -3349,8 +3349,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, slide &amp; swings.",
-        "address": "Northfield Rd and Broger Place, Casebrook",
+        "description": "A local park with roundabout, slide and swings.",
+        "address": "Northfield Road and Broger Place, Casebrook",
         "name": "Sisson Park"
       },
       "geometry": {
@@ -3364,7 +3364,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with spring mounted play items. Also has a basketball half court &amp; tennis court.",
+        "description": "A local park with spring mounted play items. Also has a basketball half court and tennis court.",
         "address": "168 Milns Road, Halswell.",
         "name": "Six Silvers Reserve"
       },
@@ -3379,7 +3379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw &amp; swings, Also has a basketball half court.",
+        "description": "A local park with see-saw and swings, Also has a basketball half court.",
         "address": "Main South Road, Sockburn.",
         "name": "Sockburn Park"
       },
@@ -3394,8 +3394,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with climbing equipment, see-saw, slide &amp; swings.",
-        "address": "Cadiz Pl/Soleares Ave, Mount Pleasant&nbsp;",
+        "description": "A local park with climbing equipment, see-saw, slide and swings.",
+        "address": "Cadiz Pl/Soleares Ave, Mount Pleasant ",
         "name": "Soleares Playground"
       },
       "geometry": {
@@ -3409,7 +3409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, roundabout, see-saw, slide &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure, roundabout, see-saw, slide and swings.",
         "address": "Studholme Street, Somerfield",
         "name": "Somerfield Park"
       },
@@ -3424,7 +3424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with climbing equipment, multi-play structure, rocktopus, roundabout, see-saw, slide &amp; swings. Also has bbq, half basketball court, skateboard area &amp; toilets.",
+        "description": "A sports park with climbing equipment, multi-play structure, rocktopus, roundabout, see-saw, slide and swings. Also has bbq, half basketball court, skateboard area and toilets.",
         "address": "Beatty Street, South New Brighton.",
         "name": "South New Brighton Park"
       },
@@ -3439,7 +3439,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw, slide &amp; swings. Also has a basketball half court, paddling pool (closed 3rd April until mid November), bbq &amp; tennis court.",
+        "description": "A local park with multi-play structure, see-saw, slide and swings. Also has a basketball half court, paddling pool, bbq and tennis court.",
         "address": "Heyders Road, Spencerville",
         "name": "Spencerville Reserve"
       },
@@ -3454,7 +3454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall,multi-play structure &amp; swings.",
+        "description": "A sports park with block wall,multi-play structure and swings.",
         "address": "Domain Terrace, Spreydon",
         "name": "Spreydon Domain"
       },
@@ -3469,7 +3469,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Woodcote Avenue, Hornby",
         "name": "Springmead Park"
       },
@@ -3484,7 +3484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with balance beam, climbing equipment, multi-play structure, flying fox, rocktopus, see-saw, solo spinner, spring mounted play items &amp; swings. Also has basketball half court, petanque court &amp; skateboard ramp.",
+        "description": "A sports park with balance beam, climbing equipment, multi-play structure, flying fox, rocktopus, see-saw, solo spinner, spring mounted play items and swings. Also has basketball half court, petanque court and skateboard ramp.",
         "address": "Barbadoes Street/Forfar Street, Edgeware.",
         "name": "St Albans Park"
       },
@@ -3499,7 +3499,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, roundabout, see-saw, slide &amp; swings. Also has toilets.",
+        "description": "A sports park with block wall, multi-play structure, roundabout, see-saw, slide and swings. This park has toilets.",
         "address": "St James Avenue, Papanui.",
         "name": "St James Park "
       },
@@ -3514,7 +3514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with climbing equipment, multi-play structure, see-saw &amp; swings. Also has toilets.",
+        "description": "A sports park with climbing equipment, multi-play structure, see-saw and swings. This park has toilets.",
         "address": "St Leonards Square, Sumner",
         "name": "St Leonards Park "
       },
@@ -3529,7 +3529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "St Lukes Street, Woolston",
         "name": "St Lukes Reserve"
       },
@@ -3559,7 +3559,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, spring mounted play items &amp; swings.",
+        "description": "A local park with block wall, spring mounted play items and swings.",
         "address": "Starwood Lane, Clifton",
         "name": "Starwood Reserve"
       },
@@ -3574,7 +3574,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings. Also has a basketball half court.",
+        "description": "A local park with see-saw, slide and swings. Also has a basketball half court.",
         "address": "Staverley Street, Avonhead.",
         "name": "Staverley Reserve"
       },
@@ -3589,7 +3589,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Glenharrow Avenue, Avonhead",
         "name": "Stewarts Bush"
       },
@@ -3604,7 +3604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Stretton Street, Bishopdale.",
         "name": "Stretton Reserve"
       },
@@ -3619,7 +3619,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, roundabout, see-saw &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, roundabout, see-saw and swings.",
         "address": "Galbraith Avenue, Avonside.",
         "name": "Sullivan Park "
       },
@@ -3634,7 +3634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Sumnervale Drive, Sumner.",
         "name": "Sumnervale Reserve"
       },
@@ -3649,8 +3649,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw, slide &amp; swings.",
-        "address": "Bowenvale Ave/Sunvale Tce, Huntsbury&nbsp;",
+        "description": "A local park with multi-play structure, see-saw, slide and swings.",
+        "address": "Bowenvale Ave/Sunvale Tce, Huntsbury ",
         "name": "Sunvale Reserve"
       },
       "geometry": {
@@ -3664,7 +3664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall &amp; multi-play structure.",
+        "description": "A local park with block wall and multi-play structure.",
         "address": "Takahe Drive, Cashmere Hills",
         "name": "Takahe Reserve"
       },
@@ -3679,8 +3679,8 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, pendulum swing, roundabout, see-saw &amp; swings.",
-        "address": "Country Palms Drive, Halswell&nbsp;",
+        "description": "A local park with block wall, multi-play structure, pendulum swing, roundabout, see-saw and swings.",
+        "address": "Country Palms Drive, Halswell ",
         "name": "Talbot Reserve"
       },
       "geometry": {
@@ -3694,7 +3694,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Tangmere Place, Burwood",
         "name": "Tangmere Reserve"
       },
@@ -3724,7 +3724,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A regional park with multi-play structure &amp; swings. Also has toilets.",
+        "description": "A regional park with multi-play structure and swings. This park has toilets.",
         "address": "Taylors Mistake Road, Taylors Mistake",
         "name": "Taylors Mistake Beach"
       },
@@ -3739,7 +3739,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner &amp; swivel balance board.",
+        "description": "A local park with multi-play structure, solo spinner and swivel balance board.",
         "address": "Marine Parade, South New Brighton",
         "name": "Te Karoro Karoro Reserve"
       },
@@ -3769,7 +3769,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Thackeray Street, Waltham",
         "name": "Thackeray Reserve"
       },
@@ -3784,7 +3784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "The Groynes is a large facility with multiple playgrounds, waterways, walking tracks, toilet, &amp; many BBQ locations. A popular place to spend an afternoon with the family.Playground equipment at the park includes: multi-play structure, flying fox, see-saw and stand alone slides and swing. Wheelchair access",
+        "description": "The Groynes is a large facility with multiple playgrounds, waterways, walking tracks, toilet, and many BBQ locations. A popular place to spend an afternoon with the family.Playground equipment at the park includes: multi-play structure, flying fox, see-saw and stand alone slides and swing. Wheelchair access",
         "address": "Johns Road, Harewood",
         "name": "The Groynes Playground"
       },
@@ -3799,7 +3799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; spring mounted play items.",
+        "description": "A local park with block wall, multi-play structure and spring mounted play items.",
         "address": "Thorrington Road, Beckenham",
         "name": "Thorrington Reserve"
       },
@@ -3814,7 +3814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings. Also has basketball half court &amp; barbecue.",
+        "description": "A local park with multi-play structure and swings. Also has basketball half court and barbecue.",
         "address": "Titirangi Crescent, Parklands",
         "name": "Titirangi Reserve"
       },
@@ -3829,7 +3829,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, slide &amp; swings.",
+        "description": "A local park with roundabout, slide and swings.",
         "address": "Toorak Avenue, Avonhead",
         "name": "Toorak Reserve"
       },
@@ -3844,7 +3844,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings. Also has a petanque court.",
+        "description": "A local park with see-saw, slide and swings. Also has a petanque court.",
         "address": "Torrens Road, Hillmorten",
         "name": "Torrens Reserve"
       },
@@ -3859,7 +3859,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout slide &amp; swings.",
+        "description": "A local park with roundabout slide and swings.",
         "address": "Tralee Place, Bishopdale.",
         "name": "Tralee Reserve"
       },
@@ -3874,7 +3874,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide &amp; swings.",
+        "description": "A local park with see-saw, slide and swings.",
         "address": "Trevor Street, Hornby.",
         "name": "Trevor Reserve"
       },
@@ -3889,7 +3889,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure &amp; swings. Also, has toilets.",
+        "description": "A sports park with block wall, multi-play structure and swings. This park has toilets.",
         "address": "Claridges Road, Harewood.",
         "name": "Tulett Park "
       },
@@ -3904,7 +3904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Twyford Street, Bishopdale.",
         "name": "Twyford Reserve"
       },
@@ -3919,7 +3919,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, solo spinner &amp; swings.",
+        "description": "A local park with multi-play structure, solo spinner and swings.",
         "address": "Tyrone Street, Belfast.",
         "name": "Tyrone Reserve"
       },
@@ -3934,7 +3934,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, roundabout, see-saw, slide. solo spinner, spring mounted play items &amp; swings. Also has basketball half court &amp; toilets.",
+        "description": "A sports park with multi-play structure, roundabout, see-saw, slide. solo spinner, spring mounted play items and swings. Also has basketball half court and toilets.",
         "address": "Yaldhurst Road, Upper Riccarton",
         "name": "Upper Riccarton Domain"
       },
@@ -3949,7 +3949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure &amp; swings.",
+        "description": "A local park with block wall, multi-play structure and swings.",
         "address": "Viceroy Place, Halswell",
         "name": "Viceroy Reserve"
       },
@@ -3964,7 +3964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, slide &amp; swings.",
+        "description": "A local park with roundabout, slide and swings.",
         "address": "Vickerys Road, Wigram.",
         "name": "Vickerys Reserve"
       },
@@ -3979,7 +3979,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play strucure, see-saw, slide &amp; swings.",
+        "description": "A local park with multi-play strucure, see-saw, slide and swings.",
         "address": "Vicki Street, Upper Riccarton.",
         "name": "Vicki Reserve"
       },
@@ -3994,7 +3994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with climbing equipment, multi-play structure, see-saw, slide, swings &amp; track glyde.",
+        "description": "A sports park with climbing equipment, multi-play structure, see-saw, slide, swings and track glyde.",
         "address": "Hampshire Street, Aranui",
         "name": "Wainoni Park"
       },
@@ -4009,7 +4009,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, slide &amp; swings. Also has basketball half court.",
+        "description": "A local park with block wall, multi-play structure, slide and swings. Also has basketball half court.",
         "address": "Waipara Street, Cashmere",
         "name": "Waipara Playground "
       },
@@ -4024,7 +4024,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw, slide, solo spinner, supa nova &amp; swings.",
+        "description": "A local park with multi-play structure, see-saw, slide, solo spinner, supa nova and swings.",
         "address": "Waitohi Street, Hornby",
         "name": "Waitohi Reserve"
       },
@@ -4039,7 +4039,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw &amp; swings.",
+        "description": "A local park with see-saw and swings.",
         "address": "Waiwetu Street, Fendalton.",
         "name": "Waiwetu Reserve "
       },
@@ -4054,7 +4054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Wales Street, Halswell",
         "name": "Wales Reserve"
       },
@@ -4070,7 +4070,7 @@
       "type": "Feature",
       "properties": {
         "description": "A local park with multi-play structure, pendulum swing, spring mounted play items and swings.",
-        "address": "Bangor St and Hurley streets, Christchurch Central&nbsp;",
+        "address": "Bangor Street and Hurley Street, Christchurch Central ",
         "name": "Walnut Tree Park "
       },
       "geometry": {
@@ -4084,7 +4084,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with see-saw, slide &amp; swings.",
+        "description": "A sports park with see-saw, slide and swings.",
         "address": "Kellys Road, Mairehau.",
         "name": "Walter Park"
       },
@@ -4099,7 +4099,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, ostacles, slide, solo spinner &amp; swings. also has basketball half court, skateboard area and ramp &amp; toilets.",
+        "description": "A sports park with block wall, multi-play structure, ostacles, slide, solo spinner and swings. also has basketball half court, skateboard area and ramp and toilets.",
         "address": "Waltham Road, Waltham.",
         "name": "Waltham Park Playground"
       },
@@ -4114,7 +4114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Warner Place, Ferrymead.",
         "name": "Warner Reserve "
       },
@@ -4129,7 +4129,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Northwood Boulevard, Northwood",
         "name": "Waterford Reserve"
       },
@@ -4144,7 +4144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure, see-saw, slide &amp; swings.",
+        "description": "A local park with multi-play structure, see-saw, slide and swings.",
         "address": "West Watson Avenue, Hillmorten.",
         "name": "West Watson Park"
       },
@@ -4174,7 +4174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with roundabout, see-saw, slide &amp; swings.",
+        "description": "A local park with roundabout, see-saw, slide and swings.",
         "address": "Westburn Terrace, Burnside",
         "name": "Westburn Reserve"
       },
@@ -4189,7 +4189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with block wall, multi-play structure, see-saw, snowboard rider &amp; swings.",
+        "description": "A local park with block wall, multi-play structure, see-saw, snowboard rider and swings.",
         "address": "Westgrove Avenue, Avonhead.",
         "name": "Westgrove Park"
       },
@@ -4204,7 +4204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure &amp; swings.",
+        "description": "A sports park with block wall, multi-play structure and swings.",
         "address": "Westlake Drive, Halswell.",
         "name": "Westlake Reserve"
       },
@@ -4219,7 +4219,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with blockwall, multi-play structure &amp; swings.",
+        "description": "A local park with blockwall, multi-play structure and swings.",
         "address": "Wolsey Place, Hillmorten",
         "name": "Wolsey Playground"
       },
@@ -4234,7 +4234,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Woodham Park is a garden and heritage park with three large lawn areas and a sheltered children&rsquo;s playground that features a multi-play structure, roundabout, see-saw &amp; swings and a paddling pool (closed 3rd April until mid November). There are toilet facilities.A car park is located on Woodham Road.",
+        "description": "Woodham Park is a garden and heritage park with three large lawn areas and a sheltered playground that features a multi-play structure, roundabout, see-saw and swings and a paddling pool. There are toilet facilities.A car park is located on Woodham Road.",
         "address": "Woodham Road, Linwood",
         "name": "Woodham Park "
       },
@@ -4249,7 +4249,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with slide &amp; swings.",
+        "description": "A local park with slide and swings.",
         "address": "Breezes Road, Aranui",
         "name": "Woodlands Playground"
       },
@@ -4264,7 +4264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with chin up bars, climbing equipment, multi-play structure, laddrs &amp; spring mounted play items. Also has basketball half court, tennis court &amp; toilets.",
+        "description": "A sports park with chin up bars, climbing equipment, multi-play structure, laddrs and spring mounted play items. Also has basketball half court, tennis court and toilets.",
         "address": "Ferry Road, Woolston",
         "name": "Woolston Park"
       },
@@ -4279,7 +4279,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with multi-play structure &amp; swings.",
+        "description": "A local park with multi-play structure and swings.",
         "address": "Worcester Street, Linwood.",
         "name": "Worcester Reserve"
       },
@@ -4294,7 +4294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with block wall, multi-play structure, slide &amp; swings. Also has basketball half court, skateborad area and ramp &amp; toilets.",
+        "description": "A sports park with block wall, multi-play structure, slide and swings. Also has basketball half court, skateborad area and ramp and toilets.",
         "address": "Wycola Avenue, Hei Hei",
         "name": "Wycola Park "
       },
@@ -4309,7 +4309,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A sports park with multi-play structure, roundabout, spring mounted play items, slide &amp; swings. Also has tennis courts &amp; toilets.",
+        "description": "A sports park with multi-play structure, roundabout, spring mounted play items, slide and swings. Also has tennis courts and toilets.",
         "address": "School Road, Yaldhurst",
         "name": "Yaldhurst Domain"
       },
@@ -4324,7 +4324,7 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "A local park with see-saw, slide solo spinner &amp; swings.",
+        "description": "A local park with see-saw, slide solo spinner and swings.",
         "address": "Yellowstone Crescent, Burwood.",
         "name": "Yellowstone Reserve"
       },
