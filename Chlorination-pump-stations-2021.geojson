@@ -399,7 +399,8 @@
           172.6513,
           -43.4991
         ]
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
@@ -410,7 +411,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two wellheads raised, new suction tank",
         "Status": "In construction",
-        "ChlorinationDose": "Temporarily out of service",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -499,7 +500,8 @@
           172.6613,
           -43.4904
         ]
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
@@ -519,7 +521,8 @@
           172.6217,
           -43.5022
         ]
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -579,7 +582,8 @@
           172.6651,
           -43.4734
         ]
-      }
+      },
+      "id": 28
     },
     {
       "type": "Feature",
@@ -599,7 +603,8 @@
           172.6237,
           -43.4743
         ]
-      }
+      },
+      "id": 29
     },
     {
       "type": "Feature",
@@ -670,7 +675,7 @@
         "NumberOfWells": 4,
         "Improvements": "Four wellheads raised",
         "Status": "Complete",
-        "ChlorinationDose": "Temporarily out of service",
+        "ChlorinationDose": "Greater than 0.2 mg/L",
         "At": "the zone extremities"
       },
       "geometry": {
@@ -830,7 +835,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two Interim below ground wellhead repairs, one decommissioned",
         "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "ChlorinationDose": "Temporarily out of service",
         "At": "the station"
       },
       "geometry": {
@@ -890,7 +895,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two interim below ground wellhead repairs",
         "Status": "Complete",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
+        "ChlorinationDose": "Temporarily out of service",
         "At": "the station"
       },
       "geometry": {
@@ -938,26 +943,6 @@
         "coordinates": [
           172.737,
           -43.5323
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Mairehau",
-        "Zone": "Parklands",
-        "NumberOfWells": 1,
-        "Improvements": "Abandon pump station in next 5 years",
-        "Status": "Planning",
-        "ChlorinationDose": "Greater than 0.5 mg/L",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6829,
-          -43.4817
         ]
       }
     },
@@ -1090,7 +1075,7 @@
         "NumberOfWells": 2,
         "Improvements": "Wells below ground, abandon pump station in next year",
         "Status": "Planning",
-        "ChlorinationDose": "Greater than 1.0 mg/L",
+        "ChlorinationDose": "Temporarily out of service",
         "At": "the station"
       },
       "geometry": {
