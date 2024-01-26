@@ -918,6 +918,24 @@
           -43.523877077452376
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nurturing",
+        "site": "Halswell Quarry Park",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/native-nurturing/",
+        "Full name": "Native Nurturing - Manaaki Whenua",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.57869206518586,
+          -43.601011097908554
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
