@@ -478,6 +478,22 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tū Waka-Waipapa",
+        "type": "Other off-street parking building",
+        "address": "550 Hagley Ave",
+        "spaces": 463
+      },
+      "geometry": {
+        "coordinates": [
+          172.62506255814895,
+          -43.53615887464905
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
