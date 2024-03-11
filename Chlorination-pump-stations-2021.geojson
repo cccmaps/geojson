@@ -895,7 +895,7 @@
         "NumberOfWells": 2,
         "Improvements": "Two interim below ground wellhead repairs",
         "Status": "Complete",
-        "ChlorinationDose": "Temporarily out of service",
+        "ChlorinationDose": "Greater than 1.0 mg/L",
         "At": "the station"
       },
       "geometry": {
@@ -904,7 +904,8 @@
           172.6816,
           -43.5249
         ]
-      }
+      },
+      "id": 44
     },
     {
       "type": "Feature",
