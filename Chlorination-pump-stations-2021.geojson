@@ -119,7 +119,8 @@
           172.6973,
           -43.5113
         ]
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
@@ -199,7 +200,8 @@
           172.72,
           -43.492
         ]
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
@@ -279,7 +281,8 @@
           172.7206,
           -43.506
         ]
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
@@ -299,7 +302,8 @@
           172.6835,
           -43.5006
         ]
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -562,7 +566,8 @@
           172.7068,
           -43.481
         ]
-      }
+      },
+      "id": 27
     },
     {
       "type": "Feature",
@@ -830,26 +835,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Averill ",
-        "Zone": "Central",
-        "NumberOfWells": 2,
-        "Improvements": "Two Interim below ground wellhead repairs, one decommissioned",
-        "Status": "Complete",
-        "ChlorinationDose": "Temporarily out of service",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6603,
-          -43.5128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Birdling Flat",
         "Zone": "Banks Peninsula",
         "NumberOfWells": 1,
@@ -890,27 +875,6 @@
       "type": "Feature",
       "properties": {
         "geometry": "Point",
-        "PumpStationName": "Kerrs",
-        "Zone": "Central",
-        "NumberOfWells": 2,
-        "Improvements": "Two interim below ground wellhead repairs",
-        "Status": "Complete",
-        "ChlorinationDose": "Temporarily out of service",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6816,
-          -43.5249
-        ]
-      },
-      "id": 44
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
         "PumpStationName": "Carters",
         "Zone": "Rawhiti",
         "NumberOfWells": 4,
@@ -925,7 +889,8 @@
           172.7055,
           -43.5209
         ]
-      }
+      },
+      "id": 44
     },
     {
       "type": "Feature",
@@ -1064,26 +1029,6 @@
         "coordinates": [
           172.5764,
           -43.5335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "geometry": "Point",
-        "PumpStationName": "Burwood",
-        "Zone": "Parklands",
-        "NumberOfWells": 2,
-        "Improvements": "Wells below ground, abandon pump station in next year",
-        "Status": "Planning",
-        "ChlorinationDose": "Temporarily out of service",
-        "At": "the station"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.684,
-          -43.4897
         ]
       }
     },
