@@ -4,22 +4,23 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "147-157 Hereford Street",
+        "Address": "157 Hereford Street",
         "Entry": "157 Hereford Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 42,
         "Electric": "",
         "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/157-hereford-street/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          172.638063,
-          -43.531722
+          172.63845431996532,
+          -43.53186174558153
         ]
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
@@ -394,7 +395,7 @@
         "Entry": "164 HerefordStreet",
         "Name": "Wilson off-street parking",
         "Notes": "",
-        "Parking-spaces": 45,
+        "Parking-spaces": 66,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
       },
       "geometry": {
@@ -403,7 +404,8 @@
           172.63877391815186,
           -43.532126508022124
         ]
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
@@ -494,16 +496,17 @@
           172.6278868317604,
           -43.53707523592511
         ]
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
       "properties": {
-        "Address": "12 Acton Street",
-        "Entry": "12 Acton Street",
+        "Address": "8 Acton Street",
+        "Entry": "8 Acton Street",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 40,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+        "Parking-spaces": 52,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/8-12-Acton-Street/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature="
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +514,8 @@
           172.62959085681885,
           -43.53774395975636
         ]
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -613,7 +617,7 @@
         "Address": "189 Tuam Street",
         "Entry": "189 Tuam Street",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 41,
+        "Parking-spaces": 24,
         "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/189-tuam-street/?carParkFeature="
       },
       "geometry": {
@@ -622,7 +626,8 @@
           -43.53518854516771
         ],
         "type": "Point"
-      }
+      },
+      "id": 31
     },
     {
       "type": "Feature",
@@ -638,6 +643,58 @@
         "coordinates": [
           172.61205564939766,
           -43.53859519827924
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "99-105 Victoria Street",
+        "Entry": "99-105 Victoria Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 85,
+        "Notes": "Metered 5pm – 6am weekdays",
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/99-105-victoria-street-/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature="
+      },
+      "geometry": {
+        "coordinates": [
+          172.62997119428502,
+          -43.52405557499065
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "38 Oxford Terrace",
+        "Entry": "38 Oxford Terrace",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 52,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/38-oxford-terrace/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature="
+      },
+      "geometry": {
+        "coordinates": [
+          172.63011463020183,
+          -43.53495734797925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "56-58 St Asaph Street",
+        "Entry": "56-58 St Asaph Street",
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/56-58-st-asaph-street/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature=",
+        "Parking-spaces": 52,
+        "Name": "Wilson off-street parking"
+      },
+      "geometry": {
+        "coordinates": [
+          172.62791193414876,
+          -43.536623479839015
         ],
         "type": "Point"
       }
