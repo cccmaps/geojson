@@ -120,7 +120,8 @@
           172.641105,
           -43.536033
         ]
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
@@ -169,7 +170,7 @@
         "Entry": "615 Colombo Street",
         "Notes": "",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 40,
+        "Parking-spaces": 19,
         "Electric": "",
         "Mobility": "",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
@@ -180,7 +181,8 @@
           172.636361,
           -43.53542
         ]
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -412,9 +414,9 @@
       "properties": {
         "Address": "142 Tuam Street",
         "Entry": "142 Tuam Street",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 41,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 35,
+        "Charges": "https://www.centralpark.nz/",
         "Notes": " ",
         "Mobility": ""
       },
@@ -424,26 +426,8 @@
           172.63455748558044,
           -43.535366074829554
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "20-28 Bath Street",
-        "Entry": "20-28 Bath Street",
-        "Parking-spaces": 43,
-        "Name": "Wilson off-street parking",
-        "Notes": " ",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207",
-        "Electric": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.635195851326,
-          -43.53909933333424
-        ]
-      }
+      "id": 20
     },
     {
       "type": "Feature",
@@ -466,8 +450,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "116 Tuam Street",
-        "Entry": "116 Tuam Street",
+        "Address": "118 Tuam Street",
+        "Entry": "118 Tuam Street",
         "Name": "Wilson off-street parking",
         "Parking-spaces": 43,
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
@@ -695,6 +679,23 @@
         "coordinates": [
           172.62791193414876,
           -43.536623479839015
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "237 Moorhouse Ave",
+        "Entry": "237 Moorhouse Ave",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 30,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/237-moorhouse-ave/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63394248089884,
+          -43.53974383091386
         ],
         "type": "Point"
       }
