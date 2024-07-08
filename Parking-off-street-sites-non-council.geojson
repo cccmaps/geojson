@@ -126,26 +126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "107-109 Cambridge Terrace",
-        "Entry": "107-109 Cambridge Terrace",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 53,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.632515,
-          -43.531799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "196 Antigua Street",
         "Entry": "196 Antigua Street",
         "Notes": "",
