@@ -40,7 +40,8 @@
           172.639334,
           -43.532137
         ]
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
@@ -162,7 +163,7 @@
           -43.53542
         ]
       },
-      "id": 8
+      "id": 7
     },
     {
       "type": "Feature",
@@ -204,7 +205,7 @@
           -43.530149
         ]
       },
-      "id": 13
+      "id": 9
     },
     {
       "type": "Feature",
@@ -224,7 +225,8 @@
           172.639472,
           -43.530314
         ]
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -244,7 +246,8 @@
           172.636815,
           -43.528449
         ]
-      }
+      },
+      "id": 11
     },
     {
       "type": "Feature",
@@ -327,26 +330,6 @@
         "coordinates": [
           172.63234,
           -43.529005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "321 Manchester Street",
-        "Entry": "161 Kilmore Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 60,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.639374,
-          -43.526223
         ]
       }
     },
@@ -536,7 +519,8 @@
           172.6350013911724,
           -43.52645295785552
         ]
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -591,7 +575,7 @@
         ],
         "type": "Point"
       },
-      "id": 31
+      "id": 28
     },
     {
       "type": "Feature",
@@ -676,6 +660,40 @@
         "coordinates": [
           172.63394248089884,
           -43.53974383091386
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "818 Colombo Street",
+        "Entry": "818 Colombo Street",
+        "Name": "Smart Compliance Management off-street parking ",
+        "Parking-spaces": 40,
+        "Charges": "https://smartcomply.co.nz/faqs"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6367786218765,
+          -43.525964251973775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "155 Kilmore Street",
+        "Entry": "155 Kilmore Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 60,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/155-kilmore-street/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63871107453906,
+          -43.52645874196533
         ],
         "type": "Point"
       }
