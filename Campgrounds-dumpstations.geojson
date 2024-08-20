@@ -322,7 +322,7 @@
         "Campground": "Yes",
         "Dumpstation": "Yes",
         "campground-price": "From $45",
-        "dumpstation-price": "Free for public use "
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -330,7 +330,8 @@
           172.971854,
           -43.796351
         ]
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
