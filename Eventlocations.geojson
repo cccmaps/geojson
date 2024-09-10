@@ -160,84 +160,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Margaret Mahy Playground",
-        "Address": "177 Armagh Street, Christchurch Central, Christchurch",
-        "Power": "Yes",
-        "Water": "Yes",
-        "Surface type": "Hard",
-        "Toilets": "Yes",
-        "Mobility-friendly": "Yes",
-        "Seating": "Yes",
-        "Car parking": "Yes",
-        "Bus stops": "Yes",
-        "Area": "16,331sqm",
-        "Capacity": "up to 1,000",
-        "Small": "Yes",
-        "Large": "No",
-        "Charges": "Charges apply",
-        "Commercial events": "No",
-        "Infrastructure allowed": "Yes",
-        "Type": "Children's",
-        "Contact-URL": "https://ccc.govt.nz/contact-us",
-        "Notes": "",
-        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
-        "Events-allowed": "Public",
-        "Public": "Yes",
-        "Private": "No",
-        "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#MargaretMahy",
-        "ChildpageURL": "https://ccc.govt.nz/margaret-mahy-playground"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.640898,
-          -43.528389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Cranmer Square",
-        "Address": "18-20 Cranmer Square, Christchurch Central, Christchurch",
-        "Power": "No",
-        "Water": "No",
-        "Surface type": "Grass",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "Street parking",
-        "Bus stops": "No",
-        "Area": "18,996sqm",
-        "Capacity": "up to 5,000",
-        "Small": "Yes",
-        "Large": "Yes",
-        "Charges": "Charges apply",
-        "Commercial events": "No",
-        "Infrastructure allowed": "No",
-        "Type": "Commemorative only",
-        "Contact-URL": "https://ccc.govt.nz/contact-us",
-        "Notes": "",
-        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
-        "Events-allowed": "Public",
-        "Public": "Yes",
-        "Private": "No",
-        "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Cranmer",
-        "ChildpageURL": "https://ccc.govt.nz/cranmer-square"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.630598,
-          -43.527875
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Victoria Square",
         "Address": "89 Armagh St, Christchurch Central, Christchurch",
         "Power": "Yes",
@@ -355,123 +277,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Friendship Corner",
-        "Address": "100 Oxford Terrace, Christchurch Central, Christchurch",
-        "Power": "No",
-        "Water": "No",
-        "Surface type": "Grass",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "Street parking",
-        "Bus stops": "No",
-        "Area": "2005sqm",
-        "Capacity": "up to 500",
-        "Small": "Yes",
-        "Large": "No",
-        "Charges": "Charges apply",
-        "Commercial events": "Yes",
-        "Infrastructure allowed": "Yes",
-        "Type": "Events",
-        "Contact-URL": "https://ccc.govt.nz/contact-us",
-        "Notes": "",
-        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
-        "Events-allowed": "Commercial, Public",
-        "Public": "Yes",
-        "Private": "No",
-        "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Friendship",
-        "ChildpageURL": "https://ccc.govt.nz/friendship-corner"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.633369,
-          -43.53354127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Park of Remembrance",
-        "Address": "126 Cambridge Terrace, Christchurch Central, Christchurch",
-        "Power": "No",
-        "Water": "No",
-        "Surface type": "Grass",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "Street parking",
-        "Bus stops": "No",
-        "Area": "3007sqm",
-        "Capacity": "up to 1,000",
-        "Small": "Yes",
-        "Large": "No",
-        "Charges": "Charges apply",
-        "Commercial events": "No",
-        "Infrastructure allowed": "Yes",
-        "Type": "Special conditions apply",
-        "Contact-URL": "https://ccc.govt.nz/contact-us",
-        "Notes": "Permission for infrastructure evaluated on a case by case basis.",
-        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
-        "Events-allowed": "Public",
-        "Public": "Yes",
-        "Private": "No",
-        "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "",
-        "ChildpageURL": "https://ccc.govt.nz/park-of-remembrance"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6331437,
-          -43.53254955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "City Mall (Bridge of Remembrance)",
-        "Address": "77 Cashel St, Christchurch Central, Christchurch",
-        "Power": "Yes",
-        "Water": "No",
-        "Surface type": "Hard",
-        "Toilets": "No",
-        "Mobility-friendly": "Yes",
-        "Seating": "No",
-        "Car parking": "Street parking",
-        "Bus stops": "No",
-        "Area": "455sqm",
-        "Capacity": "up to 200",
-        "Small": "Yes",
-        "Large": "No",
-        "Charges": "Charges apply",
-        "Commercial events": "Yes",
-        "Infrastructure allowed": "Yes",
-        "Type": "Events; Promotions",
-        "Contact-URL": "https://ccc.govt.nz/contact-us",
-        "Notes": "",
-        "Charges-URL": "https://www.ccc.govt.nz/the-council/plans-strategies-policies-and-bylaws/plans/long-term-plan-and-annual-plans/fees-and-charges/fees-parks/#events",
-        "Events-allowed": "Commercial, Public",
-        "Public": "Yes",
-        "Private": "No",
-        "Booking-contact": "Christchurch City Council",
-        "MoreInformationURL": "https://www.ccc.govt.nz/news-and-events/running-an-event/central-city-event-venues/#Remembrance",
-        "ChildpageURL": " https://ccc.govt.nz/city-mall-in-front-of-the-bridge-of-remembrance"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6337606,
-          -43.53305903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Scott Statue Reserve",
         "Address": "Robert Falcon Scott Memorial, Christchurch Central, Christchurch",
         "Power": "No",
@@ -545,7 +350,8 @@
           172.633709,
           -43.532713
         ]
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
