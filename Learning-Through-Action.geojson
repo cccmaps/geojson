@@ -936,6 +936,42 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junior Park Explorers",
+        "site": "Climate Action Campus",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/junior-park-explorers/",
+        "Full name": "Junior Park Explorers - Ngā Kairangahau Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.66159856059846,
+          -43.52453588432612
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Park Detectives",
+        "site": "Climate Action Campus",
+        "category": "Biodiversity",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.66332134293418,
+          -43.524546652897016
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
