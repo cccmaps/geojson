@@ -113,7 +113,7 @@
         "Parking-spaces": 97,
         "Electric": "",
         "Mobility": "",
-        "Charges": "https://www.centralpark.kiwi/255stasaph"
+        "Charges": "https://www.centralpark.nz/locations"
       },
       "geometry": {
         "type": "Point",
@@ -123,26 +123,6 @@
         ]
       },
       "id": 5
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "196 Antigua Street",
-        "Entry": "196 Antigua Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 61,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.628093,
-          -43.539162
-        ]
-      }
     },
     {
       "type": "Feature",
@@ -510,7 +490,7 @@
         "Name": "Central Park off-street parking",
         "Parking-spaces": 94,
         "Mobility": "Yes",
-        "Charges": "https://www.centralpark.kiwi/95kilmorea",
+        "Charges": "https://www.centralpark.nz/locations",
         "Mobility-Parking-Spaces": 3
       },
       "geometry": {
@@ -531,7 +511,7 @@
         "Parking-spaces": 90,
         "Mobility": "Yes",
         "Mobility-Parking-Spaces": 3,
-        "Charges": "https://www.centralpark.kiwi/23lichfield"
+        "Charges": "https://www.centralpark.nz/locations"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +529,7 @@
         "Entry": "384 Montreal Street",
         "Name": "Central Park off-street parking",
         "Parking-spaces": 6,
-        "Charges": "https://www.centralpark.kiwi/384montreal"
+        "Charges": "https://www.centralpark.nz/locations"
       },
       "geometry": {
         "type": "Point",
@@ -662,7 +642,8 @@
           -43.53974383091386
         ],
         "type": "Point"
-      }
+      },
+      "id": 33
     },
     {
       "type": "Feature",
@@ -694,6 +675,23 @@
         "coordinates": [
           172.63871107453906,
           -43.52645874196533
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Charges": "https://www.centralpark.nz/locations",
+        "Address": "200 St Asaph Street",
+        "Entry": "200 St Asaph Street",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 33
+      },
+      "geometry": {
+        "coordinates": [
+          172.6377756265174,
+          -43.53651799723796
         ],
         "type": "Point"
       }
