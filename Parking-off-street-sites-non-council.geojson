@@ -695,6 +695,23 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "65 Worcester Street",
+        "Entry": "65 Worcester Street",
+        "Name": "Central Park off-street parking",
+        "Parking-spaces": 28,
+        "Charges": "https://www.centralpark.nz/locations"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63205650267827,
+          -43.53081846949178
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
