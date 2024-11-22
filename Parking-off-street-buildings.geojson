@@ -15,7 +15,7 @@
         "type": "Mobility off-street parking",
         "address": "Enter from Armagh Street",
         "spaces": "",
-        "hourlyrate": "Free",
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
         "alldayrate": "N/A",
         "timelimit": "180 minutes",
         "nightrate": "N/A",
@@ -27,7 +27,8 @@
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
         "MobilitySpaces": "5 (1 at entry)"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
@@ -71,7 +72,7 @@
         "type": "Council off-street parking site",
         "address": "Enter from Armagh Street",
         "spaces": "272 (Mon to Sun) and 12 staff spaces which can be used weekends.",
-        "hourlyrate": "Free",
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
         "alldayrate": null,
         "timelimit": "180 minutes",
         "nightrate": null,
@@ -84,7 +85,8 @@
         "Provider": "Christchurch City Council",
         "MobilitySpaces": "5 (1 at entry)",
         "Multi-level-building": ""
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -461,7 +463,8 @@
           172.62341290712357,
           -43.53382992739043
         ]
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
@@ -491,6 +494,94 @@
         "coordinates": [
           172.62506255814895,
           -43.53615887464905
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
+        "timelimit": "180 minutes",
+        "name": "Hagley Oval car park ",
+        "type": "Council off-street parking site",
+        "address": "Hagley Oval",
+        "spaces": 169,
+        "alldayrate": "",
+        "Provider": "Christchurch City Council",
+        "Access": "Hagley Oval",
+        "MobilitySpaces": 10
+      },
+      "geometry": {
+        "coordinates": [
+          172.61903404136604,
+          -43.533263792243126
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hagley Oval car park ",
+        "type": "Mobility off-street parking",
+        "address": "Hagley Oval",
+        "spaces": 10,
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
+        "timelimit": "180 minutes",
+        "Access": "Hagley Oval",
+        "Provider": "Christchurch City Council",
+        "MobilitySpaces": 10
+      },
+      "geometry": {
+        "coordinates": [
+          172.61840504157698,
+          -43.53308978860302
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riccarton Ave car park ",
+        "type": "Council off-street parking site",
+        "address": "Riccarton Ave ",
+        "spaces": 94,
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
+        "timelimit": "180 minutes",
+        "Access": "Riccarton Ave ",
+        "Provider": "Christchurch City Council",
+        "MobilitySpaces": 5,
+        "PleaseNote": "Gates close 9pm"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6169591149436,
+          -43.530467262267635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riccarton Ave car park ",
+        "type": "Mobility off-street parking",
+        "address": "Riccarton Ave ",
+        "spaces": 5,
+        "hourlyrate": "$2 per hour, $3.30 for 2 hours and $4.60 for 3 hours ",
+        "timelimit": "180 minutes",
+        "Access": "Riccarton Ave ",
+        "Provider": "Christchurch City Council",
+        "MobilitySpaces": 5,
+        "PleaseNote": "Gates close 9pm"
+      },
+      "geometry": {
+        "coordinates": [
+          172.61734222707662,
+          -43.52988087835565
         ],
         "type": "Point"
       }
