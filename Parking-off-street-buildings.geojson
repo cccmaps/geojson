@@ -511,7 +511,8 @@
         "alldayrate": "",
         "Provider": "Christchurch City Council",
         "Access": "Hagley Oval",
-        "MobilitySpaces": 10
+        "MobilitySpaces": 10,
+        "PleaseNote": "9pm"
       },
       "geometry": {
         "coordinates": [
@@ -532,7 +533,8 @@
         "timelimit": "180 minutes",
         "Access": "Hagley Oval",
         "Provider": "Christchurch City Council",
-        "MobilitySpaces": 10
+        "MobilitySpaces": 10,
+        "PleaseNote": "9pm"
       },
       "geometry": {
         "coordinates": [
