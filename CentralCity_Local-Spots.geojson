@@ -424,7 +424,7 @@
       "type": "Feature",
       "properties": {
         "objectid": 25,
-        "name": "Beat Street Caf",
+        "name": "Beat Street Café",
         "area": "Avon Loop. Chester East",
         "category": "Business and Community",
         "latitude": -43.5285374,
@@ -1177,6 +1177,78 @@
           172.64486900043636,
           -43.525565000309086
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flow Yoga",
+        "area": "Avon Loop. Chester East, Moa",
+        "category": "Business and Community",
+        "latitude": -43.527268,
+        "longitude": 172.650262,
+        "objectid": 80
+      },
+      "geometry": {
+        "coordinates": [
+          172.65022588739708,
+          -43.527433602539006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 90,
+        "name": "St Asaph Block",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.536687,
+        "longitude": 172.647956
+      },
+      "geometry": {
+        "coordinates": [
+          172.64790082621914,
+          -43.53654788015837
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 91,
+        "name": "Mediterranean Food Company ",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.535419,
+        "longitude": 172.647123
+      },
+      "geometry": {
+        "coordinates": [
+          172.64682178549145,
+          -43.535619650245565
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "objectid": 92,
+        "name": "Bombay Bazaar",
+        "area": "South, South-East",
+        "category": "Business and Community",
+        "latitude": -43.535574,
+        "longitude": "172.647280"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64731098699684,
+          -43.53562751535298
+        ],
+        "type": "Point"
       }
     }
   ],
