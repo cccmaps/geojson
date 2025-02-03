@@ -148,27 +148,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "78 Worcester Blvd",
-        "Entry": "78 Worcester Blvd",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 102,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.634266,
-          -43.531058
-        ]
-      },
-      "id": 12
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "148 Gloucester Street",
         "Entry": "148 Gloucester Street",
         "Notes": "",
@@ -214,11 +193,11 @@
         "Address": "772 Colombo Street",
         "Entry": "107 Armagh Street",
         "Notes": "",
-        "Name": "Wilson off-street parking",
+        "Name": "Mainland Parking off-street parking",
         "Parking-spaces": 200,
         "Electric": "",
         "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "type": "Point",
@@ -227,7 +206,7 @@
           -43.528449
         ]
       },
-      "id": 11
+      "id": 9
     },
     {
       "type": "Feature",
@@ -667,9 +646,9 @@
       "properties": {
         "Address": "155 Kilmore Street",
         "Entry": "155 Kilmore Street",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 60,
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/155-kilmore-street/"
+        "Name": "Mainland Parking off-street parking",
+        "Parking-spaces": 50,
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "coordinates": [
@@ -709,6 +688,40 @@
         "coordinates": [
           172.63205650267827,
           -43.53081846949178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "25 Manchester Street",
+        "Entry": "25 Manchester Street",
+        "Name": "Inpark off-street parking",
+        "Charges": "https://www.inpark.co.nz/",
+        "Parking-spaces": 26
+      },
+      "geometry": {
+        "coordinates": [
+          172.63948628206333,
+          -43.538444312248544
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 32,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
+        "Address": "P382/550 Colombo Street",
+        "Entry": "P382/550 Colombo Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63729125884078,
+          -43.53846105032985
         ],
         "type": "Point"
       }
