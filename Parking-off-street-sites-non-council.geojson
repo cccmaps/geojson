@@ -725,6 +725,23 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "78 Worcester Street",
+        "Entry": "78 Worcester Street",
+        "Name": "Mainland Parking off-street parking",
+        "Charges": "https://www.mainlandparking.co.nz/",
+        "Parking-spaces": 102
+      },
+      "geometry": {
+        "coordinates": [
+          172.63419756115763,
+          -43.53112083843514
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
