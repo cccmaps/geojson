@@ -177,7 +177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Campground",
+        "Type": "ground / dump station",
         "Name": "Christchurch Spencer Beach TOP 10 Holiday Park",
         "Address": "100 Heyders Road, Spencerville, Christchurch 8083",
         "Phone": "03 329 8721",
@@ -185,7 +185,7 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS.",
         "Campground": "Yes",
         "campground-price": "From $16",
-        "dumpstation-price": "Free for public use"
+        "dumpstation-price": "For paid guests only"
       },
       "geometry": {
         "type": "Point",
@@ -193,7 +193,8 @@
           172.704222,
           -43.43043
         ]
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -215,7 +216,8 @@
           172.571342,
           -43.469228
         ]
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
@@ -237,7 +239,8 @@
           172.617782,
           -43.4904
         ]
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -481,28 +484,6 @@
         "coordinates": [
           172.659663,
           -43.474189
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Type": "Dump station",
-        "Name": "BP Russley Road PDS",
-        "Address": "661 Russley Road, Harewood, Christchurch",
-        "Phone": "",
-        "Website": "",
-        "Facilities": "",
-        "Campground": "No",
-        "Dumpstation": "Yes",
-        "campground-price": "Free",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.555478,
-          -43.479165
         ]
       }
     },
