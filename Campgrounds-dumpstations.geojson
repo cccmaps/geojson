@@ -185,7 +185,8 @@
         "Facilities": "Suitable for any vehicle type, dump station, caravan power, credit and EFTPOS.",
         "Campground": "Yes",
         "campground-price": "From $16",
-        "dumpstation-price": "For paid guests only"
+        "dumpstation-price": "For paid guests only",
+        "Dumpstation": "Yes"
       },
       "geometry": {
         "type": "Point",
