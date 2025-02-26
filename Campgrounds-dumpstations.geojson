@@ -177,7 +177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "ground / dump station",
+        "Type": "Campground / dump station",
         "Name": "Christchurch Spencer Beach TOP 10 Holiday Park",
         "Address": "100 Heyders Road, Spencerville, Christchurch 8083",
         "Phone": "03 329 8721",
@@ -485,7 +485,8 @@
           172.659663,
           -43.474189
         ]
-      }
+      },
+      "id": 21
     },
     {
       "type": "Feature",
