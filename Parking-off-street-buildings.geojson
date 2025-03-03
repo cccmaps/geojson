@@ -502,7 +502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Sunday. Free on public holidays.",
         "timelimit": "180 minutes",
         "name": "Hagley Oval car park ",
         "type": "Council off-street parking site",
@@ -530,7 +530,7 @@
         "type": "Mobility off-street parking",
         "address": "57 Riccarton Avenue",
         "spaces": 10,
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Sunday. Free on public holidays.",
         "timelimit": "180 minutes",
         "Access": "Horticultural Centre ",
         "Provider": "Christchurch City Council",
