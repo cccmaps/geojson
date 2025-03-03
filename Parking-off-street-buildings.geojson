@@ -15,7 +15,7 @@
         "type": "Mobility off-street parking",
         "address": "Enter from Armagh Street",
         "spaces": "",
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Sunday. Free on public holidays.",
         "alldayrate": "N/A",
         "timelimit": "180 minutes",
         "nightrate": "N/A",
@@ -71,8 +71,8 @@
         "name": "Botanic Gardens car park",
         "type": "Council off-street parking site",
         "address": "Enter from Armagh Street",
-        "spaces": "272 (Mon to Sun) and 12 staff spaces which can be used weekends",
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "spaces": 272,
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Sunday. Free on public holidays.",
         "alldayrate": null,
         "timelimit": "180 minutes",
         "nightrate": null,
@@ -520,7 +520,8 @@
           -43.533263792243126
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
@@ -551,7 +552,7 @@
         "type": "Council off-street parking site",
         "address": "Riccarton Ave ",
         "spaces": 94,
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Sunday. Free on public holidays.",
         "timelimit": "180 minutes",
         "Access": "Riccarton Ave ",
         "Provider": "Christchurch City Council",
@@ -573,7 +574,7 @@
         "type": "Mobility off-street parking",
         "address": "Riccarton Ave ",
         "spaces": 5,
-        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Friday. Free on public holidays.",
+        "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Sunday. Free on public holidays.",
         "timelimit": "180 minutes",
         "Access": "Riccarton Ave ",
         "Provider": "Christchurch City Council",
