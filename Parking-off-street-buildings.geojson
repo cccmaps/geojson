@@ -26,7 +26,7 @@
         "Access": "Armagh Street",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "MobilitySpaces": "5 (1 at entry)"
+        "MobilitySpaces": "4 (1 at entry)"
       },
       "id": 0
     },
@@ -71,7 +71,7 @@
         "name": "Botanic Gardens car park",
         "type": "Council off-street parking site",
         "address": "Enter from Armagh Street",
-        "spaces": 272,
+        "spaces": "305 (2 electric vehicle spaces)",
         "hourlyrate": "$2 for the first hour, and $1.30 for each subsequent hour, up to a maximum of $4.60 for three hours. Fees apply between 8am and 5pm Monday to Sunday. Free on public holidays.",
         "alldayrate": null,
         "timelimit": "180 minutes",
@@ -83,7 +83,7 @@
         "Access": "Armagh Street",
         "HoursOfOperation": "24 hours",
         "Provider": "Christchurch City Council",
-        "MobilitySpaces": "5 (1 at entry)",
+        "MobilitySpaces": "4 (1 at entry)",
         "Multi-level-building": ""
       },
       "id": 2
