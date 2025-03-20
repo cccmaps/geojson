@@ -61,7 +61,8 @@
           172.642945,
           -43.535449
         ]
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -69,11 +70,11 @@
         "Address": "136-140  Barbadoes Street",
         "Entry": "136 Barbadoes Street",
         "Notes": "",
-        "Name": "Wilson off-street parking",
+        "Name": "Mainland Parking off-street parking",
         "Parking-spaces": 220,
         "Electric": "",
         "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "type": "Point",
@@ -739,6 +740,23 @@
         "coordinates": [
           172.63419756115763,
           -43.53112083843514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "171-181 Madras Street",
+        "Entry": "171-181 Madras Street",
+        "Name": "Mainland Parking off-street parking",
+        "Charges": "https://www.mainlandparking.co.nz/",
+        "Parking-spaces": 37
+      },
+      "geometry": {
+        "coordinates": [
+          172.64239000908015,
+          -43.53711799174353
         ],
         "type": "Point"
       }
