@@ -760,6 +760,57 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "52 Kilmore Street",
+        "Entry": "52 Kilmore Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 24,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6321288325226,
+          -43.52684697566907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "112 Peterborough Street",
+        "Entry": "112 Peterborough Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 20,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6360588046931,
+          -43.525628491653926
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "146 High Street",
+        "Entry": "146 High Street",
+        "Name": "Parkable off-street parking",
+        "Parking-spaces": 30,
+        "Charges": "https://maps.parkable.com/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64104068240528,
+          -43.53503859309315
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
