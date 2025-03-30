@@ -578,9 +578,9 @@
       "properties": {
         "Address": "38 Oxford Terrace",
         "Entry": "38 Oxford Terrace",
-        "Name": "Wilson off-street parking",
+        "Name": "Mainland Parking off-street parking",
         "Parking-spaces": 52,
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/38-oxford-terrace/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature="
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "coordinates": [
