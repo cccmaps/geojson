@@ -579,8 +579,9 @@
         "Address": "38 Oxford Terrace",
         "Entry": "38 Oxford Terrace",
         "Name": "Mainland Parking off-street parking",
-        "Parking-spaces": 52,
-        "Charges": "https://www.mainlandparking.co.nz/"
+        "Parking-spaces": 45,
+        "Charges": "https://www.mainlandparking.co.nz/",
+        "Electric": ""
       },
       "geometry": {
         "coordinates": [
