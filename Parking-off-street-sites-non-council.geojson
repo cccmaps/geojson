@@ -863,6 +863,91 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "245 Manchester Street",
+        "Entry": "245 Manchester Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 15,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63946154494408,
+          -43.53004456430071
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 45,
+        "Address": "227-235 Manchester Street",
+        "Entry": "227-235 Manchester Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63946755686067,
+          -43.53054209369716
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "105 Worcester Street",
+        "Entry": "105 Worcester Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 39,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63844813396003,
+          -43.5308142266661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "160 Gloucester Street",
+        "Entry": "160 Gloucester Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 17,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63865191530448,
+          -43.53007123355162
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "50 Cathedral Square",
+        "Entry": "50 Cathedral Square",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 17,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63779271470946,
+          -43.530519509661644
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
