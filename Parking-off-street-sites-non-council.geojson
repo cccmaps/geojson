@@ -128,27 +128,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "615 Colombo Street",
-        "Entry": "615 Colombo Street",
-        "Notes": "",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 19,
-        "Electric": "",
-        "Mobility": "",
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch/Christchurch%20CBD?lat=-43.5318737133767&lon=172.63340950012207"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.636361,
-          -43.53542
-        ]
-      },
-      "id": 7
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "148 Gloucester Street",
         "Entry": "148 Gloucester Street",
         "Notes": "",
@@ -331,26 +310,6 @@
         ]
       },
       "id": 19
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "142 Tuam Street",
-        "Entry": "142 Tuam Street",
-        "Name": "Central Park off-street parking",
-        "Parking-spaces": 35,
-        "Charges": "https://www.centralpark.nz/",
-        "Notes": " ",
-        "Mobility": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63455748558044,
-          -43.535366074829554
-        ]
-      },
-      "id": 20
     },
     {
       "type": "Feature",
@@ -948,6 +907,76 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "150 Tuam Street",
+        "Entry": "150 Tuam Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 42,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6350860450254,
+          -43.53545430487272
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "597 Colombo Street",
+        "Entry": "597 Colombo Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 13,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63647904245363,
+          -43.53606416985212
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "615 Colombo Street",
+        "Entry": "615 Colombo Street",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 28,
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63649051096183,
+          -43.535436641664035
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "144 Tuam Street",
+        "Entry": "144 Tuam Street",
+        "Parking-spaces": 39,
+        "Name": "Central Park off-street parking",
+        "Charges": "https://www.centralpark.nz/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63461558499966,
+          -43.535446599182166
+        ],
+        "type": "Point"
+      },
+      "id": 53
     }
   ]
 }
