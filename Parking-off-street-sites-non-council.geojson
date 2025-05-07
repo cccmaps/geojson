@@ -622,11 +622,12 @@
     {
       "type": "Feature",
       "properties": {
-        "Charges": "https://www.centralpark.nz/locations",
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
         "Address": "200 St Asaph Street",
         "Entry": "200 St Asaph Street",
-        "Name": "Central Park off-street parking",
-        "Parking-spaces": 33
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 33,
+        "Notes": ""
       },
       "geometry": {
         "coordinates": [
@@ -977,6 +978,23 @@
         "type": "Point"
       },
       "id": 53
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
+        "Parking-spaces": 17,
+        "Name": "Wilson off-street parking",
+        "Address": "590 Colombo Street",
+        "Entry": "590 Colombo Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63679192645168,
+          -43.536754341368436
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
