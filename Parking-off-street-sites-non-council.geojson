@@ -949,9 +949,9 @@
       "properties": {
         "Address": "615 Colombo Street",
         "Entry": "615 Colombo Street",
-        "Name": "Wilson off-street parking",
+        "Name": "Mainland Parking off-street parking",
         "Parking-spaces": 28,
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "coordinates": [
