@@ -2655,7 +2655,8 @@
         "WardNameDescription": "Harewood Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 12
+        "ID1": 12,
+        "Page": "https://ccc.govt.nz/harewood-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -35556,7 +35557,8 @@
         "WardNameDescription": "Banks Peninsula Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 1
+        "ID1": 1,
+        "Page": "https://ccc.govt.nz/banks-peninsula-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -36873,7 +36875,8 @@
         "WardNameDescription": "Burwood Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 16
+        "ID1": 16,
+        "Page": "https://ccc.govt.nz/burwood-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -38902,7 +38905,8 @@
         "WardNameDescription": "Cashmere Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 2
+        "ID1": 2,
+        "Page": "https://ccc.govt.nz/cashmere-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -40163,7 +40167,8 @@
         "WardNameDescription": "Central Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 15
+        "ID1": 15,
+        "Page": "https://ccc.govt.nz/central-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -42684,7 +42689,8 @@
         "WardNameDescription": "Coastal Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 14
+        "ID1": 14,
+        "Page": "https://ccc.govt.nz/coastal-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -43793,7 +43799,8 @@
         "WardNameDescription": "Fendalton Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 13
+        "ID1": 13,
+        "Page": "https://ccc.govt.nz/fendalton-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -46882,7 +46889,8 @@
         "WardNameDescription": "Halswell Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 3
+        "ID1": 3,
+        "Page": "https://ccc.govt.nz/halswell-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -51967,7 +51975,8 @@
         "WardNameDescription": "Heathcote Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 11
+        "ID1": 11,
+        "Page": "https://ccc.govt.nz/heathcote-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -52676,7 +52685,8 @@
         "WardNameDescription": "Hornby Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 10
+        "ID1": 10,
+        "Page": "https://ccc.govt.nz/hornby-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -53665,7 +53675,8 @@
         "WardNameDescription": "Innes Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 9
+        "ID1": 9,
+        "Page": "https://ccc.govt.nz/innes-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -54974,7 +54985,8 @@
         "WardNameDescription": "Linwood Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 8
+        "ID1": 8,
+        "Page": "https://ccc.govt.nz/linwood-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -55915,7 +55927,8 @@
         "WardNameDescription": "Papanui Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 7
+        "ID1": 7,
+        "Page": "https://ccc.govt.nz/papanui-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -56696,7 +56709,8 @@
         "WardNameDescription": "Riccarton Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 6
+        "ID1": 6,
+        "Page": "https://ccc.govt.nz/riccarton-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -57897,7 +57911,8 @@
         "WardNameDescription": "Spreydon Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 5
+        "ID1": 5,
+        "Page": "https://ccc.govt.nz/spreydon-ward-candidates-2025?stage=Stage"
       }
     },
     {
@@ -58522,7 +58537,8 @@
         "WardNameDescription": "Waimairi Ward",
         "Content": "<p>One Councillor.</p> ",
         "Council": "Christchurch City Council",
-        "ID1": 4
+        "ID1": 4,
+        "Page": "https://ccc.govt.nz/waimairi-ward-candidates-2025?stage=Stage"
       }
     }
   ]
