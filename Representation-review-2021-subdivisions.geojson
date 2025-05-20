@@ -19517,7 +19517,8 @@
       },
       "properties": {
         "Name": "Akaroa",
-        "Population": 1950
+        "Population": 1950,
+        "page": "https://ccc.govt.nz/akaroa-community-subdivision-candidates-2025?stage=Stage"
       }
     },
     {
@@ -21795,7 +21796,8 @@
       },
       "properties": {
         "Name": "Lyttelton",
-        "Population": 3080
+        "Population": 3080,
+        "page": "https://ccc.govt.nz/lyttelton-community-subdivision-candidates-2025?stage=Stage"
       }
     },
     {
@@ -25169,7 +25171,8 @@
       },
       "properties": {
         "Name": "Mt Herbert",
-        "Population": 3130
+        "Population": 3130,
+        "page": "https://ccc.govt.nz/mount-herbert-community-subdivision-candidates-2025?stage=Stage"
       }
     },
     {
@@ -36647,7 +36650,8 @@
       },
       "properties": {
         "Name": "Wairewa",
-        "Population": 1240
+        "Population": 1240,
+        "page": "https://ccc.govt.nz/wairewa-community-subdivision-candidates-2025?stage=Stage"
       }
     }
   ]
