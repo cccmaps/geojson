@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Cotswold Mātāhae School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "Bike track.",
         "Address": "50 Cotswold Avenue"
       },
@@ -22,7 +22,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Ilam School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School operates Monday to Saturday as a Japanese School. No access between 9am and 5 pm on Saturdays or before 5pm during the week.",
         "Address": "66 Ilam Road"
       },
@@ -38,7 +38,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Knights Stream School- Mingimingi Hautoa",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "1 Killarney Avenue"
       },
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Te Ara Koropiko West Spreydon School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "147 Lyttelton Street"
       },
@@ -70,7 +70,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Te Kura o Matarangi - Northcote School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "26 Tuckers Road"
       },
@@ -86,7 +86,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Papanui Primary School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "40 Winters Road"
       },
@@ -102,7 +102,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Pareawa Banks Avenue School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "57 Averill Street"
       },
@@ -118,7 +118,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Oaklands School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "37 Cunningham Place"
       },
@@ -134,7 +134,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Te Manu Tukutuku South Hornby School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "35 Amyes Road"
       },
@@ -150,7 +150,7 @@
       "type": "Feature",
       "properties": {
         "Name": "St Francis of Assisi Catholic School ",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "370 Innes Road"
       },
@@ -166,7 +166,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Whitau School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "221 Woodham Road"
       },
@@ -182,7 +182,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Ngutuawa School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "10 Gould Crescent"
       },
@@ -198,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Oaklands Te Kura o Ōwaka",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "37 Cunningham Place"
       },
@@ -214,7 +214,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Bromley School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School gates locked from 6pm weekdays and on weekends.",
         "Address": "33 Keighleys Road"
       },
@@ -230,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Te Kōmanawa Rowley School",
-        "Type": "Bike track",
+        "Type": "School bike track",
         "Description": "School bike track.",
         "Address": "48 Rowley Avenue"
       },
