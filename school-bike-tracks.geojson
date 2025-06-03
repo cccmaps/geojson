@@ -1,0 +1,246 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cotswold Mātāhae School",
+        "Type": "Bike track",
+        "Description": "Bike track.",
+        "Address": "50 Cotswold Avenue"
+      },
+      "geometry": {
+        "coordinates": [
+          172.586983,
+          -43.4827813
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ilam School",
+        "Type": "Bike track",
+        "Description": "School operates Monday to Saturday as a Japanese School. No access between 9am and 5 pm on Saturdays or before 5pm during the week.",
+        "Address": "66 Ilam Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.579689255178,
+          -43.5261815
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Knights Stream School- Mingimingi Hautoa",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "1 Killarney Avenue"
+      },
+      "geometry": {
+        "coordinates": [
+          172.538014316227,
+          -43.5706180175925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Ara Koropiko West Spreydon School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "147 Lyttelton Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.611197996635,
+          -43.559642265067
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Kura o Matarangi - Northcote School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "26 Tuckers Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.613539310676,
+          -43.479537706827
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Papanui Primary School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "40 Winters Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.620447997183,
+          -43.4880643583713
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pareawa Banks Avenue School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "57 Averill Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.659485620473,
+          -43.512796527672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oaklands School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "37 Cunningham Place"
+      },
+      "geometry": {
+        "coordinates": [
+          172.565111006844,
+          -43.5717016350411
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Manu Tukutuku South Hornby School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "35 Amyes Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.528732513919,
+          -43.5473068763226
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Francis of Assisi Catholic School ",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "370 Innes Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.639505071826,
+          -43.500191799232
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whitau School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "221 Woodham Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.676128392597,
+          -43.5249975024425
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ngutuawa School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "10 Gould Crescent"
+      },
+      "geometry": {
+        "coordinates": [
+          172.688341971071,
+          -43.5534062468123
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oaklands Te Kura o Ōwaka",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "37 Cunningham Place"
+      },
+      "geometry": {
+        "coordinates": [
+          172.564445816616,
+          -43.5717249256618
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bromley School",
+        "Type": "Bike track",
+        "Description": "School gates locked from 6pm weekdays and on weekends.",
+        "Address": "33 Keighleys Road"
+      },
+      "geometry": {
+        "coordinates": [
+          172.68756264784,
+          -43.5363585375291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Kōmanawa Rowley School",
+        "Type": "Bike track",
+        "Description": "School bike track.",
+        "Address": "48 Rowley Avenue"
+      },
+      "geometry": {
+        "coordinates": [
+          172.587775358699,
+          -43.5623251678435
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
