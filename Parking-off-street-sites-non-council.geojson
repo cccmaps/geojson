@@ -330,24 +330,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "238 Antigua Street",
-        "Entry": "238 Antigua Street",
-        "Name": "Wilson off-street parking",
-        "Parking-spaces": 91,
-        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.6278868317604,
-          -43.53707523592511
-        ]
-      },
-      "id": 24
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "8 Acton Street",
         "Entry": "8 Acton Street",
         "Name": "Wilson off-street parking",
@@ -526,23 +508,6 @@
         "coordinates": [
           172.63011463020183,
           -43.53495734797925
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "56-58 St Asaph Street",
-        "Entry": "56-58 St Asaph Street",
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd/56-58-st-asaph-street/?lat=-43.5318737133767&lon=172.63340950012207&carParkFeature=",
-        "Parking-spaces": 52,
-        "Name": "Wilson off-street parking"
-      },
-      "geometry": {
-        "coordinates": [
-          172.62791193414876,
-          -43.536623479839015
         ],
         "type": "Point"
       }
@@ -877,9 +842,9 @@
       "properties": {
         "Address": "50 Cathedral Square",
         "Entry": "50 Cathedral Square",
-        "Name": "Wilson off-street parking",
+        "Name": "inpark off-street parking",
         "Parking-spaces": 17,
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+        "Charges": "https://inpark.co.nz/"
       },
       "geometry": {
         "coordinates": [
@@ -887,7 +852,8 @@
           -43.530519509661644
         ],
         "type": "Point"
-      }
+      },
+      "id": 47
     },
     {
       "type": "Feature",
@@ -981,9 +947,9 @@
       "properties": {
         "Address": "240 Madras Street",
         "Entry": "240 Madras Street",
-        "Name": "Wilson off-street parking",
+        "Name": "Mainland Parking off-street parking",
         "Parking-spaces": 17,
-        "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd"
+        "Charges": "https://www.mainlandparking.co.nz/"
       },
       "geometry": {
         "coordinates": [
@@ -1023,6 +989,23 @@
         "coordinates": [
           172.63983036550604,
           -43.534984853066405
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wilson off-street parking",
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch",
+        "Parking-spaces": 41,
+        "Address": "238 Antigua Street",
+        "Entry": "238 Antigua Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6277067784634,
+          -43.536989525184254
         ],
         "type": "Point"
       }
