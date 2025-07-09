@@ -166,7 +166,7 @@
           -43.528449
         ]
       },
-      "id": 9
+      "id": 7
     },
     {
       "type": "Feature",
@@ -209,7 +209,7 @@
           -43.528537
         ]
       },
-      "id": 17
+      "id": 9
     },
     {
       "type": "Feature",
@@ -230,7 +230,7 @@
           -43.52678
         ]
       },
-      "id": 17
+      "id": 10
     },
     {
       "type": "Feature",
@@ -401,7 +401,7 @@
           -43.52645295785552
         ]
       },
-      "id": 25
+      "id": 19
     },
     {
       "type": "Feature",
@@ -422,23 +422,6 @@
         ]
       },
       "id": 31
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Address": "384 Montreal Street",
-        "Entry": "384 Montreal Street",
-        "Name": "Central Park off-street parking",
-        "Parking-spaces": 6,
-        "Charges": "https://www.centralpark.nz/locations"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.63073667883873,
-          -43.524002519249656
-        ]
-      }
     },
     {
       "type": "Feature",
@@ -492,7 +475,8 @@
           -43.52405557499065
         ],
         "type": "Point"
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
@@ -545,7 +529,8 @@
           -43.525964251973775
         ],
         "type": "Point"
-      }
+      },
+      "id": 27
     },
     {
       "type": "Feature",
@@ -682,7 +667,8 @@
           -43.52684697566907
         ],
         "type": "Point"
-      }
+      },
+      "id": 35
     },
     {
       "type": "Feature",
