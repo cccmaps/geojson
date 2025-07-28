@@ -89,7 +89,8 @@
         "url": "https://ccc.govt.nz/casting-magic-with-worms/",
         "Full name": "Casting Magic with Worms - Noke, noke, neke, neke, nuku, nuku, nā!",
         "Cost": "Free"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
@@ -796,24 +797,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Future Proof: Climate Change'",
-        "site": "Central City",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/climate-change-kaitiakitanga/",
-        "Full name": "Future Proof: Climate Change - Kaitiakitanga",
-        "Cost": "Free",
-        "category": "Climate Change"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.639879,
-          -43.527532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Park Detectives",
         "site": "Halswell Quarry Park",
         "category": "Biodiversity",
@@ -969,6 +952,24 @@
         "coordinates": [
           172.66241304291566,
           -43.52394656206881
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Future Proof: Climate Change'",
+        "site": "Botanic Gardens",
+        "category": "Climate Change",
+        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/climate-change-kaitiakitanga/",
+        "Full name": "Future Proof: Climate Change - Kaitiakitanga",
+        "Cost": "Free"
+      },
+      "geometry": {
+        "coordinates": [
+          172.62691058167428,
+          -43.53184131313041
         ],
         "type": "Point"
       }
