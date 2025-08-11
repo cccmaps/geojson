@@ -469,29 +469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Type": "Dump station",
-        "Name": "BP Marshlands PDS",
-        "Address": "Cnr Prestons & Marshland Roads, Christchurch",
-        "Phone": "",
-        "Website": "",
-        "Facilities": "",
-        "Campground": "No",
-        "Dumpstation": "Yes",
-        "campground-price": "Free",
-        "dumpstation-price": "Free for public use"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.659663,
-          -43.474189
-        ]
-      },
-      "id": 21
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
