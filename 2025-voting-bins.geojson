@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Hononga Civic Offices",
+        "Address": "53 Hereford Street, Central City",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63172624980297,
+          -43.53171411416051
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christchurch International Airport",
+        "Address": "30 Durey Road, Harewood",
+        "Type": "Community"
+      },
+      "geometry": {
+        "coordinates": [
+          172.53962926911362,
+          -43.488516577089065
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
