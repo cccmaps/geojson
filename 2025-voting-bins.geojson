@@ -466,6 +466,201 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puaka James Hight Library",
+        "Address": "University of Canterbury, Ilam Campus, Ilam",
+        "Type": "Library"
+      },
+      "geometry": {
+        "coordinates": [
+          172.58253653794384,
+          -43.52366232650298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Avonhead Woolworths",
+        "Address": "Corner Withells Road and Merrin Street, Avonhead",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.5572823482442,
+          -43.51117497677792
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belfast Woolworths",
+        "Address": "755 Main North Road, Belfast",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.62832601308378,
+          -43.447762479624586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Christchurch Airport Woolworths",
+        "Address": "530 - 546A Memorial Avenue, Christchurch Airport",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.54768802263237,
+          -43.489873701815355
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Church Corner Woolworths",
+        "Address": "Corner Riccarton Road and Hansons Lane, Riccarton",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.57303185635163,
+          -43.53278255922077
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastgate Woolworths",
+        "Address": "6 Buckleys Road, Linwood",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.67554333846965,
+          -43.532461915322045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ferrymead Woolworths",
+        "Address": "999 Ferry Road, Ferrymead",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70250493924203,
+          -43.556847651627365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hornby Woolworths",
+        "Address": "17 Chappie Place, Hornby",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.52695218705975,
+          -43.5427737692093
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moorhouse Ave Woolworths",
+        "Address": "347 Moorhouse Avenue, Central City",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.64175576114587,
+          -43.53871933408584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Brighton Woolworths",
+        "Address": "12 Hawke Street, New Brighton",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.72987557774275,
+          -43.50680860302748
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northlands Woolworths",
+        "Address": "Corner Main North Road and Sawyers Arms Road, Papanui",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.61167467115337,
+          -43.491534027247084
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Palms Woolworths",
+        "Address": "The Palms Plaza, Marshland Road, Shirley",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.66428730060107,
+          -43.505497446933575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Woolworths Colombo Street",
+        "Address": "219 Colombo Street, Sydenham",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63560558119457,
+          -43.55332677633073
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
