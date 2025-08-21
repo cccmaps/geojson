@@ -21,7 +21,7 @@
       "properties": {
         "Name": "Christchurch International Airport",
         "Address": "30 Durey Road, Harewood",
-        "Type": "Community"
+        "Type": "Airport"
       },
       "geometry": {
         "coordinates": [
@@ -472,7 +472,7 @@
       "properties": {
         "Name": "Puaka James Hight Library",
         "Address": "University of Canterbury, Ilam Campus, Ilam",
-        "Type": "Library"
+        "Type": "UC"
       },
       "geometry": {
         "coordinates": [
