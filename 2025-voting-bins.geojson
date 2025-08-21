@@ -35,7 +35,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Akaroa Customer Service Hub",
-        "Address": " 78 Rue Lavaud, Akaroa",
+        "Address": "78 Rue Lavaud, Akaroa",
         "Type": "Council"
       },
       "geometry": {
@@ -89,7 +89,8 @@
           -43.56619841976478
         ],
         "type": "Point"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
@@ -192,6 +193,276 @@
         "coordinates": [
           172.75881301002028,
           -43.56908549614741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Brighton Library",
+        "Address": "213 Marine Parade, New Brighton",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.73128828627603,
+          -43.50693400053076
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ōrauwhata: Bishopdale Library and Community Centre",
+        "Address": "13 Bishopdale Court, Bishopdale",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.58570718951916,
+          -43.48964827131286
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Papanui Library and Customer Service Hub",
+        "Address": "5 Restell Street, Papanui",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6071376105598,
+          -43.494194742443916
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parklands Library",
+        "Address": "46 Queenspark Drive, Parklands",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70717078287373,
+          -43.481851950199356
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Redwood Library",
+        "Address": "339 Main North Road, Redwood",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.61636445833796,
+          -43.477408084612385
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riccarton Customer Service Hub",
+        "Address": "199 Clarence Street, Riccarton",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.60157829985224,
+          -43.53043205221381
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shirley Library and Customer Service Hub",
+        "Address": "36 Marshland Road, Shirley",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.66314575763124,
+          -43.505142124898434
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Colombo Library",
+        "Address": "262 Colombo Street, Sydenham",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6355125152366,
+          -43.54637088789561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spreydon Library",
+        "Address": "266 Barrington Street, Barrington",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6183248794922,
+          -43.55645452980605
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Hāpua Halswell Centre",
+        "Address": "341 Halswell Road, Halswell",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.5684539871586,
+          -43.5811364461504
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tūranga",
+        "Address": "60 Cathedral Square, Central City",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6372346377487,
+          -43.530082693171245
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upper Riccarton Library",
+        "Address": "71 Main South Road, Sockburn",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.56302284652713,
+          -43.53500440890418
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Graham Condon Recreation and Sports Centre",
+        "Address": "3 Sisson Drive, Papanui",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.60893421742855,
+          -43.491300636924024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jellie Park Recreation and Sports Centre",
+        "Address": "295 Ilam Road, Burnside",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.5826558101162,
+          -43.5093336164949
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pioneer Recreation and Sport Centre",
+        "Address": "75 Lyttelton Street, Somerfield",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.61408447663632,
+          -43.56614668282825
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Taiora QEII Recreation and Sports Centre",
+        "Address": "193 Travis Road, New Brighton",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.70801580934824,
+          -43.49114464790955
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Pou Toetoe Linwood Pool",
+        "Type": "Council",
+        "Address": "141 Smith Street, Linwood"
+      },
+      "geometry": {
+        "coordinates": [
+          172.67707063015234,
+          -43.536871849912266
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Environment Canterbury",
+        "Address": "200 Tuam Street, Central City",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63858461657446,
+          -43.5356612300394
         ],
         "type": "Point"
       }
