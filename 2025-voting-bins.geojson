@@ -30,6 +30,171 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akaroa Customer Service Hub",
+        "Address": " 78 Rue Lavaud, Akaroa",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.9668926240716,
+          -43.80525528992761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akaroa Library",
+        "Address": "2 Selwyn Avenue, Akaroa",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.96316836399546,
+          -43.810050708812604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Aranui Library",
+        "Address": "109 Aldershot Street, Aranui",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.69777321866104,
+          -43.51217806779673
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beckenham Customer Service Hub",
+        "Address": "Pioneer Recreation and Sport Centre, 75 Lyttelton Street",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.61367461219032,
+          -43.56619841976478
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Diamond Harbour Library",
+        "Address": "Waipapa Avenue, Diamond Harbour",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.74035780930944,
+          -43.62641376101008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fendalton Library and Customer Service Hub",
+        "Address": "4 Jeffreys Road, Fendalton",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.59143137310292,
+          -43.5138606679616
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Linwood Library and Customer Service Hub",
+        "Address": "Eastgate Shopping Centre, first floor, Corner Buckleys Road and Linwood Avenue, Linwood",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.67441294739638,
+          -43.53310379145863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Little River Library and Customer Service Hub",
+        "Address": "4236 Christchurch Akaroa Road",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.79112692232542,
+          -43.770288244330864
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lyttelton Library and Customer Service Hub",
+        "Address": "18 Canterbury Street, Lyttelton",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.7206892496581,
+          -43.60264526386856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matatiki Hornby Centre",
+        "Address": "25 Smarts Road, Hornby",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.52473061648368,
+          -43.53903404147002
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Matuku Takotako: Sumner Centre",
+        "Address": "14 Wakefield Avenue",
+        "Type": "Council"
+      },
+      "geometry": {
+        "coordinates": [
+          172.75881301002028,
+          -43.56908549614741
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
