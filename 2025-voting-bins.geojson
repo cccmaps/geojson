@@ -51,7 +51,7 @@
       "properties": {
         "Name": "Akaroa Library",
         "Address": "2 Selwyn Avenue, Akaroa",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -66,7 +66,7 @@
       "properties": {
         "Name": "Aranui Library",
         "Address": "109 Aldershot Street, Aranui",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -97,7 +97,7 @@
       "properties": {
         "Name": "Diamond Harbour Library",
         "Address": "Waipapa Avenue, Diamond Harbour",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -112,7 +112,7 @@
       "properties": {
         "Name": "Fendalton Library and Customer Service Hub",
         "Address": "4 Jeffreys Road, Fendalton",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -127,7 +127,7 @@
       "properties": {
         "Name": "Linwood Library and Customer Service Hub",
         "Address": "Eastgate Shopping Centre, first floor, Corner Buckleys Road and Linwood Avenue, Linwood",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -142,7 +142,7 @@
       "properties": {
         "Name": "Little River Library and Customer Service Hub",
         "Address": "4236 Christchurch Akaroa Road",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -157,7 +157,7 @@
       "properties": {
         "Name": "Lyttelton Library and Customer Service Hub",
         "Address": "18 Canterbury Street, Lyttelton",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -202,7 +202,7 @@
       "properties": {
         "Name": "New Brighton Library",
         "Address": "213 Marine Parade, New Brighton",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -232,7 +232,7 @@
       "properties": {
         "Name": "Papanui Library and Customer Service Hub",
         "Address": "5 Restell Street, Papanui",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -247,7 +247,7 @@
       "properties": {
         "Name": "Parklands Library",
         "Address": "46 Queenspark Drive, Parklands",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -262,7 +262,7 @@
       "properties": {
         "Name": "Redwood Library",
         "Address": "339 Main North Road, Redwood",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -292,7 +292,7 @@
       "properties": {
         "Name": "Shirley Library and Customer Service Hub",
         "Address": "36 Marshland Road, Shirley",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -307,7 +307,7 @@
       "properties": {
         "Name": "South Colombo Library",
         "Address": "262 Colombo Street, Sydenham",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -322,7 +322,7 @@
       "properties": {
         "Name": "Spreydon Library",
         "Address": "266 Barrington Street, Barrington",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -352,7 +352,7 @@
       "properties": {
         "Name": "Tūranga",
         "Address": "60 Cathedral Square, Central City",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -367,7 +367,7 @@
       "properties": {
         "Name": "Upper Riccarton Library",
         "Address": "71 Main South Road, Sockburn",
-        "Type": "Council"
+        "Type": "Library"
       },
       "geometry": {
         "coordinates": [
@@ -382,7 +382,7 @@
       "properties": {
         "Name": "Graham Condon Recreation and Sports Centre",
         "Address": "3 Sisson Drive, Papanui",
-        "Type": "Council"
+        "Type": "RecSport"
       },
       "geometry": {
         "coordinates": [
@@ -397,7 +397,7 @@
       "properties": {
         "Name": "Jellie Park Recreation and Sports Centre",
         "Address": "295 Ilam Road, Burnside",
-        "Type": "Council"
+        "Type": "RecSport"
       },
       "geometry": {
         "coordinates": [
@@ -412,7 +412,7 @@
       "properties": {
         "Name": "Pioneer Recreation and Sport Centre",
         "Address": "75 Lyttelton Street, Somerfield",
-        "Type": "Council"
+        "Type": "RecSport"
       },
       "geometry": {
         "coordinates": [
@@ -427,7 +427,7 @@
       "properties": {
         "Name": "Taiora QEII Recreation and Sports Centre",
         "Address": "193 Travis Road, New Brighton",
-        "Type": "Council"
+        "Type": "RecSport"
       },
       "geometry": {
         "coordinates": [
@@ -441,7 +441,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Te Pou Toetoe Linwood Pool",
-        "Type": "Council",
+        "Type": "RecSport",
         "Address": "141 Smith Street, Linwood"
       },
       "geometry": {
