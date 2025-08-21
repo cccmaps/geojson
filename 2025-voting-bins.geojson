@@ -871,6 +871,21 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Stanmore",
+        "Address": "288 Stanmore Road, Richmond",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.65695511797077,
+          -43.52018008785567
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
