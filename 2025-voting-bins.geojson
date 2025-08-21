@@ -661,6 +661,216 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fresh Choice Edgeware",
+        "Address": "61 Edgeware Road, Edgeware",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6368210076488,
+          -43.513247548792044
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fresh Choice Fendalton",
+        "Address": "376 Ilam Road, Bryndwr",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.59027035487605,
+          -43.50953996902738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fresh Choice Lyttelton",
+        "Address": "17 London Street, Lyttelton",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.72153161184247,
+          -43.602871867036576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fresh Choice Parklands",
+        "Address": "60 Queenspark Drive, Parklands",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.7061185469169,
+          -43.481270159361905
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Bishopdale",
+        "Address": "Bishopdale Mall, Corner Farrington Avenue and Harewood Road",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.58718784795207,
+          -43.48846047958506
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Durham Street",
+        "Address": "175 Durham Street, Central City",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63316122806293,
+          -43.53875087721285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Ferry Road",
+        "Address": "7-11 St John Street, Woolston",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.68400637794963,
+          -43.549063721914216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Halswell",
+        "Address": "346 Halswell Road, Halswell",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.56587387116372,
+          -43.580659029622666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Ilam",
+        "Address": "47C - 57C Peer Street, Upper Riccarton",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.58826480111645,
+          -43.517925285348845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Northwood",
+        "Address": "2 Mounter Avenue, Northwood",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6223719887834,
+          -43.45962021452705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Prestons",
+        "Address": "420 Marshland Road, Marshland",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6620108609148,
+          -43.47517152691563
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World St Martins",
+        "Address": "92 Wilsons Road, St Martins",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.65481549866405,
+          -43.557550811249946
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Wigram",
+        "Address": "51 Skyhawk Road, Wigram",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.55743457537545,
+          -43.55273995746934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pak'nSave Wainoni",
+        "Address": "174 Wainoni Road, Avondale",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.69325030430315,
+          -43.51287794175628
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
