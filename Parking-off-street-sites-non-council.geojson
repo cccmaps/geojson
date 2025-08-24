@@ -978,6 +978,23 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "127 Ferry Road ",
+        "Entry": "127 Ferry Road ",
+        "Name": "Wilson off-street parking",
+        "Parking-spaces": 24,
+        "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
+      },
+      "geometry": {
+        "coordinates": [
+          172.65092915820725,
+          -43.53820771580645
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
