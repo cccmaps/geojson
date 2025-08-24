@@ -285,7 +285,8 @@
           -43.53043205221381
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -785,21 +786,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "New World Ilam",
-        "Address": "47C - 57C Peer Street, Upper Riccarton",
-        "Type": "Supermarket"
-      },
-      "geometry": {
-        "coordinates": [
-          172.58826480111645,
-          -43.517925285348845
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "New World Northwood",
         "Address": "2 Mounter Avenue, Northwood",
         "Type": "Supermarket"
@@ -883,6 +869,21 @@
         "coordinates": [
           172.65695511797077,
           -43.52018008785567
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Ilam",
+        "Address": "47C - 57C Peer Street, Upper Riccarton",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.56979941943302,
+          -43.52591272515224
         ],
         "type": "Point"
       }
