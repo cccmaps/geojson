@@ -30,7 +30,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Green Wayfinding tower",
+        "Name": "Green wayfinding tower",
         "Intro": "When many former landmarks were removed, four new bright and fun towers pointed towards activities and places worth a visit.",
         "Detail": "Situated on prominent corners, the 8m towers were designed to be viewed at a distance with key streets and places identified at a high level, and more detailed maps and activities information for eye level viewing.\n4.\tEach of the towers will have the street names (one on each of the four faces) and will point to a number of key destinations. Panels also include a calendar of events and a map indicating walking times.\n5.\tThe Towers have been designed to resist graffiti and inhibit climbing. \nGifted to Otakaro, and shifted Te Pae Plaza\nReskinned in glossy black by Auckland creative studio Creature Post, work is called Conduit. The tower was  designed to be representat the connection between earth and sky through light.",
         "Links": "https://www.stuff.co.nz/the-press/news/126786943/mysterious-black-monolith-appears-in-central-christchurch",
@@ -56,7 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Blue Wayfinding towers",
+        "Name": "Blue wayfinding towers",
         "Intro": "When many former landmarks were removed, four new bright and fun towers pointed towards activities and places worth a visit.",
         "Detail": "Decomissioned/retired with the East Frame development began on that block. Installed on vacant site, later temporary build with Gap Filler's project in the East Frame/Placemaking at One Central.",
         "Links": "https://www.newsline.ccc.govt.nz/news/story/wayfinding-towers-help-with-central-city-navigation",
@@ -82,7 +82,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Pink Wayfinding Towers",
+        "Name": "Pink wayfinding towers",
         "Intro": "When many former landmarks were removed, four new bright and fun towers pointed towards activities and places worth a visit.",
         "Detail": "",
         "Links": "https://www.newsline.ccc.govt.nz/news/story/wayfinding-towers-help-with-central-city-navigation",
@@ -108,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Yellow' Wayfinding Tower",
+        "Name": "Yellow wayfinding towers",
         "Intro": "When many former landmarks were removed, four new bright and fun towers pointed towards activities and places worth a visit.",
         "Detail": "While the wayfinding purpose of the structure is no longer effective, this corner location remains important. It was considered valuable to investigate reuse of the tower prior to a decision for its removal. Reuse will contribute to Enliven Programme aims through adding activation and amenity. \nThe Events and Arts team will accept a transfer of the wayfinding tower from Urban Regeneration\nContinue to make the tower available for ongoing public use and fund addition of new artwork",
         "Links": "https://www.newsline.ccc.govt.nz/news/story/wayfinding-towers-help-with-central-city-navigation",
@@ -117,8 +117,8 @@
         "Address": "78 Worcester Street",
         "Photo": "",
         "YearInstalled": 2015,
-        "YearDecomissioned": "",
-        "Active": "Y",
+        "YearDecomissioned": 2024,
+        "Active": "N",
         "PrimaryCategory": "Wayfinding",
         "SecondaryCategory": "",
         "Priority": ""
