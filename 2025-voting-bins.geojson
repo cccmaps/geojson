@@ -887,6 +887,21 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New World Fendalton",
+        "Address": "19 - 23 Memorial Avenue, Ilam",
+        "Type": "Supermarket"
+      },
+      "geometry": {
+        "coordinates": [
+          172.58954930792987,
+          -43.518402765550654
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
