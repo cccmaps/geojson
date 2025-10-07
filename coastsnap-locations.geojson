@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Te Onepoto / Taylors Mistake",
-        "description": "This can be found a short way up the Awaroa/Godley Head Loop Track."
+        "Location": "Te Onepoto – Taylors Mistake",
+        "description": "Located a short way up the Awaroa/Godley Head Loop Track."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "Location": "New Brighton pier",
-        "description": "Two points can be found on either side of the New Brighton Pier looking along the beach both North and South."
+        "description": "Two photo points are located on either side of the pier, looking north and south along the beach."
       },
       "geometry": {
         "type": "Point",
@@ -27,6 +27,34 @@
           172.731591,
           -43.506718
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Rapanui – Shag Rock",
+        "description": "Found near a beach access point along the Coastal Pathway next to shag rock."
+      },
+      "geometry": {
+        "coordinates": [
+          172.74960025349918,
+          -43.5635222633721
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Location": "Motu-kauati-iti – Corsair Bay",
+        "description": "Located on the western side of the bay near the start of the walkway to Motu-kauati-rahi – Cass Bay."
+      },
+      "geometry": {
+        "coordinates": [
+          172.6986918692984,
+          -43.60764742510968
+        ],
+        "type": "Point"
       }
     }
   ]
