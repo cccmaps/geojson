@@ -12,10 +12,10 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Abberley Crescent, St Albans",
+        "Address": "Abberley Crescent, St Albans.",
         "Parkname": "Abberley Park",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
-        "Type": "Not only is there a paddling pool in this lovely park, but there are multiple playgrounds, a stunning rose garden and lots of trees to find relief from the hot summer sun under."
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
+        "Type": "Not only is there a paddling pool in this lovely park but there's multiple playgrounds, a stunning rose garden and lots of trees to find relief from the hot summer sun under."
       }
     },
     {
@@ -29,10 +29,10 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Vogel Street, Eveleyn Couzins Ave, River Road, Richmond",
+        "Address": "Vogel Street, Eveleyn Couzins Ave, River Road, Richmond.",
         "Parkname": "Avebury Park",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
-        "Type": "This paddling pool sits in the grounds of an English-style park and gardens. A playground, large shelter trees and seating are nearby - perfect for hot summer days.",
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
+        "Type": "This paddling pool sits in the grounds of an English style park and gardens. A playground, large shelter trees and seating are nearby - perfect for hot summer days.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/pool-8resize.jpg"
       }
     },
@@ -47,11 +47,11 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Riccarton Avenue, Rolleston Avenue",
+        "Address": "Riccarton Avenue, Rolleston Avenue.",
         "Parkname": "Botanic Gardens",
         "Type": "A popular spot for paddling, playing and picnics, this pool is set in the heart of the picturesque Botanic Gardens and has been a Christchurch summer staple for many years.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/Young-person-on-swing-in-playground.jpg",
-        "Open": "Open from 14 November 2025 to 29 March 2026"
+        "Open": "Open from 14 November 2025 to 29 March 2026."
       }
     },
     {
@@ -65,9 +65,9 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Marine Parade, New Brighton ",
+        "Address": "Marine Parade, New Brighton. ",
         "Parkname": "New Brighton Foreshore ",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
         "Type": "The New Brighton Whale Pool has something for everyone. There’s wet and dry areas for all types of fun, including water cannons, musical toys, swings, slides and a large waka that children can climb and play in.",
         "URL": "assets/Images/Consultation/2017/June-v2/7-whale.jpg"
       }
@@ -83,9 +83,9 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "The Esplanade, Sumner",
+        "Address": "The Esplanade, Sumner.",
         "Parkname": "Scarborough Park",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
         "Type": "Right next to the beach, an ice cream shop and a large playground, this paddling pool has been entertaining generations of Christchurch children and has recently been upgraded.",
         "URL": "assets/Images/Parks-gardens/Playgrounds/5.-Scarborough-Poolresize.jpg"
       },
@@ -102,9 +102,9 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Heyders Road, Spencerville",
+        "Address": "Heyders Road, Spencerville.",
         "Parkname": "Spencer Park",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
         "Type": "A large paddling pool for summer splashing offers a great way to cool down after a play on the adventure playground and run around in the large fields - take a picnic tea and lots of friends."
       }
     },
@@ -119,10 +119,10 @@
       },
       "properties": {
         "SportCode": "Paddling Pools",
-        "Address": "Woodham Road, Linwood",
+        "Address": "Woodham Road, Linwood.",
         "Parkname": "Woodham Park",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
-        "Type": "A sheltered paddling pool and large play area sit inside this English-style park that is covered by a large collection of mature trees, hedges and herbaceous plants."
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
+        "Type": "A sheltered paddling pool and large play area sit inside this English style park that is covered by a large collection of mature trees, hedges and herbaceous plants."
       }
     },
     {
@@ -130,8 +130,8 @@
       "properties": {
         "SportCode": "Paddling Pools",
         "Parkname": "Edgar Macintosh Park",
-        "Address": "Condell Avenue, Papanui",
-        "Open": "Open from 14 November 2025 to 29 March 2026",
+        "Address": "Condell Avenue, Papanui.",
+        "Open": "Open from 14 November 2025 to 29 March 2026.",
         "Type": "This shaded paddling pool is part of a larger sports park that offers a playground and lots of space to run around."
       },
       "geometry": {
