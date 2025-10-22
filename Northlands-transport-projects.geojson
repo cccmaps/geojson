@@ -87,7 +87,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": 1,
+        "ID": "1a",
         "Where": "Harewood Road/Gardiners Road",
         "Cost": "$5.5 million",
         "Duration": "To be confirmed",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": 1,
+        "ID": "1b",
         "Where": "Morrison",
         "Cost": "$3.8 million",
         "Duration": "To be confirmed",
