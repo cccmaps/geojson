@@ -1,0 +1,351 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "Where": "Harewood Road",
+        "Cost": "$4.5 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Water supply"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60332114303395,
+            -43.4948054401528
+          ],
+          [
+            172.59933781698425,
+            -43.49279012272167
+          ],
+          [
+            172.589710254392,
+            -43.48866330853576
+          ],
+          [
+            172.5729850340755,
+            -43.48180599142337
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "Where": "Greers Road",
+        "Cost": "To be confirmed",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Wastewater"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5936258881988,
+            -43.490301079413626
+          ],
+          [
+            172.59955079177342,
+            -43.48426750863606
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "Where": "Greers Road",
+        "Cost": "$1-2 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Water supply"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.58282193542067,
+            -43.50323566668231
+          ],
+          [
+            172.5862895484325,
+            -43.49966427938843
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "Where": "Harewood Road/Gardiners Road",
+        "Cost": "$5.5 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Transport and three waters"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.57773920485056,
+            -43.48367979924413
+          ],
+          [
+            172.58201643023654,
+            -43.48544510013628
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "Where": "Harewood Road",
+        "Cost": "To be confirmed",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "WorkType": "Wastewater",
+        "Status": "Upcoming"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5935561477463,
+            -43.49022699517196
+          ],
+          [
+            172.58209557913028,
+            -43.48545934747838
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "Where": "Morrison",
+        "Cost": "$3.8 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Water supply"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.6006793449656,
+            -43.48431311896934
+          ],
+          [
+            172.600759620654,
+            -43.48473539413141
+          ],
+          [
+            172.60334851158746,
+            -43.48591483670367
+          ],
+          [
+            172.60226478980132,
+            -43.48706513505574
+          ],
+          [
+            172.6010004477177,
+            -43.48766211670616
+          ],
+          [
+            172.5989489042019,
+            -43.48981918748113
+          ],
+          [
+            172.5979157973419,
+            -43.48935396911758
+          ],
+          [
+            172.6009913683405,
+            -43.49074961346091
+          ],
+          [
+            172.60020763210184,
+            -43.49040501291678
+          ],
+          [
+            172.5997364545899,
+            -43.490195132074426
+          ],
+          [
+            172.59910368748257,
+            -43.49099515222503
+          ],
+          [
+            172.59964123226513,
+            -43.491287078925154
+          ],
+          [
+            172.59857843076446,
+            -43.49244585676191
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "Where": "Langdons Road",
+        "Cost": "$6.5 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Water supply"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60314765764798,
+            -43.491774483411376
+          ],
+          [
+            172.60919081639764,
+            -43.49497404924837
+          ],
+          [
+            172.61120185723485,
+            -43.49282899310716
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "Where": "Matsons Ave",
+        "WorkType": "Nor'West Arc cycleway and sewer",
+        "Status": "Upcoming",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Cost": "$8 million"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60523017597166,
+            -43.49295476537662
+          ],
+          [
+            172.60339640158708,
+            -43.494789949211075
+          ],
+          [
+            172.60066259877516,
+            -43.49340876306782
+          ],
+          [
+            172.6063161689961,
+            -43.49634731935041
+          ],
+          [
+            172.60417946256558,
+            -43.49522428580337
+          ],
+          [
+            172.60105100217368,
+            -43.498417856368214
+          ],
+          [
+            172.59922875442516,
+            -43.49890916012977
+          ],
+          [
+            172.59982541961625,
+            -43.49971629334552
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Road renewal",
+        "Where": "Condell Ave",
+        "Cost": "$6 million",
+        "ID": 6
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59983216926855,
+            -43.49972885342849
+          ],
+          [
+            172.6035064891435,
+            -43.50363315996725
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Where": "Wairakei Road",
+        "Cost": "9.6 million",
+        "Duration": "To be confirmed",
+        "StartDate": "To be confirmed",
+        "Status": "Upcoming",
+        "WorkType": "Water supply and sewer"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.58307536366624,
+            -43.49826247369629
+          ],
+          [
+            172.5864496912713,
+            -43.49972975468136
+          ],
+          [
+            172.59083538680886,
+            -43.50188392755949
+          ],
+          [
+            172.59284894177705,
+            -43.50310437306272
+          ],
+          [
+            172.5939338754501,
+            -43.50353785684577
+          ],
+          [
+            172.59694042892687,
+            -43.504711581923836
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
