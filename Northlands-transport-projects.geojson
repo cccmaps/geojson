@@ -4,46 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": 2,
-        "Where": "Harewood Road",
-        "Cost": "$4.5 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Water supply"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60332114303395,
-            -43.4948054401528
-          ],
-          [
-            172.59933781698425,
-            -43.49279012272167
-          ],
-          [
-            172.589710254392,
-            -43.48866330853576
-          ],
-          [
-            172.5729850340755,
-            -43.48180599142337
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": 7,
         "Where": "Greers Road",
-        "Cost": "To be confirmed",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Wastewater"
+        "Duration": "August 2027",
+        "WorkType": "Water project"
       },
       "geometry": {
         "coordinates": [
@@ -57,18 +20,15 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": 2,
         "Where": "Greers Road",
-        "Cost": "$1-2 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Water supply"
+        "Duration": "January to February 2026",
+        "WorkType": "Water project"
       },
       "geometry": {
         "coordinates": [
@@ -82,18 +42,15 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": "1a",
         "Where": "Harewood Road/Gardiners Road",
-        "Cost": "$5.5 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Transport and three waters"
+        "Duration": "Existing project underway",
+        "WorkType": "Existing project underway"
       },
       "geometry": {
         "coordinates": [
@@ -107,112 +64,15 @@
           ]
         ],
         "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": 8,
-        "Where": "Harewood Road",
-        "Cost": "To be confirmed",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "WorkType": "Wastewater",
-        "Status": "Upcoming"
       },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5935561477463,
-            -43.49022699517196
-          ],
-          [
-            172.58209557913028,
-            -43.48545934747838
-          ]
-        ],
-        "type": "LineString"
-      }
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": "1b",
-        "Where": "Morrison",
-        "Cost": "$3.8 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Water supply"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.6006793449656,
-            -43.48431311896934
-          ],
-          [
-            172.600759620654,
-            -43.48473539413141
-          ],
-          [
-            172.60334851158746,
-            -43.48591483670367
-          ],
-          [
-            172.60226478980132,
-            -43.48706513505574
-          ],
-          [
-            172.6010004477177,
-            -43.48766211670616
-          ],
-          [
-            172.5989489042019,
-            -43.48981918748113
-          ],
-          [
-            172.5979157973419,
-            -43.48935396911758
-          ],
-          [
-            172.6009913683405,
-            -43.49074961346091
-          ],
-          [
-            172.60020763210184,
-            -43.49040501291678
-          ],
-          [
-            172.5997364545899,
-            -43.490195132074426
-          ],
-          [
-            172.59910368748257,
-            -43.49099515222503
-          ],
-          [
-            172.59964123226513,
-            -43.491287078925154
-          ],
-          [
-            172.59857843076446,
-            -43.49244585676191
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": 5,
         "Where": "Langdons Road",
-        "Cost": "$6.5 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Water supply"
+        "Duration": "March 2027",
+        "WorkType": "Water project"
       },
       "geometry": {
         "coordinates": [
@@ -230,18 +90,15 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": 3,
         "Where": "Matsons Ave",
-        "WorkType": "Nor'West Arc cycleway and sewer",
-        "Status": "Upcoming",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Cost": "$8 million"
+        "WorkType": "Water project",
+        "Duration": "March to April 2026"
       },
       "geometry": {
         "coordinates": [
@@ -279,43 +136,15 @@
           ]
         ],
         "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Road renewal",
-        "Where": "Condell Ave",
-        "Cost": "$6 million",
-        "ID": 6
       },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59983216926855,
-            -43.49972885342849
-          ],
-          [
-            172.6035064891435,
-            -43.50363315996725
-          ]
-        ],
-        "type": "LineString"
-      }
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": 4,
         "Where": "Wairakei Road",
-        "Cost": "9.6 million",
-        "Duration": "To be confirmed",
-        "StartDate": "To be confirmed",
-        "Status": "Upcoming",
-        "WorkType": "Water supply and sewer"
+        "Duration": "June 2026",
+        "WorkType": "Water project"
       },
       "geometry": {
         "coordinates": [
@@ -342,6 +171,214 @@
           [
             172.59694042892687,
             -43.504711581923836
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Aorangi Road",
+        "Duration": "March 2027",
+        "WorkType": "Transport project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59091309950105,
+            -43.50547007830675
+          ],
+          [
+            172.58778652199044,
+            -43.50755489426606
+          ],
+          [
+            172.58697966327787,
+            -43.50803036852334
+          ],
+          [
+            172.5858870421053,
+            -43.50838392387726
+          ],
+          [
+            172.58509699294927,
+            -43.508969114393665
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Wilmot Street",
+        "Duration": "January to February 2026",
+        "WorkType": "Water project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59858973852198,
+            -43.49241022993659
+          ],
+          [
+            172.59933921734984,
+            -43.49157150544311
+          ],
+          [
+            172.5996820640475,
+            -43.49126493427268
+          ],
+          [
+            172.59910799515683,
+            -43.49096414595159
+          ],
+          [
+            172.59962625179406,
+            -43.49028736675327
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Morrison Ave",
+        "Duration": "January to February 2026",
+        "WorkType": "Water project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60117989062348,
+            -43.49077621876386
+          ],
+          [
+            172.59782379344603,
+            -43.48934280016971
+          ],
+          [
+            172.59897072385183,
+            -43.489834553965785
+          ],
+          [
+            172.60074018906164,
+            -43.487863470618244
+          ],
+          [
+            172.60168964233213,
+            -43.48738831729769
+          ],
+          [
+            172.60242849904648,
+            -43.48689578721098
+          ],
+          [
+            172.60330609092932,
+            -43.4859236025185
+          ],
+          [
+            172.6016757116102,
+            -43.485107351294346
+          ],
+          [
+            172.60100207001443,
+            -43.48482766941619
+          ],
+          [
+            172.6007028152082,
+            -43.48451194792359
+          ],
+          [
+            172.6007744589877,
+            -43.4842531897861
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Condell Ave",
+        "Duration": "August 2027",
+        "WorkType": "Transport project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60627411537973,
+            -43.49638869609588
+          ],
+          [
+            172.60416787314824,
+            -43.495289967529295
+          ],
+          [
+            172.60109133955234,
+            -43.49846020286935
+          ],
+          [
+            172.5993164163234,
+            -43.498923707086604
+          ],
+          [
+            172.6035762482677,
+            -43.50365010608521
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Harewood Road",
+        "Duration": "August 2027",
+        "WorkType": "Water project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59348556489107,
+            -43.490311475841956
+          ],
+          [
+            172.5820818734797,
+            -43.485494997247336
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Harewood Road",
+        "Duration": "March to April 2026",
+        "WorkType": "Water project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.57442206346587,
+            -43.482392819168595
+          ],
+          [
+            172.59841268079487,
+            -43.49230279220613
+          ],
+          [
+            172.6005422229801,
+            -43.49334077119602
+          ],
+          [
+            172.60644837513843,
+            -43.49637011948776
           ]
         ],
         "type": "LineString"
