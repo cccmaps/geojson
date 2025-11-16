@@ -685,24 +685,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Address": "610 Colombo Street",
-        "Entry": "610 Colombo Street",
-        "Name": "Mainland Parking off-street parking",
-        "Parking-spaces": 13,
-        "Charges": "https://www.mainlandparking.co.nz/"
-      },
-      "geometry": {
-        "coordinates": [
-          172.63690918039106,
-          -43.53590129290811
-        ],
-        "type": "Point"
-      },
-      "id": 36
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Address": "245 Manchester Street",
         "Entry": "245 Manchester Street",
         "Name": "Wilson off-street parking",
@@ -1111,7 +1093,8 @@
           -43.535971307026955
         ],
         "type": "Point"
-      }
+      },
+      "id": 60
     },
     {
       "type": "Feature",
@@ -1126,6 +1109,23 @@
         "coordinates": [
           172.63043154467533,
           -43.529262860762856
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "36 Welles Street",
+        "Entry": "36 Welles Street",
+        "Parking-spaces": 12,
+        "Name": "Mainland Parking off-street parking",
+        "Charges": "https://www.mainlandparking.co.nz/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63843685762777,
+          -43.53705169134486
         ],
         "type": "Point"
       }
