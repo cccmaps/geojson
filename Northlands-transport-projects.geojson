@@ -48,28 +48,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Harewood Road/Gardiners Road",
-        "Duration": "Existing project underway",
-        "WorkType": "Existing project underway"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.57773920485056,
-            -43.48367979924413
-          ],
-          [
-            172.58201643023654,
-            -43.48544510013628
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 2
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Langdons Road",
         "Duration": "March 2027",
         "WorkType": "Water project"
@@ -379,6 +357,27 @@
           [
             172.60644837513843,
             -43.49637011948776
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Harewood Road/Gardiners Road",
+        "WorkType": "Existing project underway",
+        "Duration": "Existing project underway"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5820588700583,
+            -43.48538721165038
+          ],
+          [
+            172.57779333755872,
+            -43.483631364891636
           ]
         ],
         "type": "LineString"
