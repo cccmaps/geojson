@@ -382,6 +382,27 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Harewood Road",
+        "WorkType": "Transport project",
+        "Duration": ""
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.55951443809687,
+            -43.47931468598882
+          ],
+          [
+            172.56239405150137,
+            -43.479769733827354
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
 }
