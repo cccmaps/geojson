@@ -5,8 +5,10 @@
       "type": "Feature",
       "properties": {
         "Where": "Greers Road",
-        "Duration": "August 2027",
-        "WorkType": "Water project"
+        "WorkType": "Water project",
+        "StartDate": "August 2027 (estimated)",
+        "Description": "Water supply pipe upgrades",
+        "ID": 12
       },
       "geometry": {
         "coordinates": [
@@ -27,8 +29,10 @@
       "type": "Feature",
       "properties": {
         "Where": "Greers Road",
-        "Duration": "January to February 2026",
-        "WorkType": "Water project"
+        "WorkType": "Water project",
+        "StartDate": "March 2027",
+        "Description": "Water supply pipe upgrades.",
+        "ID": 4
       },
       "geometry": {
         "coordinates": [
@@ -48,9 +52,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Langdons Road",
-        "Duration": "March 2027",
-        "WorkType": "Water project"
+        "Where": "Langdons Road/Main North Road",
+        "WorkType": "Water project",
+        "StartDate": "March 2027 (estimated)",
+        "Description": "Wastewater pipe upgrades",
+        "ID": 8
       },
       "geometry": {
         "coordinates": [
@@ -74,55 +80,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Matsons Ave",
-        "WorkType": "Water project",
-        "Duration": "March to April 2026"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60523017597166,
-            -43.49295476537662
-          ],
-          [
-            172.60339640158708,
-            -43.494789949211075
-          ],
-          [
-            172.60066259877516,
-            -43.49340876306782
-          ],
-          [
-            172.6063161689961,
-            -43.49634731935041
-          ],
-          [
-            172.60417946256558,
-            -43.49522428580337
-          ],
-          [
-            172.60105100217368,
-            -43.498417856368214
-          ],
-          [
-            172.59922875442516,
-            -43.49890916012977
-          ],
-          [
-            172.59982541961625,
-            -43.49971629334552
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 6
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Wairakei Road",
-        "Duration": "June 2026",
-        "WorkType": "Water project"
+        "WorkType": "Water project",
+        "StartDate": "June 2026 (estimated)",
+        "Description": "Wastewater and water supply pipe upgrades",
+        "ID": 7
       },
       "geometry": {
         "coordinates": [
@@ -159,8 +121,10 @@
       "type": "Feature",
       "properties": {
         "Where": "Aorangi Road",
-        "Duration": "March 2027",
-        "WorkType": "Transport project"
+        "WorkType": "Transport project",
+        "StartDate": "March 2027",
+        "Description": "Nor’West Arc cycleway construction",
+        "ID": 9
       },
       "geometry": {
         "coordinates": [
@@ -191,9 +155,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Wilmot Street",
-        "Duration": "January to February 2026",
-        "WorkType": "Water project"
+        "Where": "Harewood Road/Wilmot Street ",
+        "WorkType": "Water project",
+        "StartDate": "March 2027",
+        "Description": "Water supply pipe upgrades",
+        "ID": "11b"
       },
       "geometry": {
         "coordinates": [
@@ -219,126 +185,17 @@
           ]
         ],
         "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Morrison Ave",
-        "Duration": "January to February 2026",
-        "WorkType": "Water project"
       },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60117989062348,
-            -43.49077621876386
-          ],
-          [
-            172.59782379344603,
-            -43.48934280016971
-          ],
-          [
-            172.59897072385183,
-            -43.489834553965785
-          ],
-          [
-            172.60074018906164,
-            -43.487863470618244
-          ],
-          [
-            172.60168964233213,
-            -43.48738831729769
-          ],
-          [
-            172.60242849904648,
-            -43.48689578721098
-          ],
-          [
-            172.60330609092932,
-            -43.4859236025185
-          ],
-          [
-            172.6016757116102,
-            -43.485107351294346
-          ],
-          [
-            172.60100207001443,
-            -43.48482766941619
-          ],
-          [
-            172.6007028152082,
-            -43.48451194792359
-          ],
-          [
-            172.6007744589877,
-            -43.4842531897861
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 8
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Condell Ave",
-        "Duration": "August 2027",
-        "WorkType": "Transport project"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60627411537973,
-            -43.49638869609588
-          ],
-          [
-            172.60416787314824,
-            -43.495289967529295
-          ],
-          [
-            172.60109133955234,
-            -43.49846020286935
-          ],
-          [
-            172.5993164163234,
-            -43.498923707086604
-          ],
-          [
-            172.6035762482677,
-            -43.50365010608521
-          ]
-        ],
-        "type": "LineString"
-      }
+      "id": 5
     },
     {
       "type": "Feature",
       "properties": {
         "Where": "Harewood Road",
-        "Duration": "August 2027",
-        "WorkType": "Water project"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59348556489107,
-            -43.490311475841956
-          ],
-          [
-            172.5820818734797,
-            -43.485494997247336
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Harewood Road",
-        "Duration": "March to April 2026",
-        "WorkType": "Water project"
+        "WorkType": "Water project",
+        "StartDate": "March to April 2026",
+        "Description": "Water supply pipe upgrades",
+        "ID": "11a"
       },
       "geometry": {
         "coordinates": [
@@ -360,14 +217,17 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
         "Where": "Harewood Road/Gardiners Road",
         "WorkType": "Existing project underway",
-        "Duration": "Existing project underway"
+        "Description": "Traffic signals installation, intersection and stormwater/water supply pipe upgrades",
+        "StartDate": "Project began November 2025",
+        "ID": 1
       },
       "geometry": {
         "coordinates": [
@@ -388,7 +248,9 @@
       "properties": {
         "Where": "Harewood Road",
         "WorkType": "Transport project",
-        "Duration": ""
+        "Description": "Signalised pedestrian crossing installation and water supply pipe upgrades",
+        "StartDate": "Project began November 2025",
+        "ID": 2
       },
       "geometry": {
         "coordinates": [
@@ -399,6 +261,123 @@
           [
             172.56239405150137,
             -43.479769733827354
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkType": "Water project",
+        "Where": "Morrisons Ave, Sawyers Arms Road, Langdons Road ",
+        "StartDate": "Water supply pipe upgrades",
+        "Description": "January/February 2026",
+        "ID": 3
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60061295702639,
+            -43.49054979698287
+          ],
+          [
+            172.59774407032603,
+            -43.48930446201712
+          ],
+          [
+            172.59904047101065,
+            -43.48987923519229
+          ],
+          [
+            172.60082902380674,
+            -43.487789124699454
+          ],
+          [
+            172.60217343933186,
+            -43.4871533684138
+          ],
+          [
+            172.60328978436632,
+            -43.485942800271026
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Chapel Street/Harewood Road",
+        "WorkType": "Water project",
+        "StartDate": "Wastewater pipe upgrades",
+        "Description": "March/April 2026",
+        "ID": 5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60524064526118,
+            -43.492972923831175
+          ],
+          [
+            172.60343563679191,
+            -43.49473274470987
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "WorkType": "Water project",
+        "Where": "Matsons Ave ",
+        "StartDate": "Nor’West Arc cycleway construction and wastewater pipe upgrades",
+        "Description": "March/April 2026",
+        "ID": 6
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60412612951228,
+            -43.49528919633346
+          ],
+          [
+            172.60108824551264,
+            -43.49835852057571
+          ],
+          [
+            172.60043687927805,
+            -43.4985927834484
+          ],
+          [
+            172.59927098845264,
+            -43.49892630868129
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Condell Ave ",
+        "WorkType": "Water project",
+        "StartDate": "Nor’West Arc cycleway construction",
+        "Description": "August 2027 (estimated)",
+        "ID": 13
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59925173377837,
+            -43.498944090319775
+          ],
+          [
+            172.59982073187598,
+            -43.49971615918379
           ]
         ],
         "type": "LineString"
