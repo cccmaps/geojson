@@ -344,41 +344,6 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": 4,
-        "Description": "Water supply pipe upgrades.",
-        "StartDate": "March 2027",
-        "WorkType": "Water project",
-        "Where": "Greers Road"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5861662742235,
-            -43.49967381608359
-          ],
-          [
-            172.58376033617628,
-            -43.50230588659275
-          ],
-          [
-            172.5821563819958,
-            -43.504031925627494
-          ],
-          [
-            172.58087454432757,
-            -43.50536217667062
-          ],
-          [
-            172.57588520739813,
-            -43.50950532189967
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "ID": "6b",
         "WorkType": "Transport project",
         "Description": "Nor’West Arc cycleway construction",
@@ -425,6 +390,41 @@
           [
             172.59935469540233,
             -43.49897538062337
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Description": "Water supply pipe upgrades.",
+        "StartDate": "March 2027",
+        "WorkType": "Water project",
+        "Where": "Greers Road"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5861778570574,
+            -43.49970876672916
+          ],
+          [
+            172.58381088589334,
+            -43.50219215867305
+          ],
+          [
+            172.58109371244808,
+            -43.50519223371972
+          ],
+          [
+            172.57583448381786,
+            -43.50953659380158
+          ],
+          [
+            172.57244705815782,
+            -43.50739509874621
           ]
         ],
         "type": "LineString"
