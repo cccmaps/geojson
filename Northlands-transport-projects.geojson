@@ -28,30 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Greers Road",
-        "WorkType": "Water project",
-        "StartDate": "March 2027",
-        "Description": "Water supply pipe upgrades.",
-        "ID": 4
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.58282193542067,
-            -43.50323566668231
-          ],
-          [
-            172.5862895484325,
-            -43.49966427938843
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 2
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Langdons Road/Main North Road",
         "WorkType": "Water project",
         "StartDate": "March 2027 (estimated)",
@@ -115,7 +91,7 @@
         ],
         "type": "LineString"
       },
-      "id": 7
+      "id": 3
     },
     {
       "type": "Feature",
@@ -269,49 +245,10 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkType": "Water project",
-        "Where": "Morrisons Ave, Sawyers Arms Road, Langdons Road ",
-        "StartDate": "Water supply pipe upgrades",
-        "Description": "January/February 2026",
-        "ID": 3
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60061295702639,
-            -43.49054979698287
-          ],
-          [
-            172.59774407032603,
-            -43.48930446201712
-          ],
-          [
-            172.59904047101065,
-            -43.48987923519229
-          ],
-          [
-            172.60082902380674,
-            -43.487789124699454
-          ],
-          [
-            172.60217343933186,
-            -43.4871533684138
-          ],
-          [
-            172.60328978436632,
-            -43.485942800271026
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Chapel Street/Harewood Road",
         "WorkType": "Water project",
-        "StartDate": "Wastewater pipe upgrades",
-        "Description": "March/April 2026",
+        "StartDate": "March/April 2026",
+        "Description": "Wastewater pipe upgrades",
         "ID": 5
       },
       "geometry": {
@@ -333,9 +270,9 @@
       "properties": {
         "WorkType": "Water project",
         "Where": "Matsons Ave ",
-        "StartDate": "Nor’West Arc cycleway construction and wastewater pipe upgrades",
-        "Description": "March/April 2026",
-        "ID": 6
+        "StartDate": "March/April 2026",
+        "Description": "Wastewater pipe upgrades",
+        "ID": "6a"
       },
       "geometry": {
         "coordinates": [
@@ -358,15 +295,15 @@
         ],
         "type": "LineString"
       },
-      "id": 12
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
         "Where": "Condell Ave ",
-        "WorkType": "Water project",
-        "StartDate": "Nor’West Arc cycleway construction",
-        "Description": "August 2027 (estimated)",
+        "WorkType": "Transport project",
+        "StartDate": "August 2027 (estimated)",
+        "Description": "Nor’West Arc cycleway construction",
         "ID": 13
       },
       "geometry": {
@@ -378,6 +315,121 @@
           [
             172.59982073187598,
             -43.49971615918379
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Morrisons Ave, Sawyers Arms Road, Langdons Road ",
+        "WorkType": "Water project",
+        "StartDate": "January/February 2026",
+        "ID": 3,
+        "Description": "Water supply pipe upgrades"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60062053167252,
+            -43.49059773975809
+          ],
+          [
+            172.59777322177376,
+            -43.48927413477909
+          ],
+          [
+            172.59905565626042,
+            -43.48986117655
+          ],
+          [
+            172.60104037629606,
+            -43.48765143303063
+          ],
+          [
+            172.60228464143358,
+            -43.48704775435583
+          ],
+          [
+            172.60334570329917,
+            -43.48589576429065
+          ],
+          [
+            172.60090299001416,
+            -43.484771444348965
+          ],
+          [
+            172.60073505216388,
+            -43.4845554397458
+          ],
+          [
+            172.60075031924111,
+            -43.48425635517334
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Description": "Water supply pipe upgrades.",
+        "StartDate": "March 2027",
+        "WorkType": "Water project",
+        "Where": "Greers Road"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5861662742235,
+            -43.49967381608359
+          ],
+          [
+            172.58376033617628,
+            -43.50230588659275
+          ],
+          [
+            172.5821563819958,
+            -43.504031925627494
+          ],
+          [
+            172.58087454432757,
+            -43.50536217667062
+          ],
+          [
+            172.57588520739813,
+            -43.50950532189967
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "6b",
+        "WorkType": "Transport project",
+        "Description": "Nor’West Arc cycleway construction",
+        "StartDate": "March/April 2026",
+        "Where": "Matsons Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5992528131107,
+            -43.498874708661766
+          ],
+          [
+            172.60105898334155,
+            -43.4983259271403
+          ],
+          [
+            172.60406915735405,
+            -43.49526280008008
           ]
         ],
         "type": "LineString"
