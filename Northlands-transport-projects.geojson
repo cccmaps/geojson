@@ -268,38 +268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "WorkType": "Water project",
-        "Where": "Matsons Ave ",
-        "StartDate": "March/April 2026",
-        "Description": "Wastewater pipe upgrades",
-        "ID": "6a"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60412612951228,
-            -43.49528919633346
-          ],
-          [
-            172.60108824551264,
-            -43.49835852057571
-          ],
-          [
-            172.60043687927805,
-            -43.4985927834484
-          ],
-          [
-            172.59927098845264,
-            -43.49892630868129
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 9
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Condell Ave ",
         "WorkType": "Transport project",
         "StartDate": "August 2027 (estimated)",
@@ -430,6 +398,33 @@
           [
             172.60406915735405,
             -43.49526280008008
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "6c",
+        "Description": "Wastewater pipe upgrades",
+        "StartDate": "March/April 2026",
+        "Where": "Matsons Ave ",
+        "WorkType": "Water project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60415803076341,
+            -43.4953316107413
+          ],
+          [
+            172.60119848229368,
+            -43.498387244562885
+          ],
+          [
+            172.59935469540233,
+            -43.49897538062337
           ]
         ],
         "type": "LineString"
