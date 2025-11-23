@@ -378,10 +378,10 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": "6b",
-        "Description": "Nor’West Arc cycleway construction",
+        "ID": "6c",
+        "Description": "Wastewater pipe upgrades",
         "StartDate": "March/April 2026",
-        "WorkType": "Transport project",
+        "WorkType": "Water project",
         "Where": "Matsons Ave"
       },
       "geometry": {
@@ -410,9 +410,9 @@
       "type": "Feature",
       "properties": {
         "Where": "Matsons Ave",
-        "WorkType": "Matsons Ave",
-        "StartDate": "Matsons Ave",
-        "Description": "Matsons Ave",
+        "WorkType": "Transport project",
+        "StartDate": "March/April 2026",
+        "Description": "Nor’West Arc cycleway construction",
         "ID": "6b"
       },
       "geometry": {
@@ -440,7 +440,7 @@
         ],
         "type": "LineString"
       },
-      "id": 14
+      "id": 13
     }
   ]
 }
