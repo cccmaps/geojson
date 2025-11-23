@@ -268,30 +268,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Condell Ave ",
-        "WorkType": "Transport project",
-        "StartDate": "August 2027 (estimated)",
-        "Description": "Nor’West Arc cycleway construction",
-        "ID": 13
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59925173377837,
-            -43.498944090319775
-          ],
-          [
-            172.59982073187598,
-            -43.49971615918379
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 10
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Morrisons Ave, Sawyers Arms Road, Langdons Road ",
         "WorkType": "Water project",
         "StartDate": "January/February 2026",
@@ -344,60 +320,6 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": "6b",
-        "WorkType": "Transport project",
-        "Description": "Nor’West Arc cycleway construction",
-        "StartDate": "March/April 2026",
-        "Where": "Matsons Ave"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5992528131107,
-            -43.498874708661766
-          ],
-          [
-            172.60105898334155,
-            -43.4983259271403
-          ],
-          [
-            172.60406915735405,
-            -43.49526280008008
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "6c",
-        "Description": "Wastewater pipe upgrades",
-        "StartDate": "March/April 2026",
-        "Where": "Matsons Ave ",
-        "WorkType": "Water project"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60415803076341,
-            -43.4953316107413
-          ],
-          [
-            172.60119848229368,
-            -43.498387244562885
-          ],
-          [
-            172.59935469540233,
-            -43.49897538062337
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "ID": 4,
         "Description": "Water supply pipe upgrades.",
         "StartDate": "March 2027",
@@ -429,6 +351,96 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Condell Ave ",
+        "StartDate": "August 2027 (estimated)",
+        "Description": "Street renewals",
+        "ID": 14,
+        "WorkType": "Transport project"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59994008142996,
+            -43.49973889657458
+          ],
+          [
+            172.6035801812792,
+            -43.50371692175452
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "6b",
+        "Description": "Nor’West Arc cycleway construction",
+        "StartDate": "March/April 2026",
+        "WorkType": "Transport project",
+        "Where": "Matsons Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60399757824172,
+            -43.49527912288992
+          ],
+          [
+            172.6010294168908,
+            -43.49830800829289
+          ],
+          [
+            172.5991207890442,
+            -43.49894021805563
+          ],
+          [
+            172.59972894439807,
+            -43.499697407721094
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Matsons Ave",
+        "WorkType": "Matsons Ave",
+        "StartDate": "Matsons Ave",
+        "Description": "Matsons Ave",
+        "ID": "6b"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60599919518984,
+            -43.496252471244304
+          ],
+          [
+            172.60419391509464,
+            -43.49533221517974
+          ],
+          [
+            172.60120137871985,
+            -43.498399680856245
+          ],
+          [
+            172.5993554391626,
+            -43.498983661472145
+          ],
+          [
+            172.59985962503526,
+            -43.49967381367373
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 14
     }
   ]
 }
