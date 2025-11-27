@@ -82,7 +82,7 @@
           -43.536033
         ]
       },
-      "id": 5
+      "id": 3
     },
     {
       "type": "Feature",
@@ -530,8 +530,8 @@
         "Name": "Wilson off-street parking",
         "Parking-spaces": 32,
         "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
-        "Address": "P382/550 Colombo Street",
-        "Entry": "P382/550 Colombo Street"
+        "Address": "382/550 Colombo Street",
+        "Entry": "382/550 Colombo Street"
       },
       "geometry": {
         "coordinates": [
@@ -539,7 +539,8 @@
           -43.53846105032985
         ],
         "type": "Point"
-      }
+      },
+      "id": 27
     },
     {
       "type": "Feature",
@@ -573,7 +574,8 @@
           -43.53711799174353
         ],
         "type": "Point"
-      }
+      },
+      "id": 29
     },
     {
       "type": "Feature",
@@ -684,7 +686,7 @@
       "properties": {
         "Charges": "https://www.wilsonparking.co.nz/parking-locations/christchurch/christchurch-cbd",
         "Name": "Wilson off-street parking",
-        "Parking-spaces": 45,
+        "Parking-spaces": 61,
         "Address": "227-235 Manchester Street",
         "Entry": "227-235 Manchester Street"
       },
@@ -781,7 +783,8 @@
           -43.53606416985212
         ],
         "type": "Point"
-      }
+      },
+      "id": 41
     },
     {
       "type": "Feature",
@@ -799,7 +802,7 @@
         ],
         "type": "Point"
       },
-      "id": 44
+      "id": 42
     },
     {
       "type": "Feature",
@@ -834,7 +837,8 @@
           -43.536754341368436
         ],
         "type": "Point"
-      }
+      },
+      "id": 44
     },
     {
       "type": "Feature",
@@ -1039,14 +1043,15 @@
           -43.53629651418105
         ],
         "type": "Point"
-      }
+      },
+      "id": 56
     },
     {
       "type": "Feature",
       "properties": {
         "Address": "558-562 Colombo Street",
         "Entry": "558-562 Colombo Street",
-        "Parking-spaces": 83,
+        "Parking-spaces": 62,
         "Name": "Wilson off-street parking",
         "Charges": "https://www.wilsonparking.co.nz/find-a-park/Christchurch"
       },
@@ -1056,7 +1061,8 @@
           -43.53772219797106
         ],
         "type": "Point"
-      }
+      },
+      "id": 57
     },
     {
       "type": "Feature",
@@ -1074,7 +1080,7 @@
         ],
         "type": "Point"
       },
-      "id": 60
+      "id": 58
     },
     {
       "type": "Feature",
@@ -1126,7 +1132,8 @@
           -43.536531408924446
         ],
         "type": "Point"
-      }
+      },
+      "id": 61
     },
     {
       "type": "Feature",
@@ -1158,6 +1165,24 @@
         "coordinates": [
           172.6398589967465,
           -43.537114609038774
+        ],
+        "type": "Point"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "20 Welles Street",
+        "Entry": "20 Welles Street",
+        "Name": "Mainland Parking off-street parking",
+        "Parking-spaces": 7,
+        "Charges": "https://www.mainlandparking.co.nz/"
+      },
+      "geometry": {
+        "coordinates": [
+          172.63758111826712,
+          -43.53706030449065
         ],
         "type": "Point"
       }
