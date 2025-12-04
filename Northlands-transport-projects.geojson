@@ -322,9 +322,9 @@
       "properties": {
         "ID": 4,
         "Description": "Water supply pipe upgrades.",
-        "StartDate": "March 2027",
+        "StartDate": "January/February 2026",
         "WorkType": "Water project",
-        "Where": "Greers Road"
+        "Where": "Greers Road/Memorial Ave"
       },
       "geometry": {
         "coordinates": [
@@ -350,7 +350,8 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -441,6 +442,57 @@
         "type": "LineString"
       },
       "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Wairakei Road",
+        "WorkType": "Water project",
+        "StartDate": "To be scheduled",
+        "Description": "Water supply pipe upgrades",
+        "ID": 15
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.57348514126005,
+            -43.49256769048563
+          ],
+          [
+            172.57318760903678,
+            -43.49190780621698
+          ],
+          [
+            172.57281356852678,
+            -43.49159327940169
+          ],
+          [
+            172.5722440068397,
+            -43.49131575438112
+          ],
+          [
+            172.57161493871,
+            -43.49121707851117
+          ],
+          [
+            172.5706968361451,
+            -43.490526342186755
+          ],
+          [
+            172.5677045120649,
+            -43.48916334964932
+          ],
+          [
+            172.56720295774386,
+            -43.48905233532802
+          ],
+          [
+            172.5660213297685,
+            -43.48907700519505
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
 }
