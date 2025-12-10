@@ -1186,6 +1186,23 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "311 Saint Asaph Street",
+        "Entry": "311 Saint Asaph Street",
+        "Name": "Mainland Parking off-street parking",
+        "Charges": "https://www.mainlandparking.co.nz/",
+        "Parking-spaces": 14
+      },
+      "geometry": {
+        "coordinates": [
+          172.64485010578312,
+          -43.53620510808458
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
