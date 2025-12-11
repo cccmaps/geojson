@@ -442,11 +442,11 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": "Wairakei Road",
+        "ID": "",
         "Description": "Water project",
         "StartDate": "June 2026 (estimated)",
         "WorkType": "Wastewater and water supply pipe upgrades",
-        "Where": "7c"
+        "Where": "Wairakei Road"
       },
       "geometry": {
         "coordinates": [
