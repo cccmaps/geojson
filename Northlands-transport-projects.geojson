@@ -4,37 +4,33 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Wairakei Road",
+        "ID": 4,
+        "Description": "Water supply pipe upgrades.",
+        "StartDate": "January/February 2026",
         "WorkType": "Water project",
-        "StartDate": "June 2026 (estimated)",
-        "Description": "Wastewater and water supply pipe upgrades",
-        "ID": 7
+        "Where": "Greers Road/Memorial Ave"
       },
       "geometry": {
         "coordinates": [
           [
-            172.58307536366624,
-            -43.49826247369629
+            172.58608289364162,
+            -43.49982070372412
           ],
           [
-            172.5864496912713,
-            -43.49972975468136
+            172.58381088589334,
+            -43.50219215867305
           ],
           [
-            172.59083538680886,
-            -43.50188392755949
+            172.58109371244808,
+            -43.50519223371972
           ],
           [
-            172.59284894177705,
-            -43.50310437306272
+            172.57583448381786,
+            -43.50953659380158
           ],
           [
-            172.5939338754501,
-            -43.50353785684577
-          ],
-          [
-            172.59694042892687,
-            -43.504711581923836
+            172.57244705815782,
+            -43.50739509874621
           ]
         ],
         "type": "LineString"
@@ -66,41 +62,6 @@
           [
             172.60644837513843,
             -43.49637011948776
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": 4,
-        "Description": "Water supply pipe upgrades.",
-        "StartDate": "January/February 2026",
-        "WorkType": "Water project",
-        "Where": "Greers Road/Memorial Ave"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5861778570574,
-            -43.49970876672916
-          ],
-          [
-            172.58381088589334,
-            -43.50219215867305
-          ],
-          [
-            172.58109371244808,
-            -43.50519223371972
-          ],
-          [
-            172.57583448381786,
-            -43.50953659380158
-          ],
-          [
-            172.57244705815782,
-            -43.50739509874621
           ]
         ],
         "type": "LineString"
@@ -438,6 +399,76 @@
           [
             172.60063397249417,
             -43.49057395367104
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Wairakei Road",
+        "WorkType": "Water project",
+        "StartDate": "June 2026 (estimated)",
+        "Description": "Wastewater and water supply pipe upgrades",
+        "ID": "7b"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59539012753578,
+            -43.5040168124911
+          ],
+          [
+            172.5977471448997,
+            -43.50508530693367
+          ],
+          [
+            172.59839683558545,
+            -43.505518178787
+          ],
+          [
+            172.59897853538297,
+            -43.506674314974234
+          ],
+          [
+            172.59929582618184,
+            -43.507200322214175
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "Wairakei Road",
+        "Description": "Water project",
+        "StartDate": "June 2026 (estimated)",
+        "WorkType": "Wastewater and water supply pipe upgrades",
+        "Where": "7c"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59285921112576,
+            -43.50308986087647
+          ],
+          [
+            172.59048115918057,
+            -43.50164224100565
+          ],
+          [
+            172.58820100626286,
+            -43.500563459406486
+          ],
+          [
+            172.58620516335708,
+            -43.49962002361566
+          ],
+          [
+            172.5831009437684,
+            -43.498257552503865
           ]
         ],
         "type": "LineString"
