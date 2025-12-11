@@ -443,9 +443,9 @@
       "type": "Feature",
       "properties": {
         "ID": "7c",
-        "Description": "Water project",
+        "Description": "Wastewater and water supply pipe upgrades",
         "StartDate": "June 2026 (estimated)",
-        "WorkType": "Wastewater and water supply pipe upgrades",
+        "WorkType": "Water project",
         "Where": "Wairakei Road"
       },
       "geometry": {
