@@ -4,58 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Greers Road",
-        "WorkType": "Water project",
-        "StartDate": "August 2027 (estimated)",
-        "Description": "Water supply pipe upgrades",
-        "ID": 12
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5936258881988,
-            -43.490301079413626
-          ],
-          [
-            172.59955079177342,
-            -43.48426750863606
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Langdons Road/Main North Road",
-        "WorkType": "Water project",
-        "StartDate": "March 2027 (estimated)",
-        "Description": "Wastewater pipe upgrades",
-        "ID": 8
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60314765764798,
-            -43.491774483411376
-          ],
-          [
-            172.60919081639764,
-            -43.49497404924837
-          ],
-          [
-            172.61120185723485,
-            -43.49282899310716
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 3
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Wairakei Road",
         "WorkType": "Water project",
         "StartDate": "June 2026 (estimated)",
@@ -90,8 +38,131 @@
           ]
         ],
         "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Harewood Road",
+        "WorkType": "Water project",
+        "StartDate": "To be scheduled",
+        "Description": "Water supply pipe upgrades",
+        "ID": "11a"
       },
-      "id": 3
+      "geometry": {
+        "coordinates": [
+          [
+            172.57442206346587,
+            -43.482392819168595
+          ],
+          [
+            172.59841268079487,
+            -43.49230279220613
+          ],
+          [
+            172.6005422229801,
+            -43.49334077119602
+          ],
+          [
+            172.60644837513843,
+            -43.49637011948776
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "Description": "Water supply pipe upgrades.",
+        "StartDate": "January/February 2026",
+        "WorkType": "Water project",
+        "Where": "Greers Road/Memorial Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5861778570574,
+            -43.49970876672916
+          ],
+          [
+            172.58381088589334,
+            -43.50219215867305
+          ],
+          [
+            172.58109371244808,
+            -43.50519223371972
+          ],
+          [
+            172.57583448381786,
+            -43.50953659380158
+          ],
+          [
+            172.57244705815782,
+            -43.50739509874621
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Matsons Ave",
+        "WorkType": "Transport project",
+        "StartDate": "March/April 2026",
+        "Description": "Nor’West Arc cycleway construction",
+        "ID": "6b"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60599919518984,
+            -43.496252471244304
+          ],
+          [
+            172.60419391509464,
+            -43.49533221517974
+          ],
+          [
+            172.60120137871985,
+            -43.498399680856245
+          ],
+          [
+            172.5993554391626,
+            -43.498983661472145
+          ],
+          [
+            172.59985962503526,
+            -43.49967381367373
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Greers Road",
+        "WorkType": "Water project",
+        "StartDate": "To be scheduled",
+        "Description": "Water supply pipe upgrades",
+        "ID": 12
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5936258881988,
+            -43.490301079413626
+          ],
+          [
+            172.59955079177342,
+            -43.48426750863606
+          ]
+        ],
+        "type": "LineString"
+      }
     },
     {
       "type": "Feature",
@@ -127,74 +198,6 @@
         ],
         "type": "LineString"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Harewood Road/Wilmot Street ",
-        "WorkType": "Water project",
-        "StartDate": "March 2027",
-        "Description": "Water supply pipe upgrades",
-        "ID": "11b"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59858973852198,
-            -43.49241022993659
-          ],
-          [
-            172.59933921734984,
-            -43.49157150544311
-          ],
-          [
-            172.5996820640475,
-            -43.49126493427268
-          ],
-          [
-            172.59910799515683,
-            -43.49096414595159
-          ],
-          [
-            172.59962625179406,
-            -43.49028736675327
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 5
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Harewood Road",
-        "WorkType": "Water project",
-        "StartDate": "March to April 2026",
-        "Description": "Water supply pipe upgrades",
-        "ID": "11a"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.57442206346587,
-            -43.482392819168595
-          ],
-          [
-            172.59841268079487,
-            -43.49230279220613
-          ],
-          [
-            172.6005422229801,
-            -43.49334077119602
-          ],
-          [
-            172.60644837513843,
-            -43.49637011948776
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 6
     },
     {
       "type": "Feature",
@@ -268,96 +271,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Morrisons Ave, Sawyers Arms Road, Langdons Road ",
-        "WorkType": "Water project",
-        "StartDate": "January/February 2026",
-        "ID": 3,
-        "Description": "Water supply pipe upgrades"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60062053167252,
-            -43.49059773975809
-          ],
-          [
-            172.59777322177376,
-            -43.48927413477909
-          ],
-          [
-            172.59905565626042,
-            -43.48986117655
-          ],
-          [
-            172.60104037629606,
-            -43.48765143303063
-          ],
-          [
-            172.60228464143358,
-            -43.48704775435583
-          ],
-          [
-            172.60334570329917,
-            -43.48589576429065
-          ],
-          [
-            172.60090299001416,
-            -43.484771444348965
-          ],
-          [
-            172.60073505216388,
-            -43.4845554397458
-          ],
-          [
-            172.60075031924111,
-            -43.48425635517334
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": 4,
-        "Description": "Water supply pipe upgrades.",
-        "StartDate": "January/February 2026",
-        "WorkType": "Water project",
-        "Where": "Greers Road/Memorial Ave"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5861778570574,
-            -43.49970876672916
-          ],
-          [
-            172.58381088589334,
-            -43.50219215867305
-          ],
-          [
-            172.58109371244808,
-            -43.50519223371972
-          ],
-          [
-            172.57583448381786,
-            -43.50953659380158
-          ],
-          [
-            172.57244705815782,
-            -43.50739509874621
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 10
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Condell Ave ",
-        "StartDate": "August 2027 (estimated)",
+        "StartDate": "To be scheduled",
         "Description": "Street renewals",
         "ID": 14,
         "WorkType": "Transport project"
@@ -410,42 +325,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Matsons Ave",
-        "WorkType": "Transport project",
-        "StartDate": "March/April 2026",
-        "Description": "Nor’West Arc cycleway construction",
-        "ID": "6b"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60599919518984,
-            -43.496252471244304
-          ],
-          [
-            172.60419391509464,
-            -43.49533221517974
-          ],
-          [
-            172.60120137871985,
-            -43.498399680856245
-          ],
-          [
-            172.5993554391626,
-            -43.498983661472145
-          ],
-          [
-            172.59985962503526,
-            -43.49967381367373
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Wairakei Road",
         "WorkType": "Water project",
         "StartDate": "To be scheduled",
@@ -489,6 +368,76 @@
           [
             172.5660213297685,
             -43.48907700519505
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Sawyers Arms Road",
+        "StartDate": "March/April 2026",
+        "WorkType": "Water project",
+        "Description": "Water supply update",
+        "ID": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.6007298904937,
+            -43.48422317106887
+          ],
+          [
+            172.60084043503394,
+            -43.484723508686166
+          ],
+          [
+            172.60324609477453,
+            -43.48585402727953
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Morrisons Ave, Langdons Road ",
+        "WorkType": "Water project",
+        "StartDate": "January/February 2026",
+        "Description": "Water supply pipe upgrades",
+        "ID": 3
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60333149788738,
+            -43.48592800672616
+          ],
+          [
+            172.60208896032475,
+            -43.48716605129422
+          ],
+          [
+            172.60096899364282,
+            -43.487701368320984
+          ],
+          [
+            172.59898166710155,
+            -43.489768977735636
+          ],
+          [
+            172.5989228064352,
+            -43.48983805899544
+          ],
+          [
+            172.5977538454199,
+            -43.48929859929597
+          ],
+          [
+            172.60063397249417,
+            -43.49057395367104
           ]
         ],
         "type": "LineString"
