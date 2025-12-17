@@ -39,6 +39,70 @@
     {
       "type": "Feature",
       "properties": {
+        "Where": "Harewood Road/Wilmot Street ",
+        "WorkType": "Water project",
+        "StartDate": "March 2027",
+        "Description": "Water supply pipe upgrades",
+        "ID": "11b"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.59858973852198,
+            -43.49241022993659
+          ],
+          [
+            172.59933921734984,
+            -43.49157150544311
+          ],
+          [
+            172.5996820640475,
+            -43.49126493427268
+          ],
+          [
+            172.59910799515683,
+            -43.49096414595159
+          ],
+          [
+            172.59962625179406,
+            -43.49028736675327
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Langdons Road/Main North Road",
+        "WorkType": "Water project",
+        "StartDate": "March 2027 (estimated)",
+        "Description": "Wastewater pipe upgrades",
+        "ID": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60314765764798,
+            -43.491774483411376
+          ],
+          [
+            172.60919081639764,
+            -43.49497404924837
+          ],
+          [
+            172.61120185723485,
+            -43.49282899310716
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Where": "Harewood Road",
         "WorkType": "Water project",
         "StartDate": "To be scheduled",
@@ -469,6 +533,33 @@
           [
             172.5831009437684,
             -43.498257552503865
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 15,
+        "WorkType": "Water project",
+        "Description": "Wastewater and water supply pipe upgrades",
+        "StartDate": "March 2027",
+        "Where": "Sawyers Arms Road and Leander Street "
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.61252723630855,
+            -43.48962866192575
+          ],
+          [
+            172.61156184390063,
+            -43.49052115381657
+          ],
+          [
+            172.61278099659825,
+            -43.49118150928338
           ]
         ],
         "type": "LineString"
