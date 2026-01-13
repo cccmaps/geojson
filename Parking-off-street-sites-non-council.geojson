@@ -1154,6 +1154,26 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "129 Gloucester Street",
+        "Entry": "129 Gloucester Street",
+        "Name": "Mainland Parking off-street parking",
+        "Charges": "https://www.mainlandparking.co.nz/",
+        "Parking-spaces": 61,
+        "Mobility-Parking-Spaces": 4,
+        "Mobility": "Yes",
+        "Notes": "Four mobility spaces available"
+      },
+      "geometry": {
+        "coordinates": [
+          172.6375771431059,
+          -43.52965094878898
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
