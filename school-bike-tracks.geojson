@@ -241,6 +241,22 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Somerfield Te Kura Wairepo",
+        "Type": "School bike track",
+        "Description": "School bike track.",
+        "Address": "42 Studholme Street"
+      },
+      "geometry": {
+        "coordinates": [
+          172.62773599495523,
+          -43.56092391907872
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
