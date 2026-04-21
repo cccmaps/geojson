@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Westburn Reserve ",
+        "Type": "Learn to ride track",
+        "Description": "Learn to ride track.",
+        "Address": "32 Westburn Tce"
+      },
+      "geometry": {
+        "coordinates": [
+          172.571806,
+          -43.508683
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East x East",
+        "Type": "Learn to ride track",
+        "Description": "Learn to ride track.",
+        "Address": "22 Longview Place"
+      },
+      "geometry": {
+        "coordinates": [
+          172.699271,
+          -43.498575
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Knights Stream Park",
+        "Type": "Learn to ride track",
+        "Description": "Learn to ride track.",
+        "Address": "50 Richmond Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          172.54014,
+          -43.569425
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
