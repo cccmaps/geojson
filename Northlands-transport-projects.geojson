@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "ProjectType": "Water project",
-        "StartDate": "To be scheduled",
+        "StartDate": "Complete",
         "Complete": "Yes"
       },
       "geometry": {
@@ -326,7 +326,7 @@
       "type": "Feature",
       "properties": {
         "ProjectType": "Water project",
-        "StartDate": "January 2026",
+        "StartDate": "Complete",
         "Complete": "Yes"
       },
       "geometry": {
