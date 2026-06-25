@@ -184,7 +184,7 @@
       "properties": {
         "ProjectType": "Water project",
         "StartDate": "March 2026",
-        "Complete": "No"
+        "Complete": "Yes"
       },
       "geometry": {
         "coordinates": [
@@ -396,7 +396,7 @@
       "type": "Feature",
       "properties": {
         "ProjectType": "Transport project",
-        "StartDate": "Mar 2027",
+        "StartDate": "To be scheduled",
         "Complete": "No"
       },
       "geometry": {
@@ -449,36 +449,14 @@
       "type": "Feature",
       "properties": {
         "ProjectType": "Transport project",
-        "StartDate": "May 2026",
-        "Complete": "No"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59936224194678,
-            -43.49898370742019
-          ],
-          [
-            172.59993663195434,
-            -43.499620940815085
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 12
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ProjectType": "Transport project",
         "StartDate": "To be scheduled",
         "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.60000618724342,
-            -43.49970793050674
+            172.5993547,
+            -43.498981
           ],
           [
             172.60348591028065,
