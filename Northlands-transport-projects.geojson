@@ -4,33 +4,59 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": 4,
-        "Description": "Water supply pipe upgrades.",
-        "StartDate": "January/February 2026",
-        "WorkType": "Water project",
-        "Where": "Greers Road/Memorial Ave"
+        "ProjectType": "Water project",
+        "StartDate": "To be scheduled",
+        "Complete": "Yes"
       },
       "geometry": {
         "coordinates": [
           [
-            172.58608289364162,
-            -43.49982070372412
+            172.56612945829596,
+            -43.489055436782834
           ],
           [
-            172.58381088589334,
-            -43.50219215867305
+            172.56714848086744,
+            -43.489069932993594
           ],
           [
-            172.58109371244808,
-            -43.50519223371972
+            172.56774790590953,
+            -43.48915691018529
           ],
           [
-            172.57583448381786,
-            -43.50953659380158
+            172.56836731178788,
+            -43.48944683325063
           ],
           [
-            172.57244705815782,
-            -43.50739509874621
+            172.56992581689838,
+            -43.49017163482561
+          ],
+          [
+            172.5707450311225,
+            -43.49057751990924
+          ],
+          [
+            172.57144436033894,
+            -43.49111386387143
+          ],
+          [
+            172.5718239961987,
+            -43.49128781224165
+          ],
+          [
+            172.57254330625005,
+            -43.491476255743066
+          ],
+          [
+            172.5729229421098,
+            -43.49163570747809
+          ],
+          [
+            172.5732226546316,
+            -43.4918821320593
+          ],
+          [
+            172.57352236715337,
+            -43.4925489229422
           ]
         ],
         "type": "LineString"
@@ -39,61 +65,114 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Harewood Road/Wilmot Street ",
-        "WorkType": "Water project",
-        "StartDate": "March 2027",
-        "Description": "Water supply pipe upgrades",
-        "ID": "11b"
+        "ProjectType": "Water project",
+        "StartDate": "January 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.59858973852198,
-            -43.49241022993659
+            172.5859229678323,
+            -43.49993817345015
           ],
           [
-            172.59933921734984,
-            -43.49157150544311
+            172.58415628809644,
+            -43.50182035533664
           ],
           [
-            172.5996820640475,
-            -43.49126493427268
+            172.58310732200215,
+            -43.50290158222552
           ],
           [
-            172.59910799515683,
-            -43.49096414595159
+            172.58153387286177,
+            -43.504683562061444
           ],
           [
-            172.59962625179406,
-            -43.49028736675327
+            172.58084376358926,
+            -43.50538432623864
+          ],
+          [
+            172.57907708385352,
+            -43.50688593636751
+          ],
+          [
+            172.57598539431484,
+            -43.50940855729415
           ]
         ],
         "type": "LineString"
       },
-      "id": 4
+      "id": 1
     },
     {
       "type": "Feature",
       "properties": {
-        "Where": "Langdons Road/Main North Road",
-        "WorkType": "Water project",
-        "StartDate": "March 2027 (estimated)",
-        "Description": "Wastewater pipe upgrades",
-        "ID": 8
+        "ProjectType": "Water project",
+        "StartDate": "August 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.60314765764798,
-            -43.491774483411376
+            172.58322218600546,
+            -43.49830468413502
           ],
           [
-            172.60919081639764,
-            -43.49497404924837
+            172.58557304021326,
+            -43.4992678536158
           ],
           [
-            172.61120185723485,
-            -43.49282899310716
+            172.5895781992357,
+            -43.501225724545264
+          ],
+          [
+            172.59105836670034,
+            -43.50195201535828
+          ],
+          [
+            172.59208142362468,
+            -43.502630931477725
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectType": "Water project",
+        "StartDate": "May 2026",
+        "Complete": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.58020890190937,
+            -43.48473579065377
+          ],
+          [
+            172.59462227021345,
+            -43.49072780200216
+          ],
+          [
+            172.5988311325828,
+            -43.492456156350826
+          ],
+          [
+            172.6019679262356,
+            -43.494011632976104
+          ],
+          [
+            172.60415176991762,
+            -43.49522142042962
+          ],
+          [
+            172.60109438876287,
+            -43.49836099384999
+          ],
+          [
+            172.59930760756822,
+            -43.498850637374964
           ]
         ],
         "type": "LineString"
@@ -103,29 +182,75 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Harewood Road",
-        "WorkType": "Water project",
-        "StartDate": "To be scheduled",
-        "Description": "Water supply pipe upgrades",
-        "ID": "11a"
+        "ProjectType": "Water project",
+        "StartDate": "March 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.57442206346587,
-            -43.482392819168595
+            172.59920610195246,
+            -43.49895206164187
           ],
           [
-            172.59841268079487,
-            -43.49230279220613
+            172.5998647444901,
+            -43.49968518810687
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectType": "Water project",
+        "StartDate": "August 2026",
+        "Complete": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.5955677670438,
+            -43.50408245899653
           ],
           [
-            172.6005422229801,
-            -43.49334077119602
+            172.59704220535968,
+            -43.50473176288384
           ],
           [
-            172.60644837513843,
-            -43.49637011948776
+            172.59823579828276,
+            -43.50538105978639
+          ],
+          [
+            172.59872727772233,
+            -43.505992156374525
+          ],
+          [
+            172.59930652134528,
+            -43.5071888692728
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ProjectType": "Water project",
+        "StartDate": "May 2026",
+        "Complete": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            172.60525516606646,
+            -43.492913406613354
+          ],
+          [
+            172.60341252766568,
+            -43.49481590163361
           ]
         ],
         "type": "LineString"
@@ -134,91 +259,23 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Matsons Ave",
-        "WorkType": "Transport project",
-        "StartDate": "April/May 2026",
-        "Description": "Nor’West Arc cycleway construction",
-        "ID": "6b"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60599919518984,
-            -43.496252471244304
-          ],
-          [
-            172.60419391509464,
-            -43.49533221517974
-          ],
-          [
-            172.60120137871985,
-            -43.498399680856245
-          ],
-          [
-            172.5993554391626,
-            -43.498983661472145
-          ],
-          [
-            172.59985962503526,
-            -43.49967381367373
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Greers Road",
-        "WorkType": "Water project",
-        "StartDate": "To be scheduled",
-        "Description": "Water supply pipe upgrades",
-        "ID": 12
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.5936258881988,
-            -43.490301079413626
-          ],
-          [
-            172.59955079177342,
-            -43.48426750863606
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Aorangi Road",
-        "WorkType": "Transport project",
+        "ProjectType": "Water project",
         "StartDate": "March 2027",
-        "Description": "Nor’West Arc cycleway construction",
-        "ID": 9
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.59091309950105,
-            -43.50547007830675
+            172.60352791625508,
+            -43.49193779433177
           ],
           [
-            172.58778652199044,
-            -43.50755489426606
+            172.60924878220192,
+            -43.49491498842583
           ],
           [
-            172.58697966327787,
-            -43.50803036852334
-          ],
-          [
-            172.5858870421053,
-            -43.50838392387726
-          ],
-          [
-            172.58509699294927,
-            -43.508969114393665
+            172.61128755470259,
+            -43.49281758002699
           ]
         ],
         "type": "LineString"
@@ -227,21 +284,39 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Harewood Road/Gardiners Road",
-        "WorkType": "Existing project underway",
-        "Description": "Traffic signals installation, intersection and stormwater/water supply pipe upgrades",
-        "StartDate": "Project began November 2025",
-        "ID": 1
+        "ProjectType": "Water project",
+        "StartDate": "May 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.5820588700583,
-            -43.48538721165038
+            172.59867391503576,
+            -43.49237793710555
           ],
           [
-            172.57779333755872,
-            -43.483631364891636
+            172.5991571385767,
+            -43.491728744323815
+          ],
+          [
+            172.5993540074278,
+            -43.49150801718766
+          ],
+          [
+            172.59969405362256,
+            -43.49130676527328
+          ],
+          [
+            172.59944349326918,
+            -43.49114446485326
+          ],
+          [
+            172.59911239565588,
+            -43.490969179909676
+          ],
+          [
+            172.59969405362256,
+            -43.490229082317846
           ]
         ],
         "type": "LineString"
@@ -250,194 +325,101 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Harewood Road",
-        "WorkType": "Transport project",
-        "Description": "Signalised pedestrian crossing installation and water supply pipe upgrades",
-        "StartDate": "Project began November 2025",
-        "ID": 2
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.55951443809687,
-            -43.47931468598882
-          ],
-          [
-            172.56239405150137,
-            -43.479769733827354
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Chapel Street/Harewood Road",
-        "WorkType": "Water project",
-        "StartDate": "April/May 2026",
-        "Description": "Wastewater pipe upgrades",
-        "ID": 5
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60524064526118,
-            -43.492972923831175
-          ],
-          [
-            172.60343563679191,
-            -43.49473274470987
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Condell Ave ",
-        "StartDate": "To be scheduled",
-        "Description": "Street renewals",
-        "ID": 14,
-        "WorkType": "Transport project"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.59994008142996,
-            -43.49973889657458
-          ],
-          [
-            172.6035801812792,
-            -43.50371692175452
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "6c",
-        "Description": "Wastewater pipe upgrades",
-        "StartDate": "April/May 2026",
-        "WorkType": "Water project",
-        "Where": "Matsons Ave"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.60399757824172,
-            -43.49527912288992
-          ],
-          [
-            172.6010294168908,
-            -43.49830800829289
-          ],
-          [
-            172.5991207890442,
-            -43.49894021805563
-          ],
-          [
-            172.59972894439807,
-            -43.499697407721094
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Where": "Wairakei Road",
-        "WorkType": "Water project",
-        "StartDate": "Complete",
-        "Description": "Water supply pipe upgrades",
-        "ID": 15,
+        "ProjectType": "Water project",
+        "StartDate": "January 2026",
         "Complete": "Yes"
       },
       "geometry": {
         "coordinates": [
           [
-            172.57348514126005,
-            -43.49256769048563
+            172.59777968417063,
+            -43.48931196365548
           ],
           [
-            172.57318760903678,
-            -43.49190780621698
+            172.59975779580986,
+            -43.49019511133014
           ],
           [
-            172.57281356852678,
-            -43.49159327940169
+            172.60089901406332,
+            -43.4906458796451
           ],
           [
-            172.5722440068397,
-            -43.49131575438112
+            172.60146962319004,
+            -43.490866662897744
           ],
           [
-            172.57161493871,
-            -43.49121707851117
+            172.60217971454682,
+            -43.49123463319334
           ],
           [
-            172.5706968361451,
-            -43.490526342186755
+            172.60135550136397,
+            -43.49079306856988
           ],
           [
-            172.5677045120649,
-            -43.48916334964932
+            172.60004944047466,
+            -43.49030550388161
           ],
           [
-            172.56720295774386,
-            -43.48905233532802
+            172.59894626282994,
+            -43.489827134701876
           ],
           [
-            172.5660213297685,
-            -43.48907700519505
+            172.60037912574626,
+            -43.48828160837973
+          ],
+          [
+            172.60073417142564,
+            -43.48795961875233
+          ],
+          [
+            172.60108921710497,
+            -43.487628427629794
+          ],
+          [
+            172.60155838460844,
+            -43.48743523196991
+          ],
+          [
+            172.60221775515555,
+            -43.48707643839016
+          ],
+          [
+            172.60324485158282,
+            -43.485972444778895
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
-        "Where": "Morrisons Ave, Langdons Road ",
-        "WorkType": "Water project",
-        "StartDate": "Complete",
-        "Description": "Water supply pipe upgrades",
-        "ID": 3,
-        "Complete": "Yes"
+        "ProjectType": "Water project",
+        "StartDate": "May 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.6033602,
-            -43.4859287
+            172.60320058567527,
+            -43.485833070893534
           ],
           [
-            172.60208896032475,
-            -43.48716605129422
+            172.60180613581412,
+            -43.48515857679562
           ],
           [
-            172.60096899364282,
-            -43.487701368320984
+            172.60088618625304,
+            -43.48479322268117
           ],
           [
-            172.59898166710155,
-            -43.489768977735636
+            172.6007796657783,
+            -43.48463864912158
           ],
           [
-            172.5989228064352,
-            -43.48983805899544
-          ],
-          [
-            172.5977538454199,
-            -43.48929859929597
-          ],
-          [
-            172.60063397249417,
-            -43.49057395367104
+            172.60072156370035,
+            -43.48414682152774
           ]
         ],
         "type": "LineString"
@@ -446,33 +428,51 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Wairakei Road",
-        "WorkType": "Water project",
-        "StartDate": "August 2026",
-        "Description": "Wastewater and water supply pipe upgrades",
-        "ID": "7b"
+        "ProjectType": "Transport project",
+        "StartDate": "Mar 2027",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.59539012753578,
-            -43.5040168124911
+            172.59101197387662,
+            -43.50543210247111
           ],
           [
-            172.5977471448997,
-            -43.50508530693367
+            172.58989867530443,
+            -43.506170370499554
           ],
           [
-            172.59839683558545,
-            -43.505518178787
+            172.58878537673007,
+            -43.506862488575536
           ],
           [
-            172.59897853538297,
-            -43.506674314974234
+            172.5880219719939,
+            -43.507370036787904
           ],
           [
-            172.59929582618184,
-            -43.507200322214175
+            172.5874494184418,
+            -43.507739160079296
+          ],
+          [
+            172.58713133313347,
+            -43.507969860990755
+          ],
+          [
+            172.5864951625215,
+            -43.50817749105694
+          ],
+          [
+            172.58585899190723,
+            -43.50840819029306
+          ],
+          [
+            172.5855090980691,
+            -43.508569679233766
+          ],
+          [
+            172.58525462982288,
+            -43.50896186486156
           ]
         ],
         "type": "LineString"
@@ -481,110 +481,78 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": "7c",
-        "Description": "Wastewater and water supply pipe upgrades",
-        "StartDate": "August 2026",
-        "WorkType": "Water project",
-        "Where": "Wairakei Road"
+        "ProjectType": "Transport project",
+        "StartDate": "May 2026",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.59285921112576,
-            -43.50308986087647
+            172.59936224194678,
+            -43.49898370742019
           ],
           [
-            172.59048115918057,
-            -43.50164224100565
-          ],
-          [
-            172.58820100626286,
-            -43.500563459406486
-          ],
-          [
-            172.58620516335708,
-            -43.49962002361566
-          ],
-          [
-            172.5831009437684,
-            -43.498257552503865
+            172.59993663195434,
+            -43.499620940815085
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
       "properties": {
-        "ID": 15,
-        "WorkType": "Water project",
-        "Description": "Wastewater and water supply pipe upgrades",
-        "StartDate": "March 2027",
-        "Where": "Sawyers Arms Road and Leander Street "
+        "ProjectType": "Transport project",
+        "StartDate": "To be scheduled",
+        "Complete": "No"
       },
       "geometry": {
         "coordinates": [
           [
-            172.61252723630855,
-            -43.48962866192575
+            172.60000618724342,
+            -43.49970793050674
           ],
           [
-            172.61156184390063,
-            -43.49052115381657
-          ],
-          [
-            172.61278099659825,
-            -43.49118150928338
+            172.60348591028065,
+            -43.503559939971204
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
       "properties": {
-        "Where": "Sawyers Arms Road",
-        "WorkType": "Water project",
+        "ProjectType": "Transport project",
         "StartDate": "April/May 2026",
-        "Description": "Water supply update",
-        "ID": 16
+        "Complete": "No"
       },
       "geometry": {
-        "type": "LineString",
         "coordinates": [
           [
-            172.6006849,
-            -43.4842215
+            172.59940638139602,
+            -43.4989210796468
           ],
           [
-            172.6008427,
-            -43.4847539
+            172.6009998897594,
+            -43.49844734386154
           ],
           [
-            172.6026574,
-            -43.4855897
+            172.6011827513762,
+            -43.49837154579136
           ],
           [
-            172.6030834,
-            -43.4851546
+            172.60418690648999,
+            -43.49525426771457
           ],
           [
-            172.6033517,
-            -43.4850573
-          ],
-          [
-            172.604551,
-            -43.485063
-          ],
-          [
-            172.604551,
-            -43.485063
-          ],
-          [
-            172.604551,
-            -43.485063
+            172.6058718456609,
+            -43.496116509664965
           ]
-        ]
+        ],
+        "type": "LineString"
       }
     }
   ]
