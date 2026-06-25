@@ -136,7 +136,7 @@
       "properties": {
         "Where": "Matsons Ave",
         "WorkType": "Transport project",
-        "StartDate": "March/April 2026",
+        "StartDate": "April/May 2026",
         "Description": "Nor’West Arc cycleway construction",
         "ID": "6b"
       },
@@ -275,7 +275,7 @@
       "properties": {
         "Where": "Chapel Street/Harewood Road",
         "WorkType": "Water project",
-        "StartDate": "March/April 2026",
+        "StartDate": "April/May 2026",
         "Description": "Wastewater pipe upgrades",
         "ID": 5
       },
@@ -321,7 +321,7 @@
       "properties": {
         "ID": "6c",
         "Description": "Wastewater pipe upgrades",
-        "StartDate": "March/April 2026",
+        "StartDate": "April/May 2026",
         "WorkType": "Water project",
         "Where": "Matsons Ave"
       },
@@ -352,9 +352,10 @@
       "properties": {
         "Where": "Wairakei Road",
         "WorkType": "Water project",
-        "StartDate": "To be scheduled",
+        "StartDate": "Complete",
         "Description": "Water supply pipe upgrades",
-        "ID": 15
+        "ID": 15,
+        "Complete": "Yes"
       },
       "geometry": {
         "coordinates": [
@@ -401,44 +402,18 @@
     {
       "type": "Feature",
       "properties": {
-        "Where": "Sawyers Arms Road",
-        "StartDate": "March/April 2026",
-        "WorkType": "Water project",
-        "Description": "Water supply update",
-        "ID": 16
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            172.6007298904937,
-            -43.48422317106887
-          ],
-          [
-            172.60084043503394,
-            -43.484723508686166
-          ],
-          [
-            172.60324609477453,
-            -43.48585402727953
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Where": "Morrisons Ave, Langdons Road ",
         "WorkType": "Water project",
-        "StartDate": "January/February 2026",
+        "StartDate": "Complete",
         "Description": "Water supply pipe upgrades",
-        "ID": 3
+        "ID": 3,
+        "Complete": "Yes"
       },
       "geometry": {
         "coordinates": [
           [
-            172.60333149788738,
-            -43.48592800672616
+            172.6033602,
+            -43.4859287
           ],
           [
             172.60208896032475,
@@ -473,7 +448,7 @@
       "properties": {
         "Where": "Wairakei Road",
         "WorkType": "Water project",
-        "StartDate": "June 2026 (estimated)",
+        "StartDate": "August 2026",
         "Description": "Wastewater and water supply pipe upgrades",
         "ID": "7b"
       },
@@ -508,7 +483,7 @@
       "properties": {
         "ID": "7c",
         "Description": "Wastewater and water supply pipe upgrades",
-        "StartDate": "June 2026 (estimated)",
+        "StartDate": "August 2026",
         "WorkType": "Water project",
         "Where": "Wairakei Road"
       },
@@ -563,6 +538,53 @@
           ]
         ],
         "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Where": "Sawyers Arms Road",
+        "WorkType": "Water project",
+        "StartDate": "April/May 2026",
+        "Description": "Water supply update",
+        "ID": 16
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            172.6006849,
+            -43.4842215
+          ],
+          [
+            172.6008427,
+            -43.4847539
+          ],
+          [
+            172.6026574,
+            -43.4855897
+          ],
+          [
+            172.6030834,
+            -43.4851546
+          ],
+          [
+            172.6033517,
+            -43.4850573
+          ],
+          [
+            172.604551,
+            -43.485063
+          ],
+          [
+            172.604551,
+            -43.485063
+          ],
+          [
+            172.604551,
+            -43.485063
+          ]
+        ]
       }
     }
   ]
