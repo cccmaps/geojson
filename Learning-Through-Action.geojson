@@ -429,8 +429,8 @@
         "name": "Park Detectives",
         "site": "Christchurch Botanic Gardens",
         "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "url": "https://ccc.govt.nz/park-detectives",
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka",
         "Cost": "Free"
       }
     },
@@ -800,9 +800,9 @@
         "name": "Park Detectives",
         "site": "Halswell Quarry Park",
         "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
+        "url": "https://ccc.govt.nz/park-detectives",
         "Cost": "Free",
-        "Full name": "Park Detectives - Titeketiwhi Paaka"
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka"
       },
       "geometry": {
         "type": "Point",
@@ -836,8 +836,8 @@
         "name": "Park Detectives",
         "site": "Travis Wetland Reserve",
         "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "url": "https://ccc.govt.nz/park-detectives",
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka",
         "Cost": "Free"
       },
       "geometry": {
@@ -854,8 +854,8 @@
         "name": "Park Detectives",
         "site": "The Groynes",
         "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "url": "https://ccc.govt.nz/park-detectives",
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka",
         "Cost": "Free"
       },
       "geometry": {
@@ -890,8 +890,8 @@
         "site": "Mona Vale",
         "category": "Biodiversity",
         "name": "Park Detectives",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "url": "https://ccc.govt.nz/park-detectives",
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka",
         "Cost": "Free"
       },
       "geometry": {
@@ -944,8 +944,8 @@
         "name": "Park Detectives",
         "site": "Climate Action Campus",
         "category": "Biodiversity",
-        "url": "https://ccc.govt.nz/the-council/learning-resources/learning-through-action/list-of-programmes/park-detectives-titeketiwhi-paaka/",
-        "Full name": "Park Detectives - Titeketiwhi Paaka",
+        "url": "https://ccc.govt.nz/park-detectives",
+        "Full name": "Park Detectives – He whatu kāhū, he tōu tīrairaka",
         "Cost": "Free"
       },
       "geometry": {
