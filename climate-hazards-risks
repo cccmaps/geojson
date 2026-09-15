@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belfast Cemetary",
+        "Risk": "River and rainfall flooding, rising groundwater, and wildfire",
+        "Short summary": "Belfast Cemetery is one of several cemeteries exposed. Flooding and rising groundwater can affect burials and decomposition, and may cause contaminants, such as metals and bacteria, to leach into the environment and water sources. ",
+        "Full summary": "Belfast Cemetery is one of several cemeteries exposed. Flooding and rising groundwater can affect burials and decomposition, and may cause contaminants, such as metals and bacteria, to leach into the environment and water sources. Flooding and wildfire can also damage headstones and paths."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.643865134877,
+          -43.4525414235378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brooklands Lagoon Track and Seafield Park",
+        "Risk": "Coastal flooding, river and rainfall flooding, rising groundwater, tsunami, coastal erosion, and wildfire",
+        "Short summary": "Flooding or tsunami could wash away sections of the track and park, limiting access until repairs can be made. Coastal erosion, wildfire, and rising groundwater could damage vegetation or limit what will grow, lowering the area’s natural character.",
+        "Full summary": "Flooding or tsunami could wash away sections of the track and park, limiting access until repairs can be made. Coastal erosion, wildfire, and rising groundwater could damage vegetation or limit what will grow, lowering the area’s natural character."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.707690718242,
+          -43.408254245977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Open-coast dunes",
+        "Risk": "Coastal erosion, coastal flooding, tsunami, and wildfire",
+        "Short summary": "The dunes act as a natural buffer to reduce the risk of coastal flooding. However, even when dunes are growing, storm events can erode them and reduce their size. ",
+        "Full summary": "The dunes act as a natural buffer to reduce the risk of coastal flooding. However, even when dunes are growing, storm events can erode them and reduce their size. This risk increases as sea levels rise and waves and tides reach further up the beach. Wildfire can also damage the plants that help dunes hold sand, making it harder for them to recover and grow. Along the open coast, areas where dunes are lower or cleared have less protection from coastal hazards, meaning they are at the highest risk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.719444532733,
+          -43.4604761760193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mairehau Road",
+        "Risk": "River and rainfall flooding, rising groundwater, and wildfire",
+        "Short summary": "Mairehau Road is one of many roads at risk from flooding and rising groundwater. Flooding can damage the road surface – especially with heavy vehicle use – leading to more potholes and uneven pavement.",
+        "Full summary": "Mairehau Road is one of many roads at risk from flooding and rising groundwater. Flooding can damage the road surface – especially with heavy vehicle use – leading to more potholes and uneven pavement. As a key transport route, any flooding or maintenance disruptions could affect a large number of people."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.681415265437,
+          -43.48270690145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Horseshoe Lake pump station",
+        "Risk": "River and rainfall flooding, and tsunami ",
+        "Short summary": "This pump station helps move floodwater from Waikākāriki Horseshoe Lake into the Ōtākaro Avon River. As water levels in the Ōtākaro increase due to sea-level rise, the station may not be able to lift the water high enough out of the lake, increasing flood risk for nearby people, homes, and roads.",
+        "Full summary": "This pump station helps move floodwater from Waikākāriki Horseshoe Lake into the Ōtākaro Avon River. As water levels in the Ōtākaro increase due to sea-level rise, the station may not be able to lift the water high enough out of the lake, increasing flood risk for nearby people, homes, and roads."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.676956314408,
+          -43.4953046088197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Estuary Edge Walk",
+        "Risk": "Coastal flooding, river and rainfall flooding, rising groundwater, tsunami, coastal erosion, and wildfire",
+        "Short summary": "The walkway and surrounding green space already suffer damage, such as washouts and broken paths, limiting access to, and enjoyment of, the estuary. With high exposure to multiple climate hazards, this damage is expected to happen more often in the future.",
+        "Full summary": "The walkway and surrounding green space already suffer damage, such as washouts and broken paths, limiting access to, and enjoyment of, the estuary. With high exposure to multiple climate hazards, this damage is expected to happen more often in the future."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73746172123,
+          -43.5372645265365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southshore roads",
+        "Risk": "Coastal flooding, river and rainfall flooding, rising groundwater, tsunami, and wildfire",
+        "Short summary": "As with other low-lying road networks, the Southshore road network is exposed. For example, Rockinghorse Road, the only access route to parts of the Southshore Spit, faces moderate or high risk from many hazards, increasing in severity over the long term.",
+        "Full summary": "As with other low-lying road networks, the Southshore road network is exposed. For example, Rockinghorse Road, the only access route to parts of the Southshore Spit, faces moderate or high risk from many hazards, increasing in severity over the long term. Ongoing damage can reduce road reliability and lead to frequent repairs and access disruption for residents."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.747761346306,
+          -43.5486394860176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southshore Spit reserve",
+        "Risk": "Coastal flooding, rising groundwater, tsunami, and coastal erosion",
+        "Short summary": "Many of these hazards are already happening here. Tides are reaching further inland and groundwater is rising, changing the reserve’s land and vegetation.",
+        "Full summary": "Many of these hazards are already happening here. Tides are reaching further inland and groundwater is rising, changing the reserve’s land and vegetation. Walking tracks and recreation areas are being damaged, reducing how people can access and enjoy the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.752140247481,
+          -43.5577341464221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pages Road Bridge",
+        "Risk": "River and rainfall flooding, coastal flooding, and tsunami",
+        "Short summary": "Because this bridge is part of a key access route, any damage or closure would make it harder to reach New Brighton and nearby areas, or to evacuate during an emergency. ",
+        "Full summary": "Because this bridge is part of a key access route, any damage or closure would make it harder to reach New Brighton and nearby areas, or to evacuate during an emergency. Planned upgrades are already under way to improve resilience and support safer evacuation routes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.721381364128,
+          -43.5092132314776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Avon Park and Kerrs Reach",
+        "Risk": "River and rainfall flooding, rising groundwater, and tsunami",
+        "Short summary": "Because the area is close to the Ōtākaro Avon River and is low lying, it’s at risk of flooding – however, it’s part of the Ōtākaro Avon River Corridor Regeneration Area, where work is under way to improve flood resilience and create new wetland areas.",
+        "Full summary": "Because the area is close to the Ōtākaro Avon River and is low lying, it’s at risk of flooding – however, it’s part of the Ōtākaro Avon River Corridor Regeneration Area, where work is under way to improve flood resilience and create new wetland areas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.679648744953,
+          -43.5184218408304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northern Corridor Shared Pathway",
+        "Risk": "River and rainfall flooding, rising groundwater, and wildfire",
+        "Short summary": "This shared path is highly used for recreation and commuting. These uses could be disrupted as flooding and ponding become more common, or as wildfires lead to damage to the path and surrounding area.",
+        "Full summary": "This shared path is highly used for recreation and commuting. These uses could be disrupted as flooding and ponding become more common, or as wildfires lead to damage to the path and surrounding area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.626892870396,
+          -43.4916974665782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Redwood Library",
+        "Risk": "Rising groundwater",
+        "Short summary": "As with other facilities affected by rising groundwater, damp conditions can damage foundations, walls, floors, and furniture. This can disrupt services and reduce the library’s availability for community events.",
+        "Full summary": "As with other facilities affected by rising groundwater, damp conditions can damage foundations, walls, floors, and furniture. This can disrupt services and reduce the library’s availability for community events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.616828305683,
+          -43.4772765496245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Koukourarata wharf  ",
+        "Risk": "Coastal flooding and tsunami",
+        "Short summary": "This wharf already floods during tidal or storm events. Planning for flooding risks has happened through the 2025 adaptation plan for the Whakaraupō Lyttelton Harbour and Koukourarata Port Levy area. ",
+        "Full summary": "This wharf already floods during tidal or storm events. Planning for flooding risks has happened through the 2025 adaptation plan for the Whakaraupō Lyttelton Harbour and Koukourarata Port Levy area. The approved plan recommends the construction of a new, higher wharf to provide safer access."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.835930598456,
+          -43.6476669765641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pigeon Bay Hall",
+        "Risk": "Wildfire and tsunami",
+        "Short summary": "This hall is one of several exposed to climate hazards across the peninsula. Smoke or ash alone could force temporary closure while cleaning and repairs take place. Direct fire damage or tsunami could result in long-term closure, limiting the community’s ability to hold hui and events.",
+        "Full summary": "This hall is one of several exposed to climate hazards across the peninsula. Smoke or ash alone could force temporary closure while cleaning and repairs take place. Direct fire damage or tsunami could result in long-term closure, limiting the community’s ability to hold hui and events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.898166,
+          -43.686776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Duvauchelle Wastewater Treatment Plant",
+        "Risk": "Landslides and tsunami",
+        "Short summary": "Landslides have already caused parts of the plant to close due to safety concerns. Failure could cause serious environmental harm to nearby land and coastal waters, as well as health, safety, and wellbeing risks to people, and knock-on impacts on tourism and aquaculture.",
+        "Full summary": "Landslides have already caused parts of the plant to close due to safety concerns. Failure could cause serious environmental harm to nearby land and coastal waters, as well as health, safety, and wellbeing risks to people, and knock-on impacts on tourism and aquaculture."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.939287,
+          -43.751766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pipers Valley water intake ",
+        "Risk": "River and rainfall flooding",
+        "Short summary": "This intake supplies water to Duvauchelle and is frequently damaged during heavy rain. Flooding could severely damage the intake, cutting the water off for the whole community. ",
+        "Full summary": "This intake supplies water to Duvauchelle and is frequently damaged during heavy rain. Flooding could severely damage the intake, cutting the water off for the whole community. While we don’t currently have flood modelling for many Banks Peninsula catchments, we know intense rainfall can be damaging in these steep environments."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.95374,
+          -43.726471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Takamatua Bay Road",
+        "Risk": "Coastal erosion, coastal flooding, rising groundwater, and tsunami",
+        "Short summary": "This road is highly exposed because it’s very low lying and close to the ocean. If it fails, about 100 homes could be isolated, with few alternative routes available.",
+        "Full summary": "This road is highly exposed because it’s very low lying and close to the ocean. If it fails, about 100 homes could be isolated, with few alternative routes available."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.964433,
+          -43.785246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akaroa Recreation Ground and Pavilion",
+        "Risk": "Coastal flooding, rising groundwater, and tsunami",
+        "Short summary": "The pavilion, along with the nearby skate park, boat ramp, and sports fields, is exposed to flooding. Flooding could damage buildings and leave the fields too wet for sports and community events. As groundwater rises, flooding may become more frequent and take longer to drain.",
+        "Full summary": "The pavilion, along with the nearby skate park, boat ramp, and sports fields, is exposed to flooding. Flooding could damage buildings and leave the fields too wet for sports and community events. As groundwater rises, flooding may become more frequent and take longer to drain. Regular exposure to saltwater can also cause rust and corrosion to structures and foundations, and may stop grass from growing on the fields. Tsunami could also cause wide-spread damage here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.96853,
+          -43.801924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rue Balguerie playground and park",
+        "Risk": "Coastal erosion, coastal flooding, and tsunami",
+        "Short summary": "If the seawall failed, erosion would damage the coastal track and parkland. Flooding and debris could contaminate the playground areas, needing clean up before the park could be used again. ",
+        "Full summary": "If the seawall failed, erosion would damage the coastal track and parkland. Flooding and debris could contaminate the playground areas, needing clean up before the park could be used again. Frequent saltwater exposure could also cause ongoing damage through rust and corrosion, and may stop grass from growing in the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.96607,
+          -43.804966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Akaroa Anglican Cemetery, and Garden of Tāne",
+        "Risk": "River and rainfall flooding, and wildfire",
+        "Short summary": "While we don’t currently have flood modelling for many Banks Peninsula catchments, we know intense rainfall can be disruptive and damaging in these steep environments. Fire could also damage headstones, paths, trees, and play equipment. Loss of mature trees would significantly change the character of the Garden of Tāne.",
+        "Full summary": "While we don’t currently have flood modelling for many Banks Peninsula catchments, we know intense rainfall can be disruptive and damaging in these steep environments. Fire could also damage headstones, paths, trees, and play equipment. Loss of mature trees would significantly change the character of the Garden of Tāne."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.95642,
+          -43.813398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wainui boat ramp",
+        "Risk": "Coastal flooding, coastal erosion, and tsunami",
+        "Short summary": "The ramp and the access road are at risk from flooding and erosion. Damage could greatly reduce access to the water, for both residents and visitors. Many other boat ramps around the peninsula face similar risks.",
+        "Full summary": "The ramp and the access road are at risk from flooding and erosion. Damage could greatly reduce access to the water, for both residents and visitors. Many other boat ramps around the peninsula face similar risks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.90377,
+          -43.818151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reynolds Valley Bridge",
+        "Risk": "Landslides and wildfire",
+        "Short summary": "This bridge is a key link between Little River, the south western bays, and Wainui. Landslides or wildfire could seriously damage it, cutting access or requiring long detours. As experienced in the past, several bridges across the peninsula face similar risks from landslides, flooding, and wildfire.",
+        "Full summary": "This bridge is a key link between Little River, the south western bays, and Wainui. Landslides or wildfire could seriously damage it, cutting access or requiring long detours. As experienced in the past, several bridges across the peninsula face similar risks from landslides, flooding, and wildfire. Bridges on roads that provide the only access to communities are especially concerning, as closures could leave residents isolated."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.839316,
+          -43.797097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "State Highway 75",
+        "Risk": "River and rainfall flooding,\r\nlandslides, and wildfire",
+        "Short summary": "Many roads on the peninsula are exposed to climate hazards. State Highway 75, managed by Waka Kotahi, has already been closed several times in recent years. Road closures – whether temporary or long term – are likely to be a major challenge, as they can isolate communities.",
+        "Full summary": "Many roads on the peninsula are exposed to climate hazards. State Highway 75, managed by Waka Kotahi, has already been closed several times in recent years. Road closures – whether temporary or long term – are likely to be a major challenge, as they can isolate communities."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.819484,
+          -43.751113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kyle Park",
+        "Risk": "River and rainfall flooding, and wildfire",
+        "Short summary": "Flooding could leave sports fields too wet to use. It may also leave debris or contamination, forcing parks, facilities, and access routes to close for extended periods while clean-up and repairs are carried out.",
+        "Full summary": "Flooding could leave sports fields too wet to use. It may also leave debris or contamination, forcing parks, facilities, and access routes to close for extended periods while clean-up and repairs are carried out."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.521854,
+          -43.539983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spreydon Library",
+        "Risk": "Rising groundwater",
+        "Short summary": "The library is one of many buildings exposed to rising groundwater. Over time, moisture can damage foundations, walls, floors, and furniture. ",
+        "Full summary": "The library is one of many buildings exposed to rising groundwater. Over time, moisture can damage foundations, walls, floors, and furniture. This could disrupt library services and reduce the library’s ability to host community activities and events."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.618221,
+          -43.556276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sydenham Cemetery",
+        "Risk": "Rising groundwater",
+        "Short summary": "Sydenham Cemetery is one of several cemeteries at risk. Rising groundwater can affect burials and decomposition and may allow contaminants, like metals and bacteria, to leach into the environment and water sources.",
+        "Full summary": "Sydenham Cemetery is one of several cemeteries at risk. Rising groundwater can affect burials and decomposition and may allow contaminants, like metals and bacteria, to leach into the environment and water sources."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.625416,
+          -43.558053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beckenham Park",
+        "Risk": "River and rainfall flooding, and rising groundwater",
+        "Short summary": "The park is often slow to dry after heavy rain and can partly flood from the Ōpāwaho Heathcote River. This can limit use of sports fields, particularly in winter, and increase maintenance needs for nearby club facilities.",
+        "Full summary": "The park is often slow to dry after heavy rain and can partly flood from the Ōpāwaho Heathcote River. This can limit use of sports fields, particularly in winter, and increase maintenance needs for nearby club facilities."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.64597,
+          -43.561727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Main Road",
+        "Risk": "Coastal erosion, landslides, coastal flooding, and tsunami",
+        "Short summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. ",
+        "Full summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. Long detours may be needed for extended periods."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.647389,
+          -43.62491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sumner stormwater outfalls",
+        "Risk": "Coastal flooding",
+        "Short summary": "These outfalls help drain stormwater from behind the Sumner promenade to the ocean. Sea-level rise and sand build-up can block drainage, resulting in the flooding of streets, businesses, and homes during heavy rain.",
+        "Full summary": "These outfalls help drain stormwater from behind the Sumner promenade to the ocean. Sea-level rise and sand build-up can block drainage, resulting in the flooding of streets, businesses, and homes during heavy rain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.759817,
+          -43.566056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Godley Head",
+        "Risk": " Landslides and wildfire",
+        "Short summary": "Wildfires and landslides can damage tracks, block access, damage vegetation, and reduce the overall enjoyment of our parks. Major repairs are often needed to enjoy these spaces safely again after an event.",
+        "Full summary": "Wildfires and landslides can damage tracks, block access, damage vegetation, and reduce the overall enjoyment of our parks. Major repairs are often needed to enjoy these spaces safely again after an event."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.774564,
+          -43.584678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ferrymead Park",
+        "Risk": "Coastal flooding, river and rainfall flooding, rising groundwater, tsunami, and wildfire",
+        "Short summary": "Due to its low-lying location close to the Ōpāwaho Heathcote River mouth, the park is one of several at risk of flooding from a variety of sources, as well as wildfire. Walking tracks and recreation areas could be closed more often or damaged, reducing how people can access and enjoy the area.",
+        "Full summary": "Due to its low-lying location close to the Ōpāwaho Heathcote River mouth, the park is one of several at risk of flooding from a variety of sources, as well as wildfire. Walking tracks and recreation areas could be closed more often or damaged, reducing how people can access and enjoy the area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.706777,
+          -43.567606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dyers Pass Road",
+        "Risk": "Landslides and wildfire",
+        "Short summary": "These hazards can pose a risk to life and disrupt road access to Ngā Kohatu Whakarakaraka o Tamatea Pōkai Whenua Port Hills. As a key route to Summit Road, Governors Bay, and the rest of Whakaraupō Lyttelton Harbour, closures would mean long detours.",
+        "Full summary": "These hazards can pose a risk to life and disrupt road access to Ngā Kohatu Whakarakaraka o Tamatea Pōkai Whenua Port Hills. As a key route to Summit Road, Governors Bay, and the rest of Whakaraupō Lyttelton Harbour, closures would mean long detours."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.642252,
+          -43.594319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Te Kuru wetlands and walkways",
+        "Risk": "River and rainfall flooding, rising groundwater, and wildfire",
+        "Short summary": "The wetlands, paths, and open spaces are designed to flood during heavy rain. Storing stormwater helps reduce flooding of homes further downstream but also temporarily limits the use of these areas. ",
+        "Full summary": "The wetlands, paths, and open spaces are designed to flood during heavy rain. Storing stormwater helps reduce flooding of homes further downstream but also temporarily limits the use of these areas. While wetlands provide mutual benefits of flood management and recreation, they also provide fuel for wildfire."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.589491,
+          -43.585363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dunbars Road pump station",
+        "Risk": "River and rainfall flooding, rising groundwater, and wildfire",
+        "Short summary": "This pump station supplies drinking water to the Hornby and Halswell areas and is one of several at risk. It was flooded during heavy rain in 2025, causing damage, shutdown, and costly repairs. Wildfire could also cause damage to the pump controls and electrics. ",
+        "Full summary": "This pump station supplies drinking water to the Hornby and Halswell areas and is one of several at risk. It was flooded during heavy rain in 2025, causing damage, shutdown, and costly repairs. Wildfire could also cause damage to the pump controls and electrics. If the station failed, water supply may be disrupted, affecting basic household needs like drinking, cooking, washing, and toilet use."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.571567,
+          -43.570827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sparks and Hendersons roads",
+        "Risk": "River and rainfall flooding, and rising groundwater",
+        "Short summary": "Flooding in this area already causes road closures and traffic disruption, and this is likely to worsen. Floodwater can damage road surfaces - especially with heavy vehicle use – leading to more potholes and uneven pavement. ",
+        "Full summary": "Flooding in this area already causes road closures and traffic disruption, and this is likely to worsen. Floodwater can damage road surfaces - especially with heavy vehicle use – leading to more potholes and uneven pavement. These disruptions affect cars, buses, cyclists, and pedestrians travelling between south Ōtautahi Christchurch and Halswell."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.59038,
+          -43.57011
+        ]
+      }
+    }
+  ]
+}
