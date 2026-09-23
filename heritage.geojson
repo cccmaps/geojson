@@ -1151,6 +1151,37 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Sunnyside Heritage Garden Fountain",
+        "Type": "Fountain",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/fountains",
+        "geometry": "Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5936001,
+          -43.5521478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Falconer Fountain",
+        "Type": "Fountain",
+        "URL": "/culture-and-community/heritage/heritage-in-the-city/fountains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.6080853708816,
+          -43.5235596702427
+        ]
+      }
     }
   ]
 }
