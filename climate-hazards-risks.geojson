@@ -436,22 +436,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Main Road",
-        "Risk": "Coastal erosion, landslides, coastal flooding, and tsunami",
-        "Short summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. ",
-        "Full summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. Long detours may be needed for extended periods."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          172.647389,
-          -43.62491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Sumner stormwater outfalls",
         "Risk": "Coastal flooding",
         "Short summary": "These outfalls help drain stormwater from behind the Sumner promenade to the ocean. Sea-level rise and sand build-up can block drainage, resulting in the flooding of streets, businesses, and homes during heavy rain.",
@@ -558,6 +542,22 @@
         "coordinates": [
           172.59038,
           -43.57011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Main Road",
+        "Risk": "Coastal erosion, landslides, coastal flooding, and tsunami",
+        "Short summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. ",
+        "Full summary": "The road and nearby coastal pathway are highly exposed because they sit between steep hills and the ocean. Damage or closures could severely limit access to places like Sumner and Te Onepoto Taylors Mistake, or make emergency evacuations more difficult. Long detours may be needed for extended periods."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.7437323,
+          -43.565987
         ]
       }
     }
